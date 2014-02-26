@@ -1,0 +1,3796 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=b58a740badbd173aee25c10a673ad245&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=12214&amp;page=5";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="intelligence, intelligent, design, evolutionary, evolution, question, strand, patterns, existence, characters, measurement, feature, random, problem, intermediate, sequence, practical, billion, perfectly, meaning, theory, equivalent, finding, assuming, structure, mutation, target, statistically, mutations, higher, biological, exist, intermediates, measured, answer, imagine, instance, agent, presumption, permutations, sequences, email, utterly, enable, argument, chicken, represents, number, wrong, longer" name="keywords"/>
+  <meta content="I had what I consider an interesting idea the other day - although of course your mileage may vary. I've posted it on a couple of pro-ID forums, attracting views but no replies. Obviously no significance can be attached to that, but it does rather leave me with nobody to talk to. So I'll post it here. 
+ 
+By way of a preface, here is Intelligent Design Theory's premise in a nutshell: 
+ 
+1. We know there is such a thing as intelligent design: we do it ourselves. 
+ 
+2. Scientists should always" name="description"/>
+  <title>
+   Intelligent Design's Black Box - Page 5
+  </title>
+  <link href="showthread.php?t=12214&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=b58a740badbd173aee25c10a673ad245" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=b58a740badbd173aee25c10a673ad245" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=b58a740badbd173aee25c10a673ad245&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=b58a740badbd173aee25c10a673ad245">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=b58a740badbd173aee25c10a673ad245">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=b58a740badbd173aee25c10a673ad245">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=b58a740badbd173aee25c10a673ad245">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=b58a740badbd173aee25c10a673ad245">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=b58a740badbd173aee25c10a673ad245&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=b58a740badbd173aee25c10a673ad245">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=b58a740badbd173aee25c10a673ad245">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=b58a740badbd173aee25c10a673ad245">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Intelligent Design's Black Box
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=b58a740badbd173aee25c10a673ad245&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="12214"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 5 of 12
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 166">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 46 to 60 of 166">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 166">
+        3
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 46 to 60 of 166">
+        4
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 61 to 75 of 166">
+        5
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 76 to 90 of 166">
+        6
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 91 to 105 of 166">
+        7
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 76 to 90 of 166">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;page=12&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 166 to 166 of 166">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 61 to 75 of 166
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=12214&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Reload this Page">
+       Intelligent Design's Black Box
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=b58a740badbd173aee25c10a673ad245&amp;t=12214&amp;pp=15&amp;page=5" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=b58a740badbd173aee25c10a673ad245&amp;do=sendtofriend&amp;t=12214" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245&amp;do=addsubscription&amp;t=12214" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="12214"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="5"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 12214);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342040&amp;mode=threaded#post342040">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_342040">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           01:08 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342040#post342040" name="post342040">
+          #61
+         </a>
+         <a id="postcount342040" name="61">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_342040">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                pandion
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341965#post341965" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               That's a fact! Evolution isn't an agent or a mechanism. It is an observation. Organisms have changed through the ages and are still being observed to change in response to their environment.
+              </div>
+             </div>
+            </div>
+           </div>
+           Thank-you, Pandion, for supporting me on this point.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Thus, mechanisms like mutation, gene flow, recombination (non-random mating), natural selection, sexual selection, genetic drift, biased variation, and movable elements have been observed to effect changes in the genetic makeup of populations over time. And that is evolution.
+             </div>
+            </div>
+           </div>
+           <br/>
+           But, I'm not sure that I'd define 'evolution' as "changes in the genetic makeup of populations over time". That's just too gene-centric for my tastes.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              But evolution doesn't "do" anything. The word "evolution" is applied to the definition of events that constitute evolution (a change in the allele frequency of populations of organisms over generations),
+             </div>
+            </div>
+           </div>
+           Again, the gene-centric definition of evolution that just does not work for me.
+           <br/>
+           For me, evolution is about changes in the actual forms that express life, not a head count of which DNA molecules reside where.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              observations of events that fit the definition, and theories that explain the events.
+             </div>
+            </div>
+           </div>
+           The only empirical observations that comply with that definition are genome mappings.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Then you haven't looked. You haven't read Darwin, since that is one of the basic points he pointed out 150 years ago based on the evidence he observed.
+             </div>
+            </div>
+           </div>
+           Actually, Darwin knew nothing about genes, and had no understanding of the genetic theory of inheritance. All that Darwin obderverd, and all that we can observe with the naked eye, is that within any group of like organisms, even one as limited as a human family, very minor trait variations always, and very serious trait variations occasionally, occur. He, like ourselves, seem,s to have noted that whenever serious, robust trait variations do occur, that they are always debilitating, often fatal. To get around this fact, his theory supposed that tiny variations could accrue to one another over time, the environment permitting, until finally one population had accrued such a large accumulation of trait differences that it could be distinguished from another population of organisms that had not accrued and expressed those changes.
+           <br/>
+           And that is basically all that Darwin had to say about that, based upon his empirical observations. The trouble was, that hypothesis depended upon the belief that all possible trait variations of every kind pre-existed their expression, and that what an organism was, was what what was left over after all the unused and unwanted trait variations had been eliminated. Sort of like saying that a statue is what's left after all the unwanted marble has been cut away ["selected"], or that a house is what's left after you had finished picking out what you liked from a pile of building materials,-- planks, bricks, nails, glass panes, and whatnot. For some notion of just where and how those building materials originated he turned to other people's early ideas, and called them his theory of  'pangenesis'.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              We observe a great deal of genetic diversity in most organisms. Even humans, a species of quite limited genetic diversity due to a population bottleneck a couple hundred thousand years ago, carry an average of 14 alleles for every gene in the genome.
+             </div>
+            </div>
+           </div>
+           I've never understood the notion of 'alleles', wherebye, I'm told, the exact same DNA molecule can somehow express itself in a variety of different fashions. No doubt I'm misunderstanding something about that, since it does not seem very mechanical to me. Almost as if molecules were being understood to have minds of their own.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342040" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342040" id="qrwq_342040" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342040" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342053">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           02:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342053#post342053" name="post342053">
+          #62
+         </a>
+         <a id="postcount342053" name="62">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342053">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342040#post342040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I'm not sure that I'd define 'evolution' as "changes in the genetic makeup of populations over time". That's just too gene-centric for my tastes. ...
+               <br/>
+               <br/>
+               Again, the gene-centric definition of evolution that just does not work for me.
+               <br/>
+               For me, evolution is about changes in the actual forms that express life, not a head count of which DNA molecules reside where.
+              </div>
+             </div>
+            </div>
+           </div>
+           I'm not a biologist, but "changes in the genetic makeup of populations over time" is how biologists use the term. Individual organisms do not evolve. Populations do.
+           <br/>
+           <br/>
+           As to "changes in the actual forms that express life," it sounds like what you're talking about is changes to organisms'
+           <i>
+            phenotypes
+           </i>
+           , and even perhaps just to their observable anatomy. But changes to
+           <i>
+            genotypes
+           </i>
+           underlie changes to phenotypes.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The only empirical observations that comply with that definition are genome mappings.
+             </div>
+            </div>
+           </div>
+           Not true! Phenotypes change precisely
+           <i>
+            because
+           </i>
+           genotypes change.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Actually, Darwin knew nothing about genes, and had no understanding of the genetic theory of inheritance. All that Darwin obderverd, and all that we can observe with the naked eye, is that within any group of like organisms, even one as limited as a human family, very minor trait variations always, and very serious trait variations occasionally, occur.
+             </div>
+            </div>
+           </div>
+           True, on all accounts. But science is not limited to explanations in terms of "what we can observe with the naked eye!"
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              He, like ourselves, seem,s to have noted that whenever serious, robust trait variations do occur, that they are always debilitating, often fatal. To get around this fact, his theory supposed that tiny variations could accrue to one another over time, the environment permitting, until finally one population had accrued such a large accumulation of trait differences that it could be distinguished from another population of organisms that had not accrued and expressed those changes. And that is basically all that Darwin had to say about that, based upon his empirical observations.
+             </div>
+            </div>
+           </div>
+           Indeed. But guess what? Modern genetics has corroborated the idea, in ways that aren't always visible, and that Darwin could never have dreamed of.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The trouble was, that hypothesis depended upon the belief that all possible trait variations of every kind pre-existed their expression, and that what an organism was, was what what was left over after all the unused and unwanted trait variations had been eliminated. Sort of like saying that a statue is what's left after all the unwanted marble has been cut away ["selected"], or that a house is what's left after you had finished picking out what you liked from a pile of building materials,-- planks, bricks, nails, glass panes, and whatnot. For some notion of just where and how those building materials originated he turned to other people's early ideas, and called them his theory of  'pangenesis'.
+             </div>
+            </div>
+           </div>
+           I'm sorry, but you totally lost me here. How does the hypothesis depend on all possible trait variations pre-existing their expression? I don't think I've ever seen that said or even implied. It sounds far too Platonist for an empirical science. Could you clarify?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I've never understood the notion of 'alleles', wherebye, I'm told, the exact same DNA molecule can somehow express itself in a variety of different fashions. No doubt I'm misunderstanding something about that, since it does not seem very mechanical to me. Almost as if molecules were being understood to have minds of their own.
+             </div>
+            </div>
+           </div>
+           If two individuals differ in a given allele, then at that point in their DNA, the molecules are precisely
+           <i>
+            not
+           </i>
+           the same! The coding sequences are different, and they thus get expressed differently, and they therefore produce different phenotypic effects.
+           <br/>
+           <br/>
+           On the other hand, even the same allele doesn't work similarly under all conditions. Your own DNA is the same in every cell in your body, but fortunately, not every portion of it is active in every cell. Those genes encoding, say, muscle proteins aren't active in your brain cells -- which is fortunate, or we wouldn't be having this discussion! The process of gene expression is controlled chemically, via mechanisms that biologists are only beginning to understand. But they are beginning to understand them -- and they still haven't found it necessary to invoke final causes to do it! The process is chemistry, all the way down.
+           <br/>
+           <br/>
+           I'm not going to pretend to be an expert. But there are lots of readable sources out there for this stuff. Check out Sean Carroll's
+           <i>
+            Endless Forms Most Beautiful
+           </i>
+           or
+           <i>
+            The Making of the Fittest
+           </i>
+           .
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342053" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342053" id="qrwq_342053" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342053" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342055">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           02:38 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342055#post342055" name="post342055">
+          #63
+         </a>
+         <a id="postcount342055" name="63">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342055">
+          <blockquote class="postcontent restore">
+           I should add that if my understanding of things is wrong, I do hope that the biologists on the board will do me the favor of correcting me!
+           <br/>
+           <br/>
+           As I said, I'm no expert. Just a very interested layman.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342055" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342055" id="qrwq_342055" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342055" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342058">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           02:49 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342058#post342058" name="post342058">
+          #64
+         </a>
+         <a id="postcount342058" name="64">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342058">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341997#post341997" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <br/>
+               I couldn't agree more. So when, for instance, a mutation in bacterial DNA is demonstrably both necessary and sufficient for a replication-improving trait to manifest, when the chemical activity of the novel enzyme (for instance) deterministically generated from that DNA can be traced to its effect upon organismic fitness,
+               <i>
+                and
+               </i>
+               the mutation demonstrably arises stochastically prior to the bacterium encountering the environment in which the mutation improves replication,
+              </div>
+             </div>
+            </div>
+           </div>
+           And there's your problem. Even according to your own theory it should be fallacious to suppose that just because any individual or any particular population has never encountered such an environment, that they have not inherited a mechanism from their ancestors who had already, and perhaps millions of times, encountered and devised a mechanism to deal with that very problem. A mechanism that could hold a certain enzyme action in abeyance until such time as it was necessary to release it again, even if that mechanism was a genetic 'allele' or whatever. If the problem environment can be shown, or even supposed, to be one that has come and gone repeatedly over million, billions, trillions, of bacteria generations, there is no reason to suppose that any given population of same has to rely on random chance, a lucky genetic mutation, to stochastically 're-invent the wheel' for the gazillioneth time. That is, no reason to suppose such a thing unless you really, really want such a phenomenon to be purely accidental.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              it would violate Ockham's Razor to suppose the existence of some unknown teleological mechanism at work, based solely on an a priori philosophical assumption that only teleological processes can increase the replication chances of complex systems. Simpler by far to acknowledge the sufficiency of what we see before us to explain the phenomenon, and discard the erroneous philosophical assumption.
+             </div>
+            </div>
+           </div>
+           It seems top me that I am not the one who is making erroneous a priori philosophical assumptions that 'violate' Ockham's razor. I think that is the one who assumes a regular, repeatable, predictable, but totally random, utterly stochastic, brand new, disassociated set of two [on/off] genetic mutations. I wouild say that such an appeal to such dependably iterated good luck not only would offend Ockham, but common sense as well. It smacks of superstition, to me.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Population fluctuations in absolute terms can, as you say, occur for many reasons. But fluctuations in the relative
+              <i>
+               proportions
+              </i>
+              of variants comprising that population are influenced by what you would call the relative 'fitness' of those variants in their environment. And those fluctuations in turn inevitably influence the relative chances of future changes stacking with the different variants already in existence. If there are a lot of variant A and only a few of variant B, the chances of a later change stacking with A is much greater than that of it stacking with B.
+             </div>
+            </div>
+           </div>
+           <br/>
+           This word, 'stacking', although quite familiar to me, seems to used by you in a sense that to me is entirely unfamiliar. Could you outline your novel use of this word, and explain just exactly what it means in terms of DNA molecules
+           <br/>
+           and expressed organic traits? Is this just another way of re-stating the old Darwinian thesis tiny differences accumulate steadily over generations until one day you look around and discover that a great big difference/change occurred without Natural Selection having noticed? Or any real prompting from the environment. Just incessant 'change for change sake' owing to long periods of isolated self-replication?
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              So if a change - random or telic - empirically improves the relative statistical chance of self-replication, that mutant will inevitably come to numerically dominate the population. Agreed?
+             </div>
+            </div>
+           </div>
+           It is tautologous to say that a positive change in life form will lead to a positive gain in self-replication. Since all tautologies are truisms, I can hardly argue the point.
+           <br/>
+           <br/>
+           However, I can argue that relative frequency, speed, efficiency, and specificity by which a change in life forms arise in relation to a novel environmental difference which makes that change 'positive', as opposed to neutral [ineffective] or negative [detrimental] can give reasonable grounds to awarding the accomplishment to some intentional agency rather than a great streak of amazing luck.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If you take the position that 'adaptive' implies teleology
+              <i>
+               by definition,
+              </i>
+              then obviously an ateleological but adaptive process is a semantic contradiction. It doesn't stop a process of ateleological self-replication improvement occurring, it just means we can't call it adaptive.
+             </div>
+            </div>
+           </div>
+           Fine. I'll continue to assert that evolution is a process of organismic adaptation to random environmental change, and you can stop using the word 'adaptive', or any of its cognates, or synonyms,  wrt evolution. Darwin must be rolling over in his grave, but he's dead, so that's his problem.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Now
+              <i>
+               personally
+              </i>
+              , I'm comfortable with saying 'ateleological adaptation', because to me that describes something that has the same
+              <i>
+               effect
+              </i>
+              as adaptation, but isn't telic.
+             </div>
+            </div>
+           </div>
+           And my problem with you, all along, is your incredibly cavalier attitude towards words and their true meanings. Reminds me very much, if you'll forgive my saying so, of just what Humpty Dumpty said to Alice in Lewis Carroll's satirical 'children's' book.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Since semantics do not define objective truth, I don't see why putting those two words together should make me automatically wrong. 'Ateleological' is just a qualifier.
+             </div>
+            </div>
+           </div>
+           Semantics refer to truth in word meanings, where two or more communicaters
+           <br/>
+           use the same terminology, what is 'true' for one must be 'true' for the other, or the word usage simply is not true at all. And, what Mr. Dumpty said notwithstanding, there is no legitimate way that one person, or select group of persons, can unilaterally and arbitrarily impose a new meaning on a word without the express consent of all others with whom they use that word in any act of communication, because when they do this, they speak falsely, deceptively, mendaciously, and do no more than corrupt meaning to serve their own purposes.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The same goes for 'natural selection', a phrase chosen at the time for the express purpose of leading the reader from a concept they're comfortable and familiar with (livestock breeding) and showing them how the rigours of the environment result in an analogous
+              <i>
+               effect
+              </i>
+              , even if the actual process lacks the telic qualities implied by 'selection'.
+             </div>
+            </div>
+           </div>
+           Sounds like 'politics as usual' to me.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              As I've said all along, self-replication with variation is an utterly unique special case, the
+              <i>
+               only
+              </i>
+              situation in which statistically rare improvements can accumulate, and statistically common neutral or deleterious changes abate, without the interference of a telic entity.
+             </div>
+            </div>
+           </div>
+           This is a flagrant example of 'special pleading'. I can't remember the exact names of the logical fallacies it falls under.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It's hardly surprising that it's difficult to find appropriate words, when the words we have were defined in ignorance of that one special case.
+             </div>
+            </div>
+           </div>
+           What special case?!? LIFE? Life was around long before language was invented.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I know there is much, much more to evolution than mutation and differential reproductive rates. There are two reasons I focus on those elements here and now. First, their combined effectiveness is relatively straightforward to demonstrate, using asexually reproducing bacteria.
+             </div>
+            </div>
+           </div>
+           Which might be convincing if you could demonstrate it just as easily using other life forms. Another 'special case' for 'special pleading', it sounds like to me. Exceptions are not the foundations for the rule.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I neither deny teleology per se, nor do I claim adaptation has no role in evolutionary biology.
+             </div>
+            </div>
+           </div>
+           Well, up to this moment, it has seemed to me that that is exactly what you were doing, in both cases.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What I'm saying is that whatever effect they have it is
+              <i>
+               inevitably
+              </i>
+              layered atop known ateleological effects. Do you appreciate the distinction?
+             </div>
+            </div>
+           </div>
+           I appreciate the fact that if I wish to drink a glass of beer I need the beer, a hand an elbow, a throat and stomach, among other physical things. I also require thirst, taste, satisfaction, and a lot of other stuff that I would not have were I not also alive, and acting teleologically.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Ateleological processes that improve an organism's fitness will continue to blindly operate regardless of whether or not the organism itself is telic. There is no all or nothing dichotomy.
+             </div>
+            </div>
+           </div>
+           Try telling that to a dead organism.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342058" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342058" id="qrwq_342058" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342058" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342060">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           03:01 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342060#post342060" name="post342060">
+          #65
+         </a>
+         <a id="postcount342060" name="65">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=10012&amp;s=b58a740badbd173aee25c10a673ad245" title="Penfold is offline">
+          <img alt="Penfold's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=10012&amp;dateline=1250332066"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=10012&amp;s=b58a740badbd173aee25c10a673ad245" title="Penfold is offline">
+            <strong>
+             Penfold
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=10012&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=10012&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Penfold is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,854
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342060">
+          <blockquote class="postcontent restore">
+           A "dead organism" lacks an obvious quality which defines it as an organism. The state of being alive.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          " ... It's not as though he proved anything, he only refuted my evidence. ..." Archangel 04.01.09
+          <br/>
+          <br/>
+          "Obama is not a brown-skinned anti-war socialist who gives away free healthcare. You're thinking of Jesus."
+          <br/>
+          <br/>
+          “Probably the toughest time in anyone's life is when you have to murder a loved one because they're the devil.”
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342060" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342060" id="qrwq_342060" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342060" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342070">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           04:01 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342070#post342070" name="post342070">
+          #66
+         </a>
+         <a id="postcount342070" name="66">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342070">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342010#post342010" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Your mistake is to assume that adaptations require teleological explanations.
+              </div>
+             </div>
+            </div>
+           </div>
+           Why is that a mistake, rather than an obvious fact?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              For while Darwin did indeed believe that evolution is an adaptive process, his entire point was to account for adaptations without invoking final causes.
+             </div>
+            </div>
+           </div>
+           Perhaps, but in that, he failed. He did, perhaps, show that there are no ultimate final causes, and if he did, then quite possibly he was right, and there are no ultimate final causes. But he did nothing to prove the non-existence of proximate and temporal final causes, and if you believe, as I do, that evolution is a process by which solutions are found to proximate, temporal, problems relative to time and space,  and not some ultimate, fundamental, elemental problem, then you cannot call anything adaptive that _is not_ looking for, teleologically seeking, that proximate solution to that immediate problem. Nor can you call anything that _is_ doing that, non-adaptive.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And the need for such an account arises from the fact that adaptations do
+              <i>
+               not
+              </i>
+              appear in response to the needs of the species in which they might appear.
+             </div>
+            </div>
+           </div>
+           And the problem with that is, that they do. Ask any infectious bacterium about antibiotic resistance.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Now, I do not doubt for one second that these birds
+              <i>
+               wanted
+              </i>
+              to survive and reproduce. I have no doubt that doing so was some sort of "purpose" or "goal" of theirs, perhaps even an "intention" or a "drive." But none of that
+              <i>
+               caused
+              </i>
+              them to adapt to the new predator in their midst.
+             </div>
+            </div>
+           </div>
+           Nowhere is it claimed that any organism can adapt to any situation in which it finds its. Heck, the dodo and the dinosaur have already told us that much.
+           <br/>
+           But failure to solve to solve one problem or another is not proof that an intrinsic ability to solve some  problems does not exist. It is certainly not proof that adaptation and evolution are matters of chance accident, lucky happenstance, a coincidental conjunction of genetic mutation and organismic need.
+           <br/>
+           <br/>
+           It merely points up the reality that teleology is not magic. Some things it can fix, some things it can't. Lucky chance, however, seldom fixes anything, so if I'm putting money on a race, teleology versus luck, my money is always on teleology.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              First, there was no final cause that compelled the birds to adapt.
+             </div>
+            </div>
+           </div>
+           Yes, there was--survival. They were compelled, but unable to comply. They could find no way to adapt to the snakes, just as the dodo could find no way to adapt to 18th century sailors, and so, they are gone. Just like 90% of all the species that ever walked the earth. Having a final cause, and failing to achieve it, are two different things. Just ask any would-be affluent child who had to drop out of medical school and take up truck driving.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              (And it's worth keeping in mind that real cases of successful adaptation get explained this way all the time, from the coloration of guppies in the presence or absence of predators to the pesticide resistance of insects.)
+             </div>
+            </div>
+           </div>
+           Beware the seductive rationalization posing as an honest and true explanation.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What purpose is served by being hung up on the
+              <i>
+               name
+              </i>
+              of "natural
+              <i>
+               selection
+              </i>
+              ?" The process by which adaptations develop --
+              <i>
+               or fail to develop
+              </i>
+              , incidentally -- can still be still be described ateleologically, and is in fact best described ateleologically. We could call it "natural separation" or even "flurbation." A rose by any other name.
+             </div>
+            </div>
+           </div>
+           If you think you can, then why don't you? Thise is not a case a case of 'a rose by any other name'. This is a case of two very different plants being called by a name that is only appropriate, legitimate, and true of one of them.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Why does using evolution as the subject of a sentence reify it?
+             </div>
+            </div>
+           </div>
+           It's not so much the reification as the anthropomorphization that botheres me, because in this instance using 'evolution' as the subject makes it out to be its own cause. Evolution is responsible for evolution. Evolution is what evolution does. And so on and so forth. That eliminates the need to find any real cause for evolution.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Truth matters to me, too, you know.
+             </div>
+            </div>
+           </div>
+           I'm sure that it matters to all of us, or we wouldn't bother talking about ideas and reality, instead of playing video games and eating snacks. Speaking of which, I feel motivated, teleologically speaking, to go grab a bite.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342070" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342070" id="qrwq_342070" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342070" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342088">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           06:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342088#post342088" name="post342088">
+          #67
+         </a>
+         <a id="postcount342088" name="67">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245" title="The Barbarian is offline">
+          <img alt="The Barbarian's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=538&amp;dateline=1230314979"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245" title="The Barbarian is offline">
+            <strong>
+             The Barbarian
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=538&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="The Barbarian is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gangster of Four
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           238
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342088">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I've never understood the notion of 'alleles', wherebye, I'm told, the exact same DNA molecule can somehow express itself in a variety of different fashions. No doubt I'm misunderstanding something about that, since it does not seem very mechanical to me. Almost as if molecules were being understood to have minds of their own.
+             </div>
+            </div>
+           </div>
+           Think of alleles as different versions of the same gene.   Say you were drafting a letter, and tried several different versions of it.   Suppose you were sending it to many different people, so that one "allele" or another would be bet fitted to each of them.   You might be telling all of them the same thing, but maybe tailoring the information to each sort of person so that it would best convey what you wanted to tell them.
+           <br/>
+           <br/>
+           Think of the first draft as a gene, and each mutated copy as a different allele.  Some, on re-reading, aren't very good and you discard them.   The rest you use.
+           <br/>
+           <br/>
+           Natural selection.  This is why evolution is "a change in allele frequency in a population over time."
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342088" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342088" id="qrwq_342088" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342088" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342111">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           08:33 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342111#post342111" name="post342111">
+          #68
+         </a>
+         <a id="postcount342111" name="68">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342111">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342070#post342070" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Why is that a mistake, rather than an obvious fact?
+              </div>
+             </div>
+            </div>
+           </div>
+           The obvious fact is that organisms are adapted to their environments. What is not obvious is what has caused that fact. And that's what I thought was at issue here: not whether organisms are adapted to their environments, but why.
+           <br/>
+           <br/>
+           What's also not obvious (to me, at any rate) is what exactly you have in mind by speaking of "teleology." Perhaps an example will help. Must we invoke final causes to explain why, say, a polar bear is adapted to cold environments? (Or see the bacterium example below. But I'd like to see what you have to say about the polar bears, too.)
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Perhaps, but in that, he failed. He did, perhaps, show that there are no ultimate final causes, and if he did, then quite possibly he was right, and there are no ultimate final causes. But he did nothing to prove the non-existence of proximate and temporal final causes, and if you believe, as I do, that evolution is a process by which solutions are found to proximate, temporal, problems relative to time and space,  and not some ultimate, fundamental, elemental problem, then you cannot call anything adaptive that _is not_ looking for, teleologically seeking, that proximate solution to that immediate problem. Nor can you call anything that _is_ doing that, non-adaptive.
+             </div>
+            </div>
+           </div>
+           But in the case of evolution, what exactly is
+           <i>
+            doing
+           </i>
+           this "looking for?" Or maybe not what, but
+           <i>
+            who
+           </i>
+           ?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              [Me:] And the need for such an account arises from the fact that adaptations do not appear in response to the needs of the species in which they might appear.
+              <br/>
+              <br/>
+              [Thee:] And the problem with that is, that they do. Ask any infectious bacterium about antibiotic resistance.
+             </div>
+            </div>
+           </div>
+           Sorry, but no. The mere fact that a given feature would be adaptive under given conditions does
+           <i>
+            not
+           </i>
+           cause that feature to appear. Sometimes, the bacteria all die. Which is quite fortunate for us when we take antibiotics!
+           <br/>
+           <br/>
+           If, however, a genetic feature that allows a bacterium to resist antibiotics already exists or comes into existence, while its neighbors lack this feature, then that bacterium will leave more offspring in the next generation than its neighbors (other things being equal, of course). As will its offspring, relative to their neighbors. And so on and so on.
+           <br/>
+           <br/>
+           I would say that, to construe antibiotic resistance as a telos that bacteria are trying to reach, somehow then "causing" the bacteria to evolve said antibiotic resistance, is to get things precisely
+           <i>
+            backwards
+           </i>
+           . Antibiotic resistance is a
+           <i>
+            real effect
+           </i>
+           , not an ideal cause.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Nowhere is it claimed that any organism can adapt to any situation in which it finds its. Heck, the dodo and the dinosaur have already told us that much. But failure to solve to solve one problem or another is not proof that an intrinsic ability to solve some  problems does not exist. It is certainly not proof that adaptation and evolution are matters of chance accident, lucky happenstance, a coincidental conjunction of genetic mutation and organismic need.
+             </div>
+            </div>
+           </div>
+           But conversely, successfully adapting does not show that teleology obtains, either. The above account can explain why bacteria develop antibiotic resistance when they do, and why they don't when they don't. It even explains why, in those cases where bacteria develop antibiotic resistance, there is usually a much higher kill rate at the beginning, after which the resistant strains build up their numbers. (The situation is essentially the same for pesticide resistance in insects.)
+           <br/>
+           <br/>
+           What exactly does this account miss that only teleology can explain? And how does teleology explain it?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It merely points up the reality that teleology is not magic. Some things it can fix, some things it can't. Lucky chance, however, seldom fixes anything, so if I'm putting money on a race, teleology versus luck, my money is always on teleology.
+             </div>
+            </div>
+           </div>
+           You realize, though, that natural selection is
+           <i>
+            not
+           </i>
+           "chance." Right? "Not teleological" is not equivalent to "chance."
+           <br/>
+           <br/>
+           But even granting your point for the sake of argument: Is there a principled distinction to be made between what teleology can fix and what it can't? If not, then what distinguishes teleological causation from lucky chance after all? In practice, how could we tell the difference?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Yes, there was--survival. They were compelled, but unable to comply. They could find no way to adapt to the snakes, just as the dodo could find no way to adapt to 18th century sailors, and so, they are gone. Just like 90% of all the species that ever walked the earth. Having a final cause, and failing to achieve it, are two different things. Just ask any would-be affluent child who had to drop out of medical school and take up truck driving.
+             </div>
+            </div>
+           </div>
+           Okay, firstly-- now who's hypostasizing an abstraction! "Survival" is not a "thing." It doesn't
+           <i>
+            do
+           </i>
+           anything. I find it rather bizarre that, after all this criticism about evolutionists reifying "evolution," you would do the same with "survival." But frankly, turning abstractions into things strikes me as a necessary component of teleology.
+           <br/>
+           <br/>
+           Secondly, "survival" is entirely too
+           <i>
+            general
+           </i>
+           to explain anything
+           <i>
+            specific
+           </i>
+           . In the case of the vanished birds of Guam, what particular effects did "survival" have on them? If all that a teleological explanation can say is something like "The organism's goal of survival led it to try to survive," I just don't find that terribly informative.
+           <br/>
+           <br/>
+           Thirdly and finally, insofar as the birds did not survive, how did survival "
+           <i>
+            cause
+           </i>
+           " anything?!? Your medical student example doesn't help here. Having the goal isn't the cause of your would-be doctor's failure! And even if he were to succeed, having the goal wouldn't be the cause of his success.
+           <br/>
+           <br/>
+           To sum up: I just don't see how final causes are causes.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Beware the seductive rationalization posing as an honest and true explanation.
+             </div>
+            </div>
+           </div>
+           Indeed! And personally, I find "final causes" to be the most seductive of all such rationalizations; their seductiveness probably explains their vast historical success.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Thise is not a case a case of 'a rose by any other name'. This is a case of two very different plants being called by a name that is only appropriate, legitimate, and true of one of them.
+             </div>
+            </div>
+           </div>
+           Not so! In using the term "selection," Darwin was making a useful analogy. As with all analogies, there is no claim of perfect resemblance. The obvious disanalogy is that when human breeders select, they do so consciously and intelligently, whereas the effects of natural "selection" are not conscious or intelligent. But a profound similarity is found in both cases: based on some feature or features of their own, some entities are systematically removed from the larger set of entitities to which they belong. So why not call it "selection?"
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Matthew; 01-28-2009 at
+         <span class="time">
+          07:56 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342111" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342111" id="qrwq_342111" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342111" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342130">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-28-2009,
+          <span class="time">
+           08:19 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342130#post342130" name="post342130">
+          #69
+         </a>
+         <a id="postcount342130" name="69">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+          <img alt="pandion's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1945&amp;dateline=1109365195"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+            <strong>
+             pandion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1945&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="pandion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Evolutionary biologist
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Texas
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,937
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342130">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342040#post342040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Thank-you, Pandion, for supporting me on this point.
+              </div>
+             </div>
+            </div>
+           </div>
+           Sure, but my statement was actually a bit sloppy - inaccurate. I stated that organisms have been observed to "...change in response to their environment." Actually, the organisms change as a consequence of changes in the genome of the population. The genome changes in response to the environment as well as other mechanisms of evolution.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              But, I'm not sure that I'd define 'evolution' as "changes in the genetic makeup of populations over time". That's just too gene-centric for my tastes.
+             </div>
+            </div>
+           </div>
+           It doesn't matter how you'd define evolution. That's how biologists define it. If you don't like it, then you aren't talking about evolution. Maybe you should select another word for whatever you are talking about. People will get the impression that you are talking about evolution and that you know what you are talking about otherwise.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Again, the gene-centric definition of evolution that just does not work for me.
+             </div>
+            </div>
+           </div>
+           But that's the definition used by biologists - a change in the allele frequency in a population over generations. You can talk about whatever you want but please stop calling it evolution. Evolutionary biologists are the ones who get to assign meanings to the terms that they use.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              For me, evolution is about changes in the actual forms that express life, not a head count of which DNA molecules reside where.
+             </div>
+            </div>
+           </div>
+           What does that mean? Please define "actual forms that express life." What exactly is a "head count" of DNA molecules? I think a good name for whatever you are talking about would be "nebulous fantasy."
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The only empirical observations that comply with that definition are genome mappings.
+             </div>
+            </div>
+           </div>
+           That may be for someone who doesn't know what evolution is in the first place.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Actually, Darwin knew nothing about genes, and had no understanding of the genetic theory of inheritance. All that Darwin obderverd
+              <b>
+               [sic]
+              </b>
+              , and all that we can observe with the naked eye, is that within any group of like organisms, even one as limited as a human family, very minor trait variations always, and very serious trait variations occasionally, occur.
+             </div>
+            </div>
+           </div>
+           Either you missed the point or you are being intentionally disingenuous. The point was (as Peeling said and with which I agreed) that diversity can accumulate in a population that is not a response to problems or opportunities in the environment. I mentioned that Darwin had made that observation. I said nothing about whether or not Darwin understood genetics.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              He, like ourselves, seem,s to have noted that whenever serious, robust trait variations do occur, that they are always debilitating, often fatal. To get around this fact, his theory supposed that tiny variations could accrue to one another over time, the environment permitting, until finally one population had accrued such a large accumulation of trait differences that it could be distinguished from another population of organisms that had not accrued and expressed those changes.
+             </div>
+            </div>
+           </div>
+           Try reading Darwin again. Or even any good book on evolution. I can recommend some if you would like to learn.
+           <br/>
+           [quote]And that is basically all that Darwin had to say about that, based upon his empirical observations. The trouble was, that hypothesis depended upon the belief that all possible trait variations of every kind pre-existed their expression, and that what an organism was, was what what was left over after all the unused and unwanted trait variations had been eliminated. Sort of like saying that a statue is what's left after all the unwanted marble has been cut away ["selected"], or that a house is what's left after you had finished picking out what you liked from a pile of building materials,-- planks, bricks, nails, glass panes, and whatnot. For some notion of just where and how those building materials originated he turned to other people's early ideas, and called them his theory of  'pangenesis'.[quote]That's pure nonsense.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I've never understood the notion of 'alleles', wherebye, I'm told, the exact same DNA molecule can somehow express itself in a variety of different fashions.
+             </div>
+            </div>
+           </div>
+           For sure you don't understand the notion of alleles. That could be why you don't understand the notion of evolution, reproduction and genetics. No wonder you want to look for nebulous and undefined forms.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              No doubt I'm misunderstanding something about that, since it does not seem very mechanical to me. Almost as if molecules were being understood to have minds of their own.
+             </div>
+            </div>
+           </div>
+           Like I agreed, you don't understand. Maybe that could have something to do with the fact that you are attempting to discuss a topic without bothering to learn the basics.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          From The Treaty of Tripoli, Art. 11, negociated under Washington, passed unanimously by the senate, and signed by Adams -- "As the Government of the United States of America is not, in any sense, founded on the Christian religion;"
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342130" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342130" id="qrwq_342130" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342130" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342132">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-28-2009,
+          <span class="time">
+           08:34 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342132#post342132" name="post342132">
+          #70
+         </a>
+         <a id="postcount342132" name="70">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         Pandion
+        </h2>
+        <div class="content">
+         <div id="post_message_342132">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                pandion
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342130#post342130" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div class="bbcode_container">
+                <div class="bbcode_quote">
+                 <div class="quote_container">
+                  <div class="bbcode_quote_container">
+                  </div>
+                  [Jakers:] For me, evolution is about changes in the actual forms that express life, not a head count of which DNA molecules reside where.
+                 </div>
+                </div>
+               </div>
+               [Pandion:] What does that mean? Please define "actual forms that express life."
+              </div>
+             </div>
+            </div>
+           </div>
+           I think he's trying to address "evolution" solely at the level of phenotypes, perhaps even solely at the level of whatever is available to unaided observation. He doesn't seem too interested in anything molecular.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342132" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342132" id="qrwq_342132" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342132" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342140">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-28-2009,
+          <span class="time">
+           10:13 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342140#post342140" name="post342140">
+          #71
+         </a>
+         <a id="postcount342140" name="71">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245" title="iangb is offline">
+          <img alt="iangb's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=10340&amp;dateline=1210596157"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245" title="iangb is offline">
+            <strong>
+             iangb
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=10340&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="iangb is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Terminally Inquisitive
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,300
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342140">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I think he's trying to address "evolution" solely at the level of phenotypes, perhaps even solely at the level of whatever is available to unaided observation. He doesn't seem too interested in anything molecular.
+             </div>
+            </div>
+           </div>
+           Indeed. He's stated something similar back in
+           <a href="http://www.4forums.com/political/340707-post27.html" target="_blank">
+            this post
+           </a>
+           - to quote (context is my claim that microscopic features 'drive' microscopic features by an emergent process):
+           <i>
+            "First you have to know which part is the cart and which part is the horse. Here's my opinion--molecules, including genes, are the cart, not the horse."
+           </i>
+           <br/>
+           <br/>
+           Note the context.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          The truth may be out there, but lies are in your head.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342140" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342140" id="qrwq_342140" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342140" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342162">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-28-2009,
+          <span class="time">
+           11:50 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342162#post342162" name="post342162">
+          #72
+         </a>
+         <a id="postcount342162" name="72">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=15006&amp;s=b58a740badbd173aee25c10a673ad245" title="pro-con is offline">
+          <img alt="pro-con's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=15006&amp;dateline=1232504130"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=15006&amp;s=b58a740badbd173aee25c10a673ad245" title="pro-con is offline">
+            <strong>
+             pro-con
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=15006&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=15006&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="pro-con is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           42
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342162">
+          <blockquote class="postcontent restore">
+           Cells use DNA as a set of instructions. That is how we survive and operate. DNA does not tell us change or as some people call it "evolve". It's not evolution if say a wolly mammoth lost all its hair when the ice age ended. Thats adapting to a envirment.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342162" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342162" id="qrwq_342162" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342162" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342166">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-28-2009,
+          <span class="time">
+           11:58 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342166#post342166" name="post342166">
+          #73
+         </a>
+         <a id="postcount342166" name="73">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+          <img alt="trebor's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=2310&amp;dateline=1216864298"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+            <strong>
+             trebor
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=2310&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="trebor is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,658
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342166">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                pro-con
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342162#post342162" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Cells use DNA as a set of instructions. That is how we survive and operate. DNA does not tell us change or as some people call it "evolve". It's not evolution if say a wolly mammoth lost all its hair when the ice age ended. Thats adapting to a envirment.
+              </div>
+             </div>
+            </div>
+           </div>
+           Evolving is adapting to an environment, over generations.
+           <br/>
+           <br/>
+           So, you describe evolution and say 'that's adapting'.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          &#8206;"Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge." — Isaac Asimov
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342166" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342166" id="qrwq_342166" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342166" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342177">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-28-2009,
+          <span class="time">
+           12:12 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342177#post342177" name="post342177">
+          #74
+         </a>
+         <a id="postcount342177" name="74">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1336&amp;s=b58a740badbd173aee25c10a673ad245" title="sinjin is offline">
+          <img alt="sinjin's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1336&amp;dateline=1297885270"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1336&amp;s=b58a740badbd173aee25c10a673ad245" title="sinjin is offline">
+            <strong>
+             sinjin
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1336&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1336&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="sinjin is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           San Simian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           SoCal
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           7,353
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342177">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                pro-con
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342162#post342162" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Cells use DNA as a set of instructions. That is how we survive and operate. DNA does not tell us change or as some people call it "evolve". It's not evolution if say a wolly mammoth lost all its hair when the ice age ended. Thats adapting to a envirment.
+              </div>
+             </div>
+            </div>
+           </div>
+           What changed in the animals so that succeeding generations had less hair?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "They asked if I had found Jesus and I didn't even know He was missing."
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342177" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342177" id="qrwq_342177" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342177" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342306">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-29-2009,
+          <span class="time">
+           01:52 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342306#post342306" name="post342306">
+          #75
+         </a>
+         <a id="postcount342306" name="75">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342306">
+          <blockquote class="postcontent restore">
+           Sorry all, but you'll have to carry on without me for a day or two. Just had some serious dental work done, and I'll either be in too much pain or too doped up to think clearly over the next little while. Later.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342306" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342306" id="qrwq_342306" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342306" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="12214"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 5 of 12
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 166">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 46 to 60 of 166">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 166">
+        3
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 46 to 60 of 166">
+        4
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 61 to 75 of 166">
+        5
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 76 to 90 of 166">
+        6
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 91 to 105 of 166">
+        7
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 76 to 90 of 166">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;page=12&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 166 to 166 of 166">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=12214&amp;page=5#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=b58a740badbd173aee25c10a673ad245">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=b58a740badbd173aee25c10a673ad245">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=b58a740badbd173aee25c10a673ad245">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=b58a740badbd173aee25c10a673ad245">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=b58a740badbd173aee25c10a673ad245">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=b58a740badbd173aee25c10a673ad245">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=b58a740badbd173aee25c10a673ad245">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=b58a740badbd173aee25c10a673ad245">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=b58a740badbd173aee25c10a673ad245">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=b58a740badbd173aee25c10a673ad245">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=b58a740badbd173aee25c10a673ad245">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=b58a740badbd173aee25c10a673ad245">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=b58a740badbd173aee25c10a673ad245">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=b58a740badbd173aee25c10a673ad245">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=b58a740badbd173aee25c10a673ad245">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=b58a740badbd173aee25c10a673ad245">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=b58a740badbd173aee25c10a673ad245">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=b58a740badbd173aee25c10a673ad245">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=b58a740badbd173aee25c10a673ad245">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=b58a740badbd173aee25c10a673ad245">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=b58a740badbd173aee25c10a673ad245">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=b58a740badbd173aee25c10a673ad245">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=b58a740badbd173aee25c10a673ad245">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=b58a740badbd173aee25c10a673ad245">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=b58a740badbd173aee25c10a673ad245">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=b58a740badbd173aee25c10a673ad245">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=b58a740badbd173aee25c10a673ad245">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=b58a740badbd173aee25c10a673ad245">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=b58a740badbd173aee25c10a673ad245">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=b58a740badbd173aee25c10a673ad245">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=b58a740badbd173aee25c10a673ad245">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=b58a740badbd173aee25c10a673ad245">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=b58a740badbd173aee25c10a673ad245">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=b58a740badbd173aee25c10a673ad245">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=b58a740badbd173aee25c10a673ad245">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=b58a740badbd173aee25c10a673ad245">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=b58a740badbd173aee25c10a673ad245">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=b58a740badbd173aee25c10a673ad245">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=b58a740badbd173aee25c10a673ad245">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=b58a740badbd173aee25c10a673ad245">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=b58a740badbd173aee25c10a673ad245">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=b58a740badbd173aee25c10a673ad245">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=b58a740badbd173aee25c10a673ad245">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=b58a740badbd173aee25c10a673ad245">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=b58a740badbd173aee25c10a673ad245">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=b58a740badbd173aee25c10a673ad245">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=b58a740badbd173aee25c10a673ad245">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=b58a740badbd173aee25c10a673ad245">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=b58a740badbd173aee25c10a673ad245">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=b58a740badbd173aee25c10a673ad245">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=b58a740badbd173aee25c10a673ad245">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=b58a740badbd173aee25c10a673ad245">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=b58a740badbd173aee25c10a673ad245">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=b58a740badbd173aee25c10a673ad245">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=b58a740badbd173aee25c10a673ad245">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=b58a740badbd173aee25c10a673ad245">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=b58a740badbd173aee25c10a673ad245">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=b58a740badbd173aee25c10a673ad245">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=b58a740badbd173aee25c10a673ad245">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=b58a740badbd173aee25c10a673ad245">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=b58a740badbd173aee25c10a673ad245">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=b58a740badbd173aee25c10a673ad245">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=b58a740badbd173aee25c10a673ad245">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=b58a740badbd173aee25c10a673ad245">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=12214&amp;page=5#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=b58a740badbd173aee25c10a673ad245">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=12214&amp;page=5#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     10:00 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=b58a740badbd173aee25c10a673ad245&amp;rand=1392433238" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

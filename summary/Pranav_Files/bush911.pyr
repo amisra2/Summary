@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (text,scu*)>
+ <!ATTLIST pyramid numModels CDATA "0">
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+            label CDATA #REQUIRED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid numModels="0">
+ <text>
+  <line>1: S1 sympathetically suggests why some feel 9/11 was a conspiracy. S2 says only stupid people believe that. S2 misspells consiracy. S1 says that is an unfair characterization. S2 says those people are still stupid.</line>
+  <line>2: The first poster claims that 9/11 was a conspiracy due to Bush pushing for war, expecting to make money from the oil in the middle east.  The second poster claims that to believe 9/11 was a conspiracy, someone would have to be a fool.</line>
+  <line>3: Person 1 criticizes Bush for exploiting other nations for oil, and explains how his actions have led to 9/11 conspiracy theories. Person 2 states that only idiots are 9/11 truthers. Person one argues that you can’t force your beliefs on others. Person 2 states that people have the freedom to be stupid.</line>
+  <line>4: I think the two people are arguing about whether Bush should put more army in Middle Eastern countries or not. S1 thinks that Bush injecting US army to Middle Eastern countries leads to speculations on the 9/11 being a conspiracy. And Bush also wasted a lot of money by doing so. Then comes the illogical and meaningless debate: S2 thinks that only a stupid fool believes 9/11 was a conspiracy, S1 thinks that many people believes 9/11 was a conspiracy and you cannot force them to change their ideas, and S2 replies sarcastically that people are free to be fools.</line>
+  <line>5: Some people believe that 9/11 was a conspiracy because they think Bush is just trying to control the oil market by sending in tons of troops.   </line>
+  <line>6: Speaker one doesn’t agree with Bush’s war tactics in the middle east and understands why people think 9/11 was a conspiracy.  Speaker 2 insults everyone who thinks 9/11 was a conspiracy and says they are ‘stupid fools’.  Speaker 1 seems to get defensive and says speaker 2 can’t make everyone agree with him. Speaker 2 ends by saying people can be as stupid as they want.</line>
+  <line>7: There’s a discussion if 9/11 was a conspiracy. First person thinks that Bush was desperate in injecting US military troops to Middle Eastern countries. He invested, expecting to get bigger returns from the availability of oil in those countries. However, the second person totally opposes this view with a sarcastic remark that only a stupid fool would believe 9/11 to be conspiracy. To this, the first person answers with a further sarcasm that stupid fools do exist and each person has his own ideology. This continues and the second person further taunts the first one by saying that people are free to be stupid fools. </line>
+  <line>8: S1 presents some arguments in support of 9/11 conspiracy theory. S2 rejects them without consideration and states that conspiracy is a stupid idea.</line>
+  <line>9: Topic: Is 9/11 a conspiracy?</line>
+  <line>Opinion 1: Some people believe that 9/11  is a conspiracy.</line>
+  <line>Opinion 2: 9/11 is definitely not a conspiracy.</line>
+  <line>Conclusion/Dialogue Feature: Comparison/Contrast</line>
+  <line>10: The speakers argue to what extent ‘truthers’ have formed valid opinions. S1 presents arguments based on a description of Bush and certain notions that form the foundation of the conspiracy. S2 ignores these ‘facts’ and argues simply that only fools would believe this. S1 seems taken aback, but rather than taking the insult directly, S1 shifts so that it is not S1, but rather others who believe this conspiracy, and presents the argument that there are many truthers out there, which S2 negates as an argument by stating that people can believe whatever they want without that making them right.</line>
+ </text>
+ <scu uid="2" label="suggests why some feel 9/11 was a conspiracy">
+  <contributor label="suggests why some feel 9/11 was a conspiracy">
+   <part label="suggests why some feel 9/11 was a conspiracy" start="22" end="66"/>
+  </contributor>
+  <contributor label="The first poster claims that 9/11 was a conspiracy">
+   <part label="The first poster claims that 9/11 was a conspiracy" start="219" end="269"/>
+  </contributor>
+  <contributor label="his actions have led to 9/11 conspiracy theories">
+   <part label="his actions have led to 9/11 conspiracy theories" start="537" end="585"/>
+  </contributor>
+  <contributor label="speculations on the 9/11 being a conspiracy">
+   <part label="speculations on the 9/11 being a conspiracy" start="952" end="995"/>
+  </contributor>
+  <contributor label="Some people believe that 9/11 was a conspiracy">
+   <part label="Some people believe that 9/11 was a conspiracy" start="1334" end="1380"/>
+  </contributor>
+  <contributor label="why people think 9/11 was a conspiracy">
+   <part label="why people think 9/11 was a conspiracy" start="1571" end="1609"/>
+  </contributor>
+  <contributor label="There’s a discussion if 9/11 was a conspiracy">
+   <part label="There’s a discussion if 9/11 was a conspiracy" start="1867" end="1914"/>
+  </contributor>
+  <contributor label="S1 presents some arguments in support of 9/11 conspiracy theory">
+   <part label="S1 presents some arguments in support of 9/11 conspiracy theory" start="2496" end="2559"/>
+  </contributor>
+  <contributor label="in support">
+   <part label="in support" start="2523" end="2533"/>
+  </contributor>
+  <contributor label="Some people believe that 9/11  is a conspiracy">
+   <part label="Some people believe that 9/11  is a conspiracy" start="2687" end="2733"/>
+  </contributor>
+  <contributor label="to what extent ‘truthers’ have formed valid opinions">
+   <part label="to what extent ‘truthers’ have formed valid opinions" start="2855" end="2911"/>
+  </contributor>
+ </scu>
+ <scu uid="3" label="S2 says only stupid people believe that">
+  <contributor label="S2 says only stupid people believe that">
+   <part label="S2 says only stupid people believe that" start="68" end="107"/>
+  </contributor>
+  <contributor label="The second poster claims that to believe 9/11 was a conspiracy, someone would have to be a fool">
+   <part label="The second poster claims that to believe 9/11 was a conspiracy, someone would have to be a fool" start="357" end="452"/>
+  </contributor>
+  <contributor label="S2 thinks that only a stupid fool believes 9/11 was a conspiracy">
+   <part label="S2 thinks that only a stupid fool believes 9/11 was a conspiracy" start="1095" end="1159"/>
+  </contributor>
+  <contributor label="says they are ‘stupid fools’">
+   <part label="says they are ‘stupid fools’" start="1676" end="1708"/>
+  </contributor>
+  <contributor label="only a stupid fool would believe 9/11 to be conspiracy">
+   <part label="only a stupid fool would believe 9/11 to be conspiracy" start="2197" end="2251"/>
+  </contributor>
+  <contributor label="states that conspiracy is a stupid idea">
+   <part label="states that conspiracy is a stupid idea" start="2603" end="2642"/>
+  </contributor>
+  <contributor label="argues simply that only fools would believe this">
+   <part label="argues simply that only fools would believe this" start="3063" end="3111"/>
+  </contributor>
+  <contributor label="Person 2 states that only idiots are 9/11 truthers">
+   <part label="Person 2 states that only idiots are 9/11 truthers" start="587" end="637"/>
+  </contributor>
+ </scu>
+ <scu uid="12" label="Person 2 states that people have the freedom to be stupid">
+  <contributor label="Person 2 states that people have the freedom to be stupid">
+   <part label="Person 2 states that people have the freedom to be stupid" start="704" end="761"/>
+  </contributor>
+  <contributor label="people are free to be fools">
+   <part label="people are free to be fools" start="1302" end="1329"/>
+  </contributor>
+  <contributor label="saying people can be as stupid as they want">
+   <part label="saying people can be as stupid as they want" start="1819" end="1862"/>
+  </contributor>
+  <contributor label="saying that people are free to be stupid fools">
+   <part label="saying that people are free to be stupid fools" start="2444" end="2490"/>
+  </contributor>
+  <contributor label="people can believe whatever they want without that making them right">
+   <part label="people can believe whatever they want without that making them right" start="3372" end="3440"/>
+  </contributor>
+ </scu>
+ <scu uid="8" label="expecting to make money from the oil in the middle east">
+  <contributor label="expecting to make money from the oil in the middle east">
+   <part label="expecting to make money from the oil in the middle east" start="299" end="354"/>
+  </contributor>
+  <contributor label="exploiting other nations for oil">
+   <part label="exploiting other nations for oil" start="486" end="518"/>
+  </contributor>
+  <contributor label="Bush is just trying to control the oil market">
+   <part label="Bush is just trying to control the oil market" start="1400" end="1445"/>
+  </contributor>
+  <contributor label="He invested, expecting to get bigger returns from the availability of oil in those countries">
+   <part label="He invested, expecting to get bigger returns from the availability of oil in those countries" start="2021" end="2113"/>
+  </contributor>
+ </scu>
+ <scu uid="11" label="Person one argues that you can’t force your beliefs on others">
+  <contributor label="Person one argues that you can’t force your beliefs on others">
+   <part label="Person one argues that you can’t force your beliefs on others" start="639" end="702"/>
+  </contributor>
+  <contributor label="you cannot force them to change their ideas">
+   <part label="you cannot force them to change their ideas" start="1223" end="1266"/>
+  </contributor>
+  <contributor label="says speaker 2 can’t make everyone agree with him">
+   <part label="says speaker 2 can’t make everyone agree with him" start="1748" end="1799"/>
+  </contributor>
+  <contributor label="each person has his own ideology">
+   <part label="each person has his own ideology" start="2341" end="2373"/>
+  </contributor>
+ </scu>
+ <scu uid="10" label="9/11 truthers">
+  <contributor label="9/11 truthers">
+   <part label="9/11 truthers" start="624" end="637"/>
+  </contributor>
+  <contributor label="‘truthers’">
+   <part label="‘truthers’" start="2870" end="2884"/>
+  </contributor>
+ </scu>
+ <scu uid="14" label="Bush injecting US army to Middle Eastern countries">
+  <contributor label="Bush injecting US army to Middle Eastern countries">
+   <part label="Bush injecting US army to Middle Eastern countries" start="892" end="942"/>
+  </contributor>
+  <contributor label="injecting US military troops to Middle Eastern countries">
+   <part label="injecting US military troops to Middle Eastern countries" start="1963" end="2019"/>
+  </contributor>
+ </scu>
+ <scu uid="27" label="many truthers out there">
+  <contributor label="many truthers out there">
+   <part label="many truthers out there" start="3299" end="3322"/>
+  </contributor>
+  <contributor label="S1 thinks that many people believes 9/11 was a conspiracy">
+   <part label="S1 thinks that many people believes 9/11 was a conspiracy" start="1161" end="1218"/>
+  </contributor>
+ </scu>
+ <scu uid="9" label="Person 1 criticizes Bush">
+  <contributor label="Person 1 criticizes Bush">
+   <part label="Person 1 criticizes Bush" start="457" end="481"/>
+  </contributor>
+  <contributor label="Bush was desperate">
+   <part label="Bush was desperate" start="1941" end="1959"/>
+  </contributor>
+ </scu>
+ <scu uid="1" label="S1 sympathetically">
+  <contributor label="S1 sympathetically">
+   <part label="S1 sympathetically" start="3" end="21"/>
+  </contributor>
+  <contributor label="understands">
+   <part label="understands" start="1559" end="1570"/>
+  </contributor>
+ </scu>
+ <scu uid="25" label="S2 rejects them without consideration">
+  <contributor label="S2 rejects them without consideration">
+   <part label="S2 rejects them without consideration" start="2561" end="2598"/>
+  </contributor>
+  <contributor label="S2 ignores these ‘facts’">
+   <part label="S2 ignores these ‘facts’" start="3030" end="3058"/>
+  </contributor>
+ </scu>
+ <scu uid="17" label="S2 replies sarcastically">
+  <contributor label="S2 replies sarcastically">
+   <part label="S2 replies sarcastically" start="1272" end="1296"/>
+  </contributor>
+  <contributor label="sarcastic remark">
+   <part label="sarcastic remark" start="2175" end="2191"/>
+  </contributor>
+ </scu>
+ <scu uid="6" label="S2 says those people are still stupid">
+  <contributor label="S2 says those people are still stupid">
+   <part label="S2 says those people are still stupid" start="177" end="214"/>
+  </contributor>
+  <contributor label="Person 2 states that only idiots are 9/11 truthers">
+   <part label="Person 2 states that only idiots are 9/11 truthers" start="587" end="637"/>
+  </contributor>
+ </scu>
+ <scu uid="20" label="Speaker 1 seems to get defensive">
+  <contributor label="Speaker 1 seems to get defensive">
+   <part label="Speaker 1 seems to get defensive" start="1711" end="1743"/>
+  </contributor>
+  <contributor label="S1 seems taken aback">
+   <part label="S1 seems taken aback" start="3113" end="3133"/>
+  </contributor>
+ </scu>
+ <scu uid="13" label="two people are arguing about whether Bush should put more army in Middle Eastern countries or not">
+  <contributor label="two people are arguing about whether Bush should put more army in Middle Eastern countries or not">
+   <part label="two people are arguing about whether Bush should put more army in Middle Eastern countries or not" start="778" end="875"/>
+  </contributor>
+  <contributor label="by sending in tons of troops">
+   <part label="by sending in tons of troops" start="1446" end="1474"/>
+  </contributor>
+ </scu>
+ <scu uid="15" label="Bush also wasted a lot of money by doing so">
+  <contributor label="Bush also wasted a lot of money by doing so">
+   <part label="Bush also wasted a lot of money by doing so" start="1001" end="1044"/>
+  </contributor>
+ </scu>
+ <scu uid="7" label="Bush pushing for war">
+  <contributor label="Bush pushing for war">
+   <part label="Bush pushing for war" start="277" end="297"/>
+  </contributor>
+ </scu>
+ <scu uid="26" label="rather than taking the insult directly">
+  <contributor label="rather than taking the insult directly">
+   <part label="rather than taking the insult directly" start="3139" end="3177"/>
+  </contributor>
+ </scu>
+ <scu uid="5" label="S1 says that is an unfair characterization">
+  <contributor label="S1 says that is an unfair characterization">
+   <part label="S1 says that is an unfair characterization" start="133" end="175"/>
+  </contributor>
+ </scu>
+ <scu uid="4" label="S2 misspells consiracy">
+  <contributor label="S2 misspells consiracy">
+   <part label="S2 misspells consiracy" start="109" end="131"/>
+  </contributor>
+ </scu>
+ <scu uid="28" label="S2 negates as an argument">
+  <contributor label="S2 negates as an argument">
+   <part label="S2 negates as an argument" start="3330" end="3355"/>
+  </contributor>
+ </scu>
+ <scu uid="21" label="Speaker 2 ends">
+  <contributor label="Speaker 2 ends">
+   <part label="Speaker 2 ends" start="1801" end="1815"/>
+  </contributor>
+ </scu>
+ <scu uid="19" label="Speaker 2 insults">
+  <contributor label="Speaker 2 insults">
+   <part label="Speaker 2 insults" start="1612" end="1629"/>
+  </contributor>
+ </scu>
+ <scu uid="18" label="Speaker one doesn’t agree with Bush’s war tactics">
+  <contributor label="Speaker one doesn’t agree with Bush’s war tactics">
+   <part label="Speaker one doesn’t agree with Bush’s war tactics" start="1482" end="1535"/>
+  </contributor>
+ </scu>
+ <scu uid="23" label="stupid fools do exist">
+  <contributor label="stupid fools do exist">
+   <part label="stupid fools do exist" start="2315" end="2336"/>
+  </contributor>
+ </scu>
+ <scu uid="22" label="the first person answers with a further sarcasm">
+  <contributor label="the first person answers with a further sarcasm">
+   <part label="the first person answers with a further sarcasm" start="2262" end="2309"/>
+  </contributor>
+ </scu>
+ <scu uid="24" label="the second person further taunts the first one">
+  <contributor label="the second person further taunts the first one">
+   <part label="the second person further taunts the first one" start="2394" end="2440"/>
+  </contributor>
+ </scu>
+ <scu uid="16" label="Then comes the illogical and meaningless debate">
+  <contributor label="Then comes the illogical and meaningless debate">
+   <part label="Then comes the illogical and meaningless debate" start="1046" end="1093"/>
+  </contributor>
+ </scu>
+ <scu uid="29" label="9/11 is definitely not a conspiracy">
+  <contributor label="9/11 is definitely not a conspiracy">
+   <part label="9/11 is definitely not a conspiracy" start="2746" end="2781"/>
+  </contributor>
+ </scu>
+</pyramid>

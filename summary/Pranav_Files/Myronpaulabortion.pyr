@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[\n[0-9]*:]]></startDocumentRegEx>
+ <text>
+  <line></line>
+  <line>1: S1 and S2 discuss Ron Paul's position on abortion. S2 asserts that Paul is opposed to the practice. S1 asserts that while Ron Paul is opposed to it, he (Paul) feels that the decision should be up to the states. S1 indicates respects if not agrees with this position.</line>
+  <line>2: The posters are arguing about whether Ron Paul is opposed to abortion.  It seems that he does in fact oppose abortion morally, but does not intend to make a federal mandate outright abolishing the practice of abortion.</line>
+  <line>3: Person 1 states that people should not speak for God and try to hold authority other people, specifically on the topic of abortion. Person 2 asks if Ron Paul is against abortion. Person 1 says that he does personally oppose it, but maturely believes in leaving the decision up to the states. Person 2 gives a Ron Paul quote, opposing abortion. Person 1 repeats what he/she just previously stated. </line>
+  <line>4: The two people here are arguing about abortion. S1 is for abortion, he thinks that women have the right to choose whether to give a birth or not. Then S2 points out that Ron Paul opposes abortion. S1 argues that Ron Paul opposes abortion ethically, but politically he left the judgment to the states. S2 quotes Paul’s speech, which makes S1 concede that Paul opposes abortion both ethically and politically. But S1 holds the point that Paul believes the decision should be left up to the judgment of the states.</line>
+  <line>5: Ron Paul opposes abortion but seems to leave it up to the states to decide.</line>
+  <line>6: Speaker one seems to be in favor or Ron Paul’s view on abortion saying that he opposes it ethically but politically wants the states to make their decisions.  He/she says god can make and enforce his laws but something about messengers can’t rule pro-choice individuals.  Speaker 2 asks if Ron Paul opposes abortion, to which speaker one responds yes but he wants it to be left to the states.  Speaker 2 quotes Ron Paul on his views of abortion.  Speaker 1 sticks to his opinion.</line>
+  <line>7: Two persons debate whether Ron Paul opposes abortion. First person thinks that Paul has left this decision to the states and this is a mature decision. However the second person feels that Paul does oppose abortion .To further support his view he gives an indirect quote of Paul in which Paul opposes abortion.</line>
+  <line>8: The speakers discuss a Ron Paul’s view on abortion. S2  suggests that Ron Paul opposes abortion. S2 quotes Ron Paul’s words in support of this view. S1  concedes that  Ron Paul doesn’t approve of abortion. S1 maintains that Ron Paul is not going too enforce  this  moral belief politically.</line>
+  <line>9: Topic: The role of God Messengers</line>
+  <line>Opinion 1: Messengers can't make or enforce God's laws, only God can.</line>
+  <line>Opinion 2: Messengers actively enforce God's laws.</line>
+  <line>Conclusion/Dialogue Feature: Opinions contradict each other. Comparison/Contrast</line>
+  <line>10: This debate focuses on a political figure, apart from S1-1, which seems to on a separate subject except for the last part about pro-choicers, which brings up the topic of abortion. S2 opens the debate by presenting Ron Paul as anti-abortion. The rest of the discussion is an attempt between the speakers to decide exactly what Paul’s position is. S1 argues that Paul believes states should decide [abortion laws]. S2 disagrees, presenting Paul’s thoughts about life from conception needing freedom. S1 does not take this citation as a valid argument against the stance that Paul would let states decide.</line>
+ </text>
+ <scu uid="220" label="S2 asserts that Paul is opposed to the practice">
+  <contributor label="S2 asserts that Paul is opposed to the practice...Ron Paul">
+   <part label="S2 asserts that Paul is opposed to the practice" start="55" end="102"/>
+   <part label="Ron Paul" start="805" end="813"/>
+  </contributor>
+  <contributor label="Person 2">
+   <part label="Person 2" start="788" end="796"/>
+  </contributor>
+  <contributor label="Then S2 points out that Ron Paul opposes abortion">
+   <part label="Then S2 points out that Ron Paul opposes abortion" start="1043" end="1092"/>
+  </contributor>
+  <contributor label="Ron Paul opposes">
+   <part label="Ron Paul opposes" start="1414" end="1430"/>
+  </contributor>
+  <contributor label="Ron Paul opposes">
+   <part label="Ron Paul opposes" start="2366" end="2382"/>
+  </contributor>
+  <contributor label="However the second person feels that Paul does oppose">
+   <part label="However the second person feels that Paul does oppose" start="2132" end="2185"/>
+  </contributor>
+ </scu>
+ <scu uid="221" label="S1 asserts that while Ron Paul is opposed to it, he (Paul) feels that the decision should be up to the states">
+  <contributor label="S1 asserts that while Ron Paul is opposed to it, he (Paul) feels that the decision should be up to the states...saying that he opposes it ethically but politically wants the states to make their decisions">
+   <part label="S1 asserts that while Ron Paul is opposed to it, he (Paul) feels that the decision should be up to the states" start="104" end="213"/>
+   <part label="saying that he opposes it ethically but politically wants the states to make their decisions" start="1559" end="1651"/>
+  </contributor>
+  <contributor label="Person 1 says that he does personally oppose it, but maturely believes in leaving the decision up to the states">
+   <part label="Person 1 says that he does personally oppose it, but maturely believes in leaving the decision up to the states" start="675" end="786"/>
+  </contributor>
+  <contributor label="S1 argues that Paul believes states should decide [abortion laws]">
+   <part label="S1 argues that Paul believes states should decide [abortion laws]" start="3183" end="3248"/>
+  </contributor>
+  <contributor label="It seems that he does in fact oppose abortion morally, but does not intend to make a federal mandate outright abolishing the practice of abortion">
+   <part label="It seems that he does in fact oppose abortion morally, but does not intend to make a federal mandate outright abolishing the practice of abortion" start="346" end="491"/>
+  </contributor>
+  <contributor label="S1 argues that Ron Paul opposes abortion ethically, but politically he left the judgment to the states...S1 concede that Paul opposes abortion both ethically and politically...holds the point that Paul believes the decision should be left up to the judgment of the states...S1 maintains that Ron Paul is not going too enforce  this  moral belief politically">
+   <part label="S1 argues that Ron Paul opposes abortion ethically, but politically he left the judgment to the states" start="1094" end="1196"/>
+   <part label="S1 concede that Paul opposes abortion both ethically and politically" start="1237" end="1305"/>
+   <part label="S1 maintains that Ron Paul is not going too enforce  this  moral belief politically" start="2506" end="2589"/>
+   <part label="holds the point that Paul believes the decision should be left up to the judgment of the states" start="1314" end="1409"/>
+  </contributor>
+  <contributor label="seems to leave it up to the states to decide">
+   <part label="seems to leave it up to the states to decide" start="1444" end="1488"/>
+  </contributor>
+  <contributor label="he wants it to be left to the states">
+   <part label="he wants it to be left to the states" start="1852" end="1888"/>
+  </contributor>
+  <contributor label="First person thinks that Paul has left this decision to the states and this is a mature decision">
+   <part label="First person thinks that Paul has left this decision to the states and this is a mature decision" start="2034" end="2130"/>
+  </contributor>
+ </scu>
+ <scu uid="222" label="discuss Ron Paul's position">
+  <contributor label="discuss Ron Paul's position">
+   <part label="discuss Ron Paul's position" start="14" end="41"/>
+  </contributor>
+  <contributor label="what Paul’s position is">
+   <part label="what Paul’s position is" start="3156" end="3181"/>
+  </contributor>
+ </scu>
+ <scu uid="223" label="arguing about whether Ron Paul is opposed to">
+  <contributor label="arguing about whether Ron Paul is opposed to">
+   <part label="arguing about whether Ron Paul is opposed to" start="290" end="334"/>
+  </contributor>
+  <contributor label="Person 2 asks if Ron Paul is against">
+   <part label="Person 2 asks if Ron Paul is against" start="628" end="664"/>
+  </contributor>
+  <contributor label="Ron Paul’s view...asks if Ron Paul opposes">
+   <part label="Ron Paul’s view" start="1529" end="1546"/>
+   <part label="asks if Ron Paul opposes" start="1779" end="1803"/>
+  </contributor>
+  <contributor label="The speakers discuss a Ron Paul’s view">
+   <part label="The speakers discuss a Ron Paul’s view" start="2294" end="2334"/>
+  </contributor>
+  <contributor label="debate by presenting Ron Paul">
+   <part label="debate by presenting Ron Paul" start="3028" end="3057"/>
+  </contributor>
+  <contributor label="debate whether Ron Paul opposes">
+   <part label="debate whether Ron Paul opposes" start="1992" end="2023"/>
+  </contributor>
+ </scu>
+ <scu uid="226" label="the topic of abortion">
+  <contributor label="the topic of abortion...on abortion...abortion...the topic of abortion">
+   <part label="the topic of abortion" start="605" end="626"/>
+   <part label="the topic of abortion" start="2992" end="3013"/>
+   <part label="on abortion" start="1547" end="1558"/>
+   <part label="abortion" start="2186" end="2194"/>
+  </contributor>
+  <contributor label="abortion...abortion...arguing about abortion...abortion">
+   <part label="arguing about abortion" start="921" end="943"/>
+   <part label="abortion" start="830" end="838"/>
+   <part label="abortion" start="665" end="673"/>
+   <part label="abortion" start="1933" end="1941"/>
+  </contributor>
+  <contributor label="on abortion">
+   <part label="on abortion" start="42" end="53"/>
+  </contributor>
+  <contributor label="abortion">
+   <part label="abortion" start="335" end="343"/>
+  </contributor>
+  <contributor label="abortion">
+   <part label="abortion" start="1431" end="1439"/>
+  </contributor>
+  <contributor label="abortion">
+   <part label="abortion" start="1804" end="1812"/>
+  </contributor>
+  <contributor label="abortion">
+   <part label="abortion" start="2024" end="2032"/>
+  </contributor>
+  <contributor label="on abortion...abortion">
+   <part label="on abortion" start="2335" end="2346"/>
+   <part label="abortion" start="2496" end="2504"/>
+  </contributor>
+  <contributor label="abortion">
+   <part label="abortion" start="3066" end="3074"/>
+  </contributor>
+ </scu>
+ <scu uid="227" label="S2 quotes Paul’s speech">
+  <contributor label="S2 quotes Paul’s speech">
+   <part label="S2 quotes Paul’s speech" start="1198" end="1223"/>
+  </contributor>
+  <contributor label="Speaker 2 quotes Ron Paul on his views of">
+   <part label="Speaker 2 quotes Ron Paul on his views of" start="1891" end="1932"/>
+  </contributor>
+  <contributor label="S2 disagrees, presenting Paul’s thoughts about life from conception needing freedom">
+   <part label="S2 disagrees, presenting Paul’s thoughts about life from conception needing freedom" start="3250" end="3335"/>
+  </contributor>
+  <contributor label="S2 quotes Ron Paul’s words in support of this view">
+   <part label="S2 quotes Ron Paul’s words in support of this view" start="2393" end="2445"/>
+  </contributor>
+  <contributor label="To further support his view he gives an indirect quote of Paul in which Paul opposes abortion">
+   <part label="To further support his view he gives an indirect quote of Paul in which Paul opposes abortion" start="2196" end="2289"/>
+  </contributor>
+ </scu>
+</pyramid>

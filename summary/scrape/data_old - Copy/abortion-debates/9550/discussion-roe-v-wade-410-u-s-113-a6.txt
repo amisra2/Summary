@@ -1,0 +1,3989 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=0e2370c27b84875182a363d3867ec78e&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=9550&amp;page=6";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="thread, discussion, states, united, posts, abortion, interest, personal, intended, important, forward, benefit, manner, moderator, proceed, debate, constitutional, longer, invite, forums, series, reasons, matter, explore, follow-up, shorter, follow, and/or, detail, greater, times, comments, views, contribute, attention, explanation, short, spend, starting, beneficial, focus, discussing, future, kindly, comments/questions/disagreements, desire, sincerely, offer, moving, topic" name="keywords"/>
+  <meta content="In a recent thread, I think some interest was expressed in a discussion of the United States Supreme Court’s decision in Roe v. Wade (410 U.S. 113).  If I am mistaken as to the depth of this interest, I apologize.  But I do believe that a discussion of Roe is quite important to a discussion about abortion in the United States.  And it is for this reason that I decided that Roe deserves its own thread. 
+ 
+Before going further, I wish to say something to those who reside outside of the United" name="description"/>
+  <title>
+   A Discussion of Roe v. Wade (410 U.S. 113) - Page 6
+  </title>
+  <link href="showthread.php?t=9550&amp;page=6&amp;s=0e2370c27b84875182a363d3867ec78e" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=0e2370c27b84875182a363d3867ec78e" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=0e2370c27b84875182a363d3867ec78e" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=0e2370c27b84875182a363d3867ec78e">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=0e2370c27b84875182a363d3867ec78e">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=0e2370c27b84875182a363d3867ec78e">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=0e2370c27b84875182a363d3867ec78e">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=0e2370c27b84875182a363d3867ec78e">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=0e2370c27b84875182a363d3867ec78e">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=0e2370c27b84875182a363d3867ec78e">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=0e2370c27b84875182a363d3867ec78e">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=0e2370c27b84875182a363d3867ec78e">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=8&amp;s=0e2370c27b84875182a363d3867ec78e">
+       Abortion Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       A Discussion of Roe v. Wade (410 U.S. 113)
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=0e2370c27b84875182a363d3867ec78e&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=0e2370c27b84875182a363d3867ec78e" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="9550"/>
+      <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 6 of 8
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e" rel="start" title="First Page - Results 1 to 15 of 111">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9550&amp;page=5&amp;s=0e2370c27b84875182a363d3867ec78e" rel="prev" title="Prev Page - Results 61 to 75 of 111">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=4&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 46 to 60 of 111">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=5&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 61 to 75 of 111">
+        5
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 76 to 90 of 111">
+        6
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=7&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 91 to 105 of 111">
+        7
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 106 to 111 of 111">
+        8
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9550&amp;page=7&amp;s=0e2370c27b84875182a363d3867ec78e" rel="next" title="Next Page - Results 91 to 105 of 111">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" title="Last Page - Results 106 to 111 of 111">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 76 to 90 of 111
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=9550&amp;page=6&amp;s=0e2370c27b84875182a363d3867ec78e" title="Reload this Page">
+       A Discussion of Roe v. Wade (410 U.S. 113)
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;t=9550&amp;pp=15&amp;page=6" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=sendtofriend&amp;t=9550" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=addsubscription&amp;t=9550" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="9550"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="6"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 9550);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261364&amp;mode=threaded#post261364">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_261364">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           04:11 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261364#post261364" name="post261364">
+          #76
+         </a>
+         <a id="postcount261364" name="76">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+          <img alt="Sigma's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=939&amp;dateline=1105821755"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+            <strong>
+             Sigma
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=939&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Sigma is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Impervious to logic
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,011
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_261364">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261359#post261359" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               yet Sigma is arguing that one apple could be called Granny Smith one day and Delicious the next.  And this is one of the "rational" ways to interpret?
+              </div>
+             </div>
+            </div>
+           </div>
+           If it is vague and ambiguous as to what kind of apple it is, then opinions may differ on what kind of apple it is.  One Judge may think it is one, another Judge may think it's another.  It is within their power to decide this.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261359#post261359" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               But how do you go from "vague and unambiguously" to "has no one meaning".
+              </div>
+             </div>
+            </div>
+           </div>
+           It has no
+           <i>
+            definite
+           </i>
+           meaning if it is vague.  Thus opinions over the meaning differ.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261359#post261359" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Well, Sigma thinks they mean whatever we want them to mean.
+              </div>
+             </div>
+            </div>
+           </div>
+           Steve, you are just dedicated to misunderstanding and mischaracterizing my view :P
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          My opinions may have changed but not the fact that I am right
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261364" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261364" id="qrwq_261364" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261364" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261365">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           04:12 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261365#post261365" name="post261365">
+          #77
+         </a>
+         <a id="postcount261365" name="77">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+          <img alt="Sigma's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=939&amp;dateline=1105821755"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+            <strong>
+             Sigma
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=939&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Sigma is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Impervious to logic
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,011
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261365">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261362#post261362" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Who's meaning?  Why won't you answer?
+              </div>
+             </div>
+            </div>
+           </div>
+           The Constitution.  SCOTUS interprets the Constitution :P
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Sigma; 05-02-2007 at
+         <span class="time">
+          04:24 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          My opinions may have changed but not the fact that I am right
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261365" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261365" id="qrwq_261365" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261365" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261369">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           04:30 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261369#post261369" name="post261369">
+          #78
+         </a>
+         <a id="postcount261369" name="78">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261369">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Sigma
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261365#post261365" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               The Constitution.  SCOTUS interprets the Constitution
+              </div>
+             </div>
+            </div>
+           </div>
+           Well all federal judges do but that aside, they interpret the constitution's meaning.  That is correct, just like an interpretor interprets a person and his/her meaning.  So unless something changed the constitution or changed the person...how does meaning change?  Your argument is that the interpretor gets to change meaning is it not?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261369" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261369" id="qrwq_261369" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261369" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261371">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           04:35 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261371#post261371" name="post261371">
+          #79
+         </a>
+         <a id="postcount261371" name="79">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261371">
+          <blockquote class="postcontent restore">
+           I have not gone missing.  Rather, I intend to go through a bit of history regarding the Constitution with appropriate citations to authoritative sources.  That takes considerably more time then just saying what I think.  But I did want to interject something in the course of the conversation that has been taking place.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Sigma
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261364#post261364" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Steve, you are just dedicated to misunderstanding and mischaracterizing my view :P
+              </div>
+             </div>
+            </div>
+           </div>
+           I think an interesting thing to note here is that this statement leads me to believe that you want steeeve to interpret your words to have the meaning that you intended them to have.  That is to say, you have an idea that you are trying to communicate to steeeeve, and when you say that he misunderstands your view, an assumption is that your statements have objective meaning which he is supposed to discover.  In other words, in order to misunderstand something, there has to be an understanding that is correct (i.e., an objective meaning).  Perhaps you may not agree here, to which I would be interested in why you disagree.
+           <br/>
+           <br/>
+           But if you agree, a question that might emerge is this: how is it that words have objective meaning in the course of normal conversation, but that they may not have objective meaning in Constitutional texts?  Note: I have not stated my own view on this matter yet, but I wanted to raise this question.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261371" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261371" id="qrwq_261371" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261371" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261372">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           04:35 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261372#post261372" name="post261372">
+          #80
+         </a>
+         <a id="postcount261372" name="80">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+          <img alt="Sigma's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=939&amp;dateline=1105821755"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+            <strong>
+             Sigma
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=939&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Sigma is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Impervious to logic
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,011
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261372">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261369#post261369" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Your argument is that the interpretor gets to change meaning is it not?
+              </div>
+             </div>
+            </div>
+           </div>
+           My argument is that the interpreter decides what the meaning is supposed to be.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          My opinions may have changed but not the fact that I am right
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261372" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261372" id="qrwq_261372" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261372" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261381">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           05:02 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261381#post261381" name="post261381">
+          #81
+         </a>
+         <a id="postcount261381" name="81">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261381">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Sigma
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261372#post261372" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               My argument is that the interpreter decides what the meaning is supposed to be.
+              </div>
+             </div>
+            </div>
+           </div>
+           And I would say you are wrong.  The point Phyllis makes above is the exact reason an interpreter is not supposed to decide meaning but rather relay meaning.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261381" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261381" id="qrwq_261381" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261381" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261384">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           05:09 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261384#post261384" name="post261384">
+          #82
+         </a>
+         <a id="postcount261384" name="82">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261384">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261359#post261359" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               And it does.
+              </div>
+             </div>
+            </div>
+           </div>
+           To see if Sigma meant the field to be completely open to any interpretation or distortion one chooses, lets ask him/her. Sigma, if you are reading this, it would help ease misunderstanding is you clarify whether or not you think that any and all interpretations of phrases of the Constitution are valid interpretations or whether you would place certain restrictions based on logic, estimates of original intent, etc?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               yet Sigma is arguing that one apple could be called Granny Smith one day and Delicious the next.  And this is one of the "rational" ways to interpret?
+               <br/>
+               <br/>
+               My argument is not that one way is perfect but that Sigma's method is irrational and goes against the original way constitutional interpretation was done.  Assuming judges used a similar format in deciding then there would still be disagreements but all of it would be in the realm of reasonable.
+              </div>
+             </div>
+            </div>
+           </div>
+           The way I understand Sigma, the comparison would be more similar to the following scenario. Say you are a customer in a restaurant and ask the waitress for an apple. You have in mind what most of us have in mind when we think of apple. However, the waitress brings you a crabapple. You might say to her "of course, I didn't mean crabapple when I asked for an apple" but she would have no way of knowing that except for her interpretation. If you had been from parts of the country where people love crabapples, then her interpretation would have been correct. If you were not specific enough, then it is your own fault if someone interprets incorrectly. You never imagined that anyone would bring you a crabapple instead of a standard apple so you never felt the need to specify further.
+           <br/>
+           <br/>
+           Similarly, there are situations that the founders never imagined (how can anyone imagine certain situations that will arise 200 years from now) so they were not specific enough in explaining their intent in various phrases of the Constitution. That is why a judge needs to try to understand their intent from a combination of rational interpretation of the phrase, historical context, the limitations of that contex and how that would be revelant today.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               But how do you go from "vague and unambiguously" to "has no one meaning".  For example the 8th amendment is vague but the death penalty was around when it was made so it would be rather unreasonable to claim this wasn't included as a reasonable form of punishment.  In fact, some of the most controversial questions are not hard to figure out.
+              </div>
+             </div>
+            </div>
+           </div>
+           I was surprised to learn once that the guillotine was invented to be a humane form of execution - since the criminal dies nearly instantaneously. Firing squad is also quite fast. I would agree that the founders probably did not disapprove of capital punishment completely, but who knows if they would have approved of the electric chair or gasing - which often cause more suffering than the old methods. There is some controversy about the suffering caused by lethal injection as well. Even given historical context, there is room for interpretation.
+           <br/>
+           <br/>
+           Also, the original phrase in the Constitution may or may not have had one meaning. If the writers were in disagreement, then the compromise text might have been interpreted slightly differently by each of the writers themselves. If the writers were in good agreement, then there probably was one meaning to the text. Even then, there could well be scenarios that they never imagined and therefore didn't make previsions for in the text. Either way, if they did not sufficiently specify, one would have to try to interpet what they meant based on rational discourse and historical context. That leaves room for a limited variation in interpetations.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               You claim here is that they were incompetent and no one knew what was meant.  Aside from the fact that the entire constitution and its meaning was literally spelled out in the federalist papers, what evidence do you have to support this idea?
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't know why you are arguing extremes here. Perhaps it is because you are frustrated with this whole discussion. Either way, I think that you would have to agree that there is a gray region between the writers of the Constitution being:
+           <br/>
+           1) Incompetent fools who don't know what they were doing.
+           <br/>
+           and
+           <br/>
+           2) Perfect humans who were in perfect agreement, imagined all scenarios that could occur in the present or future and included provisions for them in their text, and wrote language that was so brilliantly clear that the meaning would be obvious to everyone.
+           <br/>
+           <br/>
+           The founders were men of impressive intellect for their time and, in many ways, for all times. They were well read (more so than most any other generation) and had a good understanding of many of the traps and difficulties that nations face in their internal and external politics. However, they were also men limited by the ignorance of their time (as in their approach to slavery and the abilities of African Americans), disagreed on many issues and, as with most men of power, subject to biases based on self-interest or the interests of their constituency. The Constitution is an excellent document but it is not perfect. Justices are needed to interpret it because of its imperfect nature.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               As for the "vague" terms.  Those are only an issue when you have a new idea or thing come up and even then there were few vague terms (to them at least) at the time of adoption.  So how would you decide these vague terms?   Well, Sigma thinks they mean whatever we want them to mean.  I maintain that you look back and try to figure out what the terms meant at the time of adoption.  Afterall, they knew what they were doing.  I don't subscribe to the idea that they just wrote down stuff and said "well someone else will figure out what this means".
+              </div>
+             </div>
+            </div>
+           </div>
+           Again, they generally knew what they were doing but they were fallable humans after all - not perfect god-like creatures. As with Sigma's example of the interpretation of a rule against drugs really meaning a rule against recreational drugs, there were phrases in the Constitution that were written without the benefit of knowledge of significant future changes. It is not always easy to interpret how the founders would have reacted if they had known of the future changes. There is also the question of whether to take the attitutes of the founder's day as the ideal attitudes to emulate. After all, half of the founders believed that slavery was just.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               There is room for disagreement but there is no room for more than one way method to figure out meaning.  In my profession two accountants can come up with two different answers but we still use the same method.
+              </div>
+             </div>
+            </div>
+           </div>
+           It depends on how broadly you define that method.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261384" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261384" id="qrwq_261384" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261384" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261389">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           05:32 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261389#post261389" name="post261389">
+          #83
+         </a>
+         <a id="postcount261389" name="83">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261389">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261384#post261384" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               The way I understand Sigma, the comparison would be more similar to the following scenario. Say you are a customer in a restaurant and ask the waitress for an apple. You have in mind what most of us have in mind when we think of apple. However, the waitress brings you a crabapple. You might say to her "of course, I didn't mean crabapple when I asked for an apple" but she would have no way of knowing that except for her interpretation. If you had been from parts of the country where people love crabapples, then her interpretation would have been correct. If you were not specific enough, then it is your own fault if someone interprets incorrectly. You never imagined that anyone would bring you a crabapple instead of a standard apple so you never felt the need to specify further.
+               <br/>
+               <br/>
+               Similarly, there are situations that the founders never imagined (how can anyone imagine certain situations that will arise 200 years from now) so they were not specific enough in explaining their intent in various phrases of the Constitution. That is why a judge needs to try to understand their intent from a combination of rational interpretation of the phrase, historical context, the limitations of that contex and how that would be revelant today.
+              </div>
+             </div>
+            </div>
+           </div>
+           And yet this is not the question.  You assume that 1) the proper meaning cannot be found (although you oddly imply that a proper meaning does exist) and 2)That since no proper meaning can be found you can make up meaning and even change it as you feel.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I was surprised to learn once that the guillotine was invented to be a humane form of execution - since the criminal dies nearly instantaneously. Firing squad is also quite fast. I would agree that the founders probably did not disapprove of capital punishment completely, but who knows if they would have approved of the electric chair or gasing - which often cause more suffering than the old methods. There is some controversy about the suffering caused by lethal injection as well. Even given historical context, there is room for interpretation.
+             </div>
+            </div>
+           </div>
+           You seem to be missing the question.  New inventions is not the question...even more so in our case of abortion.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Also, the original phrase in the Constitution may or may not have had one meaning. If the writers were in disagreement, then the compromise text might have been interpreted slightly differently by each of the writers themselves. If the writers were in good agreement, then there probably was one meaning to the text. Even then, there could well be scenarios that they never imagined and therefore didn't make previsions for in the text. Either way, if they did not sufficiently specify, one would have to try to interpet what they meant based on rational discourse and historical context. That leaves room for a limited variation in interpetations.
+             </div>
+            </div>
+           </div>
+           And you have no proof of this even when we have reason to believe otherwise.  Furthermore, you still go from despair of no meaning to allowing changing meanings (if you agree with Sigma) which makes no sense.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I don't know why you are arguing extremes here. Perhaps it is because you are frustrated with this whole discussion. Either way, I think that you would have to agree that there is a gray region between the writers of the Constitution being:
+              <br/>
+              1) Incompetent fools who don't know what they were doing.
+              <br/>
+              and
+              <br/>
+              2) Perfect humans who were in perfect agreement, imagined all scenarios that could occur in the present or future and included provisions for them in their text, and wrote language that was so brilliantly clear that the meaning would be obvious to everyone.
+              <br/>
+              <br/>
+              The founders were men of impressive intellect for their time and, in many ways, for all times. They were well read (more so than most any other generation) and had a good understanding of many of the traps and difficulties that nations face in their internal and external politics. However, they were also men limited by the ignorance of their time (as in their approach to slavery and the abilities of African Americans), disagreed on many issues and, as with most men of power, subject to biases based on self-interest or the interests of their constituency. The Constitution is an excellent document but it is not perfect. Justices are needed to interpret it because of its imperfect nature.
+             </div>
+            </div>
+           </div>
+           Great, that answered nothing.  All you have stated is that you think the founders might be in disagreement yet you have no evidence of this but do have evidence to the contrary.
+           <br/>
+           <br/>
+           I don't argue that every question can be found in a matter of seconds but I do argue that 1) there is a correct meaning and 2) There is a best method for trying to figure that out.
+           <br/>
+           <br/>
+           What Sigma is arguing is that there is no better method to figure out the true meaning and this doesn't matter because the true meaning doesn't matter.  Finally, she argues that the meaning changes (ie it is a living document)
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Again, they generally knew what they were doing but they were fallable humans after all - not perfect god-like creatures. As with Sigma's example of the interpretation of a rule against drugs really meaning a rule against recreational drugs, there were phrases in the Constitution that were written without the benefit of knowledge of significant future changes. It is not always easy to interpret how the founders would have reacted if they had known of the future changes. There is also the question of whether to take the attitutes of the founder's day as the ideal attitudes to emulate. After all, half of the founders believed that slavery was just.
+             </div>
+            </div>
+           </div>
+           You misrepresent the drug letter by the parent.  The only point of that is the only information you have would be to conclude that marijuana was something you shouldn't do.
+           <br/>
+           <br/>
+           I doubt you would argue that because the meaning might be hard to find that you just make up a meaning.  Furthermore, how do you suggest that this makes it so the meaning can change?  You say half the founders believed slavery to be ok...and the constitution supported this.  Did judges go "well, thats a bad idea so lets get rid of slavery".  No, we have a way to change the constitution.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It depends on how broadly you define that method.
+             </div>
+            </div>
+           </div>
+           Well can you explain how the method of taking a meaning that you feel best applies to todays society (in other words not even seeking what the original meaning might be) and then that meaning can even change is better or even reasonable?  Just imagine if contracts worked that way...
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261389" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261389" id="qrwq_261389" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261389" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261392">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           05:51 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261392#post261392" name="post261392">
+          #84
+         </a>
+         <a id="postcount261392" name="84">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+          <img alt="Sigma's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=939&amp;dateline=1105821755"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+            <strong>
+             Sigma
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=939&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Sigma is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Impervious to logic
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,011
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261392">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261381#post261381" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               And I would say you are wrong
+              </div>
+             </div>
+            </div>
+           </div>
+           Yay for you, you have an opinion.  Interpreters have to decide the meaning of the words in order to relay that meaning, Steve :P
+           <br/>
+           <br/>
+           <b>
+            Another opinion
+           </b>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+              </div>
+              <div class="message">
+               Sigma, if you are reading this, it would help ease misunderstanding is you clarify whether or not you think that any and all interpretations of phrases of the Constitution are valid interpretations or whether you would place certain restrictions based on logic, estimates of original intent, etc?
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't think Steve is asking what I, personally, find a reasonable criteria to be but is instead arguing that there is an
+           <i>
+            objective
+           </i>
+           criteria that all must use to determine meaning (apparently composed of or including the original application).  I disagree that there is an objective criteria.  Steve then adds his own end-of-the-world scenarios, quite independent of my input.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Sigma; 05-02-2007 at
+         <span class="time">
+          06:18 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          My opinions may have changed but not the fact that I am right
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261392" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261392" id="qrwq_261392" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261392" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261396">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           06:08 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261396#post261396" name="post261396">
+          #85
+         </a>
+         <a id="postcount261396" name="85">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261396">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261389#post261389" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               And yet this is not the question.  You assume that 1) the proper meaning cannot be found (although you oddly imply that a proper meaning does exist) and
+              </div>
+             </div>
+            </div>
+           </div>
+           Sometimes the original meaning is clear and obvious. Sometimes it is not. If it is not, then sometimes one can figure out the meaning from historical context. Sometimes, historical context does not help because, as with the medical use marijuana example, it would be hard to know how the founders would have reacted to the new situation.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               2)That since no proper meaning can be found you can make up meaning and even change it as you feel.
+              </div>
+             </div>
+            </div>
+           </div>
+           You have no justification for claiming that I hold this view. If you think that you do have justification, than support that with quotes from my text.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               You seem to be missing the question.  New inventions is not the question...even more so in our case of abortion.
+              </div>
+             </div>
+            </div>
+           </div>
+           Answering your question more directly. Your question was "
+           <b>
+            <i>
+             But how do you go from "vague and unambiguously" to "has no one meaning". For example the 8th amendment is vague but the death penalty was around when it was made so it would be rather unreasonable to claim this wasn't included as a reasonable form of punishment. "
+            </i>
+           </b>
+           . You seemed to be saying that, from historical context, one can pinpoint one exact meaning. That was what I was arguing against in this section of my post. By the way, where abortion is concerned, abortion was legal up to the point of quickening during colonial times and the early years of the US (starting to be more limited around the 1820s). So, historical interpretation of abortion issues would probably work against you here.
+           <br/>
+           <br/>
+           Also, once again, just because I claim that there can be various valid interpretations of a vague text does not mean that there were various original meanings. If you DON'T KNOW the exact original meaning or intent because of vagueness of the text or because of a new significant scenario that would never have been imagined in the founder's day, then you have to use all the tools you have to make an interpretation of the original intent - including using logic, historical context, etc.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               And you have no proof of this even when we have reason to believe otherwise.  Furthermore, you still go from despair of no meaning to allowing changing meanings (if you agree with Sigma) which makes no sense.
+              </div>
+             </div>
+            </div>
+           </div>
+           You are continuing to miss our points. Neither Sigma nor I claim that there were widely ranging meanings or intents in the text of the Constitution. The original meanings that the founders had in mind were probably either quite specific or had some small variation (if they were a compromise solution). What we are claiming is that often the meaning or original intent is not clear and one has to interpret as best one can. Since we cannot go back in time and read their minds, our imperfect means of making such interpretations would naturally lead to a variety of interpretations.
+           <br/>
+           <br/>
+           Also, what specifically are you claiming that I have no proof of?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               Great, that answered nothing.  All you have stated is that you think the founders might be in disagreement yet you have no evidence of this but do have evidence to the contrary.
+              </div>
+             </div>
+            </div>
+           </div>
+           I think almost all historians know of the disagreements between the founders about the issue of slavery. Also, Hamilton even argued against a Bill of Rights being introduced to begin with. Also, founders differed as to the degree of power of the central government vs the power of state governments. These are all well known disagreements. I am surprised that you are not familiar with them. I am sure that I could find many, many more if I took the trouble of looking.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               I don't argue that every question can be found in a matter of seconds but I do argue that 1) there is a correct meaning and 2) There is a best method for trying to figure that out.
+               <br/>
+               <br/>
+               What Sigma is arguing is that there is no better method to figure out the true meaning and this doesn't matter because the true meaning doesn't matter.  Finally, she argues that the meaning changes (ie it is a living document)
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't think that Sigma is arguing that the original meaning doesn't matter or that living document means that you can have any interpretation as you like. I am still hoping that Sigma will respond to this to clear up misunderstandings.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               You misrepresent the drug letter by the parent.  The only point of that is the only information you have would be to conclude that marijuana was something you shouldn't do.
+              </div>
+             </div>
+            </div>
+           </div>
+           You might also have some record of complaints on the part of the parent as to why they disapprove of drugs. If all of their complaints revolve around the pitfalls of using drugs recreationally, then your interpretation of "no drugs" meaning "no recreational drugs" might have a high probability of being correct.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               I doubt you would argue that because the meaning might be hard to find that you just make up a meaning.  Furthermore, how do you suggest that this makes it so the meaning can change?  You say half the founders believed slavery to be ok...and the constitution supported this.  Did judges go "well, thats a bad idea so lets get rid of slavery".  No, we have a way to change the constitution.
+              </div>
+             </div>
+            </div>
+           </div>
+           I admit that I do not know enough about the specific treatment of African Americans by the early Constitution. If the lower status of blacks was specifically spelled out in the Constitution, then the change in their status would have to be made through legislature and ammendment. If, however, their status was not specifically spelled out but it was assumed by people, at the time of the founding, that rights ascribed to men did not apply to blacks, then later times (when blacks were recognized as men just like everyone else) could have allowed a judge to use the new interpretation to claim laws against blacks unconstitutional.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               Well can you explain how the method of taking a meaning that you feel best applies to todays society (in other words not even seeking what the original meaning might be) and then that meaning can even change is better or even reasonable?  Just imagine if contracts worked that way...
+              </div>
+             </div>
+            </div>
+           </div>
+           Why do you assume that we do not even seek the original meaning? Justify your assumptions with quotes from our text.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261396" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261396" id="qrwq_261396" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261396" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261408">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           07:32 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261408#post261408" name="post261408">
+          #86
+         </a>
+         <a id="postcount261408" name="86">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261408">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261396#post261396" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Sometimes the original meaning is clear and obvious. Sometimes it is not. If it is not, then sometimes one can figure out the meaning from historical context. Sometimes, historical context does not help because, as with the medical use marijuana example, it would be hard to know how the founders would have reacted to the new situation.
+              </div>
+             </div>
+            </div>
+           </div>
+           This doesn't speak to changing of meanings.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You have no justification for claiming that I hold this view. If you think that you do have justification, than support that with quotes from my text.
+             </div>
+            </div>
+           </div>
+           You started off by defending Sigma.  The assumption is that we were going on that.  If you don't hold the view that meaning changes then you either have to hold the view that meaning comes from what the writers wrote or that meaning comes from a judges personal viewpoint.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You seemed to be saying that, from historical context, one can pinpoint one exact meaning.
+             </div>
+            </div>
+           </div>
+           from historical context and original meaning you can figure most every meaning...more meanings than any other approach ever could.  To quote Justice Scalia "my way gives you most of the answers the other way gives you none".
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              That was what I was arguing against in this section of my post. By the way, where abortion is concerned, abortion was legal up to the point of quickening during colonial times and the early years of the US (starting to be more limited around the 1820s). So, historical interpretation of abortion issues would probably work against you here.
+             </div>
+            </div>
+           </div>
+           The constitution doesn't speak to every situation.  The point was only that abortion was not some new thing.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Also, once again, just because I claim that there can be various valid interpretations of a vague text does not mean that there were various original meanings. If you DON'T KNOW the exact original meaning or intent because of vagueness of the text or because of a new significant scenario that would never have been imagined in the founder's day, then you have to use all the tools you have to make an interpretation of the original intent - including using logic, historical context, etc.
+             </div>
+            </div>
+           </div>
+           Not part of the question here.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You are continuing to miss our points. Neither Sigma nor I claim that there were widely ranging meanings or intents in the text of the Constitution.
+             </div>
+            </div>
+           </div>
+           I know...Sigma thinks they are irrelevant.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The original meanings that the founders had in mind were probably either quite specific or had some small variation (if they were a compromise solution). What we are claiming is that often the meaning or original intent is not clear and one has to interpret as best one can. Since we cannot go back in time and read their minds, our imperfect means of making such interpretations would naturally lead to a variety of interpretations.
+             </div>
+            </div>
+           </div>
+           You do not need to read minds as you only need to read what they wrote.  Some justices even use dictionaries of that time.  Seems like a good way to get answers.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Also, what specifically are you claiming that I have no proof of?
+             </div>
+            </div>
+           </div>
+           That the adopters of the constitution thought certain parts of the constitution meant different things (from each other).
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I think almost all historians know of the disagreements between the founders about the issue of slavery.
+             </div>
+            </div>
+           </div>
+           And?  There was no disagreement on what the constitution said about it.  Thus the 13th amendment.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Also, Hamilton even argued against a Bill of Rights being introduced to begin with.
+             </div>
+            </div>
+           </div>
+           Yeah, he did.  Probably a wise move on his part.  Again this shows nothing.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Also, founders differed as to the degree of power of the central government vs the power of state governments. These are all well known disagreements. I am surprised that you are not familiar with them. I am sure that I could find many, many more if I took the trouble of looking.
+             </div>
+            </div>
+           </div>
+           Yet this doesn't matter.  The fact that they had disagreements doesn't mean they wrote a constitution where they disagreed on what they wrote.  They compromised and made it law.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I don't think that Sigma is arguing that the original meaning doesn't matter or that living document means that you can have any interpretation as you like. I am still hoping that Sigma will respond to this to clear up misunderstandings.
+             </div>
+            </div>
+           </div>
+           living document means that provisions of the constitution change to keep up with the "evolving standard decency that mark the progress of a maturing society".  So the death penalty might be ok today but not tomorrow.  This is not up for dispute.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You might also have some record of complaints on the part of the parent as to why they disapprove of drugs.
+             </div>
+            </div>
+           </div>
+           These comments are the exact reason why you get into your idea of how the constitution works.  You infer something and then make conclusions based on that.  My example only had two facts.  You don't get to infer facts to come up with different judgments. In any event you still went and did a historical analysis to figure out the true meaning...one that doesn't change.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I admit that I do not know enough about the specific treatment of African Americans by the early Constitution. If the lower status of blacks was specifically spelled out in the Constitution, then the change in their status would have to be made through legislature and ammendment.
+             </div>
+            </div>
+           </div>
+           The 3/5th compromise is something you should know.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If, however, their status was not specifically spelled out but it was assumed by people, at the time of the founding, that rights ascribed to men did not apply to blacks, then later times (when blacks were recognized as men just like everyone else) could have allowed a judge to use the new interpretation to claim laws against blacks unconstitutional.
+             </div>
+            </div>
+           </div>
+           No, and this is evidenced by the 19th amendment that gave the woman the right to vote.  No judge assumed the right to vote applied to woman because it never meant that even though it didn't specifically say "woman can't vote".
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261408" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261408" id="qrwq_261408" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261408" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261410">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           07:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261410#post261410" name="post261410">
+          #87
+         </a>
+         <a id="postcount261410" name="87">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261410">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Sigma
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261392#post261392" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Yay for you, you have an opinion.  Interpreters have to decide the meaning of the words in order to relay that meaning
+              </div>
+             </div>
+            </div>
+           </div>
+           You play with words again.  Decide doesn't mean "make up what you feel the meaning should be".  It means you understand the meaning of the person that said it and relay that to the other person.  You didn't respond to Phyllis but it is a great point that you claim I "misunderstood" you which very much implies you had a specific meaning.  If we were speaking in different languages perhaps you would say the interpreter misspoke about what you said?  but that is impossible under your view.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261410" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261410" id="qrwq_261410" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261410" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261416">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           08:28 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261416#post261416" name="post261416">
+          #88
+         </a>
+         <a id="postcount261416" name="88">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+          <img alt="Sigma's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=939&amp;dateline=1105821755"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e" title="Sigma is offline">
+            <strong>
+             Sigma
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=939&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=939&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Sigma is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Impervious to logic
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,011
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261416">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261410#post261410" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I know...Sigma thinks they are irrelevant
+              </div>
+             </div>
+            </div>
+           </div>
+           I think what are irrelevant?  The meanings of the passages?  That's untrue.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261410#post261410" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You play with words again.  Decide doesn't mean "make up what you feel the meaning should be".
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't believe I claimed this.  The interpreter must decide what the words are trying to convey and then convey that meaning.  The point is that the interpreter decides what the meaning is supposed to be.  In a few ways it is similar to our case, where there are 9 interpreters to a written document who may or may not all interpret a passage in the same way.
+           <br/>
+           <br/>
+           In a few ways it is similar to the "don't do drugs" message, as well.  One interpreter may look at the context it was said in and say "It was meant to apply to drugs used for recreational purposes" and another may look at the person who said it and say "It was meant to apply to drugs that were used solely for recreational purposes
+           <b>
+            at the time it was said
+           </b>
+           " (I believe you fall under that, Steve) and yet another could look at it and say "The text says no drugs.  There are no exceptions given in the text" and interpret it as a prohibition on all drugs for any reason.  All are valid interpretations.  The most rational is the first, and the application would change based on the changing society.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261410#post261410" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               If we were speaking in different languages perhaps you would say the interpreter misspoke about what you said?  but that is impossible under your view.
+              </div>
+             </div>
+            </div>
+           </div>
+           If what was said was a phrase agreed upon by many people and meant to answer a different question, what rubric do we use to determine this?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          My opinions may have changed but not the fact that I am right
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261416" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261416" id="qrwq_261416" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261416" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261417">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           08:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261417#post261417" name="post261417">
+          #89
+         </a>
+         <a id="postcount261417" name="89">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261417">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261408#post261408" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               This doesn't speak to changing of meanings.
+              </div>
+             </div>
+            </div>
+           </div>
+           I never claimed that the original meanings change. Many of the meanings and intentions in the Constitution are not completely clear. Therefore, the thingg that changes is our interpretations of those meanings - changing depending on the perspective of the interpreter, and the meaning he/she understands from the text, historical perspective and its applicability to today.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               You started off by defending Sigma.  The assumption is that we were going on that.  If you don't hold the view that meaning changes then you either have to hold the view that meaning comes from what the writers wrote or that meaning comes from a judges personal viewpoint.
+              </div>
+             </div>
+            </div>
+           </div>
+           I started off by defending Sigma and also stated some of my own views. When you attacked my views without specifically mentioning Sigma, I thought that we were having a discussion on my views - not Sigmas. To be consistent and clear up miscommunications, let us specifically mention Sigma then if we are referring to her views. Otherwise, the assumption will be that we are referring to our own views. Agreed?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               from historical context and original meaning you can figure most every meaning...more meanings than any other approach ever could.  To quote Justice Scalia "my way gives you most of the answers the other way gives you none".
+              </div>
+             </div>
+            </div>
+           </div>
+           Many answers can be retrieved from historical context. However, historical context often cannot give interpretations for a new situation that the founders never envisioned or made provisions for. Then, one has to try to interpret motivation behind the text. That is more difficult.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               You do not need to read minds as you only need to read what they wrote.  Some justices even use dictionaries of that time.  Seems like a good way to get answers.
+              </div>
+             </div>
+            </div>
+           </div>
+           If we are to have a rational and calm debate, I would appreciate it if you avoid the snide remarks such as justices using dictionaries. Nobody made any comments which justified that remark.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               That the adopters of the constitution thought certain parts of the constitution meant different things (from each other).
+              </div>
+             </div>
+            </div>
+           </div>
+           I see there has been a miscommunication. I thought you meant that I had no proof that the founders disagreed on issues relevant to the Constitution. As to whether the founders all agreed on the meaning of the text of the Constitution, I would expect that their agreement would be similar to the type of agreement on context that one sees today in documents that are prepared by committee. Namely, for the most part, the meanings are commonly unuderstood and agreed upon. However, sometimes there is some room for some interpretation - as in the vote to allow Bush to use force if necessary in Iraq, where many Democrats expected that it meant we would explore other options more fully first.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               living document means that provisions of the constitution change to keep up with the "evolving standard decency that mark the progress of a maturing society".  So the death penalty might be ok today but not tomorrow.  This is not up for dispute.
+              </div>
+             </div>
+            </div>
+           </div>
+           Unfortunately, "cruel and unusual" is vaguely defined. The death penalty certainly existed during early America, but does that mean that all founders agreed that capital punishment was not cruel and unusual? I personally don't have the answer to that and don't have the time to research the history. Either way, they should have been more specific if they didn't want the interpretation to be more open.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               These comments are the exact reason why you get into your idea of how the constitution works.  You infer something and then make conclusions based on that.  My example only had two facts.  You don't get to infer facts to come up with different judgments. In any event you still went and did a historical analysis to figure out the true meaning...one that doesn't change.
+              </div>
+             </div>
+            </div>
+           </div>
+           But what if all you had was the prohibition against drugs and no other historical input. One interpretation could be - they were against drugs but the only drug use at the time was recreational, so their criticism must have been only against recreational use. Another interpretation could be - they saw drug use as bad no matter how it is used. Since you have no way of figuring out their intent or what specifically they were against, you have to interpret their intent on insufficient information - which leads to a variety of interpretations.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               The 3/5th compromise is something you should know.
+              </div>
+             </div>
+            </div>
+           </div>
+           I remember reading that blacks got 3/5ths of a vote compared to whites. Otherwise, I don't remember reading any statement that blacks are not covered under the Bill of Rights, etc. Do you remember any such statement?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               No, and this is evidenced by the 19th amendment that gave the woman the right to vote.  No judge assumed the right to vote applied to woman because it never meant that even though it didn't specifically say "woman can't vote".
+              </div>
+             </div>
+            </div>
+           </div>
+           Taking a quick look through the Constitution, perhaps I missed it but I did not see a specific statement outlining who HAS the right to vote. The Ammendments outline the criteria which one CANNOT use to exclude voting rights - by race, or by sex. I wonder, then, whether the Constitution would allow discriminating in voting rights based on, say, hair color ( a silly example but one that is relevant to legality). Anyway, it seems like the issue of rights for various races and for women would have to depend on whether there is a general statement about who gets certain rights. For example, I think it is assumed that women have all the rights covered by the Bill of Rights since it refers to people, not specifically to men. The Bill of Rights does not cover voting rights and I could find no statement outlining who specifically gets voting rights, so that would explain the need for a 19th Ammendment saying that women cannot be excluded from voting. Either way, this part of the discussion is getting off track.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261417" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261417" id="qrwq_261417" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261417" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_261418">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          05-02-2007,
+          <span class="time">
+           08:45 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=261418#post261418" name="post261418">
+          #90
+         </a>
+         <a id="postcount261418" name="90">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_261418">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Sigma
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=261416#post261416" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               In a few ways it is similar to the "don't do drugs" message, as well.  One interpreter may look at the context it was said in and say "It was meant to apply to drugs used for recreational purposes" and another may look at the person who said it and say "It was meant to apply to drugs that were used solely for recreational purposes
+               <b>
+                at the time it was said
+               </b>
+               " (I believe you fall under that, Steve) and yet another could look at it and say "The text says no drugs.  There are no exceptions given in the text" and interpret it as a prohibition on all drugs for any reason.  All are valid interpretations.  The most rational is the first, and the application would change based on the changing society.
+              </div>
+             </div>
+            </div>
+           </div>
+           The facts of that were as follows:
+           <br/>
+           <br/>
+           Parent rights a note saying "Don't do drugs" and was a strong opponent of marijuana.
+           <br/>
+           <br/>
+           You then went and assumed the message was for recreational drugs, and that the reason not to do them was because they are bad.
+           <br/>
+           <br/>
+           Afterwards you based a conclusion on that.
+           <br/>
+           <br/>
+           Lets take this example and convert it to a law.  The constitution says "dont do drugs" and at the time marijuana was illegal and considered a drug.  Fifty years later scientists claim marijuana is actually good for you.  Does this make it so marijuana can no longer be forbidden by the constitution if a judge agrees with the scientist using the rubric you find so dear?
+           <br/>
+           <br/>
+           I would say the only reasonable view of that law would be to say that unless congress changes the law (or amends the constitution) then marijuana will always been considered under that law.  Otherwise you have changed what it meant.  You assumed things that might misrepresent what the law meant just like I can assume things and misrepresent what you say.  When this happens what you said or what the law says didn't change.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_261418" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=261418" id="qrwq_261418" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_261418" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="9550"/>
+      <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 6 of 8
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e" rel="start" title="First Page - Results 1 to 15 of 111">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9550&amp;page=5&amp;s=0e2370c27b84875182a363d3867ec78e" rel="prev" title="Prev Page - Results 61 to 75 of 111">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=4&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 46 to 60 of 111">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=5&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 61 to 75 of 111">
+        5
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 76 to 90 of 111">
+        6
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=7&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 91 to 105 of 111">
+        7
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 106 to 111 of 111">
+        8
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9550&amp;page=7&amp;s=0e2370c27b84875182a363d3867ec78e" rel="next" title="Next Page - Results 91 to 105 of 111">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" title="Last Page - Results 106 to 111 of 111">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e">
+       <span class="ctrlcontainer">
+        Abortion Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=9550&amp;page=6#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=0e2370c27b84875182a363d3867ec78e">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=0e2370c27b84875182a363d3867ec78e">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=0e2370c27b84875182a363d3867ec78e">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=0e2370c27b84875182a363d3867ec78e">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=0e2370c27b84875182a363d3867ec78e">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=0e2370c27b84875182a363d3867ec78e">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=0e2370c27b84875182a363d3867ec78e">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=0e2370c27b84875182a363d3867ec78e">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=0e2370c27b84875182a363d3867ec78e">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=0e2370c27b84875182a363d3867ec78e">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=9550&amp;page=6#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=0e2370c27b84875182a363d3867ec78e">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=9550&amp;page=6#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     03:40 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=0e2370c27b84875182a363d3867ec78e&amp;rand=1392410452" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

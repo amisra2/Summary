@@ -1,0 +1,3023 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=4b1cbcd9456fd8062f54adeb722c2736&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=8524";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="money, poker, people, realize, entertainment, gambling, paying, throw, cream, legal, buying, hungry, temporary, waste, taste, teeth, rotting, hypothetically, fault, amount, bonus, casino, risking, stupid, punishment, spend/gamble, played, record, house, constitution, passed, years, internet, online, betting, racing, skill, horse, takes, rights, defend, music, chance, wasting" name="keywords"/>
+  <meta content="The house has passed a bill that would ban internet poker and have up to 5 years in jail as the max punishment. Since when do they have the right to do this? Why are they doing this? It's our money, let us spend/gamble it as we please. For the record I have never played poker for money online, but I will defend the rights of those that do. What comes next? Ban what I think is bad music? You're only wasting your money, at least with gambling there's a chance to win (and it takes more skill than" name="description"/>
+  <title>
+   And there goes the Constitution - Poker Ban
+  </title>
+  <link href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Government Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       And there goes the Constitution - Poker Ban
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=4b1cbcd9456fd8062f54adeb722c2736&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="8524"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 16">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 16 of 16">
+        2
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 16 of 16">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 16 to 16 of 16">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 16
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Reload this Page">
+       And there goes the Constitution - Poker Ban
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;t=8524&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=sendtofriend&amp;t=8524" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=addsubscription&amp;t=8524" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="8524"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 8524);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222777&amp;mode=threaded#post222777">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_222777">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           12:01 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222777#post222777" name="post222777">
+          #1
+         </a>
+         <a id="postcount222777" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         And there goes the Constitution - Poker Ban
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_222777">
+          <blockquote class="postcontent restore">
+           The house has passed a bill that would ban internet poker and have up to 5 years in jail as the max punishment. Since when do they have the right to do this? Why are they doing this? It's our money, let us spend/gamble it as we please. For the record I have never played poker for money online, but I will defend the rights of those that do. What comes next? Ban what I think is bad music? You're only wasting your money, at least with gambling there's a chance to win (and it takes more skill than horse racing betting, which this bill keeps legal). Let's ban buying bad cars, let's ban buying ice cream, after all at the end it'll be gone and how many people really buy ice cream because they're hungry? It's just a waste for the temporary good taste you get. You lose money and risk your teeth rotting. What's next? Poker is fun, so even if you lose you're paying for entertainment (much like casino poker, which is still legal under this bill BTW) and you can also win money. Just because people are too stupid to realize that the money they're risking is real money and don't know when to quit gambling is not the fault of other people. If they want to throw it away, fine. But let me (hypothetically me) throw my money away if I want. I realize that I'm paying for entertainment, and I have a set amount that I'm willing to lose per week. Once I lose that, I'm done. If I win, it's just a bonus.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222777" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222777" id="qrwq_222777" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222777" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222811">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           08:55 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222811#post222811" name="post222811">
+          #2
+         </a>
+         <a id="postcount222811" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1299&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="georged is offline">
+            <strong>
+             georged
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1299&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1299&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="georged is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Oregon
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           7,012
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222811">
+          <blockquote class="postcontent restore">
+           In a word, politics. The Republican Central Party is appealing to its conservative religious base in an election year where more and more people are saying they'll vote for democratic congressional candidates solely to curb current administration's abuse of executive power.
+           <br/>
+           <br/>
+           For a dose of political hypocrisy (the bill's supporters are pushing it on a moral basis), note that horse racing and lotteries, big state revenue sources, the worst possible gambling odds available and lotteries being favored by those who can least afford to gamble, would be exempt from the bill.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          These are my principles. If you don't like them I have others. ~Groucho Marx~
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222811" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222811" id="qrwq_222811" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222811" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222824">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           09:35 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222824#post222824" name="post222824">
+          #3
+         </a>
+         <a id="postcount222824" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222824">
+          <blockquote class="postcontent restore">
+           I wouldn't go far as to say it was an unconstitutional ban.  Seems judges generally accept that the commerce clause would allow such a ban.
+           <br/>
+           <br/>
+           As for the law.  It is stupid and hypocritical as georged points out.  It is almost as if the republicans want to loss control of congress.  They may appeal to some religious folks but most people are going to realize that this is a bunch of BS.
+           <br/>
+           <br/>
+           You don't want your kids playing online poker?  TRY BEING A PARENT.
+           <br/>
+           <br/>
+           Anyone else want to support a plan to fire all of congress and appoint people at random?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222824" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222824" id="qrwq_222824" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222824" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222841">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           10:50 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222841#post222841" name="post222841">
+          #4
+         </a>
+         <a id="postcount222841" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222841">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               I wouldn't go far as to say it was an unconstitutional ban.  Seems judges generally accept that the commerce clause would allow such a ban.
+               <br/>
+               <br/>
+               As for the law.  It is stupid and hypocritical as georged points out.  It is almost as if the republicans want to loss control of congress.  They may appeal to some religious folks but most people are going to realize that this is a bunch of BS.
+               <br/>
+               <br/>
+               You don't want your kids playing online poker?  TRY BEING A PARENT.
+               <br/>
+               <br/>
+               Anyone else want to support a plan to fire all of congress and appoint people at random?
+              </div>
+             </div>
+            </div>
+           </div>
+           I agree, but I don't the main concern was even parenting. I think it was some people don't realize it's real money so they gamble away their own money and then can't afford to make the payment on the house, buy food, etc. Apparently there was some guy who was hoping it would pass so he himself wouldn't have to worry about gambling all his money away. That's even easier than being a parent. Online poker money is real money just like any online payment is. Don't play internet poker for the purpose of making money, play it for fun and if you win money, that's just a bonus. The problem is when people expect to win and then don't. Try being responsible for your own money.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222841" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222841" id="qrwq_222841" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222841" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222842">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           10:51 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222842#post222842" name="post222842">
+          #5
+         </a>
+         <a id="postcount222842" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222842">
+          <blockquote class="postcontent restore">
+           and in terms of Constitutionality, it's a big stretch to say that online poker is commerce "among the several states". What if they start doing poker sites purely for a state, so all people gambling must be from one state? Then would it be unconstitutional to ban it?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222842" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222842" id="qrwq_222842" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222842" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222851">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           11:09 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222851#post222851" name="post222851">
+          #6
+         </a>
+         <a id="postcount222851" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1299&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="georged is offline">
+            <strong>
+             georged
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1299&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1299&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="georged is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Oregon
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           7,012
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222851">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                zachvac
+               </strong>
+              </div>
+              <div class="message">
+               and in terms of Constitutionality, it's a big stretch to say that online poker is commerce "among the several states". What if they start doing poker sites purely for a state, so all people gambling must be from one state? Then would it be unconstitutional to ban it?
+              </div>
+             </div>
+            </div>
+           </div>
+           It's really a stretch to use the interstate commerce parody when virtually all Internet gambling websites are based outside the US while excluded lotteries are in most US states.
+           <br/>
+           <br/>
+           People from states with no lottery drive across state lines to buy large volumes of lottery tickets in states with legal lotteries on a daily basis. No politician will challenge that under the interstate commerce act because lotteries are popular with the voting public and help support bureaucracies that favor political manipulation.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          These are my principles. If you don't like them I have others. ~Groucho Marx~
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222851" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222851" id="qrwq_222851" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222851" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222858">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           11:25 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222858#post222858" name="post222858">
+          #7
+         </a>
+         <a id="postcount222858" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222858">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                zachvac
+               </strong>
+              </div>
+              <div class="message">
+               and in terms of Constitutionality, it's a big stretch to say that online poker is commerce "among the several states". What if they start doing poker sites purely for a state, so all people gambling must be from one state? Then would it be unconstitutional to ban it?
+              </div>
+             </div>
+            </div>
+           </div>
+           It is not a stretch at all with the current accepted view of the commerce clause.  This is clear if you look at sales of tobacco and alcohol online.
+           <br/>
+           <br/>
+           Oddly enough, there is a test for these kinds of things and I believe there have already been some court cases on the subject.  Chances are good it would pass the constitutional test.
+           <br/>
+           <br/>
+           We have an internet law lawyer at work...perhaps I could ask her a few questions.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222858" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222858" id="qrwq_222858" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222858" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222871">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           11:55 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222871#post222871" name="post222871">
+          #8
+         </a>
+         <a id="postcount222871" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222871">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               It is not a stretch at all with the current accepted view of the commerce clause.  This is clear if you look at sales of tobacco and alcohol online.
+               <br/>
+               <br/>
+               Oddly enough, there is a test for these kinds of things and I believe there have already been some court cases on the subject.  Chances are good it would pass the constitutional test.
+               <br/>
+               <br/>
+               We have an internet law lawyer at work...perhaps I could ask her a few questions.
+              </div>
+             </div>
+            </div>
+           </div>
+           But wouldn't that be an example of a living Constitution? I'm not sure what the restriction is about alcohol and tobacco online, I don't know of anyone who buys their beer online
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           . But that's because it's illegal to buy alcohol when under 21 and tobacco when under 18, right? Also aren't those mostly state laws?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222871" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222871" id="qrwq_222871" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222871" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222882">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           12:11 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222882#post222882" name="post222882">
+          #9
+         </a>
+         <a id="postcount222882" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222882">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                zachvac
+               </strong>
+              </div>
+              <div class="message">
+               But wouldn't that be an example of a living Constitution?
+              </div>
+             </div>
+            </div>
+           </div>
+           yeah, it would! Hopefully you see the downsides of it now.  Some of the non-living constitution judges have given up though and accepted the new definition of the commerce clause as to not created a "wrentching departure" from current practice.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I'm not sure what the restriction is about alcohol and tobacco online, I don't know of anyone who buys their beer online
+              <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+              . But that's because it's illegal to buy alcohol when under 21 and tobacco when under 18, right? Also aren't those mostly state laws?
+             </div>
+            </div>
+           </div>
+           It was with regard to online sales of wine.  New York had varying laws for outside wine coming into the state.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222882" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222882" id="qrwq_222882" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222882" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_222987">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           06:54 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=222987#post222987" name="post222987">
+          #10
+         </a>
+         <a id="postcount222987" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_222987">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               yeah, it would! Hopefully you see the downsides of it now.  Some of the non-living constitution judges have given up though and accepted the new definition of the commerce clause as to not created a "wrentching departure" from current practice.
+              </div>
+             </div>
+            </div>
+           </div>
+           Now? Since when have I favored a living Constitution? There are a few things that can actually be interpreted and change with time such as what a reasonable search and seizure is, but most of the Constitution should be interpreted as it is written. But they keep chipping away at our rights. First it's no "hate" speech, then censorship of the the airwaves, what's next? No criticizing the government? I realize we have a way to go with that one but the same is true for the 2nd amendment. We started with the right to bear arms shall not be ABRIDGED. We've gone from not allowing the right to be abridged to forcing someone to get a permit if they want to own any gun, and outright banning others. Just a few examples. Now they're on to protecting us for our own good again, just what the Constitution does NOT describe. The government's supposed to protect us from threats of force, not our own spending habits.
+           <br/>
+           <br/>
+           It was with regard to online sales of wine.  New York had varying laws for outside wine coming into the state.[/QUOTE]
+           <br/>
+           <br/>
+           State laws like this are Constitutional (but still wrong IMO, but at least legal to make), but the online poker ban would be a federal law.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_222987" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=222987" id="qrwq_222987" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_222987" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_223004">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-17-2006,
+          <span class="time">
+           08:10 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=223004#post223004" name="post223004">
+          #11
+         </a>
+         <a id="postcount223004" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_223004">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                zachvac
+               </strong>
+              </div>
+              <div class="message">
+               Now? Since when have I favored a living Constitution?
+              </div>
+             </div>
+            </div>
+           </div>
+           I dunno...it sounded good
+           <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              State laws like this are Constitutional (but still wrong IMO, but at least legal to make), but the online poker ban would be a federal law.
+             </div>
+            </div>
+           </div>
+           The same commerce clause argument applies though.  To be honest, the Commerce Clause (or dormant commerce clause in many cases) is a load of XXXX...kinda like this ban.  I think it is constitutional but another case where I wish it weren't
+           <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+           The bad thing about being an "orginialist" is you don't always get your way.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_223004" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=223004" id="qrwq_223004" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_223004" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_223039">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-18-2006,
+          <span class="time">
+           12:48 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=223039#post223039" name="post223039">
+          #12
+         </a>
+         <a id="postcount223039" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_223039">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               The same commerce clause argument applies though.  To be honest, the Commerce Clause (or dormant commerce clause in many cases) is a load of XXXX...kinda like this ban.  I think it is constitutional but another case where I wish it weren't
+               <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+               The bad thing about being an "orginialist" is you don't always get your way.
+              </div>
+             </div>
+            </div>
+           </div>
+           But is gambling commerce? You aren't exactly buying/selling anything.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_223039" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=223039" id="qrwq_223039" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_223039" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_223046">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-18-2006,
+          <span class="time">
+           01:04 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=223046#post223046" name="post223046">
+          #13
+         </a>
+         <a id="postcount223046" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1715&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Master_Shake is offline">
+          <img alt="Master_Shake's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1715&amp;dateline=1125100869"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1715&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Master_Shake is offline">
+            <strong>
+             Master_Shake
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1715&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1715&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Master_Shake is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Calvinball anyone?
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Aug 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Kansas City
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,558
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_223046">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+              </div>
+              <div class="message">
+               Anyone else want to support a plan to fire all of congress and appoint people at random?
+              </div>
+             </div>
+            </div>
+           </div>
+           Sounds like a great idea. Couldn't end up with anything much worse
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Truth gains more even by the errors of one who, with due study and preparation, thinks for himself, than by the true opinions of those who only hold them because they do not suffer themselves to think.
+          <br/>
+          -John Stuart Mill
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_223046" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=223046" id="qrwq_223046" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_223046" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_223669">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-20-2006,
+          <span class="time">
+           04:10 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=223669#post223669" name="post223669">
+          #14
+         </a>
+         <a id="postcount223669" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1336&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="sinjin is offline">
+          <img alt="sinjin's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1336&amp;dateline=1297885270"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1336&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="sinjin is offline">
+            <strong>
+             sinjin
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1336&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1336&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="sinjin is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           San Simian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           SoCal
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           7,353
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_223669">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Master_Shake
+               </strong>
+              </div>
+              <div class="message">
+               Sounds like a great idea. Couldn't end up with anything much worse
+               <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           I agree.  For many years I've advocated populating Congress with a system similar to jury duty.  To Whom It May Concern - Congratulations, starting in 30 days you'll be a Senator for the next session.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "They asked if I had found Jesus and I didn't even know He was missing."
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_223669" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=223669" id="qrwq_223669" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_223669" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_224012">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-22-2006,
+          <span class="time">
+           10:37 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=224012#post224012" name="post224012">
+          #15
+         </a>
+         <a id="postcount224012" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=3651&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Cheesejoff is offline">
+          <img alt="Cheesejoff's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=3651&amp;dateline=1139165104"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3651&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Cheesejoff is offline">
+            <strong>
+             Cheesejoff
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3651&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=3651&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Cheesejoff is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           102
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_224012">
+          <blockquote class="postcontent restore">
+           Online poker means you don't have to go to a casino, so the big casino owners are not going to be pleased....
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God." Mark 10:25
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_224012" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=224012" id="qrwq_224012" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_224012" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="8524"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 16">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 16 of 16">
+        2
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 16 of 16">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=8524&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 16 to 16 of 16">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       <span class="ctrlcontainer">
+        Government Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=8524#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=8524&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=8524#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=8524#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     12:28 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

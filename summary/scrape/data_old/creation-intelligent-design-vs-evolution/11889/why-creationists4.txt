@@ -1,0 +1,3582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=b58a740badbd173aee25c10a673ad245&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=11889&amp;page=4";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="beliefs, generally, unable, merits, discussing, dichotomies, arguing, incapable, creationists, relying, fallacy, false, subject, changing" name="keywords"/>
+  <meta content="Incapable of arguing without relying on the fallacy of changing the subject, false dichotomies (if not A, therefore B), and generally unable of actually discussing their beliefs on those beliefs' merits?" name="description"/>
+  <title>
+   Why are Creationists... - Page 4
+  </title>
+  <link href="showthread.php?t=11889&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=b58a740badbd173aee25c10a673ad245" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=b58a740badbd173aee25c10a673ad245" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=b58a740badbd173aee25c10a673ad245&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=b58a740badbd173aee25c10a673ad245">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=b58a740badbd173aee25c10a673ad245">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=b58a740badbd173aee25c10a673ad245">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=b58a740badbd173aee25c10a673ad245">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=b58a740badbd173aee25c10a673ad245">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=b58a740badbd173aee25c10a673ad245&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=b58a740badbd173aee25c10a673ad245">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=b58a740badbd173aee25c10a673ad245">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=b58a740badbd173aee25c10a673ad245">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Why are Creationists...
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=b58a740badbd173aee25c10a673ad245&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="11889"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 4 of 5
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 63">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11889&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 31 to 45 of 63">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=11889&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 63">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11889&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 63">
+        3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 46 to 60 of 63">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 61 to 63 of 63">
+        5
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 61 to 63 of 63">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 61 to 63 of 63">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 46 to 60 of 63
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=11889&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Reload this Page">
+       Why are Creationists...
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=b58a740badbd173aee25c10a673ad245&amp;t=11889&amp;pp=15&amp;page=4" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=b58a740badbd173aee25c10a673ad245&amp;do=sendtofriend&amp;t=11889" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245&amp;do=addsubscription&amp;t=11889" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="11889"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="4"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 11889);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334564&amp;mode=threaded#post334564">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_334564">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           05:06 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334564#post334564" name="post334564">
+          #46
+         </a>
+         <a id="postcount334564" name="46">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=14871&amp;s=b58a740badbd173aee25c10a673ad245" title="Darn Republican is offline">
+          <img alt="Darn Republican's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=14871&amp;dateline=1224778668"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14871&amp;s=b58a740badbd173aee25c10a673ad245" title="Darn Republican is offline">
+            <strong>
+             Darn Republican
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14871&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14871&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="http://conservarant.blogtownhall.com/default.aspx">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Darn Republican is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           -That Darn Republican
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2008
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Los Angeles [Area]
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           306
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_334564">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Huntard
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334560#post334560" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               They NEVER found a manatee in the pyramids in Giza. Provide evidence they did.
+              </div>
+             </div>
+            </div>
+           </div>
+           <br/>
+           Yes they did...
+           <b>
+            because you retort... doesn't make your point valid
+           </b>
+           . Two credible archaeologists ratified the finding.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          " A wise man’s heart is at his right hand, But a fool’s heart at his left." King Solomon, Ecclesiates: 10:2
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334564" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334564" id="qrwq_334564" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334564" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334565">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           05:10 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334565#post334565" name="post334565">
+          #47
+         </a>
+         <a id="postcount334565" name="47">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14921&amp;s=b58a740badbd173aee25c10a673ad245" title="Huntard is offline">
+            <strong>
+             Huntard
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14921&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14921&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Huntard is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           68
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334565">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334564#post334564" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Yes they did...
+               <b>
+                because you retort... doesn't make your point valid
+               </b>
+               . Two credible archaeologists ratified the finding.
+              </div>
+             </div>
+            </div>
+           </div>
+           Provide the evidence, saying something is so doesn't make it so.
+           <br/>
+           <br/>
+           So, again, provide evidence that they found a manatee in the pyramids of Giza.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Huntard; 11-27-2008 at
+         <span class="time">
+          05:13 PM
+         </span>
+         .
+         <span class="reason">
+          Reason:
+         </span>
+         spellings
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334565" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334565" id="qrwq_334565" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334565" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334566">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           05:12 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334566#post334566" name="post334566">
+          #48
+         </a>
+         <a id="postcount334566" name="48">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245" title="T.Q is offline">
+          <img alt="T.Q's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1532&amp;dateline=1201917439"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245" title="T.Q is offline">
+            <strong>
+             T.Q
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1532&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="T.Q is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Saskatoon, Saskatchewan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,943
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334566">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334558#post334558" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Simple, since the obvious escapes you entirely.
+              </div>
+             </div>
+            </div>
+           </div>
+           No, I'm pretty sure i'm able to grasp the obvious...
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              There happens to be no scientist who is taken serious who discards the the global flood,
+             </div>
+            </div>
+           </div>
+           Actually, scientists who discard the global flood
+           <i>
+            are
+           </i>
+           taken seriously.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              why? [pray tell] Because their is ample evidence to for the flood.
+             </div>
+            </div>
+           </div>
+           No, there isn't.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              So even the secular world has to start there
+             </div>
+            </div>
+           </div>
+           No, they don't
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              ... The same fossil tables here, are the same in Russia, Israel.... and are Sumatra.
+             </div>
+            </div>
+           </div>
+           Define "fossil tables"
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Secondly... the [just to throw this in] the pyramids of Giza, Egyptologists tried to suppress find the skeleton of a manatee in the upper chambers one of the larger pyramids,
+             </div>
+            </div>
+           </div>
+           Uh-huh, yeah, ok...
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              because they are Muslim
+             </div>
+            </div>
+           </div>
+           What was Muslim?  The pyramids?  The egyptologists?  The manatee?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              ... and what would that finding lend credibility to?
+             </div>
+            </div>
+           </div>
+           My guess would be nothing.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Making blanket denials is no way to engage a debate... try offering evidence to support your positions, I do for mine.
+             </div>
+            </div>
+           </div>
+           Oh yes, just look at all the evidence present in this post.  Yeesh.
+           <br/>
+           <br/>
+           BTW, if ID has nothing to do with religion, why, when asked a question about ID did you immediately bring up the Noachian flood?
+           <br/>
+           <br/>
+           EDIT
+           <br/>
+           You apparently posted while I was writing my reply.  Just so you know Sparky, saying "Nuh-uh! Did too!" is not "offering evidence to support your positions"
+           <br/>
+           <br/>
+           FFS...
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "Creationists make it sound as though a 'theory' is something you dreamt up after being drunk all night."
+          <br/>
+          Isaac Asimov
+          <br/>
+          <br/>
+          "Truth, in matters of religion, is simply the opinion that has survived"
+          <br/>
+          Oscar Wilde
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334566" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334566" id="qrwq_334566" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334566" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334567">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           05:16 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334567#post334567" name="post334567">
+          #49
+         </a>
+         <a id="postcount334567" name="49">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2041&amp;s=b58a740badbd173aee25c10a673ad245" title="Charliegone is offline">
+            <strong>
+             Charliegone
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2041&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=2041&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Charliegone is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           427
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334567">
+          <blockquote class="postcontent restore">
+           Here's a good article on the whole thing.
+           <br/>
+           <br/>
+           <a href="http://www.inu.net/skeptic/flood.html" target="_blank">
+            The Myth of the Great Flood
+           </a>
+           <br/>
+           <br/>
+           Not only that, the pyramids were built during that time, which would mean if the flood really did happen like some have stated, the pyramids would have been built underwater..
+           <img alt="" border="0" class="inlineimg" src="images/smilies/msn 09.gif" title="emb"/>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334567" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334567" id="qrwq_334567" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334567" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334570">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           05:33 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334570#post334570" name="post334570">
+          #50
+         </a>
+         <a id="postcount334570" name="50">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=14871&amp;s=b58a740badbd173aee25c10a673ad245" title="Darn Republican is offline">
+          <img alt="Darn Republican's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=14871&amp;dateline=1224778668"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14871&amp;s=b58a740badbd173aee25c10a673ad245" title="Darn Republican is offline">
+            <strong>
+             Darn Republican
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14871&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14871&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="http://conservarant.blogtownhall.com/default.aspx">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Darn Republican is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           -That Darn Republican
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2008
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Los Angeles [Area]
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           306
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334570">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Charliegone
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334567#post334567" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Here's a good article on the whole thing.
+               <br/>
+               <br/>
+               <a href="http://www.inu.net/skeptic/flood.html" target="_blank">
+                The Myth of the Great Flood
+               </a>
+               <br/>
+               <br/>
+               Not only that, the pyramids were built during that time, which would mean if the flood really did happen like some have stated, the pyramids would have been built underwater..
+               <img alt="" border="0" class="inlineimg" src="images/smilies/msn 09.gif" title="emb"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           No... you're not entirely correct. You can be skeptical all you want, but the empirical evidence is overwhelming for a world wide flood, a global cataclysm... as I stated earlier, you're not even taken seriously even in the secualar world of "science" if you try to refute the flood record, the flood is solid and is not privy to question. Enoch built the first pyramids, and his were superior in quality to he knock-offs of later days. The flood has been dated to have occured about 4400 to 4600 B.C.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          " A wise man’s heart is at his right hand, But a fool’s heart at his left." King Solomon, Ecclesiates: 10:2
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334570" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334570" id="qrwq_334570" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334570" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334571">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           05:37 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334571#post334571" name="post334571">
+          #51
+         </a>
+         <a id="postcount334571" name="51">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245" title="T.Q is offline">
+          <img alt="T.Q's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1532&amp;dateline=1201917439"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245" title="T.Q is offline">
+            <strong>
+             T.Q
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1532&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="T.Q is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Saskatoon, Saskatchewan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,943
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334571">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334570#post334570" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               No... you're not entirely correct. You can be skeptical all you want, but the empirical evidence is overwhelming for a world wide flood, a global cataclysm... as I stated earlier, you're not even taken seriously even in the secualar world of "science" if you try to refute the flood record, the flood is solid and is not privy to question. Enoch built the first pyramids, and his were superior in quality to he knock-offs of later days. The flood has been dated to have occured about 4400 to 4600 B.C.
+              </div>
+             </div>
+            </div>
+           </div>
+           <br/>
+           Great, so:
+           <br/>
+           1) point out the global flood deposits.
+           <br/>
+           2) Explain how they pyramids were built in the middle of the great flood.  Or;
+           <br/>
+           3) if they were built after, explain where the population came from to support such an engineering project.
+           <br/>
+           4) Explain why China has records dating back to before the supposed date of the flood
+           <br/>
+           <br/>
+           And, try answering the other questions I asked.
+           <br/>
+           <br/>
+           Oh, and if the flood is "taken seriously", and is "solid and is not privy to question" in secular science, see what kind of references you can dig up on it from reputable scientific publications
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "Creationists make it sound as though a 'theory' is something you dreamt up after being drunk all night."
+          <br/>
+          Isaac Asimov
+          <br/>
+          <br/>
+          "Truth, in matters of religion, is simply the opinion that has survived"
+          <br/>
+          Oscar Wilde
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334571" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334571" id="qrwq_334571" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334571" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334577">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           07:01 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334577#post334577" name="post334577">
+          #52
+         </a>
+         <a id="postcount334577" name="52">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+          <img alt="trebor's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=2310&amp;dateline=1216864298"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+            <strong>
+             trebor
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=2310&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="trebor is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,658
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334577">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334555#post334555" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You mean Intelligent Design, and straight forward logical, rational, common sense arguments that require reason to move to the next step, instead of ideological consensus... huh? go figure... Proponents of ID usually don't argue religiosity or scripture, they let the empirical evidence prove it,  funny... that is what true science has always done. Verify the obvious, not ignore it in favor of some mindless postulations [oddly] convenient to how someone wants to live their life; amazing how that works out...
+              </div>
+             </div>
+            </div>
+           </div>
+           You mean, intelligent design, which has been proven in court to be not science, and to be a front for certain religious agenda's, and straight forward arguments based on ignorance of the evidence and logical fallacies.
+           <br/>
+           <br/>
+           If you look at the organizations that push I.D. , you will see they have a religious agenda . The discovery institute is funded by religious organizations, and every one of the board will admit they thing the 'intelligent designer' is the Christian god.  Read the 'wedge strategy' from them.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          &#8206;"Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge." — Isaac Asimov
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334577" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334577" id="qrwq_334577" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334577" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334578">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-27-2008,
+          <span class="time">
+           07:09 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334578#post334578" name="post334578">
+          #53
+         </a>
+         <a id="postcount334578" name="53">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+          <img alt="trebor's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=2310&amp;dateline=1216864298"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+            <strong>
+             trebor
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=2310&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="trebor is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,658
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334578">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334564#post334564" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Yes they did...
+               <b>
+                because you retort... doesn't make your point valid
+               </b>
+               . Two credible archaeologists ratified the finding.
+              </div>
+             </div>
+            </div>
+           </div>
+           Please provide the link to the peer reviewed archelogical article about it.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          &#8206;"Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge." — Isaac Asimov
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334578" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334578" id="qrwq_334578" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334578" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334594">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-28-2008,
+          <span class="time">
+           12:35 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334594#post334594" name="post334594">
+          #54
+         </a>
+         <a id="postcount334594" name="54">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+          <img alt="pandion's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1945&amp;dateline=1109365195"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+            <strong>
+             pandion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1945&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="pandion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Evolutionary biologist
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Texas
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,937
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334594">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334555#post334555" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You mean Intelligent Design, and straight forward logical, rational, common sense arguments that require reason to move to the next step, instead of ideological consensus... huh? go figure...
+              </div>
+             </div>
+            </div>
+           </div>
+           You're being silly or you are a dupe. Intelligent design creationism isn't straight forward, logical, rational, or common sense. It is faith driven and requires suspension of reason and logic. There are no steps. ID creationism and the simple creationism it is trying to replace are the epitome of ideological consensus based on mythology.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Proponents of ID usually don't argue religiosity or scripture,
+             </div>
+            </div>
+           </div>
+           Actually, they do. They just don't want it to leak out. But it's too late. The cat is out of the bag. Internal documents from the Discovery Institute as well as statements by ID creation proponents from the Dover trial make it quite clear that ID creationism is based on religion and scripture as much as "creation science" was.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              they let the empirical evidence prove it,  funny... that is what true science has always done.
+             </div>
+            </div>
+           </div>
+           Then you should probably make an effort to learn what science is and how it works. Empirical evidence doesn't prove anything. Only scientific illiterates make such statements. True science has always used empirical evidence to form hypotheses, which are speculative explanations based on experience and guess work. The hypotheses are used to make predictions of observations that have not been made that must necessarily be true if the hypothesis is correct. The predictions are said (in science) to have the power to falsify the hypotheses.  Experiments are then designed and executed to test the prediction. When stringently tested, an hypothesis is called a theory in science. However, there always exists the possibility that some unknown piece of data (observation) might indicate that a theory is wrong. Science works to reconcile the discrepancy. ID creationism and creationism simply ignore any evidence that is contrary to religious dogma.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Verify the obvious, not ignore it in favor of some mindless postulations [oddly] convenient to how someone wants to live their life; amazing how that works out...
+             </div>
+            </div>
+           </div>
+           So there's the typical creationist claim that, "if you don't believe as I do, then you are trying to escape the punishment of my petty god." How bizzare that you claim that science has something to do with how one wants to live his life, while ID creationism and creationism are somehow based on evidence.
+           <br/>
+           <br/>
+           So, why not present the evidence that ID creationism has any logical or empirical support. Show me the evidence.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334558#post334558" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There happens to be no scientist who is taken serious
+               <b>
+                [sic]
+               </b>
+               who discards the the global flood, why? [pray tell]
+              </div>
+             </div>
+            </div>
+           </div>
+           Actually, I've never known a scientist whose reputation was based on acceptance of some mythical global flood. I can't actually remember any scientists who actually expressed an opinion on the topic in a scientific context. I can't even imagine a scientist who would actually state that mythology is somehow true in every detail. The concept is ignorant beyond belief.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Because their
+              <b>
+               [sic]
+              </b>
+              is ample evidence to for the flood.
+             </div>
+            </div>
+           </div>
+           Then why hasn't anyone ever presented any of this evidence? People like Henry Morris, Duane Gish, Carl Baugh, Don Patton, Kent Hovind, Ken Ham, and Don Batton try to dupe the ignorant for profit.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              So even the secular world has to start there...
+             </div>
+            </div>
+           </div>
+           That's a hoot. The "secular world" (in other words, real science) starts from observations of the universe. Science does not start from a book of (obvious) mythology.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The same fossil tables here, are the same in Russia, Israel.... and are Sumatra.
+             </div>
+            </div>
+           </div>
+           Really? Please cite the scientific papers that report fossils of Marella, Yohoia, Naraoia, Waptia, Canadaspis, Pikaia, Opabinia, Anomalocaris,  Hallucigenia, and Odontogriphus being found in Russia, Israel or Sumatra.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Secondly... the [just to throw this in] the
+              <b>
+               [sic]
+              </b>
+              pyramids of Giza, Egyptologists tried to suppress find the skeleton of a manatee in the upper chambers one of the larger pyramids, because they are Muslim... and what would that finding lend credibility to?
+             </div>
+            </div>
+           </div>
+           Since Muslims believe in the flood of Noah, I have no idea why they would want to suppress this find. Perhaps you would explain. Perhaps you would also tell us in which of the "larger pyramids" this manatee skeleton was found, and why you think it is meaningful. Of course you will also provide reliable evidence that what you say is true. Please do not embarrass yourself by failing to support your assertions.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Making blanket denials is no way to engage a debate... try offering evidence to support your positions, I do for mine.
+             </div>
+            </div>
+           </div>
+           I have not observed that you have in the past. Please correct my misconception by supporting your above assertion about the manatee and the "same fossil table" (whatever that means).
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by pandion; 11-28-2008 at
+         <span class="time">
+          01:08 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          From The Treaty of Tripoli, Art. 11, negociated under Washington, passed unanimously by the senate, and signed by Adams -- "As the Government of the United States of America is not, in any sense, founded on the Christian religion;"
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334594" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334594" id="qrwq_334594" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334594" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334634">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-28-2008,
+          <span class="time">
+           09:41 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334634#post334634" name="post334634">
+          #55
+         </a>
+         <a id="postcount334634" name="55">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+          <img alt="obvious_child's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=4405&amp;dateline=1242022144"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+            <strong>
+             obvious_child
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=4405&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="obvious_child is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,525
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334634">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Darn Republican
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334555#post334555" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You mean Intelligent Design, and straight forward logical, rational, common sense arguments that require reason to move to the next step, instead of ideological consensus
+              </div>
+             </div>
+            </div>
+           </div>
+           Explain to me how
+           <b>
+            <u>
+             Animism
+            </u>
+           </b>
+           is straight forward logical, rational and common sense?
+           <br/>
+           <br/>
+           The underlying principle of ID is "can't explain it now, therefore Goddidit" That's animism.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You are, of course, free to make your own calls on how much rationality you want to impose upon yourself." - Kronus
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334634" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334634" id="qrwq_334634" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334634" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334650">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2008,
+          <span class="time">
+           12:42 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334650#post334650" name="post334650">
+          #56
+         </a>
+         <a id="postcount334650" name="56">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334650">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                obvious_child
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334634#post334634" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Explain to me how
+               <b>
+                <u>
+                 Animism
+                </u>
+               </b>
+               is straight forward logical, rational and common sense?
+               <br/>
+               <br/>
+               The underlying principle of ID is "can't explain it now, therefore Goddidit" That's animism.
+              </div>
+             </div>
+            </div>
+           </div>
+           You know what is absolutely incredible about you little child? You constantly make the most blatantly ignorant and irrational statements which have no basis at all in reality, yet you actually think you are being intelligent. (Note childs quote in my siggy, below.) And you really should look up definitions before using words when you have no idea what they mean. Didn't you start a thread about that, hypocrite?
+           <br/>
+           <br/>
+           You are talking to a person who accepts Intelligent Design as a rational explanation for Mans origin, yet you are so ill informed that you allege he is aligned with a belief in animism, when animism was founded in pagan religions and asserts that pretty much everything has a soul and spirit.
+           <br/>
+           <br/>
+           <div style="margin-left:40px">
+            <font color="Blue">
+             Animism (from Latin anima (soul, life)[1][2]) commonly refers to a religious belief that souls or spirits exist in animals, plants and other entities, in addition to humans.[3]
+             <b>
+              Animism may also attribute souls to natural phenomena, geographic features, and even manufactured objects.
+             </b>
+             Religions which emphasize animism in this sense include Shinto, Hinduism and pagan faiths such as folk religions and Neopaganism.
+            </font>
+           </div>
+           <a href="http://en.wikipedia.org/wiki/Animism" target="_blank">
+            Animism - Wikipedia, the free encyclopedia
+           </a>
+           <br/>
+           <br/>
+           <b>
+            Now show me a christian who defends ID, believes that, you mental midget.
+            <img alt="" border="0" class="inlineimg" src="images/smilies/xdonno.gif" title="xdonno"/>
+           </b>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334650" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334650" id="qrwq_334650" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334650" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334651">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2008,
+          <span class="time">
+           12:52 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334651#post334651" name="post334651">
+          #57
+         </a>
+         <a id="postcount334651" name="57">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245" title="T.Q is offline">
+          <img alt="T.Q's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1532&amp;dateline=1201917439"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245" title="T.Q is offline">
+            <strong>
+             T.Q
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1532&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1532&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="T.Q is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Saskatoon, Saskatchewan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,943
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334651">
+          <blockquote class="postcontent restore">
+           Speaking of mental midgets Archie, you may want to look up "sarcasm", then take another look at that quote of o_c's.  Just don't use uncyclopedia to look it up on.
+           <br/>
+           <br/>
+           I don't know why o_c said ID is the same as animism, but if you want to insult other's intelligence, you should maybe make sure you're not embarassing yourself first.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "Creationists make it sound as though a 'theory' is something you dreamt up after being drunk all night."
+          <br/>
+          Isaac Asimov
+          <br/>
+          <br/>
+          "Truth, in matters of religion, is simply the opinion that has survived"
+          <br/>
+          Oscar Wilde
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334651" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334651" id="qrwq_334651" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334651" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334701">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2008,
+          <span class="time">
+           04:33 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334701#post334701" name="post334701">
+          #58
+         </a>
+         <a id="postcount334701" name="58">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+          <img alt="obvious_child's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=4405&amp;dateline=1242022144"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+            <strong>
+             obvious_child
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=4405&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="obvious_child is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,525
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334701">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334650#post334650" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You know what is absolutely incredible about you little child? You constantly make the most blatantly ignorant and irrational statements which have no basis at all in reality, yet you actually think you are being intelligent.
+              </div>
+             </div>
+            </div>
+           </div>
+           Rich coming from you:
+           <br/>
+           <a href="http://www.4forums.com/political/308894-post5.html" target="_blank">
+            http://www.4forums.com/political/308894-post5.html
+           </a>
+           <br/>
+           <br/>
+           Not to mention you can't tell the difference between elements, molecules and compounds.
+           <br/>
+           <br/>
+           You really shouldn't be talking.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              (Note childs quote in my siggy, below.) And you really should look up definitions before using words when you have no idea what they mean. Didn't you start a thread about that, hypocrite?
+             </div>
+            </div>
+           </div>
+           Nice take on superficiality. Look up the earliest form of Animism.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You are talking to a person who accepts Intelligent Design as a rational explanation for Mans origin, yet you are so ill informed that you allege he is aligned with a belief in animism, when animism was founded in pagan religions and asserts that pretty much everything has a soul and spirit
+             </div>
+            </div>
+           </div>
+           Look what I can do, I can read your article too!
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Psychiatrist Sigmund Freud thought that "primitive men" came up with the animistic system by observing the phenomena of sleep (including dreams) and of death which so much resembles it, and by attempting to explain those states....
+              <br/>
+              <br/>
+              Some theories have been put forward that the belief in animism among early humans were the basis for the later evolution of religions. In this theory, initially put forward by Dr. E. B. Tylor, early humans initially worshipped local deities of nature, in a form of animism. These eventually grew into larger, polytheistic deities, such as gods of the sun and moon. Eventually these evolved into a belief in one, monotheistic God.
+             </div>
+            </div>
+           </div>
+           The principle fundamental basis of Animism is to explain things unexplainable now by crediting supernatural beings/things. Early human Animism explained the seasons and rains by crediting them to a Rain God. We see this
+           <u>
+            even today
+           </u>
+           in the native American's cultural rain dances to appease and worship the specific God to bring rain to their crops.
+           <br/>
+           <br/>
+           If you want to win an argument, move beyond the superficial.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You are, of course, free to make your own calls on how much rationality you want to impose upon yourself." - Kronus
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334701" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334701" id="qrwq_334701" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334701" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334702">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2008,
+          <span class="time">
+           04:34 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334702#post334702" name="post334702">
+          #59
+         </a>
+         <a id="postcount334702" name="59">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+          <img alt="obvious_child's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=4405&amp;dateline=1242022144"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+            <strong>
+             obvious_child
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=4405&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="obvious_child is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,525
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334702">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                T.Q
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334651#post334651" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I don't know why o_c said ID is the same as animism, but if you want to insult other's intelligence, you should maybe make sure you're not embarassing yourself first.
+              </div>
+             </div>
+            </div>
+           </div>
+           It's a bit late for that. He insulted me for arguing that increased O2 caused huge insects and argued that it was Co2 that did the growth. Apparently he
+           <b>
+            still has no clue
+           </b>
+           what the role of oxygen plays in cell growth.
+           <br/>
+           <br/>
+           It's not hard to shrug off the insults from someone like Arch. It's much harder then the person making the insult actually knows what they are talking about.
+           <br/>
+           <br/>
+           ID is animism in its simplest form. What we cannot explain now is therefore credited to a God. Only that instead of rain and lightning, it's the origin of life and complex organic organs and compounds.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You are, of course, free to make your own calls on how much rationality you want to impose upon yourself." - Kronus
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334702" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334702" id="qrwq_334702" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334702" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_334741">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2008,
+          <span class="time">
+           09:54 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=334741#post334741" name="post334741">
+          #60
+         </a>
+         <a id="postcount334741" name="60">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_334741">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                obvious_child
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334634#post334634" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Explain to me how
+               <b>
+                <u>
+                 Animism
+                </u>
+               </b>
+               is straight forward logical, rational and common sense?
+               <br/>
+               <br/>
+               The underlying principle of ID is "can't explain it now, therefore Goddidit" That's animism.
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                obvious_child
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=334701#post334701" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Nice take on superficiality. Look up the earliest form of Animism.
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               Look what I can do, I can read your article too!
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               The principle fundamental basis of Animism is to explain things unexplainable now by crediting supernatural beings/things. Early human Animism explained the seasons and rains by crediting them to a Rain God. We see this
+               <u>
+                even today
+               </u>
+               in the native American's cultural rain dances to appease and worship the specific God to bring rain to their crops.
+               <br/>
+               <br/>
+               If you want to win an argument, move beyond the superficial.
+              </div>
+             </div>
+            </div>
+           </div>
+           I'm not going to allow you to squirm or intimidate your way out of this. And speaking of superficial, look at the religions which animism is applied to beside Paganism.
+           <br/>
+           <br/>
+           4 Animistic religions
+           <br/>
+           4.1 African Traditional Religion
+           <br/>
+           4.2 Shinto
+           <br/>
+           4.3 Hinduism
+           <br/>
+           4.4 Neopaganism
+           <br/>
+           4.5 New Age
+           <br/>
+           <br/>
+           Do you see Christianity on that list? Or Judaism which christianity grew out of? NOT AT ALL. Yet you ignorantly apply animism to a christian who is speaking about ID as if anyone who believes Man has a soul then must also believe trees, plants and material objects have souls too. But you know what little child? I don't think you believe that christians are animists now that you know what it means.
+           <br/>
+           <br/>
+           <b>
+            THE FACT IS, YOU DIDN'T KNOW WHAT THE WORD MEANT AND ARE THROWING AROUND A TERM YOU THOUGHT WAS JUST A CLEVER WAY TO INSULT HIM AS A PERSON WHO IS DUMB ENOUGH TO BELIEVE IN THE HUMAN SOUL, WHICH EXPLAINS WHY HE WOULD BELIEVE IN ID TOO.
+           </b>
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by admin; 11-30-2008 at
+         <span class="time">
+          07:44 AM
+         </span>
+         .
+         <span class="reason">
+          Reason:
+         </span>
+         name calling
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_334741" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=334741" id="qrwq_334741" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_334741" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="11889"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 4 of 5
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 63">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11889&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 31 to 45 of 63">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=11889&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 63">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11889&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 63">
+        3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 46 to 60 of 63">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 61 to 63 of 63">
+        5
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 61 to 63 of 63">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11889&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 61 to 63 of 63">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=11889&amp;page=4#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=b58a740badbd173aee25c10a673ad245">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=b58a740badbd173aee25c10a673ad245">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=b58a740badbd173aee25c10a673ad245">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=b58a740badbd173aee25c10a673ad245">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=b58a740badbd173aee25c10a673ad245">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=b58a740badbd173aee25c10a673ad245">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=b58a740badbd173aee25c10a673ad245">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=b58a740badbd173aee25c10a673ad245">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=b58a740badbd173aee25c10a673ad245">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=b58a740badbd173aee25c10a673ad245">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=b58a740badbd173aee25c10a673ad245">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=b58a740badbd173aee25c10a673ad245">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=b58a740badbd173aee25c10a673ad245">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=b58a740badbd173aee25c10a673ad245">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=b58a740badbd173aee25c10a673ad245">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=b58a740badbd173aee25c10a673ad245">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=b58a740badbd173aee25c10a673ad245">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=b58a740badbd173aee25c10a673ad245">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=b58a740badbd173aee25c10a673ad245">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=b58a740badbd173aee25c10a673ad245">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=b58a740badbd173aee25c10a673ad245">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=b58a740badbd173aee25c10a673ad245">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=b58a740badbd173aee25c10a673ad245">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=b58a740badbd173aee25c10a673ad245">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=b58a740badbd173aee25c10a673ad245">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=b58a740badbd173aee25c10a673ad245">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=b58a740badbd173aee25c10a673ad245">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=b58a740badbd173aee25c10a673ad245">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=b58a740badbd173aee25c10a673ad245">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=b58a740badbd173aee25c10a673ad245">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=b58a740badbd173aee25c10a673ad245">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=b58a740badbd173aee25c10a673ad245">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=b58a740badbd173aee25c10a673ad245">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=b58a740badbd173aee25c10a673ad245">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=b58a740badbd173aee25c10a673ad245">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=b58a740badbd173aee25c10a673ad245">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=b58a740badbd173aee25c10a673ad245">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=b58a740badbd173aee25c10a673ad245">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=b58a740badbd173aee25c10a673ad245">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=b58a740badbd173aee25c10a673ad245">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=b58a740badbd173aee25c10a673ad245">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=b58a740badbd173aee25c10a673ad245">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=b58a740badbd173aee25c10a673ad245">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=b58a740badbd173aee25c10a673ad245">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=b58a740badbd173aee25c10a673ad245">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=b58a740badbd173aee25c10a673ad245">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=b58a740badbd173aee25c10a673ad245">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=b58a740badbd173aee25c10a673ad245">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=b58a740badbd173aee25c10a673ad245">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=b58a740badbd173aee25c10a673ad245">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=b58a740badbd173aee25c10a673ad245">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=b58a740badbd173aee25c10a673ad245">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=b58a740badbd173aee25c10a673ad245">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=b58a740badbd173aee25c10a673ad245">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=b58a740badbd173aee25c10a673ad245">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=b58a740badbd173aee25c10a673ad245">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=b58a740badbd173aee25c10a673ad245">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=b58a740badbd173aee25c10a673ad245">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=b58a740badbd173aee25c10a673ad245">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=b58a740badbd173aee25c10a673ad245">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=b58a740badbd173aee25c10a673ad245">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=b58a740badbd173aee25c10a673ad245">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=b58a740badbd173aee25c10a673ad245">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=b58a740badbd173aee25c10a673ad245">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=11889&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=11889&amp;page=4#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=b58a740badbd173aee25c10a673ad245">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=11889&amp;page=4#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     10:02 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=b58a740badbd173aee25c10a673ad245&amp;rand=1392433359" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

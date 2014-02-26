@@ -1,0 +1,3879 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=b58a740badbd173aee25c10a673ad245&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=12214&amp;page=8";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="intelligence, intelligent, design, evolutionary, evolution, question, strand, patterns, existence, characters, measurement, feature, random, problem, intermediate, sequence, practical, billion, perfectly, meaning, theory, equivalent, finding, assuming, structure, mutation, target, statistically, mutations, higher, biological, exist, intermediates, measured, answer, imagine, instance, agent, presumption, permutations, sequences, email, utterly, enable, argument, chicken, represents, number, wrong, longer" name="keywords"/>
+  <meta content="I had what I consider an interesting idea the other day - although of course your mileage may vary. I've posted it on a couple of pro-ID forums, attracting views but no replies. Obviously no significance can be attached to that, but it does rather leave me with nobody to talk to. So I'll post it here. 
+ 
+By way of a preface, here is Intelligent Design Theory's premise in a nutshell: 
+ 
+1. We know there is such a thing as intelligent design: we do it ourselves. 
+ 
+2. Scientists should always" name="description"/>
+  <title>
+   Intelligent Design's Black Box - Page 8
+  </title>
+  <link href="showthread.php?t=12214&amp;page=8&amp;s=b58a740badbd173aee25c10a673ad245" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=b58a740badbd173aee25c10a673ad245" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=b58a740badbd173aee25c10a673ad245" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=b58a740badbd173aee25c10a673ad245&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=b58a740badbd173aee25c10a673ad245">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=b58a740badbd173aee25c10a673ad245">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=b58a740badbd173aee25c10a673ad245">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=b58a740badbd173aee25c10a673ad245">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=b58a740badbd173aee25c10a673ad245">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=b58a740badbd173aee25c10a673ad245&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=b58a740badbd173aee25c10a673ad245">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=b58a740badbd173aee25c10a673ad245">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=b58a740badbd173aee25c10a673ad245">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Intelligent Design's Black Box
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=b58a740badbd173aee25c10a673ad245&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=12214&amp;page=10&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="12214"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 8 of 12
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 166">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 91 to 105 of 166">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 76 to 90 of 166">
+        6
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 91 to 105 of 166">
+        7
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 106 to 120 of 166">
+        8
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=9&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 121 to 135 of 166">
+        9
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=10&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 136 to 150 of 166">
+        10
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=9&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 121 to 135 of 166">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;page=12&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 166 to 166 of 166">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 106 to 120 of 166
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=12214&amp;page=8&amp;s=b58a740badbd173aee25c10a673ad245" title="Reload this Page">
+       Intelligent Design's Black Box
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=b58a740badbd173aee25c10a673ad245&amp;t=12214&amp;pp=15&amp;page=8" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=b58a740badbd173aee25c10a673ad245&amp;do=sendtofriend&amp;t=12214" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245&amp;do=addsubscription&amp;t=12214" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="12214"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="8"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 12214);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342969&amp;mode=threaded#post342969">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_342969">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-06-2009,
+          <span class="time">
+           08:16 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342969#post342969" name="post342969">
+          #106
+         </a>
+         <a id="postcount342969" name="106">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_342969">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342838#post342838" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               But one very important thing you are missing is that organisms and their numbers change
+               <i>
+                because
+               </i>
+               their genes (and their numbers) change! And another important thing you're missing is...
+              </div>
+             </div>
+            </div>
+           </div>
+           If an organisms genes and genone changes, then it is necessary to so that that organism has changed. So, they change because they change because they change because they change?
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              ...that these changes in gene frequencies across whole populations do
+              <i>
+               not
+              </i>
+              change by "chance!"
+             </div>
+            </div>
+           </div>
+           You think not? Anything whose root cause is random, is random. Environmental events caused by climate change, earthquake, or whatever, are random. Ergo, any change in the populations of organisms affected by such random events are rabndom statistical fluctuations. AKA, "NS", "Fitness", etc.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              That's the entire point of natural selection. You keep leaving this part out, which is the only reason you can characterize this is a contrast between chance or teleology.
+             </div>
+            </div>
+           </div>
+           I have never "left this part out".
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              More than half actually, since "genetic mutation" is merely a subset of genetic variation, and since genetic variation need not be "random" in order for natural selection to occur.
+             </div>
+            </div>
+           </div>
+           This is interesting. How and when and why, in your book, is genetic variation not random, but mechanically determined?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Give me a break. If that's so, then all use of technical language -- a phenomenon in which we philosophers have been known to indulge from time to time -- would be "dishonest." Plato, for example, would never have been to use "eidos" or "morphe" as terms in his own metaphysics.
+             </div>
+            </div>
+           </div>
+           Not True. Aside from the fact that ontological metaphysics is categorically different, in its examination of abstractions, from science/biology [in its examination of corporeal entities], the words Plato chose did not radically diiffer from Greek usage of his time, and were therefore non-equivocal.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And the conventions of use don't necessarily pre-exist the terms, which is how neologism happens.
+             </div>
+            </div>
+           </div>
+           I have never said otherwise. It is not the expansion and growth of language and vocabulary that I have objected to all along, even though you choose to think so. My objection is to a band of self-righteous true-believing materialists who have taken upon themselves the exclusive right to re-interpret standard English words and images in such a way that their equivocations make their philosophy easier for the general public to swallow when it comes to anything connected to biology,-- most importantly, to the  differences between living and non-living things.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              "Ignoring it" hardly indicates that you're correct to think that paradigm "vacuous." All it proves is that you have no interest in even trying to understand it.
+             </div>
+            </div>
+           </div>
+           No. What it means is, that short of returning to university and picking up a Ph.D. in molecular chemistry, I have spent many years thinking about it and reading about it, and after believing in it for most of my life, I was and am finally convinced, entirely convinced, that it is absurd.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Second, you did not initially say "Aristotle." You said "an Aristotelian
+              <i>
+               tradition
+              </i>
+              ." I therefore assumed that you were including various Aristotelian thinkers other than Aristotle himself -- including, rather pertinently, medieval theologians who explained all natural phenomena with reference to God's purposes. (Not, of course, to those purposes alone, but they were conceived to be a necessary portion of the explanations of natural phenomena.)
+             </div>
+            </div>
+           </div>
+           I think that you are semantically nit-picking, since I was clearly talking Aristotle's four kinds of causation, and not debating the existence of God. As an aside, if a creator god exists, then all things created necessarily exist to his/her/its purposes. If not, then not, but that another topic altogether.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              But third, as to Aristotle himself anyway, I guess I had in mind the opening of
+              <i>
+               Physics
+              </i>
+              IV.8 (214b14): "If each of the simple bodies has a natural locomotion, e.g. fire upward and earth downward and towards the middle of the universe...."
+              <br/>
+              <br/>
+              Now, while it might be thought that I am construing the "naturalness" of said locomotion in too teleological and purposive terms, there are more than ample reasons for thinking not. See for example
+              <i>
+               Physics
+              </i>
+              II.8 (198b10): "We must explain then first why nature belongs to the class of causes which act for the sake of something...."
+             </div>
+            </div>
+           </div>
+           Big difference between smoke having a tendency to rise and smoke wanting, needing, and forcing itself to rise. Or at least, that's how I see it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Or see the discussion of weather that follows, the point of which is made by 199a1-8 or so: "We do not ascribe to chance or mere coincicence the frequency of rain in winter, but frequent rain in summer we do; nor heat in summer but only if we have it in winter. If then, it is agreed that things are either the result of coincidence or for the sake of something, and these cannot be the result of coincidence or spontaneity, it follows that they must be for the sake of something; and that such things are all due to nature even the champions of the theory which is before us [viz., a rejection of teleology] would agree.
+             </div>
+            </div>
+           </div>
+           In this case, a discussion of regularity, repetition, i.e., mechanics, is under discussion. That is, what is the nature of mechanical things, and how do they differ from random, accidental, spontaneous, coincidental things.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Therefore action for an end is present in things which come to be and are by nature." As to the specifics, I doubt very strongly that Aristotle imputes volition or any other mental activity to the weather. Nonetheless, he finds meteorological (or perhaps climatological) phenomena to have final causes.
+             </div>
+            </div>
+           </div>
+           No. He does not. He finds that they have final outcomes,[an action for an end], not final causes [a motivation to act in order to achieve an end].
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              For as to the general point, he finds everything in nature to have final causes. All the monotheists (Judaic, Christian, and Islamic) in his "tradition of causation" had to do was attribute the purposes of inanimate natural objects to the mind of God. (Or was that "the psyche?"...
+              <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+              )
+             </div>
+            </div>
+           </div>
+           It doesn't matter. Once you step beyond the limits of empirical science and into the abstract world of metaphysics, it is only rational to assume that any created thing was created for a purpose, rather than by accident. The trick is to not do what the materialists/positivists do, namely, assume that everything, including physical laws, were created by accident, and then assume that, ipso facto, everything else that follows is purely accidental.
+           <br/>
+           AKA, absurd.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Further discussion of the point would be off-topic here, though we could take it to the philosophy section if you like. But somehow I doubt we're going to find too much to disagree about concerning whether Aristotle thought there was purpose in nature.
+             </div>
+            </div>
+           </div>
+           Moving away from this forum might be a good idea. Aside from you, Peeling, and Ian, I seem to have drawn a great deal of bile, bitterness, and insulting tone and language from far too many other participants. Id not need #### from strangers, so I no longer read their garbage. But it is getting so common that I have very seriously considered leaving this forum to its own devices. This is no fun.
+           <br/>
+           <br/>
+           I'll take a look at Peeling's last and decide whether or not to post further.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342969" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342969" id="qrwq_342969" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342969" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342985">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-06-2009,
+          <span class="time">
+           10:51 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342985#post342985" name="post342985">
+          #107
+         </a>
+         <a id="postcount342985" name="107">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+          <img alt="pandion's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1945&amp;dateline=1109365195"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+            <strong>
+             pandion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1945&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="pandion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Evolutionary biologist
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Texas
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,937
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342985">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342969#post342969" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               This is interesting. How and when and why, in your book, is genetic variation not random, but mechanically determined?
+              </div>
+             </div>
+            </div>
+           </div>
+           I guess you aren't aware of the mechanisms the influence genetic variation that aren't random, like non-random mating (a factor in sympatric speciation) and biased variation. I didn't mention natural selection even though you seem to have forgotten about it and it is definitely non-random.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          From The Treaty of Tripoli, Art. 11, negociated under Washington, passed unanimously by the senate, and signed by Adams -- "As the Government of the United States of America is not, in any sense, founded on the Christian religion;"
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342985" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342985" id="qrwq_342985" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342985" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343027">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-06-2009,
+          <span class="time">
+           05:11 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343027#post343027" name="post343027">
+          #108
+         </a>
+         <a id="postcount343027" name="108">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343027">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=342955#post342955" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <br/>
+               So, what is the real nature of this 'dependable, predictable regularity' of which you speak?
+               <br/>
+               <br/>
+               It is the dependability of a die showing a six if it rolls a thousand times. It is the predictability of being dealt an ace if you play a thousand hands. It is the statistical inevitability of a low-probability event occurring, given a number of opportunities that dwarfs its improbability.
+              </div>
+             </div>
+            </div>
+           </div>
+           That's not the probability and dependability I'm talking about. The kind i'm talking about is the kind that makes it easy money to bet that that immunity will soon develop towards any antibacterial agent, any pesticide, and any herbicide your labs can dream up. Every darn time. That ain't luck.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What you call a plain statement of fact is nothing of the sort. There is a small but finite chance of any given single-step mutation occurring to any given bacterium during, for instance, cell division - a chance which can be increased via environmental mutagens, be they chemicals or UV light. In even modest colonies those tiny odds are overwhelmed by the number of opportunities for those mutations to occur, and from that arises the 'dependability' of there being at least one mutant of type 'X' already in the population when the environment changes in its favour. If the colony is very small, the outcome is far less dependable. There's nothing irrational about this, it's not a 'just so' story, you can't hand-wave it away.
+             </div>
+            </div>
+           </div>
+           Oh, but yes I can.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It's proof of nothing of the sort. The events are stochastic, while the outcome is statistically predictable because of the number of opportunities for the event to occur. This is just basic maths. The L&amp;D experiment takes it a step further, settling the question of whether the events occur before or after the environmental change.
+             </div>
+            </div>
+           </div>
+           You are working on an assumption for which you have no empirical backing. I am not going to go into all the biological mechanisms by which bacterium play
+           <br/>
+           with their DNA--I'm sure that you are aware of them. Suffice it to say that they can do wi9th their molecular chemistry things we can only feebly mirror in flesh and blood.
+           <br/>
+           <br/>
+           Have to go now.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343027" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343027" id="qrwq_343027" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343027" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343041">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-06-2009,
+          <span class="time">
+           08:25 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343041#post343041" name="post343041">
+          #109
+         </a>
+         <a id="postcount343041" name="109">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245" title="The Barbarian is offline">
+          <img alt="The Barbarian's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=538&amp;dateline=1230314979"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245" title="The Barbarian is offline">
+            <strong>
+             The Barbarian
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=538&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="The Barbarian is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gangster of Four
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           238
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343041">
+          <blockquote class="postcontent restore">
+           <i>
+            If the colony is very small, the outcome is far less dependable. There's nothing irrational about this, it's not a 'just so' story, you can't hand-wave it away.
+           </i>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Oh, but yes I can.
+             </div>
+            </div>
+           </div>
+           Sorry, you can't.   Such things are testable, and have been tested.  And he's right.  Small colonies are much less survivable, for just the reasons he mentioned.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343041" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343041" id="qrwq_343041" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343041" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343068">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-07-2009,
+          <span class="time">
+           09:11 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343068#post343068" name="post343068">
+          #110
+         </a>
+         <a id="postcount343068" name="110">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         Jakers
+        </h2>
+        <div class="content">
+         <div id="post_message_343068">
+          <blockquote class="postcontent restore">
+           I don't have time for a full response this weekend. I'll get to it next week.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343068" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343068" id="qrwq_343068" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343068" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343103">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-07-2009,
+          <span class="time">
+           04:12 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343103#post343103" name="post343103">
+          #111
+         </a>
+         <a id="postcount343103" name="111">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+          <img alt="trebor's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=2310&amp;dateline=1216864298"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245" title="trebor is offline">
+            <strong>
+             trebor
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2310&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=2310&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="trebor is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,658
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343103">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=343027#post343027" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               That's not the probability and dependability I'm talking about. The kind i'm talking about is the kind that makes it easy money to bet that that immunity will soon develop towards any antibacterial agent, any pesticide, and any herbicide your labs can dream up. Every darn time. That ain't luck.
+              </div>
+             </div>
+            </div>
+           </div>
+           No, it isn't luck at all. It is random variation followed by natural selection. In this case, the natural selection is eliminating those bacteria that can not tolerate the environmental condition, therefore increasing the numbers of
+           <br/>
+           resistant bacteria over time.  Your point?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          &#8206;"Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge." — Isaac Asimov
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343103" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343103" id="qrwq_343103" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343103" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343107">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-07-2009,
+          <span class="time">
+           05:25 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343107#post343107" name="post343107">
+          #112
+         </a>
+         <a id="postcount343107" name="112">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343107">
+          <blockquote class="postcontent restore">
+           Peeling cont.--
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              First of all, individual bacteria aren't 'resistant' or 'not' to antibiotic chemicals.
+             </div>
+            </div>
+           </div>
+           Not true . Individual bacteria cells, when confronted with a phage, antibiotic, bactericide, whatever, have 2 choices--live or die. Only large interdependent populations of like bacterial cells are 'resistant' or not, meaning, 'they all die [not resistant], a few survive [resistant]. The issue is, Why do any ever survive? Your answer--extremely fortuitous genetic breakdown caused by either some external agent or a failure in the 'gene replication' mechanism.
+           <br/>
+           My answer--and intrinsic ability within large groups of interdepent and cooperative bacterial cells to work together so that a/in the case of long-standing threats, set up a constantly ongoing defence mechanism against such repeated historical attacks, and b/ in the case of truly novel and original threats, experiment together using feed-back [intelligent] mechanisms until such time as new cells are developed that can survive the novel antibiotic, and then very rapidly communicate that mechanism to the rest of their species.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Rather they have a tolerance level: a maximum concentration in their environment with which they can coexist - and this applies to even the most novel antibiotics.
+             </div>
+            </div>
+           </div>
+           <br/>
+           Tolerance levels do not apply to individual cells [as above]. They apply solely to interdependent groups of individual cells working together cooperatively as one united community. And as for novel antiobiotics, any new antibiotics that are test and found to have a pre-existing 'tolerance' never see the market. Why would they, since they are already ineffectual? So that statement is not true either.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Within any given population of bacteria, some will have higher tolerance levels and some will have lower, thanks to genetic variance.
+             </div>
+            </div>
+           </div>
+           This is only an assumption, on your part. There is absolutely no evidence whatsoever to suggest that when any given population of cells is completly and totally and simultaneously exposed to a novel bactericide that neither they nor their ancestors have ever had any chance to deal with, if that novel bactericide is effective, and if all cells are simultaneously exposed to it, then each and every and all cells die. Fact.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Antibiotics are developed by discovering chemicals to which the pre-existing range of tolerance levels is low, possibly because higher tolerance levels incur some sort of performance penalty - natural selection at work as usual.
+             </div>
+            </div>
+           </div>
+           <br/>
+           Again--chemical companies do no invest billions in order to invent toxins that are already even slightly ineffectual before the hit the market. Any that do would be nothing but crooks out to make a fast back, hit and run, while scientifically and knowingly contributing to the growing disaster of unstoppable infections in our hospitals and even the general population. If any companies are releasing products such as you describe, then they deserve to be jailed for endangering the health of the public.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              That's why it's so important for antibiotics to be administered carefully, at the right dosage and at the right time. A high enough dose will wipe out all the bacteria because none of them can tolerate that concentration of the drug. Resistant strains arise, not because the bacteria have been given time to 'figure it out', but when drugs are administered either improperly or too routinely.
+             </div>
+            </div>
+           </div>
+           This is what is called, "Blaming the victim." "We didn't make a bad product. You were too lazy or too stupid or too ignorant to use it as directed, thereby allowing a wayward gamma ray to mutate one of them in just the very right place to enable a whole fresh batch of of 'resistant' [immune] cells to spread all over places, making everybody just as sick as they ever were." I don't like taking the blame for the 'expert's' ignorance of just how bacteria truly operate.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The reason the L&amp;D experiment works 'every time' for the bacteria (with chemical antibiotics anyway) is that the experimenters aren't actually trying to kill all the bacteria, which they easily could do with a massive dose.
+             </div>
+            </div>
+           </div>
+           If your assumption [that in 24 hours or less, a fortuitous gamma ray or horde of gamma rays, x-rays, whatever, is going to arrive and smack just the right gene in at at least one, maybe several individual cells at just the very propr time that their cell division will marvellously produce the very enzyme needed at that very moment] were true, then either a/ all cells would be unlucky, and die, or b/ several cells would ALWAYS be lucky and live. And if 'plating' those cells was done ineffectually on purpose, as you claim, then the entire experiment was nothing but a big charade, a con put on for the rubes.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Instead they run the fluctuation test at carefully chosen concentrations of antibiotic to determine the rate at which mutants emerged - stochastically and prior to exposure - capable of tolerating those levels.
+             </div>
+            </div>
+           </div>
+           In that case they were just doing bad science--attempting to prove an a priori ideological assumption of 'random effect', when in fact the exact same effect could have been generated by an intelligent communal body of of interacting cells which, at least in this case, had an ongoing and highly practiced [over billions of generations] mechanism for coping with the phage.
+           <br/>
+           But in 1943 the notion "Random Genetic Mutation" was relatively fresh and new, and everybody wanted it to be true, so when a statistical result that could have been attributed just as easily to teleology as to random chance showed up, all the cheers and huzzahs went to the 'random chance' camp.
+           <br/>
+           <br/>
+           Unfortunately for Luria-and Delbruck, [hey they're dead, and they got their Nobel, so what do they care?!?!] in the 65 years since we have learned some amazing things about bacteria that throw the ideological assumptions back to square one, proving that that experiment, and others  like it 'proved', in the empirical sense, nothing like what they have claimed for all these decades.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I hope that clears a few things up, so we can get back on track.
+             </div>
+            </div>
+           </div>
+           I'm afraid that after all this side-tracking and derailing in ancient experiments, statistical math, probability assumptions, and molecular chemistry, I can no longer remember what the 'track' was that we originally started out on. I know that I though that I was discussing empirical evidence for the presence of intelligence and volition [teleology, intelligent design, final (albeit proximate) causes as a contributing agency driving the process of biological evolution on this planet. But that always gets sidestepped in favour of arithmetic and chemistry, it seems.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343107" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343107" id="qrwq_343107" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343107" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343122">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-07-2009,
+          <span class="time">
+           07:45 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343122#post343122" name="post343122">
+          #113
+         </a>
+         <a id="postcount343122" name="113">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245" title="iangb is offline">
+          <img alt="iangb's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=10340&amp;dateline=1210596157"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245" title="iangb is offline">
+            <strong>
+             iangb
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=10340&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="iangb is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Terminally Inquisitive
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,300
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343122">
+          <blockquote class="postcontent restore">
+           Hey Jackers, me again - a slightly more considered response this time. I'm still having problems with the reason why you don't consider 'random mutation and natural selection' as an acceptable mechanism for the process of evolution. In an attempt to gain some more answers - a series of questions, some evidence, and some extrapolation. After that (if I feel up to it) I might read into your answer a bit more and do some further stuff. To start with, though, some questions:
+           <br/>
+           <br/>
+           1. Do you believe that mutations in the DNA of an organism can have profound effects on that organism?
+           <br/>
+           2. Do you believe that some of these mutations can and do become hereditary?
+           <br/>
+           3. Of the mutations that occur, do you believe that some benefit the organism, some harm it and some do both/neither?
+           <br/>
+           4. Do you believe that these mutations are caused by random chance?
+           <br/>
+           <br/>
+           Relevant evidence here is, amongst other things, hereditary diseases such as
+           <a href="http://en.wikipedia.org/wiki/Sickle_cell_anemia" target="_blank">
+            sickle cell anaemia
+           </a>
+           ,
+           <a href="http://en.wikipedia.org/wiki/Huntington%27s_disease" target="_blank">
+            Huntington's disease
+           </a>
+           and
+           <a href="http://en.wikipedia.org/wiki/Cystic_fibrosis" target="_blank">
+            cystic fibrosis
+           </a>
+           . Also - mutations such as that in the
+           <a href="http://en.wikipedia.org/wiki/Vadoma" target="_blank">
+            'two-toed tribe'
+           </a>
+           , or in
+           <a href="http://www.pandashepherds.com/genetic_panda_info" target="_blank">
+            Panda Shepherds
+           </a>
+           . All of these are traits that are both inherited and caused by mutations. Some are purely harmful (cystic fibrosis/Huntingtons), some are not inherently harmful or helpful (the panda shepherds, which only proved a benefit as a result of an entrepreneurial owner), some are harmful
+           <i>
+            and
+           </i>
+           helpful (sickle cell anaemia is harmful, but also reduces the impact of malaria) and some are purely helpful (two-toed mutation appears to have no drawbacks in the relevant environment).
+           <br/>
+           <br/>
+           I'm expecting you to answer 'yes', 'yes', 'yes' and 'no' to these questions given your responses so far - and given the fact that I have provided empirical evidence for 1, 2 and 3, whereas it is hard to determine the cause of an event (especially given that it is possible even to deny external causality!) However if this is the case, you are left with a dilemma. Assuming the (possibly false) dichotomy that if a mutation is not caused by random chance, it must be caused by 'intelligent action' - your 'intelligence' must now be malicious, beneficial and indifferent by turns, as the outcomes of mutations vary tremendously. I can't see how an 'intelligence' can be permitted responsibility for the beneficial mutations
+           <i>
+            only
+           </i>
+           without making the assumption that beneficial mutations cannot happen by chance - which is entirely unfounded. As your 'intelligence' acts in a seemingly random (unpredictable) fashion, you must then return to a 'yes' to question 4.
+           <br/>
+           <br/>
+           To sum up where we've got to so far - I don't think that it's possible for you to answer 'no' to my fifth question:
+           <br/>
+           5. Is it possible for a random mutation to have a beneficial effect on an organism? By 'beneficial effect', I mean 'an effect that gives the organism a higher chance of reproducing than organisms without the effect'.
+           <br/>
+           <br/>
+           With this in mind, it should be obvious that a beneficial random mutation will (generally) increase in prevalence in a population. 'Natural Selection', when used as this generalisation, is simply a tautology; that those organisms with the features which allow them to reproduce more - will reproduce more.
+           <br/>
+           When an experiment such as 'circuit breeding' (see The Barbarian's original link) takes place, the researchers simply change the environment so that 'going on to breed' depends on their criteria, rather than naturally occurring criteria. This adds 'purpose' in that the criteria imposed are artificial - but it doesn't imply that naturally occurring criteria are teleological.
+           <br/>
+           <br/>
+           I'm guessing, now - and I realise that I may be setting up a straw man - that your response to all of the above would be that you don't have a problem with evolution in the non-teleological sense occurring occasionally, but consider it such a rare event that it cannot contribute to the amazing complexity and adaptations of today's organisms. I guess this largely because of your last response to my postings - that "The assumption [that a large enough set of trials will result in
+           <i>
+            something
+           </i>
+           with apparent narrative] seems unwarranted". My answer to
+           <i>
+            this
+           </i>
+           would be to descend again into probability maths - for example, that you only need
+           <a href="http://en.wikipedia.org/wiki/Birthday_paradox" target="_blank">
+            23
+           </a>
+           people in a room to get a 50/50 chance that two (or more) of them will share a birthday. I can go more into this, but I think I'll wait to see if it is a strawman, first.
+           <br/>
+           <br/>
+           ***marked***, so I can find this easily if needs be.
+           <br/>
+           <br/>
+           EDIT:
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Moving away from this forum might be a good idea. Aside from you, Peeling, and Ian, I seem to have drawn a great deal of bile, bitterness, and insulting tone and language from far too many other participants. Id not need #### from strangers, so I no longer read their garbage. But it is getting so common that I have very seriously considered leaving this forum to its own devices. This is no fun.
+             </div>
+            </div>
+           </div>
+           Thanks. There's an ignore function somewhere if it takes your fancy.
+           <br/>
+           I have to admit that it's massively refreshing to have someone to argue with on this subject who doesn't resort to ad homs and non-understood cut/pastes every other post. My thanks to you for that, too.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by iangb; 02-07-2009 at
+         <span class="time">
+          07:56 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          The truth may be out there, but lies are in your head.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343122" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343122" id="qrwq_343122" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343122" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343132">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-07-2009,
+          <span class="time">
+           10:12 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343132#post343132" name="post343132">
+          #114
+         </a>
+         <a id="postcount343132" name="114">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343132">
+          <blockquote class="postcontent restore">
+           [QUOTE=iangb;343122]
+           <br/>
+           <br/>
+           1. Do you believe that mutations in the DNA of an organism can have profound effects on that organism?
+           <br/>
+           2. Do you believe that some of these mutations can and do become hereditary?
+           <br/>
+           3. Of the mutations that occur, do you believe that some benefit the organism, some harm it and some do both/neither?
+           <br/>
+           4. Do you believe that these mutations are caused by random chance?]/quote]
+           <br/>
+           <br/>
+           Yes, Yes, Yes and no[sometimes, yes and no[sometimes]
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Assuming the (possibly false) dichotomy that if a mutation is not caused by random chance, it must be caused by 'intelligent action' - your 'intelligence' must now be malicious, beneficial and indifferent by turns,
+             </div>
+            </div>
+           </div>
+           Only if you assume that all genetic mutations are intentional, and that none are accidental. I have never said anything like that.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I can't see how an 'intelligence' can be permitted responsibility for the beneficial mutations
+              <i>
+               only
+              </i>
+              without making the assumption that beneficial mutations cannot happen by chance - which is entirely unfounded.
+             </div>
+            </div>
+           </div>
+           It's fairly difficult to argue that an accident cannot prove coincidentally beneficial to the victim in the face of some other unintentional event, so I won't bother to try. It is not necessary. What is necessary is to discover a regularity, a predictable cause/effect relation that can be tested empirically in order to determine that it is more than an anomalous curiosity, by a scientifically justifiable mechanism acting as an explanation for an at least regularly observable natural phenomenon. Scientific method, and all that.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              As your 'intelligence' acts in a seemingly random (unpredictable) fashion, you must then return to a 'yes' to question 4.
+             </div>
+            </div>
+           </div>
+           Intelligence may at first appear to be random, but with certain factors taken into account, it soon becomes apparent [at horse races and poker games and fishing tournaments, for example] that there is a clear and discernible difference between problem solving left to pure chance, and problem solving involving the action of intelligence.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              To sum up where we've got to so far - I don't think that it's possible for you to answer 'no' to my fifth question:
+              <br/>
+              5. Is it possible for a random mutation to have a beneficial effect on an organism?
+             </div>
+            </div>
+           </div>
+           As above, it is useless to argue about what is possible or not. All that matters is that material which makes up a regular, repetitious, predictable, empirically identifiable, scientifically testable phenomenon/event/process.
+           <br/>
+           <br/>
+           A random genetic mutation, whether or not such things are ever coincidentally advantageous to some lucky organism or other, is no foundation upon which to build a theory of evolution's driving mechanisms.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              By 'beneficial effect', I mean 'an effect that gives the organism a higher chance of reproducing than organisms without the effect'.
+             </div>
+            </div>
+           </div>
+           When it comes to evolution, IMHO, a 'beneficial effect' is an original novel alteration in an organism's physiology and/or behaviour which increases that organism's descendents to prosper and survive to a much higher degree than they would have done without that truly novel physiological and/or behavioural change.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              With this in mind, it should be obvious that a beneficial random mutation will (generally) increase in prevalence in a population.
+             </div>
+            </div>
+           </div>
+           Assuming that such a thing were possible, of course. But that means nothing.
+           <br/>
+           Organisms blessed with luck, favoured by god, or kissed  by a good fairy would do just as well.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              When an experiment such as 'circuit breeding' (see The Barbarian's original link) takes place, the researchers simply change the environment so that 'going on to breed' depends on their criteria, rather than naturally occurring criteria. This adds 'purpose' in that the criteria imposed are artificial - but it doesn't imply that naturally occurring criteria are teleological.
+             </div>
+            </div>
+           </div>
+           Why doesn't it?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I'm guessing, now - and I realise that I may be setting up a straw man - that your response to all of the above would be that you don't have a problem with evolution in the non-teleological sense occurring occasionally, but consider it such a rare event that it cannot contribute to the amazing complexity and adaptations of today's organisms.
+             </div>
+            </div>
+           </div>
+           I do not know if it ever happens., but I am convinced that if it ever did, it would happen so rarely as to be an exception, never a rule. An anomaly, not a principle, and as such not amenable to scientific inquiry and verification.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I guess this largely because of your last response to my postings - that "The assumption [that a large enough set of trials will result in
+              <i>
+               something
+              </i>
+              with apparent narrative] seems unwarranted". My answer to
+              <i>
+               this
+              </i>
+              would be to descend again into probability maths - for example, that you only need
+              <a href="http://en.wikipedia.org/wiki/Birthday_paradox" target="_blank">
+               23
+              </a>
+              people in a room to get a 50/50 chance that two (or more) of them will share a birthday. I can go more into this, but I think I'll wait to see if it is a strawman, first.
+             </div>
+            </div>
+           </div>
+           I have never denied the existence of chance, coincidence, luck, fortune, happenstance, serendipity and what not. Nor have I ever denied the utility of statistics and probability theory. Not have I ever denied that DNA molecules exist, and that as 'genes' [a rather vague &amp; slippery concept, I find], that biorganisms have found a way to self-replicate over generations. I simply point out that self-replication is a transfer of information, and that information is not a chemical or a molecule or even a quark, and that it is information, along with the intelligence that uses it, that is responsible for both the stabilizing/conserving mechanisms of inheritance and the adaptive/creative mechanisms of evolution.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              EDIT:
+              <br/>
+              Thanks. There's an ignore function somewhere if it takes your fancy.
+              <br/>
+              I have to admit that it's massively refreshing to have someone to argue with on this subject who doesn't resort to ad homs and non-understood cut/pastes every other post. My thanks to you for that, too.
+             </div>
+            </div>
+           </div>
+           Likewise, believe you me. Thanks to you, Matthew, Peeling and perhaps someone I've unintentionally forgotten for all the stimulating material you've presented.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343132" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343132" id="qrwq_343132" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343132" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343219">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-08-2009,
+          <span class="time">
+           07:06 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343219#post343219" name="post343219">
+          #115
+         </a>
+         <a id="postcount343219" name="115">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343219">
+          <blockquote class="postcontent restore">
+           Hi;
+           <br/>
+           <br/>
+           Thanks to "Teleological" I have found some threads that were about to disappear that speak very strongly to my points.  Teleological is probably a molecular chemist, and I am no scientist at all, just an amateur philosopher, but what I can grasp from his material greatly strengthens and fortifies my conviction that evolution is no accident, but is very intelligent, purposeful, systematic, and productive. In short, is intelligently designed. Here is one of Teleological's links that quite intrigued me--
+           <br/>
+           <br/>
+           <a href="http://mednews.wustl.edu/news/page/normal/13104.html" target="_blank">
+            Model unravels rules that govern how genes are switched on and off
+           </a>
+           <br/>
+           <br/>
+           I wonder what this says about the Luria-Delbruck thing?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343219" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343219" id="qrwq_343219" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343219" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343258">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-08-2009,
+          <span class="time">
+           11:02 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343258#post343258" name="post343258">
+          #116
+         </a>
+         <a id="postcount343258" name="116">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245" title="The Barbarian is offline">
+          <img alt="The Barbarian's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=538&amp;dateline=1230314979"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245" title="The Barbarian is offline">
+            <strong>
+             The Barbarian
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=538&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=538&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="The Barbarian is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gangster of Four
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           238
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343258">
+          <blockquote class="postcontent restore">
+           It really doesn't say anything about Luria-Delbruck.   This is about the way existing genes are turned on and off.  Luria-Delbruck studied the way favorable mutations appeared.
+           <br/>
+           <br/>
+           And it turned out that favorable mutations don't arrive when needed.  They appear randomly, and sometimes, the need happens to be there.  And then they become widespread.
+           <br/>
+           <br/>
+           Do you understand the difference between mutation and gene regulation?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343258" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343258" id="qrwq_343258" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343258" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343684">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-11-2009,
+          <span class="time">
+           11:42 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343684#post343684" name="post343684">
+          #117
+         </a>
+         <a id="postcount343684" name="117">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343684">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=343027#post343027" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               That's not the probability and dependability I'm talking about. The kind i'm talking about is the kind that makes it easy money to bet that that immunity will soon develop towards any antibacterial agent, any pesticide, and any herbicide your labs can dream up. Every darn time.
+              </div>
+             </div>
+            </div>
+           </div>
+           It's easy money to bet that a six will show uppermost if you drop fifty dice on the floor. It's easy money to bet that you will be dealt an ace at some point in a thousand hands of poker.
+           <br/>
+           <br/>
+           When it snows, the probability of one specific flake formed miles up in the air drifting down, blown hither and yon by gusting wind currents, and finally coming to rest upon one particular square centimetre of your garden is vanishingly small. Yet dependably, every darn time, whenever it snows, that particular square centimetre will nonetheless be covered, possibly to a depth of several inches.
+           <br/>
+           <br/>
+           If you disagree, then I'd be only too happy to take you up on any of those bets.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              That ain't luck.
+             </div>
+            </div>
+           </div>
+           No: it's statistics. Luck is you winning the lottery. Statistics is
+           <i>
+            someone
+           </i>
+           winning the lottery.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You are working on an assumption for which you have no empirical backing.
+             </div>
+            </div>
+           </div>
+           If you think there's no empirical backing then you haven't understood L&amp;D. Would you like to go through it?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343684" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343684" id="qrwq_343684" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343684" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343692">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-11-2009,
+          <span class="time">
+           12:31 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343692#post343692" name="post343692">
+          #118
+         </a>
+         <a id="postcount343692" name="118">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343692">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=343107#post343107" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <i>
+                (individual bacteria aren't 'resistant' or 'not' to antibiotic chemicals.)
+               </i>
+               Not true . Individual bacteria cells, when confronted with a phage, antibiotic, bactericide, whatever, have 2 choices--live or die.
+               <br/>
+               <br/>
+               &lt;section moved for coherency&gt;
+               <br/>
+               <br/>
+               Tolerance levels do not apply to individual cells [as above].
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't know where you got that idea but it's simply wrong. Any given bacterium will tolerate one concentration of an antibiotic in its environment, but not a higher concentration. This empirical fact is routinely used as the basis for experimentation and determining appropriate dosage.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              My answer--and intrinsic ability within large groups of interdepent and cooperative bacterial cells to work together so that a/in the case of long-standing threats, set up a constantly ongoing defence mechanism against such repeated historical attacks, and b/ in the case of truly novel and original threats, experiment together using feed-back [intelligent] mechanisms until such time as new cells are developed that can survive the novel antibiotic,
+             </div>
+            </div>
+           </div>
+           And how are they going to do that if they're all dead? You just claimed encountering the antibiotic was an all-or-nothing deal: how exactly are a bunch of dead bacteria going to intelligently develop anything?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And as for novel antiobiotics, any new antibiotics that are test and found to have a pre-existing 'tolerance' never see the market. Why would they, since they are already ineffectual? So that statement is not true either.
+             </div>
+            </div>
+           </div>
+           This is
+           <i>
+            such
+           </i>
+           a bizarre conversation!
+           <br/>
+           <br/>
+           Regardless of how stupid you think the idea, every single antibiotic ever released on the market is and has always been ineffectual if administered at too low a concentration, because bacteria tolerate low concentrations. This is a fact; you will just have to deal with it as best you can.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              (bacteria exhibit variable tolerance to antibiotics) This is only an assumption, on your part. There is absolutely no evidence whatsoever to suggest that when any given population of cells is completly and totally and simultaneously exposed to a novel bactericide that neither they nor their ancestors have ever had any chance to deal with, if that novel bactericide is effective, and if all cells are simultaneously exposed to it, then each and every and all cells die. Fact.
+             </div>
+            </div>
+           </div>
+           The empirical 'fact' is that different concentrations of any antibiotic - even novel ones under development - kill different fractions of any given bacterial population. It's just true. If that causes you problems, I'm sorry.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I don't like taking the blame for the 'expert's' ignorance of just how bacteria truly operate.
+             </div>
+            </div>
+           </div>
+           ... There's really no answer to that
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           I suggest you take it up with the drug companies, and explain to them how they've been getting it wrong all these years.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              (L&amp;D experiment) If your assumption [that in 24 hours or less, a fortuitous gamma ray or horde of gamma rays, x-rays, whatever, is going to arrive and smack just the right gene in at at least one, maybe several individual cells at just the very propr time that their cell division will marvellously produce the very enzyme needed at that very moment] were true, then either a/ all cells would be unlucky, and die, or b/ several cells would ALWAYS be lucky and live.
+             </div>
+            </div>
+           </div>
+           Well, the enzyme (or whatever) need not be required upon the instant of its creation; the gene just needs to be in the population when the environment changes.
+           <br/>
+           <br/>
+           And the statistical results are exactly as one would expect: if the colony is small then they usually do all die, because the odds of one possessing the gene are low. In larger and larger colonies you see more and more survivors.
+           <br/>
+           <br/>
+           The L&amp;D experiment made it possible to distinguish between a low-success-rate
+           <i>
+            response
+           </i>
+           to antibiotic, and a low-occurrence-rate mutation
+           <i>
+            prior
+           </i>
+           to the antibiotic being applied. Nothing we have learned since then has overthrown that result.
+           <br/>
+           <br/>
+           What's noticeable, over the past few posts, is that you've never given any actual reason why random mutation can't do exactly what I'm saying it's doing. You pour scorn on the idea of gamma rays smacking just the right gene at just the right time in cell division to produce just the right mutation to help the bacterium survive an impending environmental change, but you haven't explained why it can't or wouldn't happen. As I said before, it's like pouring scorn on the idea of a snowflake just happening to fall on a particular blade of grass, by calling attention to how many things could go wrong along the way.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 02-11-2009 at
+         <span class="time">
+          12:41 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343692" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343692" id="qrwq_343692" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343692" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343697">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-11-2009,
+          <span class="time">
+           01:03 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343697#post343697" name="post343697">
+          #119
+         </a>
+         <a id="postcount343697" name="119">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343697">
+          <blockquote class="postcontent restore">
+           [QUOTE=Peeling;343684]It's easy money to bet that a six will show uppermost if you drop fifty dice on the floor. It's easy money to bet that you will be dealt an ace at some point in a thousand hands of poker.
+           <br/>
+           <br/>
+           What's your point? That anything can happen if you presuppose a huge number like events? Whjat does that assumption, dubious at best, have to do with real life, aka, biology?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              When it snows, the probability of one specific flake formed miles up in the air drifting down, blown hither and yon by gusting wind currents, and finally coming to rest upon one particular square centimetre of your garden is vanishingly small. Yet dependably, every darn time, whenever it snows, that particular square centimetre will nonetheless be covered, possibly to a depth of several inches.
+             </div>
+            </div>
+           </div>
+           Once again, an irrelevent red-herring, since even in your gene-based hypothesis, a very particularly shaped snowflake must land precisly on that one bit of soil, and nothing else will do.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              No: it's statistics. Luck is you winning the lottery.
+             </div>
+            </div>
+           </div>
+           True. Me, or any particular organism in need of that particular mutation at that particular time.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Statistics is
+              <i>
+               someone
+              </i>
+              winning the lottery.
+             </div>
+            </div>
+           </div>
+           No. "Someone" winning the lottery is teleology, since that is how loteries are intelligently designed to function.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If you think there's no empirical backing then you haven't understood L&amp;D. Would you like to go through it?
+             </div>
+            </div>
+           </div>
+           Actually, although it has been quite a while, I have gone over it quite thoroughly in the past. I'm really not interested in a re-hash.  Simply stated, a colony of e.coli were constantly exposed to a phage [streptomycin?] until a strain was found wherein all cells died, consistently, and so was assumed to be totally vulnerable.
+           <br/>
+           <br/>
+           This group [strain?] was allowed to grow for a short time and then was divided up into many different groups that were all allowed to grow for a few more hours, at which time all of the different 'plates' were 'plated' with the phage[above], and then left for another while. Finally the plates were examined to see if any bacteria survived, and although numbers varied, they had done so. The assumption was then made that because the original 'stock' had been whittled down to purel vulnerable cells, and since all bacteria clone, vulnerable cells could only re-produce vulnerable cells, that in the end, the presence of resistant cells could only be the result of some random genetic mutations. Especially as the actually numbers seemed, coincidentally, to mirror, mathematically, the numbers that would appear if something totally random had happened. Out of these assumptions arose the presumption that the bacteria had in fact mutated very quickly thanks solely to the random arrival of several and various cosmic rays [chance mutagens] prior to being  'plated' by the phage. That is, sometime between when the supposedly 100% vulnerable plates were set out and the time when those different 'plates' were 'plated'.
+           <br/>
+           <br/>
+           Good enough for 1943 and people who desperately need to believe in random genetic mutation as the driving force behind evolution, but certainly not good enough 65 years and great deal of bacteriology later.
+           <br/>
+           <br/>
+           If I've mis-remembered anything, I'm sure you'll let me know.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343697" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343697" id="qrwq_343697" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343697" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_343805">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-12-2009,
+          <span class="time">
+           11:22 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=343805#post343805" name="post343805">
+          #120
+         </a>
+         <a id="postcount343805" name="120">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_343805">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=343692#post343692" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I don't know where you got that idea but it's simply wrong. Any given bacterium will tolerate one concentration of an antibiotic in its environment, but not a higher concentration. This empirical fact is routinely used as the basis for experimentation and determining appropriate dosage.
+              </div>
+             </div>
+            </div>
+           </div>
+           I have never heard of testing dosages of toxins on single bacterial cells, one at a time. Do you have a link?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And how are they going to do that if they're all dead? You just claimed encountering the antibiotic was an all-or-nothing deal: how exactly are a bunch of dead bacteria going to intelligently develop anything?
+             </div>
+            </div>
+           </div>
+           You must consider two situations. We'll start with the Luria-Delbruck situation. I'll call it the developmentally inherited mechanism. Here you have a kind of bacterium, e. coli., that over millenia has evolved a mechanism for resisting attacks by the phage [?]. That mechanism is that as the colony grows and its cell numbers increase, it reaches a point where a certain percentage of new members are always formed with the 'resistance' enzyme, so that any large colony always contains a few 'pre-attack' resistant cells, while the vast majority of cells, for the sake, of collective productivity and efficiency, do not show the defensive form. That way, when the attack does come again, as it has done millions of times in their mutual history, the bacteria always has enough resistant cells to recover afterwards.
+           <br/>
+           <br/>
+           This is why Luria-Delbruck is weak. It first assumes that by whittling a colony down to the point where one division is completely wiped out, that a matching but unexposed division would be wiped out if it were exposed, and so the assumption is that this batch has no resistant cells in it, simply because the other portions of the batch it came from did not. Perhaps so, perhaps not, but it is still only an assumption, not an empirical observation.
+           <br/>
+           <br/>
+           After taking this supposedly resistance free batch, allowing it grow large enough to be subdivided into several separate batches, the experimenbt assumes that during the cloning process that the bacteria had no hereditary developmental mechanism of self-protection whereby as it grew, it did not restore the old and time-honored device of creating a few 'resistant' cells, de novo. Therefore it is assumed that each and every sub-batch taken from this supposedly resistance-free batch contains the same number of resistant cells, i.e., none, or very very few that might have met with a gamma ray over nite. These divided batches are left to sit some more in order to give the su[pposed rdiation time to work its magic. Then all the batches are are plated and, guess what, they all show resistant cells that vary in number per batch as if they had formed at random. The conclusion is then worked out backwards--a/These resistant cells resemble a random distribution. B/ We know that a/ the batctch we started the test from had no resistant cells, and b/ we know that bacteria, when they clone have no developmental processes that could intelligently, albeit haphazardly re-generate resistant cells. Ergo we know that these cells acquired resistant cells prior to plating, but following the 'purification' process, and since they are incapable of helping themselves, the new resistance can only have been bestowed upon them from on high by passing gamma rays acting as fairy godmothers.
+           <br/>
+           <br/>
+           This thesis is so riddled with illogical assumptions and leaps of faith and lack of empirical retesting that it is a blot on science, and a Nobel prizewinner to boot!
+           <br/>
+           <br/>
+           It could be easily verified, but if it was, nobody told anyone. All you have to do is repeat the experiment exactly, only do it in a lead-lined room or deep in an old minr where the radiation is reduced to nil. If the same results are forthcoming, then random genetic mutation caused by radiation, [the long held assumption], is clearly false. If no resistance appears in the absence of radiation, then the original assumption holds. Easy for any scientist to do. Why has it never been done [so far as I know]?
+           <br/>
+           <br/>
+           <br/>
+           Next the second situation, which I call the e.coli intelligently design and evolve a novel method of combating phage. This act of evolution took place millions of years, and trillions of generations in the past, so details are blurry. This much is known. Bacteria have, unlike plants and animals, two sets of DNA. Their 'personal' kit, and 'plasmid' kit of genese they like to pass around and experiment with among themselves. Also, although each cell is or can be self-sustaining, bacteria are really homogeneous entity made up of millions of cells that co-operate and communicate [intelligently] with each other just as an army might do. It has been noted that when a toxin is applied to the outer perimeter of a large bacteria colony, the dying outer edge communicates its predicament to the back rows, triggering a thing called 'hyper-mutation', in which vast number of self-induced mutations are systematically generated in a trial and error fashion that is narrowed down by feedback as some mutated cells do better than others, until, given enough time and resources, immunity to the toxin appears and developmentally improves. This true act of evolution takes place every time a big drug company spends tens of millions to invent an antibiotic to which the chosen microbe has no resistance. But because bacteria do not wait for the gamma ray fairies to strike their genes with a magic wand [random genetic mutation] strains of bacteria always rapidly develop a specific immunity to that toxin. That's evolution, and it's an intelligent, volitional process.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              This is
+              <i>
+               such
+              </i>
+              a bizarre conversation!
+             </div>
+            </div>
+           </div>
+           What, nobody has ever challenged your favourite assumptions before?!?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Regardless of how stupid you think the idea, every single antibiotic ever released on the market is and has always been ineffectual if administered at too low a concentration, because bacteria tolerate low concentrations.
+             </div>
+            </div>
+           </div>
+           Bacteria colonies tolerate low doses, individual cells do not, unless the dose is next to non-existent. And the reason why colonies, the larger the better, resist better, the lower the quantity of toxin the better, has just now been explained to you. If so much toxin hit the entire colony at once, there would be no chance for communication, induced hyper-mutation, and trial and error feedback information in the intelligent design of newly self-mutated resistant strains.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The empirical 'fact' is that different concentrations of any antibiotic - even novel ones under development - kill different fractions of any given bacterial population. It's just true. If that causes you problems, I'm sorry.
+             </div>
+            </div>
+           </div>
+           As explained above. I do note that you have now dropped your original assertion of individual testing of single cells, and now agree that all such testing is always done on large co-operative groups of cells. Some groups may be much smaller than others, but they never get tested one cell at a time, as you seemed to be claiming earlier on. That is why it is bad science to think of single bacteria cells as 'the organism'. The 'organism' is a highly organised, highly communicative, co-operative society gather together and talking to each other chemically, while they play around, scientifically, with their varying kits of plasmid DNA.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And the statistical results are exactly as one would expect: if the colony is small then they usually do all die, because the odds of one possessing the gene are low. In larger and larger colonies you see more and more survivors.
+             </div>
+            </div>
+           </div>
+           Explained above, developmentally,[systemically], as opposed to accidentally.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The L&amp;D experiment made it possible to distinguish between a low-success-rate
+              <i>
+               response
+              </i>
+              to antibiotic, and a low-occurrence-rate mutation
+              <i>
+               prior
+              </i>
+              to the antibiotic being applied. Nothing we have learned since then has overthrown that result.
+             </div>
+            </div>
+           </div>
+           It is incredibly difficult to 'overthrow' an article of faith. That's why religions can tell the same children's stories for thousands of years. In science I believe that such an overthrow is called , "a paradigm shift". But it you believe that microbiologists have learned nothing that overthrows the _assumptions_ drawn from Luria-Delbruck 65 years ago, and that developmental biology, even in bacteriology, has not torn huge holes in those antique assumptions, then perhaps you need to read as much as this non-scientist has already done. Take a look at some of the stuff provided by Teleological. He/she is probably a scientist and is much better able to converse with you on these matters at your own level.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What's noticeable, over the past few posts, is that you've never given any actual reason why random mutation can't do exactly what I'm saying it's doing.
+             </div>
+            </div>
+           </div>
+           In logic it is impossible to prove a negative proposition, especially one as vaporous as just what is 'possible' and and what is 'not possible'. In science, on the other hand, the onus of proof is always upon the one who states his/her hypothesis in a positive manner, and does so affirmatively, not just as a possibility, but as a reality, an empirically testable phenomenon. Your premise is therefore stated thusly-- Evolutionary changes in the morphology and behaviour [and possibly trait function] of organisms has its start point where a mutagen effects a particular portion of an organism's genome, and that deformation leads mechanically to a novel trait in it's offspring, and its offspring's offspring. Now that is an hypothesis that needs to be be tested by the scientific method, not a bunch of assumptions derived from ignorance and a similarity to statistical outcomes.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You pour scorn on the idea of gamma rays smacking just the right gene at just the right time in cell division to produce just the right mutation to help the bacterium survive an impending environmental change, but you haven't explained why it can't or wouldn't happen.
+             </div>
+            </div>
+           </div>
+           As above, it is not my responsibility to do any such thing. It is your scientific responsibility to demonstrate empirically, via the scientific method, that not only 'could', but actually _do_ what you claim that they do so often ans so consistently that they are to be considered the engine that drives biological evolution.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_343805" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=343805" id="qrwq_343805" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_343805" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=12214&amp;page=10&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="12214"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 8 of 12
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 166">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 91 to 105 of 166">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 76 to 90 of 166">
+        6
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 91 to 105 of 166">
+        7
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 106 to 120 of 166">
+        8
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=9&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 121 to 135 of 166">
+        9
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=10&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 136 to 150 of 166">
+        10
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=9&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 121 to 135 of 166">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;page=12&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 166 to 166 of 166">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=12214&amp;page=8#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=b58a740badbd173aee25c10a673ad245">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=b58a740badbd173aee25c10a673ad245">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=b58a740badbd173aee25c10a673ad245">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=b58a740badbd173aee25c10a673ad245">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=b58a740badbd173aee25c10a673ad245">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=b58a740badbd173aee25c10a673ad245">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=b58a740badbd173aee25c10a673ad245">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=b58a740badbd173aee25c10a673ad245">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=b58a740badbd173aee25c10a673ad245">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=b58a740badbd173aee25c10a673ad245">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=b58a740badbd173aee25c10a673ad245">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=b58a740badbd173aee25c10a673ad245">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=b58a740badbd173aee25c10a673ad245">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=b58a740badbd173aee25c10a673ad245">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=b58a740badbd173aee25c10a673ad245">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=b58a740badbd173aee25c10a673ad245">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=b58a740badbd173aee25c10a673ad245">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=b58a740badbd173aee25c10a673ad245">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=b58a740badbd173aee25c10a673ad245">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=b58a740badbd173aee25c10a673ad245">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=b58a740badbd173aee25c10a673ad245">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=b58a740badbd173aee25c10a673ad245">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=b58a740badbd173aee25c10a673ad245">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=b58a740badbd173aee25c10a673ad245">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=b58a740badbd173aee25c10a673ad245">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=b58a740badbd173aee25c10a673ad245">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=b58a740badbd173aee25c10a673ad245">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=b58a740badbd173aee25c10a673ad245">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=b58a740badbd173aee25c10a673ad245">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=b58a740badbd173aee25c10a673ad245">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=b58a740badbd173aee25c10a673ad245">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=b58a740badbd173aee25c10a673ad245">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=b58a740badbd173aee25c10a673ad245">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=b58a740badbd173aee25c10a673ad245">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=b58a740badbd173aee25c10a673ad245">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=b58a740badbd173aee25c10a673ad245">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=b58a740badbd173aee25c10a673ad245">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=b58a740badbd173aee25c10a673ad245">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=b58a740badbd173aee25c10a673ad245">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=b58a740badbd173aee25c10a673ad245">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=b58a740badbd173aee25c10a673ad245">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=b58a740badbd173aee25c10a673ad245">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=b58a740badbd173aee25c10a673ad245">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=b58a740badbd173aee25c10a673ad245">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=b58a740badbd173aee25c10a673ad245">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=b58a740badbd173aee25c10a673ad245">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=b58a740badbd173aee25c10a673ad245">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=b58a740badbd173aee25c10a673ad245">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=b58a740badbd173aee25c10a673ad245">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=b58a740badbd173aee25c10a673ad245">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=b58a740badbd173aee25c10a673ad245">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=b58a740badbd173aee25c10a673ad245">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=b58a740badbd173aee25c10a673ad245">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=b58a740badbd173aee25c10a673ad245">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=b58a740badbd173aee25c10a673ad245">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=b58a740badbd173aee25c10a673ad245">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=b58a740badbd173aee25c10a673ad245">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=b58a740badbd173aee25c10a673ad245">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=b58a740badbd173aee25c10a673ad245">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=b58a740badbd173aee25c10a673ad245">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=b58a740badbd173aee25c10a673ad245">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=b58a740badbd173aee25c10a673ad245">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=b58a740badbd173aee25c10a673ad245">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=b58a740badbd173aee25c10a673ad245">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=12214&amp;page=8#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=b58a740badbd173aee25c10a673ad245">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=12214&amp;page=8#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     10:00 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=b58a740badbd173aee25c10a673ad245&amp;rand=1392433246" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

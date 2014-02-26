@@ -1,0 +1,4095 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=b58a740badbd173aee25c10a673ad245&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=12214&amp;page=4";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="intelligence, intelligent, design, evolutionary, evolution, question, strand, patterns, existence, characters, measurement, feature, random, problem, intermediate, sequence, practical, billion, perfectly, meaning, theory, equivalent, finding, assuming, structure, mutation, target, statistically, mutations, higher, biological, exist, intermediates, measured, answer, imagine, instance, agent, presumption, permutations, sequences, email, utterly, enable, argument, chicken, represents, number, wrong, longer" name="keywords"/>
+  <meta content="I had what I consider an interesting idea the other day - although of course your mileage may vary. I've posted it on a couple of pro-ID forums, attracting views but no replies. Obviously no significance can be attached to that, but it does rather leave me with nobody to talk to. So I'll post it here. 
+ 
+By way of a preface, here is Intelligent Design Theory's premise in a nutshell: 
+ 
+1. We know there is such a thing as intelligent design: we do it ourselves. 
+ 
+2. Scientists should always" name="description"/>
+  <title>
+   Intelligent Design's Black Box - Page 4
+  </title>
+  <link href="showthread.php?t=12214&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=b58a740badbd173aee25c10a673ad245" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=b58a740badbd173aee25c10a673ad245" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=b58a740badbd173aee25c10a673ad245&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=b58a740badbd173aee25c10a673ad245">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=b58a740badbd173aee25c10a673ad245">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=b58a740badbd173aee25c10a673ad245">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=b58a740badbd173aee25c10a673ad245">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=b58a740badbd173aee25c10a673ad245">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=b58a740badbd173aee25c10a673ad245&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=b58a740badbd173aee25c10a673ad245">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=b58a740badbd173aee25c10a673ad245">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=b58a740badbd173aee25c10a673ad245">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Intelligent Design's Black Box
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=b58a740badbd173aee25c10a673ad245&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="12214"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 4 of 12
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 166">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 31 to 45 of 166">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 166">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 166">
+        3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 46 to 60 of 166">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 61 to 75 of 166">
+        5
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 76 to 90 of 166">
+        6
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 61 to 75 of 166">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;page=12&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 166 to 166 of 166">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 46 to 60 of 166
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=12214&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Reload this Page">
+       Intelligent Design's Black Box
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=b58a740badbd173aee25c10a673ad245&amp;t=12214&amp;pp=15&amp;page=4" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=b58a740badbd173aee25c10a673ad245&amp;do=sendtofriend&amp;t=12214" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245&amp;do=addsubscription&amp;t=12214" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="12214"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="4"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 12214);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341663&amp;mode=threaded#post341663">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_341663">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-25-2009,
+          <span class="time">
+           12:52 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341663#post341663" name="post341663">
+          #46
+         </a>
+         <a id="postcount341663" name="46">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_341663">
+          <blockquote class="postcontent restore">
+           First, my apologies to the others that have made honest, sensible input in response to my posts. I simply am not up to spending much time at the keyboard. However, if Peeling continues to erect impediments to our own discussion,  that will leave me free to begin a dialogue with one or more of you.
+           <br/>
+           <br/>
+           Now to continue [or not] with Peeling's long post--
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Fine; I'll go along with that. If '3' can be an 'accurate description' of Pi,
+             </div>
+            </div>
+           </div>
+           More semantic gamesmanship!! It's getting awfully old, Peeling. You  use "can", the present tense. I spoke of "Pi" as "3" in the past tense. That is what is known as changing the context. Context is important in semantics. The word "iron" can refer to a metal or to the act of removing wrinkles from laundry. Pi was legitimately held to be "3" for a short while thousands of years past. It has not been considered an accurate value for Pi for thousands of years.  Your attempt to say that words can be legitimate no matter what we have, over time,  learned about and added to their true significance is just plain false.  No matter what may have been true for Pi in the past, it is not true today if new information obtained by honest effort shows that it is no longer an accurate, valid, and acceptable value for Pi.
+           <br/>
+           And the same goes for every other word in the English [or any other language]--context matters, and using a certain word out of context, and in a false context, is a semantic corruption that is dishonest to the point of mendacity. And that is exactly what using teleological terms and verbal imagery out of a teleological context and applying them in a mechanical and/or random chance context, where they quite simply and plainly do not belong, is nothing better than a dirty lie.
+           <br/>
+           <br/>
+           Now, this is our 4th, 5th, or 6th (?!?) exchange on this matter, simply because you refuse to accept what I stipulated from the first. It's become an irritating waste of time. I've already told you that if your thread is about something other than what I would like to discuss, [i.e., the place of teleology, 'intelligent design', in biological evolution] then will graciously drop out with my apologies. I've done that, what 2, may 3 times already? But you won't let me go, nor will you accede to my stipulation that the language used be honest and pertinent to the issue. That's just not on.
+           <br/>
+           <br/>
+           My responses to you will, in future be limited to those points which you do phrase in keeping with honest semantics. If that leaves out large sections of your posts, so be it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              On the contrary, no non-designer could ever find that 'solution', because a/, no non-designer would know that there was any 'problem' in the first place, or any 'good/better/best solution to that unrecognised problem. Therefore the problem, and its solution, would both arise and disappear again, unremarked and unpreserved.
+              <br/>
+              Not if the problem is 'how to self-replicate'. Or indeed 'how to self-replicate more effectively than other things consuming the same resources'.
+             </div>
+            </div>
+           </div>
+           Why and how would such problems go unrecognised by a designer. Put another way, how and why would said designer 'self-replicate' if it did not recognise the possibility of 'self-replication and 'feel' a need for it? You make bold statements that simply do not stand any kind of scrutiny. I've skipped over most of them because they are just iterations of your "I must be allowed to speak as if physical mechanics and random chance were teleological." mantra. I'll ignore everything to that effect from now on.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You've already admitted that differential reproductive rates - colloquially known as survival of the fittest - are a fact; a tautology; inevitable. Yet here you are, denying a tautology.
+             </div>
+            </div>
+           </div>
+           What "here" are you referring to? When accusing me of something, do me the courtesy of quoting exactly what I said, and the context in which I said it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What is abundant representation in the gene pool if not preservation?
+             </div>
+            </div>
+           </div>
+           How about 'accumulation', for one? But what's your point? I don't see any sense in this.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              An effective 'dimple', would, over the long term, have no more effect than an ineffective dimple, as, over time, 'dimples arise and vanish, randomly, as any 'non-designer'.
+              <br/>
+              Again, not if the dimple contributes to improved self-replication.
+             </div>
+            </div>
+           </div>
+           How would 'the dimple' "contribute to self-replication" unless the "self-replication" mechanism was able to discern that this 'dimple' was positive wrt its 'self', while at the same time noticing that other 'dimples' were not. If all vyou have is a metal thingmajig, its never going to notice anything about itself, let alone any self-improvement brought about by a 'dimple' or 'dent' in its surface. In order for anything at all to happen the thingummy has to have the inherent power of self-replication and self-preservation, starting with an ability to recognise 'self', distinguish 'self' from 'non-self', and determine just what is good, better, or best for 'self'-- something which no tin can has, had, or ever will have.
+           <br/>
+           <br/>
+           <br/>
+           Quote:
+           <br/>
+           The problem with your 'genetics' scenario is that it depends upon the belief that any accidental change in any gene necessarily, mechanically, determines a change in organic outcome. The change can be significant or insignificant, positive or negative, in terms of well-being of the organism, or rather, it's off-spring. IOW, the mutation is totally irrelevent to the well-being of the organism. It matters not whether that organism is doing well or is faced with a problem, since any random change forced upon it mechanically by an accidental change in the shape of a genetic molecule is impertinent to any state of affairs, whatsoever. Therefore, where there is no problem, but a great big 'solution to the non-problem' is created, then a great big problem is created. Or, if there is a great big complex problem, and the accident forces an impertinent change upon the organism, that problem doesn't get solved. The only time a random, non-teleological change in a molecule is going to effect a complex change in an organism that is positive for that organism, is a matter of pure chance. And unless it is wondrous lucky, wherever there is a serious problem in effect, there is little hope that random chance genetic mutation will suddenly, for no reason at all, produce an effective solution to that immediate problem. And that is a very serious problem for any organism that wants to go living and produce offspring that can thrive in a world where random chance is forever bringing up new complex problems. Heck, it would be just as much a problem in a world where the environment never randomly generates new complex problems, because it means that mechanically, an organism is forced to change randomly in a world that never does. This is not problem-solving. This is problem-creating. To coin a phrase, if you are not part of the solution [teleology], then you are a part of the problem.
+           <br/>
+           You said right at the start that genetics aren't really your bag, so I hope you won't be offended if I tell you that what you've said here is wrong in every important respect. Let's take it step by step.
+           <br/>
+           Quote:
+           <br/>
+           The problem with your 'genetics' scenario is that it depends upon the belief that any accidental change in any gene necessarily, mechanically, determines a change in organic outcome.
+           <br/>
+           Yes and no. If the same genetic change occurs in very similar organisms, the consequences (in terms of changes to the organism) are demonstrably similar. If the same gene changes in the same way in very different organisms, the consequences may be different (but often aren't, hence genetic engineering). So context is important.[/quote]
+           <br/>
+           <br/>
+           Took the words right out of my mouth. Since when is "context" a physical/chemical power that somehow changes lead into gold, let's say?  The "context' in biology is the organism, not the molecule. If, as you admit, the context [organism] directs the outcome, and not the 'gene'[molecule], then any appeal to genetic determinism is already proved false. Since any mechanical process is, perforce, deterministic, and non-deterministic process is, prerforce, non-mechanical. The most you can say is that where a certain gene has been used by an organism in a certain way over past generations, then the organism can change the use of that gene to suit itself, should the need arise. If an accident/mutation so changes that gene to the point that the organism cannot deal with it, then it loses something. Just like accidentally severing your thumb with a power saw would do. Your problem is that the mechanics/random chance scenario puts the 'context' in the genome, whereas the true 'context' is in the organism as a whole, both particularly and generally speaking.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              The change can be significant or insignificant, positive or negative, in terms of well-being of the organism, or rather, it's off-spring.
+              <br/>
+              This much is true in that the 'fitness' of an organism is relative to its environment rather than any absolute scale, but it's such a catastrophic oversimplification as to be utterly misleading. In a given organism, some mutations (such as one that disrupts RNA-protein translation) are negative in pretty much every imaginable environment, while many others prove neutral or mildly negative in some environments while being hugely beneficial in others. Failing to recognise that leads to your first categorically false statement:
+             </div>
+            </div>
+           </div>
+           Once again, I do recognise that fact. What I said was that the mechanics/chance explanation cannot recognise that fact, because there is no place for either mechanics, or chance, or some combination of the two, to be found in that fact. Either that fact exists, and your hypothesis is wrong, or your hypothesis is correct, so that observation must be non-factual.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              IOW, the mutation is totally irrelevent to the well-being of the organism. It matters not whether that organism is doing well or is faced with a problem, since any random change forced upon it mechanically by an accidental change in the shape of a genetic molecule is impertinent to any state of affairs, whatsoever.
+              <br/>
+              You've taken something that's true (the effect of a given mutation on organismic fitness is not determined purely by the mutation or the organism to which it occurs), and twisted that into a falsehood (the effect of a given mutation on organismic fitness is random).
+             </div>
+            </div>
+           </div>
+           You are the one who is once again doing the word-twisting. Anyone who re-reads my quoted statement can plainly see that " any random change forced upon it mechanically" refers to genetic determinism, whereby a random genetic mutation must, if genetic determinism is true, [and it must be in order for your proposed 'mechanics/chance' hypothesis to be true (which it is not-see above)] deterministically leads to a particular and specific organic outcome. Thanks to mechanical determinism, an accident at one end must, inevitably, result in an accident at the other end of the process. "Garbage in = Garbage out." as they used to say of computers. So unless "garbage in [random genetic mutation] does not equal garbage out [random organic mutation], [and it does not, by your own admission] then your 'mechanical progression from a chance beginning to a chance ending' hypothesis wrt evolution is false. Something else embodied, inherent, intrinsic to the organism as a complete system, interposes itself between itself, and your 'mechanics plus chance' explanation for its continued existence and self-replication and, over generations, evolution. But what is that intrinsic something? Your only response can be, other randomly generated genes and their mechanically generated and therefore random, organic effects. Your in a hole where your only hope of escape is to keep digging. Or to admit to the existence of some real quality in live organisms that is capable of doing what mechanics plus chance cannot do--i.e., intelligently design or re-design itself.
+           <br/>
+           <br/>
+           Gotta go. Headache.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341663" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341663" id="qrwq_341663" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341663" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341664">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-25-2009,
+          <span class="time">
+           01:05 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341664#post341664" name="post341664">
+          #47
+         </a>
+         <a id="postcount341664" name="47">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341664">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341663#post341663" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               First, my apologies to the others that have made honest, sensible input in response to my posts. I simply am not up to spending much time at the keyboard. However, if Peeling continues to erect impediments to our own discussion,  that will leave me free to begin a dialogue with one or more of you.
+              </div>
+             </div>
+            </div>
+           </div>
+           Hi, Jakers. Listen, I must confess that I don't see Peeling as putting up barriers to discussion here. Not that I think your own points are wrong, necessarily. But they really do strike me as semantics much of the time.
+           <br/>
+           <br/>
+           As I said, perhaps I'm not sure what you're trying to accomplish here.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341664" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341664" id="qrwq_341664" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341664" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341669">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-25-2009,
+          <span class="time">
+           01:54 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341669#post341669" name="post341669">
+          #48
+         </a>
+         <a id="postcount341669" name="48">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341669">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341664#post341664" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Hi, Jakers. Listen, I must confess that I don't see Peeling as putting up barriers to discussion here. Not that I think your own points are wrong, necessarily. But they really do strike me as semantics much of the time.
+               <br/>
+               <br/>
+               As I said, perhaps I'm not sure what you're trying to accomplish here.
+              </div>
+             </div>
+            </div>
+           </div>
+           Hi Matthew;
+           <br/>
+           <br/>
+           When anyone tries to explain a teleological process by claiming that it is not a teleological process, he soon finds that he/she is forced to use teleological language abd verbal imagery, because using strictly mechanical/physical/chemical/materialist language simply does not work in a teleological context.
+           <br/>
+           <br/>
+           Therefore he/she must do one of two things-a/ admit that a certain process, eg., biological evolution, is teleological, hence, intelligent and designed, or-
+           <br/>
+           <br/>
+           To cloak his/her inability to express his premise in in its own context, eg., language based upon mechanics and chance, i.e., physical, chemical, material, words and images, he/she is then forced to introduce teleology "through the back door", dishonestly, by insisting or inferring that the distinction between teleological meanings and mechanical or other meanings for certain words and/or verbal images,[tropes, analogies, whatever], is obscure and blurred to the point where he/she can use teleological words to express mechanical concepts ["natural selection", where 'selection' is purely teleological word, like 'choice', 'distinguish', or 'discern']. Even Darwin had the honesty to feel guilty over that false analogy, and thought  Spencer's tautology, "Survival of the fittest." at least more honest.
+           <br/>
+           <br/>
+           Worse, is when he/she 'concretises an abstraction', [eg., tries to pretend that 'evolution' is a 'thing' that can teleologically 'do stuff', instead of simply being a process in the course of which stuff is done by something to other stuff, thereby changing old and standardized stuff to new and original stuff].
+           <br/>
+           <br/>
+           This reification is at its worst when it goes as far as animism and the anthropomorhising of inanimate, insentient things by implying, or even brashly stating, that they possess teleological abilities and properties. For instance, taking "nature" and chaninging it into "Mother Nature", therebye pretending to do science by writing poetry.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341669" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341669" id="qrwq_341669" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341669" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341687">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-25-2009,
+          <span class="time">
+           03:06 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341687#post341687" name="post341687">
+          #49
+         </a>
+         <a id="postcount341687" name="49">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245" title="iangb is offline">
+          <img alt="iangb's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=10340&amp;dateline=1210596157"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245" title="iangb is offline">
+            <strong>
+             iangb
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=10340&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=10340&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="iangb is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Terminally Inquisitive
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,300
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341687">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              When anyone tries to explain a teleological process by claiming that it is not a teleological process, he soon finds that he/she is forced to use teleological language and verbal imagery, because using strictly mechanical/physical/chemical/materialist language simply does not work in a teleological context.
+             </div>
+            </div>
+           </div>
+           Isn't it simply that teleological terminology is constantly and frequently used in (philosophically) inappropriate contexts, so our learned 'natural' use of language uses phrases that technically imply teleology where none exists?
+           <br/>
+           <br/>
+           An extreme - as a teacher(-in-training), I am used to the idea that many pupils come into secondary school at age ~11 with the idea that electrons move about a circuit because they 'want to get to the positive end of the battery'. While this teleological terminology is clearly false, it is an adequate explanation for the process of electromagnetic attraction within the circuit at that level - and I would be perfectly comfortable using this idea to develop their learning further, or to correct them on a point. I simply have to do what is required of you here - to accept that simplification can result in semantic imprecision, and to move on.
+           <br/>
+           <br/>
+           As a challenge, how would you describe the process by which 'micro-evolution' occurs? This process (animal breeding notwithstanding) is clearly not teleological, as in in many cases there is no agency present which could bestow a 'purpose'. It's 'natural selection' in action: no matter how you may wince at the term, it's just another simplification.
+           <br/>
+           <br/>
+           If I may propose a compromise? What would you say to Peeling continuing to use terminology of his own choosing, but - when such an word turns up - to show his recognition that it is a teleological simplification with use of 'quotes' around the word? That way, Peeling need not run in mental circles finding rigorous terminology, and you need not assume that he is deliberately trying to be obtuse. If you think that the simplification is not justified, you can call him out on it - but ultimately, the semantics of this argument is by far the least interesting part of it, and this solution might skip that.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              pretending to do science by writing poetry.
+             </div>
+            </div>
+           </div>
+           I would argue that they are simply trying to write poetry into their science. Unwise and/or naive, perhaps, but not intellectually dishonest.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          The truth may be out there, but lies are in your head.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341687" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341687" id="qrwq_341687" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341687" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341741">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-25-2009,
+          <span class="time">
+           09:38 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341741#post341741" name="post341741">
+          #50
+         </a>
+         <a id="postcount341741" name="50">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341741">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              Therefore, where there is no problem, but a great big 'solution to the non-problem' is created, then a great big problem is created.
+              <br/>
+              <br/>
+              This is both false and irrelevant. First, mutations can be neutral or nearly-neutral in one environment and strongly beneficial or detrimental in another.
+             </div>
+            </div>
+           </div>
+           Well, no, if a random mutation determined a short, thick beak where, at the time, a long thin beak was in existence and working out well for its organisms, they were encountering no problems in its use, then the sudden mutation into mutants with short, thick beaks would surely create serious problems for organisms whose environment had not changed. And it's relevent because if genetic mutations occur randomly, and the traits of organisms are determined mechanically by the 'shape' of their genes, then the fact that a random mutation not only -can- lead to a non-viable offspring, in any case where the environment has not changed it -must- lead to an offspring that is at least diminished in terms of viability wrt that particular unchanged envitonment. Of course, all this is both true and relevent -provided that- genetic determinism is true, i.e., that genes and only genes guide, control, and direct the replication of old organic traits, and well as the generation of new and original organic traits. Now, empirical study would tend to suggest that genetic determinism is not true. That chemical mechanics are to some extent, sometimes, overridden by 'something else'. Mechanists will say , "Yeah, other genes." but in fact that response is meaningless. It is no more than an evasion that leads to an infinite regression. Moreover, it is an appeal to ignorance, to the effect that  the development of organisms, their traits old and new, does not appear to be chemically determined, but since we don't know what does control development, we'll just go on saying, 'genesdidit'. A non-answer, as ever was.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Second (and we're talking about bacteria here for the most part), even if a given mutation does induce a reproductive disadvantage in the current environment, if it crops up often enough it will be present somewhere in the population if and when the environment changes.
+             </div>
+            </div>
+           </div>
+           I'm not sure that that even holds true for bacteria, and inferring a mechanism from bacteria that would apply to ducks and dinosaurs and daffodils, is making a leap in our 'suspension of disbelief' that I, for one, am not prepared to make. It is a fallacy to argue to a general rule from a special case.
+           <br/>
+           <br/>
+           Moreover, if a negative random mutation 'popped up' repeatedly in any given species of bacteria without ever providing any positive benefit to it at any time, then I would expect that the bacteria would do what they have always done in such cases--find ways to circumvent the mutation by mutating into a mutation-resistant strain,-- or simply dying out. However, natural strains of bacteria seldom or never die out, go extinct, disappear, in the natural run of things. They seem to have gotten this mutation thing down to an art form. Which means, they've made it teleological, on demand, non-random, via some mechanism operating under the guidance of some thing. And we are back to intelligence and design.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The proof of this was the fluctuation test developed in the middle of the last century (you might want to acquaint yourself with the details),
+             </div>
+            </div>
+           </div>
+           Actually, I did, and with others like it, but that was many decades past. And I've seen it argued many times in threads like this one. What was found, if I recall, was that a certain species of bacterium had, over the ages, been repeatedly attacked by some other germ, [I can't remember if it was a virus or another bacteria species]. IAC, it had developed a mechanism for resisting these attacks, a mechanism which, sadly, was a bit debilitating [I can't remember in what way] to that species when it was not under attack, and so did not require the 'resistance'. And so, the bacteria had developed a mechanism for not only rapidly generating the 'resistance factor' when it was under attack, but also for removing the 'resistance factor' and getting 'back to normal' once the attack was over and the resistance was no longer need, and the 'disability' that came with it was getting in the way of a full and happy life. Now, at the time, I thoufght, what a miracle, that this 'resistance mutation' should pop up wjhenever needed, and I was further astounded to find that it would "randomly", but rapidly, vanish again when it wasn't needed. To me it looked like people wanted the phenomenon to be random and accidental, so they took some statistical pains to say that the numbers involved 'looked' randomly generated, when to me it was, and is still, just as plain as day that the phenomenon is not random, but an intelligently designed, inherent, defense mechanism.
+           <br/>
+           <br/>
+           [quote]
+           <br/>
+           True. But your belief that evolution is teleological and therefore organismic[/quote[
+           <br/>
+           <br/>
+           I am not saying that given one, the other must follow. I am saying that the two are conjoint. You do not get a live organism without the presence of teleology, and you do not get teleology without the presence of a sentient, aware, and willful being or agent of some kind. They are like siamese twins--neither is responsible for nor generates the other, but they are never found apart.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              has made you fixated on the fortunes of the organism rather than the species.
+             </div>
+            </div>
+           </div>
+           Actually I am not fixated on anything. There are times to speak in generalities and abstractions, and other times in which to speak of actual entities. The trick lies in knowing which is the right time for which.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Plus, you're stuck in the mindset that evolution has to respond to change;
+             </div>
+            </div>
+           </div>
+           You are still reifying 'evolution'. ' does not 'respond' to anything. "Evolution" _is_ change.  Change is not a 'thing'; it's a process. IOW, an abstraction, and your are still trying to reify it so that you can anthropomorphize it so that you can insinuate teleology while at the same time denying it. Oh, hell's bells, I said would ignore this stuff. Groan.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              you're imagining a problem occurring and then a lucky mutation striking to make everything better.
+             </div>
+            </div>
+           </div>
+           I don't imagine any such thing. It is 'mechanics plus random chance' advocates who imagine that sort of thing.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              That can and does happen,
+             </div>
+            </div>
+           </div>
+           I doubt it, but I suppose anything is imaginable.
+           <br/>
+           <br/>
+           Well, my cold is not done with me yet, and that's as much energy as I've got, for now. Will try again tomorrow.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341741" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341741" id="qrwq_341741" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341741" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341789">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           11:33 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341789#post341789" name="post341789">
+          #51
+         </a>
+         <a id="postcount341789" name="51">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341789">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Well, for one thing any feedback mechanism operating without a teleological agent would have to take the form of a tautology.
+             </div>
+            </div>
+           </div>
+           Actually, any feedback mechanism operating without a teleological agent would be non-existent, being a contradiction in terms. And vice versa.
+           <br/>
+           Teleology and feed-back mechanisms are inseparable.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If I ran a simulation, scored self-replicators on how abundantly they reproduced in a single generation, and then seeded the next run of the simulation with corresponding quantities of those self-replicators, you'd happily call that a feedback process because a teleological agent (me) was involved. Even though I'm not contributing anything! The self-replicators are already doing 'my job' for me.
+             </div>
+            </div>
+           </div>
+           This makes no sense to me. Please rephrase.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              In and of itself it contributes nothing to the solution of problems, it simply 'marks the exam papers'; something that can be done mechanically, as in sorting large eggs from small.
+              <br/>
+              Incorrect. If the 'problem' in question had only a yes/no solution, get it perfectly right and survive, otherwise perish, you would be right to say that differential reproductive rates could contribute nothing to the solution. But in that case, nor could teleology. Disagree? Then what's my router's WEP-key? Imagine your life depended upon knowing it, if that helps
+             </div>
+            </div>
+           </div>
+           Again, what does your analogy have to do with the question at hand? Nothing that I can make out. IAC, what you are talking about, [or should be], are differential survival rates, not differential reproduction rates.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Differential reproductive rates (DRR) bias the otherwise stochastic search. Only if success is all-or-nothing, or resources were unlimited (population can expand freely forever) would DRR have no effect.
+             </div>
+            </div>
+           </div>
+           Effect on what? Statistics?  Numbers? Sums? What has that to do with evolution? Evolution is about the generation of the novel and original in biology. It is not about the expansion or contraction, in numbers or territory, of the same ol' same ol' life forms. I've already pointed this out to you, but you do not seem to listen.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Sorry; too much 'binary' going on What I mean to say is, what if the feedback was not just 'yes, all 128 digits correct' or 'no', but a scalar value of the number of matching digits in the trial. So instead of the two trials just generating (no, no) ad nauseam, they generate, for instance, (64, 65). Now the next generation consists of two variations on the second guess, the one that scored 65. The next score might then be (66,64), and so on. Statistically, the equilibrium point of this mechanism is 96 matching digits, which is the point at which it becomes equally likely that both next-gen trials will be worse as for one of them to be better. More seeds push the equilibrium point up, such that with a hundred seeds the optimal solution comes within the scope of the stochastic variation.
+             </div>
+            </div>
+           </div>
+           Once again, what has this arithmetic to do with evolution? All that matters is that with a teleological factor, a feed-back mechanism, then even arithmetical/statistical problems can be solved, whereas without such mechanisms only great good luck or a near infinite amount of time for a near
+           <br/>
+           infinite number of trials will get you your chosen digit.
+           <br/>
+           None of which matters since life forms are not digits, and pretending that there is a true correspondence between what can be done with abstract digits and what can be done with corporeal entities such as life forms, is a fallacy, plain and simple. If you wish to discuss biology and its organisms, stop talking about digits and coins and dice and cards and statistics. You are confusing and conflating two different orders/categories of existence- the material and the mental.  Which is why I haven't paid much attention to Dembski, as I believe I have already pointed out.
+           <br/>
+           <br/>
+           Moreover, I'll repeat one last time--counting sheep does not explain the existence of sheep. Statistics deals with effects, outcomes, and not with causes, origins. More categorical confusion. So if you want to talk about how evolution takes place, stop talking about what happens after evolution has already taken place. The latter does not, cannot, and [apologies to poor Darwin], never will explain the former. Which is precisely why the notion of 'random genetic mutation' was concocted--in order to over leap this huge hole in Darwin's "Natural Selection" hypothesis/analogy/figure of speech/poetic license "explanation" for the fact of evolution.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The 'best' self-replicator is an objective, quantitative measurement of fact.
+             </div>
+            </div>
+           </div>
+           No, it most certainly is no such thing, and in fact it is often a lethal mistake to think so. The "best self-replicator" in darwinian terms, 'fitness' and all that,  is simply that entity which produces the highest number of replications of itself. The intrinsic value judgment assumed here is that of, "more is better". Except that, in many cases, 'more' is 'worse'. Much worse. One of the worst things that can happen to a species, and all of the other species in its ecosystem, is that it overpopulates. Causing the entire system, including itself, to crash and burn. The human race is in the process of proving that 'more is better' is a disastrous folly, even as we speak.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Not in the case of self-replicators. As we noted before, a telic agent actively seeking the best self-replicator by scoring variants on how abundantly they replicate and seeding the next generation accordingly, is contributing absolutely nothing to the process. He may as well not be there.
+             </div>
+            </div>
+           </div>
+           Come now! If 'he's' not there, then who is going to do the counting/scoring and seeding? You are not making sense.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              True - but you can speak of recognition without design. You referred to a process involving pure recognition as 'intelligent design'.
+             </div>
+            </div>
+           </div>
+           Did I? Where and when? I remember saying that recognition is part of intelligent design. It is. I did not say that intelligent design was part of recognition. I did say that you can have recognition without design, but you cannot have design without recognition. And a process that generates solutions to a given problem does not merely 'recognise' them--it creates them. If I must find a number between 1 and 10, and create the set , 5 through 10, I do not merely 'recognise that set, I create it. And that's intelligent design.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              How can there be 'self-replication' without a sense of 'self'?
+              <br/>
+              Oh dear, more semantics. You want me to stop using the word 'self' now?
+             </div>
+            </div>
+           </div>
+           No, I just want you to honestly answer a perfectly legitimate, non-rhetorical question.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Ok, you tell me what legitimate term I should use for a mechanism whose activity results in the existence of duplicate mechanisms.
+             </div>
+            </div>
+           </div>
+           Frankly, it is my contention that all things that lack self-awareness are completely incapable of self-replicating themselves. So there is no legitimate term for an entity that has no sense of self, yet manages to self-replicate; simply because such an entity does not, has not, and will not ever exist. If you wish to prove otherwise, that is your problem. Bring on your examples.
+           <br/>
+           <br/>
+           As a hint, the two favourites are usually viruses and crystals. Problem is, neither of these can replicate itself. Viruses need cells to do that for them, and crystals [and prions, I suspect] are replicated by their environments, not themselves. Sort of like the way tin cans are replicated in a tin can factory.
+           <br/>
+           <br/>
+           Well, I'm getting tired. Need a break. Later.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341789" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341789" id="qrwq_341789" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341789" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341796">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           12:39 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341796#post341796" name="post341796">
+          #52
+         </a>
+         <a id="postcount341796" name="52">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341796">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341663#post341663" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               More semantic gamesmanship!! It's getting awfully old, Peeling.
+              </div>
+             </div>
+            </div>
+           </div>
+           Believe me, I'd much rather not have that kind of discussion. As I said right at the start it's time I've wasted in the past and I don't want to do it again. And I certainly don't want to waste more time arguing over whose fault it has been. Readers can decide that much for themselves, but for what it's worth I apologise for everything I've done to aggravate matters.
+           <br/>
+           <br/>
+           So I propose a relatively clean slate, and that we proceed more slowly and carefully, covering less ground with each post so as to keep it more manageable.
+           <br/>
+           <br/>
+           Before it can be worth us discussing the original post in any detail, I think we need to achieve a meeting of minds on a couple of issues:
+           <br/>
+           <br/>
+           1. The 'feedback effect' of self-replication-with-variation in an environment of limited resources
+           <br/>
+           <br/>
+           2. Undirected random mutation and its implications for organismic fitness.
+           <br/>
+           <br/>
+           The first issue is one that has proved especially problematic because apparently the word 'feedback' implies teleology. I think this is a case of semantics and objective truth being at odds, and I will endeavour to explain why.
+           <br/>
+           <br/>
+           Suppose a telic agent were to decide to improve a set of self-replicators. Suppose he were to decide to do so by randomly varying the properties of existing self-replicators, measuring how copiously each variant replicated, clearing the slate and then seeding a new generation with variants in relative quantities derived from his measurements. He does this so that the rare changes that
+           <i>
+            improve
+           </i>
+           self-replication have a greater chance of stacking and accumulating with previous improvements. I'm sure you would happily acknowledge this clever teleological process as employing 'feedback'.
+           <br/>
+           <br/>
+           Now suppose that the environment is such that the random variations to the properties of the replicators were inevitable. One contribution of the telic agent is thus rendered redundant.
+           <br/>
+           <br/>
+           Next suppose that the telic agent, instead of clearing the slate and reseeding it with a new generation based on his measurements, simply allows the results of the previous generation to stand. In terms of the replicators themselves, and the numbers of each variant present in each successive generation, nothing has changed.
+           <br/>
+           <br/>
+           That's the point: nothing has changed. The telic agent is now not doing anything, and the process still has the same effect.
+           <br/>
+           <br/>
+           So if it has suddenly ceased to be a
+           <i>
+            feedback
+           </i>
+           process, it's for semantic reasons only (no telic agent involved). The 'best' self-replicators are no longer being 'selected' or 'preserved' and the worst no longer being 'rejected', but in terms of their changing numbers from generation to generation, the departure of the telic agent has had
+           <i>
+            no effect
+           </i>
+           .
+           <br/>
+           <br/>
+           Now, I'm personally quite happy calling this a feedback process, both because of the effect it has and how that effect comes about. If you feel obliged to balk at the prospect, then we need to find an innocuous term we're both happy with, because the process and its effects are logically sound.
+           <br/>
+           <br/>
+           <b>
+            NB:
+           </b>
+           <i>
+            I'm aware the effect of this process depends upon the possibility of the 'random changes', be they induced by the telic agent or by the environment, increasing the relative quantity of a given self-replicator present in the next generation.
+           </i>
+           Hence the second vital issue, 2) above, which I'll get to when we're done with 1). For now, the important point for us to agree upon is that the presence or absence of a telic agent in the process does not alter its effect on replication efficiency.
+           <br/>
+           <br/>
+           Also, in case you're concerned that I might be trying to sneak some other prerequisite for evolution in under the radar: no, you've read the above correctly. Differential reproductive rates influence the chances of beneficial changes
+           <b>
+            accumulating
+           </b>
+           within individual organisms - that's all. So if you can agree with that, we can move on in joyous lockstep
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <br/>
+           Edit: I just noticed something from your previous post that needs to be addressed here:
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <i>
+               (The 'best' self-replicator is an objective, quantitative measurement of fact.)
+              </i>
+              No, it most certainly is no such thing, and in fact it is often a lethal mistake to think so. The "best self-replicator" in darwinian terms, 'fitness' and all that, is simply that entity which produces the highest number of replications of itself. The intrinsic value judgment assumed here is that of, "more is better". Except that, in many cases, 'more' is 'worse'. Much worse. One of the worst things that can happen to a species, and all of the other species in its ecosystem, is that it overpopulates. Causing the entire system, including itself, to crash and burn.
+             </div>
+            </div>
+           </div>
+           This is wrong. I have to dash home now, but I'll pop back on in a bit and explain why. Bear with me until then.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 01-26-2009 at
+         <span class="time">
+          12:52 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341796" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341796" id="qrwq_341796" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341796" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341839">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           04:25 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341839#post341839" name="post341839">
+          #53
+         </a>
+         <a id="postcount341839" name="53">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341839">
+          <blockquote class="postcontent restore">
+           I feel compelled to finish off this last bit--
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              But evolution doesn't necessitate the generation of positive solutions to immediate problems.
+             </div>
+            </div>
+           </div>
+           As on so many prior occasions "evolution" doesn't "do" anything.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Evolution can progress perfectly well via the accretion of variety prior to the emergence of problems (or opportunities).
+             </div>
+            </div>
+           </div>
+           That's the usual assumption. I've never seen any empirical evidence supporting it, however.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Quote:
+              <br/>
+              I disagree. I can't see where they have anything to do with evolution per se. For instance, the differential reproductive rates of both rabbits and cane toads has soared in Australia, without either organ evolving even a little bit.
+              <br/>
+              Um. No. Their numbers have soared. DRR generally refers to relative reproductive rates between variants of the same species sharing a pool of resources.
+             </div>
+            </div>
+           </div>
+           So at what point do you draw the 'differential' line? That is to say, when do you know when you've distinguished a "variant[] of the same species"? It is my understanding that there is no solid divider between species, so there certainly isn't one between "variants". If you are not going to apply your "fitness" gauge to different life forms in the same ecosystem, or the same life form in different ecosystems [as per rabbits in England/Australia], what gives you the right to declare that it only applies 'properly' where two variants show up in the same 'population' in the same ecosystem. Why stop there? Why not talk 'fitness' [differential reproductive rate] as something that only applies in the comparison of two individuals  of the same sex [where applicable] and same variant of the same species of the same life form in the same place at the same time? Because, to my mind, if you are going to arbitrarily decide where it suits you to look for 'relative fitness' [differential reproductive success], if you are not going to apply the comparison to different lifeforms, then you can only, in all honesty, apply it to different individuals, as above.
+           <br/>
+           <br/>
+           Now, once you've done that, all you have to do is come back with empirical evidence that individual "A" beat out all of his/her 'competition' thanks to some inherent genetic trait exclusive to them as an individual, some peculiar genetic molecule that none of the other individuals in the circumscribed set outlined above had going into the reproduction race. Further, that that genetic anomaly, and no other factor [such as, good luck] is the sole reason why their DRR is highest, i.e., "best". Good luck with that one, because there is none. I looked for it, and unless somebody found some in the last 20 years, it just isn't there. And that includes bacteria, moths, and finches.
+           <br/>
+           <br/>
+           However, this thread is not supposed to be a critique of the standard evolutionary model, but rather a critique and defense of the 'intelligent design' model. so let's not get sidetracked. Which post would you like me to look at now?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341839" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341839" id="qrwq_341839" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341839" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341849">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           05:28 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341849#post341849" name="post341849">
+          #54
+         </a>
+         <a id="postcount341849" name="54">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341849">
+          <blockquote class="postcontent restore">
+           Edit: Just saw this:
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              However, this thread is not supposed to be a critique of the standard evolutionary model, but rather a critique and defense of the 'intelligent design' model. so let's not get sidetracked.
+             </div>
+            </div>
+           </div>
+           Here's the problem with that: the article I originally presented speaks to an argument for ID made by advocates who understand the fundamentals of evolutionary theory as applied to genetics and for the most part accept the logic and bountiful evidence that undirected evolutionary processes
+           <i>
+            can
+           </i>
+           result in increases in fitness. You think evolution must be telic for a much simpler reason: because you can't see how an ateleological process could have any effect at all. So either we sort that misconception out first, or we agree not to bother.
+           <br/>
+           <br/>
+           If you are interested in continuing on that basis, post #52 is probably the best starting point. All I show there is that differential reproductive rates inevitably increase the chances of replication-improving changes stacking with earlier ones - regardless of how those changes originate.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 01-26-2009 at
+         <span class="time">
+          06:11 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341849" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341849" id="qrwq_341849" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341849" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341874">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           07:58 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341874#post341874" name="post341874">
+          #55
+         </a>
+         <a id="postcount341874" name="55">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341874">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341669#post341669" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               When anyone tries to explain a teleological process by claiming that it is not a teleological process, he soon finds that he/she is forced to use teleological language abd verbal imagery, because using strictly mechanical/physical/chemical/materialist language simply does not work in a teleological context.
+              </div>
+             </div>
+            </div>
+           </div>
+           It sounds to me like you're just assuming a priori that evolution must be a "teleological process." But as I've already said, there is no good reason to make that assumption. Indeed, there may not be any good reason to think that there are any teleological causes at all.
+           <br/>
+           <br/>
+           Once again, look at the indefinitely replicating RNA in the article Trebor cited. Some strains come to dominate the mixture, numerically speaking. This is not because dominance is a "goal" or "purpose" or "intention"
+           <i>
+            causing
+           </i>
+           the molecules' behavior. Rather, dominance is the
+           <i>
+            effect
+           </i>
+           of the molecules' behavior. A simplified example, to be sure, but instructively so.
+           <br/>
+           <br/>
+           Now, as to the language issue:
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Therefore he/she must do one of two things-a/ admit that a certain process, eg., biological evolution, is teleological, hence, intelligent and designed, or-
+              <br/>
+              <br/>
+              To cloak his/her inability to express his premise in in its own context, eg., language based upon mechanics and chance, i.e., physical, chemical, material, words and images, he/she is then forced to introduce teleology "through the back door", dishonestly, by insisting or inferring that the distinction between teleological meanings and mechanical or other meanings for certain words and/or verbal images,[tropes, analogies, whatever], is obscure and blurred to the point where he/she can use teleological words to express mechanical concepts ["natural selection", where 'selection' is purely teleological word, like 'choice', 'distinguish', or 'discern']. Even Darwin had the honesty to feel guilty over that false analogy, and thought  Spencer's tautology, "Survival of the fittest." at least more honest.
+             </div>
+            </div>
+           </div>
+           Here I am reminded of Nietzsche's famous quip that it might be impossible to get rid of God without also getting rid of grammar.
+           <br/>
+           <br/>
+           Let me put it a little less obtusely (perhaps very little less). Is there something dishonest about speaking of sunrises and sunsets? Or do we have to admit the truth of geocentrism if we keep using these terms? I mean, we all know that the sun doesn't really rise or set.
+           <br/>
+           <br/>
+           Nonetheless, I don't see anything wrong with using the terms,
+           <i>
+            so long as we understand what's really going on
+           </i>
+           .
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Worse, is when he/she 'concretises an abstraction', [eg., tries to pretend that 'evolution' is a 'thing' that can teleologically 'do stuff', instead of simply being a process in the course of which stuff is done by something to other stuff, thereby changing old and standardized stuff to new and original stuff].
+              <br/>
+              <br/>
+              This reification is at its worst when it goes as far as animism and the anthropomorhising of inanimate, insentient things by implying, or even brashly stating, that they possess teleological abilities and properties. For instance, taking "nature" and chaninging it into "Mother Nature", therebye pretending to do science by writing poetry.
+             </div>
+            </div>
+           </div>
+           Okay, here's my point.
+           <i>
+            "Evolution" doesn't get reified just because it gets used as the GRAMMATICAL subject of a sentence!
+           </i>
+           No more, at any rate, than speaking of sunrises and sunsets somehow implies a geocentric vision of the solar system.
+           <br/>
+           <br/>
+           As I said, you're getting way too caught up in semantics here. Language is not as constraining as you think.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341874" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341874" id="qrwq_341874" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341874" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341911">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           10:28 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341911#post341911" name="post341911">
+          #56
+         </a>
+         <a id="postcount341911" name="56">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341911">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341849#post341849" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Edit: Just saw this:
+               <br/>
+               <br/>
+               Here's the problem with that: the article I originally presented speaks to an argument for ID made by advocates who understand the fundamentals of evolutionary theory as applied to genetics and for the most part accept the logic and bountiful evidence that undirected evolutionary processes
+               <i>
+                can
+               </i>
+               result in increases in fitness. You think evolution must be telic for a much simpler reason: because you can't see how an ateleological process could have any effect at all.
+              </div>
+             </div>
+            </div>
+           </div>
+           <br/>
+           I don't know from " the logic and bountiful evidence that undirected evolutionary processes
+           <i>
+            can
+           </i>
+           result in increases in fitness" since that's an empty boast attached to nebulous language, signifying nothing. I do know that a "simpler" reason is quite often a truer reason. Ockham's Razor, and all that. And I've made my position clear, and offered to drop out of your thread if it is incompatible with your purposes, on several occasions.
+           <br/>
+           <br/>
+           You have failed to demonstrate that mechanical determinism plus random chance can, by and of themselves alone, drive life forms to diversify and vary over generations,-- the process we, [or at least, I], call biological evolution. I doubt very much that any ID supporters, anywhere, are convinced that you have done so.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              So either we sort that misconception out first, or we agree not to bother.
+             </div>
+            </div>
+           </div>
+           <br/>
+           What you call "that misconception" has been a part of my argument from the start.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If you are interested in continuing on that basis, post #52 is probably the best starting point. All I show there is that differential reproductive rates inevitably increase the chances of replication-improving changes stacking with earlier ones - regardless of how those changes originate.
+             </div>
+            </div>
+           </div>
+           If you wish to prove that ateleological events, be they random/accidental and/or chemically determined, can lead to population fluctuations, I'm not interested. Anything can lead to population fluctuations. Population fluctuations are not evolution; not unless you are talking about the evolution of whole ecosystems, rather than about the evolution of distinct and separate life forms.
+           <br/>
+           <br/>
+           I prefer to remain empirical.  Your, "differential reproductive rates inevitably increase the chances of replication-improving changes stacking with earlier ones" sounds purely theoretical, highly abstract, and a bit like wishful thinking.
+           <br/>
+           <br/>
+           Let me ask you this question. Do you think that evolution is about adaptation to external events? If you do, how can you say that 'adaptation' is not intrinsically and inescapably teleological? How can you have an ateleological but adaptive process, of any kind? If you deny teleology, you deny the role of adaptation in evolutionary biology. Are you willing to do that? I believe that many supporters of the standard model deny any role for adaptation in biological evolution--are you one of them?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341911" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341911" id="qrwq_341911" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341911" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341928">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-26-2009,
+          <span class="time">
+           11:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341928#post341928" name="post341928">
+          #57
+         </a>
+         <a id="postcount341928" name="57">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245" title="jakers is offline">
+            <strong>
+             jakers
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14985&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14985&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jakers is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           70
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341928">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341874#post341874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               It sounds to me like you're just assuming a priori that evolution must be a "teleological process."
+              </div>
+             </div>
+            </div>
+           </div>
+           I am assuming, with Darwin, that evolution is an adaptive process, and is thus, by definition, a teleological process. If evolution is not 'adaptation' based, then it it is ateleological, but if Darwin and I are correct in our a priori assumptions, adaptation of lifeforms to changing environmental conditions is what evolution is all about.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              But as I've already said, there is no good reason to make that assumption. Indeed, there may not be any good reason to think that there are any teleological causes at all.
+             </div>
+            </div>
+           </div>
+           When it come to a priori ontological assumptions, you can start from any place you choose. Backing up your premise is the hard part. Hume was of the opinion, if I understand him aright, that there is no 'reason' to believe that "A" causes "B", it's just that since every time you get "A", "B" follows right behind, you come to think that "A" had something to do with the existence of "B", when in fact it could be nothing but a coincidental regularity, or a regular coincidence, or something to that effect. Also, it could be said that there are no 'laws' of physics-- just those repeated, coincidental but predictable, connections of A's and B's, repeated in time, with the one event temporally preceding the other. Of course, if 'the arrow of time' is an illusion, then there is no such thing as causation, no such thing as laws of physics, no such thing as anything, really.
+           <br/>
+           <br/>
+           Personally, I'm for taking reality, including causation, for what it appears to be. At least for as long as I'm living in this universe.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Once again, look at the indefinitely replicating RNA in the article Trebor cited. Some strains come to dominate the mixture, numerically speaking. This is not because dominance is a "goal" or "purpose" or "intention"
+              <i>
+               causing
+              </i>
+              the molecules' behavior. Rather, dominance is the
+              <i>
+               effect
+              </i>
+              of the molecules' behavior. A simplified example, to be sure, but instructively so.
+             </div>
+            </div>
+           </div>
+           Except that it's meaningless. I find it interesting, but not at all instructive.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Nonetheless, I don't see anything wrong with using the terms,
+              <i>
+               so long as we understand what's really going on
+              </i>
+              .
+             </div>
+            </div>
+           </div>
+           But there's the rub.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Okay, here's my point.
+              <i>
+               "Evolution" doesn't get reified just because it gets used as the GRAMMATICAL subject of a sentence!
+              </i>
+              No more, at any rate, than speaking of sunrises and sunsets somehow implies a geocentric vision of the solar system.
+             </div>
+            </div>
+           </div>
+           I disagree.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              As I said, you're getting way too caught up in semantics here. Language is not as constraining as you think.
+             </div>
+            </div>
+           </div>
+           It is not the words,-- it's the meaning, the significance, that matters to me. Why? Because truth matters to me.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by jakers; 01-26-2009 at
+         <span class="time">
+          11:48 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341928" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341928" id="qrwq_341928" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341928" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341965">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           01:08 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341965#post341965" name="post341965">
+          #58
+         </a>
+         <a id="postcount341965" name="58">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+          <img alt="pandion's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1945&amp;dateline=1109365195"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245" title="pandion is offline">
+            <strong>
+             pandion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1945&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1945&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="pandion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Evolutionary biologist
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Texas
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,937
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341965">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341839#post341839" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               As on so many prior occasions "evolution" doesn't "do" anything.
+              </div>
+             </div>
+            </div>
+           </div>
+           That's a fact! Evolution isn't an agent or a mechanism. It is an observation. Organisms have changed through the ages and are still being observed to change in response to their environment. Thus, mechanisms like mutation, gene flow, recombination (non-random mating), natural selection, sexual selection, genetic drift, biased variation, and movable elements have been observed to effect changes in the genetic makeup of populations over time. And that is evolution. But evolution doesn't "do" anything. The word "evolution" is applied to the definition of events that constitute evolution (a change in the allele frequency of populations of organisms over generations), observations of events that fit the definition, and theories that explain the events.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341839#post341839" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div class="bbcode_container">
+                <div class="bbcode_quote">
+                 <div class="quote_container">
+                  <div class="bbcode_quote_container">
+                  </div>
+                  <div class="bbcode_postedby">
+                   <img alt="Quote" src="images/misc/quote_icon.png"/>
+                   Originally Posted by
+                   <strong>
+                    Peeling
+                   </strong>
+                  </div>
+                  <div class="message">
+                   Evolution can progress perfectly well via the accretion of variety prior to the emergence of problems (or opportunities)
+                  </div>
+                 </div>
+                </div>
+               </div>
+               That's the usual assumption. I've never seen any empirical evidence supporting it, however.
+              </div>
+             </div>
+            </div>
+           </div>
+           Then you haven't looked. You haven't read Darwin, since that is one of the basic points he pointed out 150 years ago based on the evidence he observed. We observe a great deal of genetic diversity in most organisms. Even humans, a species of quite limited genetic diversity due to a population bottleneck a couple hundred thousand years ago, carry an average of 14 alleles for every gene in the genome.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          From The Treaty of Tripoli, Art. 11, negociated under Washington, passed unanimously by the senate, and signed by Adams -- "As the Government of the United States of America is not, in any sense, founded on the Christian religion;"
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341965" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341965" id="qrwq_341965" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341965" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_341997">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           07:38 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=341997#post341997" name="post341997">
+          #59
+         </a>
+         <a id="postcount341997" name="59">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_341997">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341911#post341911" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I don't know from " the logic and bountiful evidence that undirected evolutionary processes
+               <i>
+                can
+               </i>
+               result in increases in fitness" since that's an empty boast attached to nebulous language, signifying nothing.
+              </div>
+             </div>
+            </div>
+           </div>
+           It is by no means an 'empty boast', as I'm only too happy to demonstrate once I've figured out how to express myself to your satisfaction.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I do know that a "simpler" reason is quite often a truer reason. Ockham's Razor, and all that.
+             </div>
+            </div>
+           </div>
+           I couldn't agree more. So when, for instance, a mutation in bacterial DNA is demonstrably both necessary and sufficient for a replication-improving trait to manifest, when the chemical activity of the novel enzyme (for instance) deterministically generated from that DNA can be traced to its effect upon organismic fitness,
+           <i>
+            and
+           </i>
+           the mutation demonstrably arises stochastically prior to the bacterium encountering the environment in which the mutation improves replication, it would violate Ockham's Razor to suppose the existence of some unknown teleological mechanism at work, based solely on an a priori philosophical assumption that only teleological processes can increase the replication chances of complex systems. Simpler by far to acknowledge the sufficiency of what we see before us to explain the phenomenon, and discard the erroneous philosophical assumption.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              You have failed to demonstrate that mechanical determinism plus random chance can, by and of themselves alone, drive life forms to diversify and vary over generations,-- the process we, [or at least, I], call biological evolution. I doubt very much that any ID supporters, anywhere, are convinced that you have done so.
+             </div>
+            </div>
+           </div>
+           Then you doubt wrongly. Both Behe and Dembski, to name only two, have accepted the validity of known evolutionary mechanisms - they just believe them to be insufficient to explain
+           <i>
+            all
+           </i>
+           biological features. Hence their statistical approach to inferring design.
+           <br/>
+           <br/>
+           As for me having failed to demonstrate the effect of evolutionary mechanisms - in fairness we've only just reached the point of me starting to try
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           As I said, the OP assumed a certain level of understanding, from which point we've been working steadily backwards in an attempt to find some common ground.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What you call "that misconception" has been a part of my argument from the start.
+             </div>
+            </div>
+           </div>
+           Well, yes, that's what I just said. Which is why it would be a waste of time to discuss the OP right now. Its merits are only worth discussing if you don't believe the issue has already been settled by some other argument.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If you wish to prove that ateleological events, be they random/accidental and/or chemically determined, can lead to population fluctuations, I'm not interested. Anything can lead to population fluctuations. Population fluctuations are not evolution; not unless you are talking about the evolution of whole ecosystems, rather than about the evolution of distinct and separate life forms.
+             </div>
+            </div>
+           </div>
+           Population fluctuations in absolute terms can, as you say, occur for many reasons. But fluctuations in the relative
+           <i>
+            proportions
+           </i>
+           of variants comprising that population are influenced by what you would call the relative 'fitness' of those variants in their environment. And those fluctuations in turn inevitably influence the relative chances of future changes stacking with the different variants already in existence. If there are a lot of variant A and only a few of variant B, the chances of a later change stacking with A is much greater than that of it stacking with B.
+           <br/>
+           <br/>
+           Why is this relevant to the evolution of distinct and separate life forms?
+           <br/>
+           <br/>
+           Because what separates two species that share an ancestor species are the differences in their accumulated changes. The longer two populations of a single species are reproductively isolated from one another, the more different the 'stacks' of changes in each population become - and this is true regardless of whether you believe the changes themselves are random or telic in origin.
+           <br/>
+           <br/>
+           Part of that can result from genuinely different changes arising within each population, but even if the exact same changes were to arise in both populations, in the same order, the two populations can still diverge because DRR in their respective environments would influence which changes accumulated with which others.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I prefer to remain empirical.  Your, "differential reproductive rates inevitably increase the chances of replication-improving changes stacking with earlier ones" sounds purely theoretical, highly abstract, and a bit like wishful thinking.
+             </div>
+            </div>
+           </div>
+           If a million men called Steve and one man called Andy enter the lottery, is it more likely a Steve or an Andy will win? Do we need to conduct that experiment for real to find out?
+           <br/>
+           <br/>
+           So if a change - random or telic - empirically improves the relative statistical chance of self-replication, that mutant will inevitably come to numerically dominate the population. Agreed? So when another change occurs to an organism - again, be it random or telic - to which variant is it more likely to occur? The numerically dominant mutants, or the minority non-mutants?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Let me ask you this question. Do you think that evolution is about adaptation to external events? If you do, how can you say that 'adaptation' is not intrinsically and inescapably teleological? How can you have an ateleological but adaptive process, of any kind?
+             </div>
+            </div>
+           </div>
+           If you take the position that 'adaptive' implies teleology
+           <i>
+            by definition,
+           </i>
+           then obviously an ateleological but adaptive process is a semantic contradiction. It doesn't stop a process of ateleological self-replication improvement occurring, it just means we can't call it adaptive.
+           <br/>
+           <br/>
+           Now
+           <i>
+            personally
+           </i>
+           , I'm comfortable with saying 'ateleological adaptation', because to me that describes something that has the same
+           <i>
+            effect
+           </i>
+           as adaptation, but isn't telic. Since semantics do not define objective truth, I don't see why putting those two words together should make me automatically wrong. 'Ateleological' is just a qualifier.
+           <br/>
+           <br/>
+           The same goes for 'natural selection', a phrase chosen at the time for the express purpose of leading the reader from a concept they're comfortable and familiar with (livestock breeding) and showing them how the rigours of the environment result in an analogous
+           <i>
+            effect
+           </i>
+           , even if the actual process lacks the telic qualities implied by 'selection'. There was never any intent or desire to sneak animism in through the back door, as you seem determined to believe.
+           <br/>
+           <br/>
+           As I've said all along, self-replication with variation is an utterly unique special case, the
+           <i>
+            only
+           </i>
+           situation in which statistically rare improvements can accumulate, and statistically common neutral or deleterious changes abate, without the interference of a telic entity. It's hardly surprising that it's difficult to find appropriate words, when the words we have were defined in ignorance of that one special case.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If you deny teleology, you deny the role of adaptation in evolutionary biology. Are you willing to do that? I believe that many supporters of the standard model deny any role for adaptation in biological evolution--are you one of them?
+             </div>
+            </div>
+           </div>
+           Well, I don't know what 'many supporters' think.
+           <br/>
+           <br/>
+           I know there is much, much more to evolution than mutation and differential reproductive rates. There are two reasons I focus on those elements here and now. First, their combined effectiveness is relatively straightforward to demonstrate, using asexually reproducing bacteria. Second, before I could even hope to interest you in the more complex processes entailed by sexual reproduction, I have to break down the mental block you have against the
+           <i>
+            principle
+           </i>
+           of ateleological processes yielding improved self-replication.
+           <br/>
+           <br/>
+           I neither deny teleology per se, nor do I claim adaptation has no role in evolutionary biology. What I'm saying is that whatever effect they have it is
+           <i>
+            inevitably
+           </i>
+           layered atop known ateleological effects. Do you appreciate the distinction? Ateleological processes that improve an organism's fitness will continue to blindly operate regardless of whether or not the organism itself is telic. There is no all or nothing dichotomy.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 01-27-2009 at
+         <span class="time">
+          09:22 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_341997" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=341997" id="qrwq_341997" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_341997" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_342010">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-27-2009,
+          <span class="time">
+           11:18 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=342010#post342010" name="post342010">
+          #60
+         </a>
+         <a id="postcount342010" name="60">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245" title="Matthew is offline">
+            <strong>
+             Matthew
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=14917&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=14917&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_342010">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jakers
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=341928#post341928" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I am assuming, with Darwin, that evolution is an adaptive process, and is thus, by definition, a teleological process. If evolution is not 'adaptation' based, then it it is ateleological, but if Darwin and I are correct in our a priori assumptions, adaptation of lifeforms to changing environmental conditions is what evolution is all about.
+              </div>
+             </div>
+            </div>
+           </div>
+           Your mistake is to assume that adaptations require teleological explanations. For while Darwin did indeed believe that evolution is an adaptive process, his entire point was to account for adaptations without invoking final causes. And the need for such an account arises from the fact that adaptations do
+           <i>
+            not
+           </i>
+           appear in response to the needs of the species in which they might appear.
+           <br/>
+           <br/>
+           Consider the case of Guam. A venomous bird-eating tree snake was introduced there sometime around the end of World War II or shortly thereafter. The island's birds had never seen such a predator: prior to its arrival, there were no snakes on Guam. The effect was quite predictable. The snakes found easy pickings, and within a few decades there were no birds left on the island. Some had gone extinct; the others survived only because people removed them from the island altogether for conservation purposes.
+           <br/>
+           <br/>
+           Now, I do not doubt for one second that these birds
+           <i>
+            wanted
+           </i>
+           to survive and reproduce. I have no doubt that doing so was some sort of "purpose" or "goal" of theirs, perhaps even an "intention" or a "drive." But none of that
+           <i>
+            caused
+           </i>
+           them to adapt to the new predator in their midst.
+           <br/>
+           <br/>
+           On the other hand, it is quite easy to envision a process whereby that
+           <i>
+            could
+           </i>
+           have happened.
+           <i>
+            If
+           </i>
+           any of the birds possessed some feature that enabled them to defend themselves against the snake -- whether that feature pre-existed the snake's arrival or emerged soon after it arrived -- these birds simply
+           <i>
+            would
+           </i>
+           tend to survive and reproduce more effectively than their neighbors. And if that feature were heritable, they
+           <i>
+            would
+           </i>
+           pass it on to at least some of their offspring, who
+           <i>
+            would
+           </i>
+           follow in their parents' footsteps to survive and reproduce more effectively than their neighbors (perhaps even some of their siblings). And so on and so on, until you
+           <i>
+            would
+           </i>
+           wind up with the birds left on Guam adapted to the snake.
+           <br/>
+           <br/>
+           But of course, that story is counterfactual. It's premised on one big "if." And as it turns out, the requisite conditions never got met. The important point to note is twofold. First, there was no final cause that compelled the birds to adapt. Second, their actual decline can be explained, and their hypothetical success could be explained, without resorting to any final causes.
+           <br/>
+           <br/>
+           (And it's worth keeping in mind that real cases of successful adaptation get explained this way all the time, from the coloration of guppies in the presence or absence of predators to the pesticide resistance of insects.)
+           <br/>
+           <br/>
+           What purpose is served by being hung up on the
+           <i>
+            name
+           </i>
+           of "natural
+           <i>
+            selection
+           </i>
+           ?" The process by which adaptations develop --
+           <i>
+            or fail to develop
+           </i>
+           , incidentally -- can still be still be described ateleologically, and is in fact best described ateleologically. We could call it "natural separation" or even "flurbation." A rose by any other name.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              When it come to a priori ontological assumptions, you can start from any place you choose. Backing up your premise is the hard part. Hume was of the opinion, if I understand him aright, that there is no 'reason' to believe that "A" causes "B", it's just that since every time you get "A", "B" follows right behind, you come to think that "A" had something to do with the existence of "B", when in fact it could be nothing but a coincidental regularity, or a regular coincidence, or something to that effect. Also, it could be said that there are no 'laws' of physics-- just those repeated, coincidental but predictable, connections of A's and B's, repeated in time, with the one event temporally preceding the other. Of course, if 'the arrow of time' is an illusion, then there is no such thing as causation, no such thing as laws of physics, no such thing as anything, really.
+              <br/>
+              <br/>
+              Personally, I'm for taking reality, including causation, for what it appears to be. At least for as long as I'm living in this universe.
+             </div>
+            </div>
+           </div>
+           And I think that sometimes what "appears to be" and "reality" are not necessarily the same. Which is why I used the examples of sunrise and sunset. The sun appears to move across the sky, and it's hardly dishonest to say so. But that's not what's really going on.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Except that it's meaningless. I find it interesting, but not at all instructive.
+             </div>
+            </div>
+           </div>
+           I'm sorry you feel that way. I think it's a marvelously simplified example of how mechanistic processes can lead to the numerical dominance of some entitities over others under particular conditions.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              [Me:] Nonetheless, I don't see anything wrong with using the terms, so long as we understand what's really going on.
+              <br/>
+              <br/>
+              [Thee:] But there's the rub.
+             </div>
+            </div>
+           </div>
+           Where? What is it that we can't understand here without invoking final causes?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              [Me:] "Evolution" doesn't get reified just because it gets used as the GRAMMATICAL subject of a sentence! No more, at any rate, than speaking of sunrises and sunsets somehow implies a geocentric vision of the solar system.
+              <br/>
+              <br/>
+              [Thee:] I disagree.
+             </div>
+            </div>
+           </div>
+           Why? I presume that you don't disagree about the sunrise/sunset issue (though I could be wrong). Why does using evolution as the subject of a sentence reify it?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It is not the words,-- it's the meaning, the significance, that matters to me. Why? Because truth matters to me.
+             </div>
+            </div>
+           </div>
+           Truth matters to me, too, you know. And I think the truth of the matter is, adaptations can be explained without invoking final causes!
+           <br/>
+           <br/>
+           (Are we unduly reifying an abstraction by speaking of "truth" in this way?...)
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_342010" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=342010" id="qrwq_342010" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_342010" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="12214"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 4 of 12
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 166">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 31 to 45 of 166">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 166">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 166">
+        3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 46 to 60 of 166">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 61 to 75 of 166">
+        5
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=12214&amp;page=6&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 76 to 90 of 166">
+        6
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=12214&amp;page=5&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 61 to 75 of 166">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=12214&amp;page=12&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 166 to 166 of 166">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=12214&amp;page=4#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=b58a740badbd173aee25c10a673ad245">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=b58a740badbd173aee25c10a673ad245">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=b58a740badbd173aee25c10a673ad245">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=b58a740badbd173aee25c10a673ad245">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=b58a740badbd173aee25c10a673ad245">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=b58a740badbd173aee25c10a673ad245">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=b58a740badbd173aee25c10a673ad245">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=b58a740badbd173aee25c10a673ad245">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=b58a740badbd173aee25c10a673ad245">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=b58a740badbd173aee25c10a673ad245">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=b58a740badbd173aee25c10a673ad245">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=b58a740badbd173aee25c10a673ad245">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=b58a740badbd173aee25c10a673ad245">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=b58a740badbd173aee25c10a673ad245">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=b58a740badbd173aee25c10a673ad245">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=b58a740badbd173aee25c10a673ad245">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=b58a740badbd173aee25c10a673ad245">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=b58a740badbd173aee25c10a673ad245">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=b58a740badbd173aee25c10a673ad245">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=b58a740badbd173aee25c10a673ad245">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=b58a740badbd173aee25c10a673ad245">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=b58a740badbd173aee25c10a673ad245">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=b58a740badbd173aee25c10a673ad245">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=b58a740badbd173aee25c10a673ad245">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=b58a740badbd173aee25c10a673ad245">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=b58a740badbd173aee25c10a673ad245">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=b58a740badbd173aee25c10a673ad245">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=b58a740badbd173aee25c10a673ad245">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=b58a740badbd173aee25c10a673ad245">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=b58a740badbd173aee25c10a673ad245">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=b58a740badbd173aee25c10a673ad245">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=b58a740badbd173aee25c10a673ad245">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=b58a740badbd173aee25c10a673ad245">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=b58a740badbd173aee25c10a673ad245">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=b58a740badbd173aee25c10a673ad245">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=b58a740badbd173aee25c10a673ad245">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=b58a740badbd173aee25c10a673ad245">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=b58a740badbd173aee25c10a673ad245">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=b58a740badbd173aee25c10a673ad245">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=b58a740badbd173aee25c10a673ad245">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=b58a740badbd173aee25c10a673ad245">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=b58a740badbd173aee25c10a673ad245">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=b58a740badbd173aee25c10a673ad245">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=b58a740badbd173aee25c10a673ad245">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=b58a740badbd173aee25c10a673ad245">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=b58a740badbd173aee25c10a673ad245">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=b58a740badbd173aee25c10a673ad245">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=b58a740badbd173aee25c10a673ad245">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=b58a740badbd173aee25c10a673ad245">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=b58a740badbd173aee25c10a673ad245">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=b58a740badbd173aee25c10a673ad245">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=b58a740badbd173aee25c10a673ad245">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=b58a740badbd173aee25c10a673ad245">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=b58a740badbd173aee25c10a673ad245">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=b58a740badbd173aee25c10a673ad245">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=b58a740badbd173aee25c10a673ad245">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=b58a740badbd173aee25c10a673ad245">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=b58a740badbd173aee25c10a673ad245">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=b58a740badbd173aee25c10a673ad245">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=b58a740badbd173aee25c10a673ad245">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=b58a740badbd173aee25c10a673ad245">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=b58a740badbd173aee25c10a673ad245">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=b58a740badbd173aee25c10a673ad245">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=b58a740badbd173aee25c10a673ad245">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=12214&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=12214&amp;page=4#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=b58a740badbd173aee25c10a673ad245">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=12214&amp;page=4#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     10:00 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=b58a740badbd173aee25c10a673ad245&amp;rand=1392433235" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

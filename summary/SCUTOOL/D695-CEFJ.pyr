@@ -1,0 +1,793 @@
+<?xml version="1.0"?>
+<!DOCTYPE pyramid [
+ <!ELEMENT pyramid (startDocumentRegEx?,text,scu*)>
+ <!ELEMENT startDocumentRegEx (#PCDATA)>
+ <!ELEMENT text (line*)>
+ <!ELEMENT line (#PCDATA)>
+ <!ELEMENT scu (contributor)+>
+ <!ATTLIST scu uid CDATA #REQUIRED
+               label CDATA #REQUIRED
+               comment CDATA #IMPLIED>
+ <!ELEMENT contributor (part)+>
+ <!ATTLIST contributor label CDATA #REQUIRED
+                       comment CDATA #IMPLIED>
+ <!ELEMENT part EMPTY>
+ <!ATTLIST part label CDATA #REQUIRED
+                start CDATA #REQUIRED
+                end   CDATA #REQUIRED>
+
+]>
+
+<pyramid>
+<startDocumentRegEx><![CDATA[[-]*\n D[0-9]*\.M\.250\.[A-Z]\.[A-Z] \n[-]*\n]]></startDocumentRegEx>
+ <text>
+  <line>#4</line>
+  <line></line>
+  <line></line>
+  <line>------------------</line>
+  <line> D695.M.250.C.C </line>
+  <line>------------------</line>
+  <line></line>
+  <line>It is difficult to discern a current trend in prosecuting financial crime a judges' decisions run from lenient to harsh.</line>
+  <line>A city councilman pleaded guilty to felony forgery, but a superior court judge reduced the charge to a misdemeanor and ordered community service with probation.</line>
+  <line>A city administrator pleaded guilty to mail fraud in a scheme that bilked investors out of $3 million, a crime which carries a maximum sentence of five years in prison, but a US District judge gave him only five years probation and ordered $20,000 in restitution.</line>
+  <line>Political extremist Lyndon LaRouche was sentenced to 15 years in prison on a mail and tax fraud conviction that could have brought him 65 years.</line>
+  <line>However, two businessmen whose fraud resulted in the collapse of a savings and loan were sentenced to 15 and 12 years and ordered to make restitution of $6.8 million.</line>
+  <line>This was hailed by the prosecuting US attorney as a significant victory for the government in its efforts to punish those responsible for the savings and loan crisis.</line>
+  <line>Certain judges have sent similar clear messages at sentencing.</line>
+  <line>US Superior Court Judge Letts railed against the tolerance of some judges to white-collar crime as he sentenced a tax advisor to a 10-year prison term for orchestrating a multimillion-dollar tax shelter scheme.</line>
+  <line>Other judges have imposed harsh penalties, stating their hope that they would act as deterrents.</line>
+  <line>US District Judge Wood said the unexpectedly long prison term for Michael Milken was intended to make him an example.</line>
+  <line></line>
+  <line>------------------</line>
+  <line> D695.M.250.C.E </line>
+  <line>------------------</line>
+  <line></line>
+  <line>Individuals convicted of so-called white-collar crimes such as felony forgery, mail fraud, tax fraud, wire fraud, bank fraud, investment fraud, securities fraud, pension fraud, embezzlement and grand theft are no longer getting by with a slap on the wrist.</line>
+  <line>Judges are increasingly imposing stiff sentences and levying stiff fines as deterrents.</line>
+  <line>Those on the margin of a fraudulent scheme may sometimes escape with a very short sentence such as 30 days.</line>
+  <line>Some of the white-collar criminals escape prison by paying a heavy fine and making restitution.</line>
+  <line>Increasingly harsh sentences for some of those found guilty have included a multi-year prison term, plus several years of probation during which community service is to be performed, plus a stiff fine and also restitution may be required.</line>
+  <line>This dramatic increase in the length of prison terms is part of a nationwide trend beginning with the savings and loan scandal.</line>
+  <line>One judge said that the nearly half million dollar fine he levied on a specialist firm on the New York Stock Exchange was done as a deterrent.</line>
+  <line>Prison sentences have ranged as high as 25 years.</line>
+  <line>Fines and restitution requirements have been in the millions of dollars.</line>
+  <line>Having a widely recognized name in the business world has not saved Leona Helmsley, Ivan Boesky and Michael Milken from doing time.</line>
+  <line></line>
+  <line>------------------</line>
+  <line> D695.M.250.C.F </line>
+  <line>------------------</line>
+  <line></line>
+  <line>Perpetrators of white collar crimes sometimes get off easy.</line>
+  <line>But several cases in 1989 and 1990 illustrate the opposite: Barry Minkow, who built a fraudulent $100-million empire, was sentenced to 25 years in prison for fraud and conspiracy, plus payment of $26 million in restitution.</line>
+  <line>Janet Faye McKinzie was convicted of looting the now-defunct North America Savings &amp; Loan.</line>
+  <line>She was sentenced to 20 years in jail.</line>
+  <line>A Los Angeles federal judge imposed a 15-year prison sentence on David A. Feldman, convicted of a massive bank fraud, and ordered him to pay $70.7 million in restitution to Bank of America.</line>
+  <line>A federal judge sentenced a stunned Michael Milken to 10 years in prison.</line>
+  <line>Milken had pleaded guilty to six felony securities law violations.</line>
+  <line>A federal judge sentenced political extremist Lyndon H. LaRouche, Jr. to 15 years in prison on mail and tax fraud convictions.</line>
+  <line>Leona Helmsley, the self-proclaimed queen of a luxury hotel chain, was sentenced to four years in federal prison and fined $7.1 million for criminal tax offenses.</line>
+  <line>On the other hand, a former executive of Digital Equipment Corp. and two others pleaded guilty for siphoning nearly $300,000 from the company and agreed to repay the money in lieu of a prison term.</line>
+  <line>An Irvine, California, city councilman who forged a check for $48,000, was put on one-year's probation, given a year's suspended jail sentence, and ordered to perform community service.</line>
+  <line>Six New Jersey defendants, convicted of racketeering, were sentenced to only a few months in prison.</line>
+  <line></line>
+  <line>------------------</line>
+  <line> D695.M.250.C.J </line>
+  <line>------------------</line>
+  <line></line>
+  <line>By 1990 financial--or white-collar--crimes were beginning to draw heavier sentences.</line>
+  <line>In 1986 a crooked investment banker got only 2 years in jail and an insider trader got 3 years.</line>
+  <line>In 1989 Lyndon LaRouche drew a 15-year sentence, while Barry Minkow got 25 years and a $25 million restitution order.</line>
+  <line>Leona Helmsly was given a 4-year sentence, a $7.1 million restitution, 3 years probation, 750 hours of public service, and ordered to pay her taxes.</line>
+  <line>Michael Milken-- the junk bond king--drew 10 years in jail, 3 years probation, 1,800 hours of community service, and $600 million in fines.</line>
+  <line>Savings and loan collapse criminals began to draw heavy jail sentences such as 20, 15, and 12 years.</line>
+  <line>Not all got heavy sentences.</line>
+  <line>One insurance embezzler got 30 days, 300 hours of public service, and a $10,000 fine.</line>
+  <line>Executives of a computer company only were ordered to repay the money.</line>
+  <line>White-collar criminals were beginning to get the same treatment as other criminals, even to include denying bail.</line>
+  <line>Prosecutors were using the Racketeer Influenced and Corrupt Organizations Act to go after white-collar crimes that had once been treated as civil cases.</line>
+  <line>Sentences were stiffer for those convicted of thrift savings fraud.</line>
+  <line>The average sentence was 3 years, with 78% being sent to prison.</line>
+  <line>Sentences of 10 years or more were given to 25% of these criminals.</line>
+  <line>Judges were calling white-collar crimes &quot;heinous&quot;, denouncing liars, and imposing high fines as a deterrent, especially for those guilty of insider trading.</line>
+ </text>
+ <scu uid="164" label="Michael Milken got an unexpectedly long prison term ">
+  <contributor label="the unexpectedly long prison term for Michael Milken">
+   <part label="the unexpectedly long prison term for Michael Milken" start="1485" end="1537"/>
+  </contributor>
+  <contributor label="and Michael Milken from doing time">
+   <part label="and Michael Milken from doing time" start="2910" end="2944"/>
+  </contributor>
+  <contributor label="A federal judge sentenced a stunned Michael Milken to 10 years in prison">
+   <part label="A federal judge sentenced a stunned Michael Milken to 10 years in prison" start="3607" end="3679"/>
+  </contributor>
+  <contributor label="Michael Milken...drew 10 years in jail">
+   <part label="Michael Milken" start="5028" end="5042"/>
+   <part label="drew 10 years in jail" start="5065" end="5086"/>
+  </contributor>
+ </scu>
+ <scu uid="165" label="Perpetrators of white collar crimes sometimes get off easy">
+  <contributor label="prosecuting financial crime...lenient">
+   <part label="lenient" start="164" end="171"/>
+   <part label="prosecuting financial crime" start="107" end="134"/>
+  </contributor>
+  <contributor label="getting by with a slap on the wrist">
+   <part label="getting by with a slap on the wrist" start="1852" end="1887"/>
+  </contributor>
+  <contributor label="Perpetrators of white collar crimes sometimes get off easy">
+   <part label="Perpetrators of white collar crimes sometimes get off easy" start="3003" end="3061"/>
+  </contributor>
+  <contributor label="In 1986 a crooked investment banker got only 2 years in jail and an insider trader got 3 years">
+   <part label="In 1986 a crooked investment banker got only 2 years in jail and an insider trader got 3 years" start="4665" end="4759"/>
+  </contributor>
+ </scu>
+ <scu uid="148" label="Judges are increasingly levying stiff fines as deterrents for white collar crime">
+  <contributor label="Judges are increasingly...and levying stiff fines as deterrents">
+   <part label="Judges are increasingly" start="1889" end="1912"/>
+   <part label="and levying stiff fines as deterrents" start="1938" end="1975"/>
+  </contributor>
+  <contributor label="Judges were...and imposing high fines as a deterrent">
+   <part label="Judges were" start="5923" end="5934"/>
+   <part label="and imposing high fines as a deterrent" start="5992" end="6030"/>
+  </contributor>
+  <contributor label="Other judges have imposed harsh penalties...as deterrents">
+   <part label="Other judges have imposed harsh penalties" start="1360" end="1401"/>
+   <part label="as deterrents" start="1442" end="1455"/>
+  </contributor>
+ </scu>
+ <scu uid="161" label="Leona Helmsley served jail time for white collar crime">
+  <contributor label="Leona Helmsley...doing time">
+   <part label="Leona Helmsley" start="2882" end="2896"/>
+   <part label="doing time" start="2934" end="2944"/>
+  </contributor>
+  <contributor label="Leona Helmsley...was sentenced to...prison...for criminal tax offenses">
+   <part label="Leona Helmsley" start="3875" end="3889"/>
+   <part label="was sentenced to" start="3942" end="3958"/>
+   <part label="prison" start="3981" end="3987"/>
+   <part label="for criminal tax offenses" start="4011" end="4036"/>
+  </contributor>
+  <contributor label="Leona Helmsly was given a 4-year sentence">
+   <part label="Leona Helmsly was given a 4-year sentence" start="4879" end="4920"/>
+  </contributor>
+ </scu>
+ <scu uid="110" label="Lyndon LaRouche was sentenced to 15 years in prison">
+  <contributor label="sentenced...Lyndon H. LaRouche, Jr. to 15 years in prison">
+   <part label="sentenced" start="3764" end="3773"/>
+   <part label="Lyndon H. LaRouche, Jr. to 15 years in prison" start="3794" end="3839"/>
+  </contributor>
+  <contributor label="Lyndon LaRouche drew a 15-year sentence">
+   <part label="Lyndon LaRouche drew a 15-year sentence" start="4769" end="4808"/>
+  </contributor>
+  <contributor label="Lyndon LaRouche was sentenced to 15 years in prison">
+   <part label="Lyndon LaRouche was sentenced to 15 years in prison" start="627" end="678"/>
+  </contributor>
+ </scu>
+ <scu uid="123" label="Other judges have imposed harsh penalties for white-collar crime">
+  <contributor label="Other judges have imposed harsh penalties">
+   <part label="Other judges have imposed harsh penalties" start="1360" end="1401"/>
+  </contributor>
+  <contributor label="Increasingly harsh sentences for some of those found guilty">
+   <part label="Increasingly harsh sentences for some of those found guilty" start="2181" end="2240"/>
+  </contributor>
+  <contributor label="But several cases in 1989 and 1990 illustrate the opposite">
+   <part label="But several cases in 1989 and 1990 illustrate the opposite" start="3063" end="3121"/>
+  </contributor>
+ </scu>
+ <scu uid="205" label="Savings and loans criminals began to draw long jail sentences from 12 to 20 years">
+  <contributor label="Savings and loan collapse criminals began to draw heavy jail sentences such as 20, 15, and 12 years">
+   <part label="Savings and loan collapse criminals began to draw heavy jail sentences such as 20, 15, and 12 years" start="5168" end="5267"/>
+  </contributor>
+  <contributor label="were sentenced to 15 and 12 years">
+   <part label="were sentenced to 15 and 12 years" start="836" end="869"/>
+  </contributor>
+  <contributor label="was sentenced to 20 years in jail">
+   <part label="was sentenced to 20 years in jail" start="3382" end="3415"/>
+  </contributor>
+ </scu>
+ <scu uid="101" label="Sentencing decisions for white collar crime run from lenient to harsh">
+  <contributor label="a judges' decisions run from lenient to harsh">
+   <part label="a judges' decisions run from lenient to harsh" start="135" end="180"/>
+  </contributor>
+  <contributor label="On the other hand">
+   <part label="On the other hand" start="4038" end="4055"/>
+  </contributor>
+  <contributor label="Not all got heavy sentences">
+   <part label="Not all got heavy sentences" start="5269" end="5296"/>
+  </contributor>
+ </scu>
+ <scu uid="151" label="Some of the white-collar criminals escape prison by paying a heavy fine and making restitution">
+  <contributor label="Some of the white-collar criminals escape prison by paying a heavy fine and making restitution">
+   <part label="Some of the white-collar criminals escape prison by paying a heavy fine and making restitution" start="2085" end="2179"/>
+  </contributor>
+  <contributor label="An Irvine, California, city councilman who forged a check for $48,000, was put on one-year's probation, given a year's suspended jail sentence, and ordered to perform community service">
+   <part label="An Irvine, California, city councilman who forged a check for $48,000, was put on one-year's probation, given a year's suspended jail sentence, and ordered to perform community service" start="4236" end="4420"/>
+  </contributor>
+  <contributor label="A city administrator pleaded guilty to mail fraud in a scheme that bilked investors out of $3 million, a crime which carries a maximum sentence of five years in prison, but a US District judge gave him only five years probation and ordered $20,000 in restitution">
+   <part label="A city administrator pleaded guilty to mail fraud in a scheme that bilked investors out of $3 million, a crime which carries a maximum sentence of five years in prison, but a US District judge gave him only five years probation and ordered $20,000 in restitution" start="343" end="605"/>
+  </contributor>
+ </scu>
+ <scu uid="188" label="City councilman community convicted of forgery was sentenced to community service with probation">
+  <contributor label="A city councilman...community service with probation">
+   <part label="A city councilman" start="182" end="199"/>
+   <part label="community service with probation" start="309" end="341"/>
+  </contributor>
+  <contributor label="put on one-year's probation, given a year's suspended jail sentence, and ordered to perform community service">
+   <part label="put on one-year's probation, given a year's suspended jail sentence, and ordered to perform community service" start="4311" end="4420"/>
+  </contributor>
+ </scu>
+ <scu uid="189" label="City councilman was convicted of forgery">
+  <contributor label="An Irvine, California, city councilman who forged a check for $48,000">
+   <part label="An Irvine, California, city councilman who forged a check for $48,000" start="4236" end="4305"/>
+  </contributor>
+  <contributor label="A city councilman pleaded guilty to felony forgery">
+   <part label="A city councilman pleaded guilty to felony forgery" start="182" end="232"/>
+  </contributor>
+ </scu>
+ <scu uid="169" label="Barry Minkow was sentenced to 25 years in prison">
+  <contributor label="Barry Minkow...was sentenced to 25 years in prison">
+   <part label="Barry Minkow" start="3123" end="3135"/>
+   <part label="was sentenced to 25 years in prison" start="3181" end="3216"/>
+  </contributor>
+  <contributor label="while Barry Minkow got 25 years">
+   <part label="while Barry Minkow got 25 years" start="4810" end="4841"/>
+  </contributor>
+ </scu>
+ <scu uid="173" label="Barry Minkow was sentenced to payment of $26 million in restitution">
+  <contributor label="Barry Minkow...was sentenced to...payment of $26 million in restitution">
+   <part label="Barry Minkow" start="3123" end="3135"/>
+   <part label="was sentenced to" start="3181" end="3197"/>
+   <part label="payment of $26 million in restitution" start="3248" end="3285"/>
+  </contributor>
+  <contributor label="Barry Minkow got...a $25 million restitution order">
+   <part label="Barry Minkow got" start="4816" end="4832"/>
+   <part label="a $25 million restitution order" start="4846" end="4877"/>
+  </contributor>
+ </scu>
+ <scu uid="207" label="Executives of a computer company only were ordered to repay the money">
+  <contributor label="Executives of a computer company only were ordered to repay the money">
+   <part label="Executives of a computer company only were ordered to repay the money" start="5384" end="5453"/>
+  </contributor>
+  <contributor label="a former executive of Digital Equipment Corp. and two others...agreed to repay the money in lieu of a prison term">
+   <part label="a former executive of Digital Equipment Corp. and two others" start="4057" end="4117"/>
+   <part label="agreed to repay the money in lieu of a prison term" start="4184" end="4234"/>
+  </contributor>
+ </scu>
+ <scu uid="167" label="In the 90s, some cases illustrate harsh sentences for white collar crime">
+  <contributor label="But several cases...1990 illustrate the opposite">
+   <part label="But several cases" start="3063" end="3080"/>
+   <part label="1990 illustrate the opposite" start="3093" end="3121"/>
+  </contributor>
+  <contributor label="By 1990 financial--or white-collar--crimes were beginning to draw heavier sentences">
+   <part label="By 1990 financial--or white-collar--crimes were beginning to draw heavier sentences" start="4580" end="4663"/>
+  </contributor>
+ </scu>
+ <scu uid="124" label="Judges who impose harsh penalities for white collar crime have said they hope that heavy sentences would act as deterrents">
+  <contributor label="stating their hope that they would act as deterrents">
+   <part label="stating their hope that they would act as deterrents" start="1403" end="1455"/>
+  </contributor>
+  <contributor label="One judge said that the nearly half million dollar fine he levied...was done as a deterrent">
+   <part label="was done as a deterrent" start="2666" end="2689"/>
+   <part label="One judge said that the nearly half million dollar fine he levied" start="2548" end="2613"/>
+  </contributor>
+ </scu>
+ <scu uid="170" label="Leona Helmsley is well known">
+  <contributor label="a widely recognized name in the business world...Leona Helmsley">
+   <part label="Leona Helmsley" start="2882" end="2896"/>
+   <part label="a widely recognized name in the business world" start="2821" end="2867"/>
+  </contributor>
+  <contributor label="Leona Helmsley...the self-proclaimed queen of a luxury hotel chain">
+   <part label="Leona Helmsley" start="3875" end="3889"/>
+   <part label="the self-proclaimed queen of a luxury hotel chain" start="3891" end="3940"/>
+  </contributor>
+ </scu>
+ <scu uid="185" label="Leona Helmsley was fined $7.1 million for criminal tax offenses">
+  <contributor label="Leona Helmsley...and fined $7.1 million for criminal tax offenses">
+   <part label="Leona Helmsley" start="3875" end="3889"/>
+   <part label="and fined $7.1 million for criminal tax offenses" start="3988" end="4036"/>
+  </contributor>
+  <contributor label="Leona Helmsly...a $7.1 million restitution">
+   <part label="Leona Helmsly" start="4879" end="4892"/>
+   <part label="a $7.1 million restitution" start="4922" end="4948"/>
+  </contributor>
+ </scu>
+ <scu uid="184" label="Leona Helmsley was sentenced to four years in federal prison">
+  <contributor label="Leona Helmsley...was sentenced to four years in federal prison">
+   <part label="Leona Helmsley" start="3875" end="3889"/>
+   <part label="was sentenced to four years in federal prison" start="3942" end="3987"/>
+  </contributor>
+  <contributor label="Leona Helmsly was given a 4-year sentence">
+   <part label="Leona Helmsly was given a 4-year sentence" start="4879" end="4920"/>
+  </contributor>
+ </scu>
+ <scu uid="181" label="Lyndon LaRouche is a political extremist ">
+  <contributor label="Political extremist Lyndon LaRouche">
+   <part label="Political extremist Lyndon LaRouche" start="607" end="642"/>
+  </contributor>
+  <contributor label="political extremist Lyndon H. LaRouche">
+   <part label="political extremist Lyndon H. LaRouche" start="3774" end="3812"/>
+  </contributor>
+ </scu>
+ <scu uid="195" label="Lyndon LaRouche mail and tax fraud conviction">
+  <contributor label="Lyndon LaRouche...mail and tax fraud conviction">
+   <part label="Lyndon LaRouche" start="627" end="642"/>
+   <part label="mail and tax fraud conviction" start="684" end="713"/>
+  </contributor>
+  <contributor label="Lyndon H. LaRouche, Jr...mail and tax fraud convictions">
+   <part label="Lyndon H. LaRouche, Jr" start="3794" end="3816"/>
+   <part label="mail and tax fraud convictions" start="3843" end="3873"/>
+  </contributor>
+ </scu>
+ <scu uid="111" label="Lyndon LaRouche was convicted of mail and tax fraud">
+  <contributor label="Lyndon LaRouche...on a mail and tax fraud conviction">
+   <part label="on a mail and tax fraud conviction" start="679" end="713"/>
+   <part label="Lyndon LaRouche" start="627" end="642"/>
+  </contributor>
+  <contributor label="Lyndon H. LaRouche...on mail and tax fraud convictions">
+   <part label="on mail and tax fraud convictions" start="3840" end="3873"/>
+   <part label="Lyndon H. LaRouche" start="3794" end="3812"/>
+  </contributor>
+ </scu>
+ <scu uid="172" label="Michael Milken is well known">
+  <contributor label="a widely recognized name in the business world...Michael Milken">
+   <part label="Michael Milken" start="2914" end="2928"/>
+   <part label="a widely recognized name in the business world" start="2821" end="2867"/>
+  </contributor>
+  <contributor label="Michael Milken-- the junk bond king">
+   <part label="Michael Milken-- the junk bond king" start="5028" end="5063"/>
+  </contributor>
+ </scu>
+ <scu uid="193" label="Michael Milken was sentenced to 10 years in prison">
+  <contributor label="Michael Milken to 10 years in prison">
+   <part label="Michael Milken to 10 years in prison" start="3643" end="3679"/>
+  </contributor>
+  <contributor label="Michael Milken...drew 10 years in jail">
+   <part label="Michael Milken" start="5028" end="5042"/>
+   <part label="drew 10 years in jail" start="5065" end="5086"/>
+  </contributor>
+ </scu>
+ <scu uid="159" label="Prison sentences for white collar crime have ranged as high as 25 years">
+  <contributor label="Prison sentences have ranged as high as 25 years">
+   <part label="Prison sentences have ranged as high as 25 years" start="2691" end="2739"/>
+  </contributor>
+  <contributor label="She was sentenced to 20 years in jail">
+   <part label="She was sentenced to 20 years in jail" start="3378" end="3415"/>
+  </contributor>
+ </scu>
+ <scu uid="166" label="Recent cases illustrate harsh sentences for white collar crime">
+  <contributor label="But several cases in 1989...illustrate the opposite">
+   <part label="But several cases in 1989" start="3063" end="3088"/>
+   <part label="illustrate the opposite" start="3098" end="3121"/>
+  </contributor>
+  <contributor label="Individuals convicted of so-called white-collar crimes...are no longer getting by with a slap on the wrist">
+   <part label="Individuals convicted of so-called white-collar crimes" start="1632" end="1686"/>
+   <part label="are no longer getting by with a slap on the wrist" start="1838" end="1887"/>
+  </contributor>
+ </scu>
+ <scu uid="156" label="Savings and loan scandal initiated a trend towards stiffer penalities for white collar crime">
+  <contributor label="beginning with the savings and loan scandal">
+   <part label="beginning with the savings and loan scandal" start="2503" end="2546"/>
+  </contributor>
+  <contributor label="Savings and loan collapse criminals began to draw heavy jail sentences">
+   <part label="Savings and loan collapse criminals began to draw heavy jail sentences" start="5168" end="5238"/>
+  </contributor>
+ </scu>
+ <scu uid="153" label="There has been dramatic increase in the length of prison terms for white collar crime">
+  <contributor label="This dramatic increase in the length of prison terms">
+   <part label="This dramatic increase in the length of prison terms" start="2420" end="2472"/>
+  </contributor>
+  <contributor label="White-collar criminals were beginning to get the same treatment as other criminals">
+   <part label="White-collar criminals were beginning to get the same treatment as other criminals" start="5455" end="5537"/>
+  </contributor>
+ </scu>
+ <scu uid="171" label=" Ivan Boesky is a widely recognized name in the business world">
+  <contributor label="a widely recognized name in the business world...Ivan Boesky">
+   <part label="Ivan Boesky" start="2898" end="2909"/>
+   <part label="a widely recognized name in the business world" start="2821" end="2867"/>
+  </contributor>
+ </scu>
+ <scu uid="105" label="City administrator pleaded guilty to mail fraud">
+  <contributor label="A city administrator pleaded guilty to mail fraud">
+   <part label="A city administrator pleaded guilty to mail fraud" start="343" end="392"/>
+  </contributor>
+ </scu>
+ <scu uid="106" label="City administrator who pleaded guilty to mail fraud had a scheme that bilked investors out of $3 million">
+  <contributor label="in a scheme that bilked investors out of $3 million">
+   <part label="in a scheme that bilked investors out of $3 million" start="393" end="444"/>
+  </contributor>
+ </scu>
+ <scu uid="102" label="City councilman pleaded guilty to felony forgery">
+  <contributor label="A city councilman pleaded guilty to felony forgery">
+   <part label="A city councilman pleaded guilty to felony forgery" start="182" end="232"/>
+  </contributor>
+ </scu>
+ <scu uid="187" label="Former Digital Equipment Corp. exec and two others agreed to repay the money in lieu of a prison term">
+  <contributor label="a former executive of Digital Equipment Corp. and two others...and agreed to repay the money in lieu of a prison term">
+   <part label="a former executive of Digital Equipment Corp. and two others" start="4057" end="4117"/>
+   <part label="and agreed to repay the money in lieu of a prison term" start="4180" end="4234"/>
+  </contributor>
+ </scu>
+ <scu uid="186" label="Former Digital Equipment Corp. exec and two others pleaded guilty for siphoning nearly $300,000 from the company">
+  <contributor label="a former executive of Digital Equipment Corp. and two others pleaded guilty for siphoning nearly $300,000 from the company">
+   <part label="a former executive of Digital Equipment Corp. and two others pleaded guilty for siphoning nearly $300,000 from the company" start="4057" end="4179"/>
+  </contributor>
+ </scu>
+ <scu uid="157" label="Judge levied a half million dollar fine on a specialist firm on the New York Stock Exchange">
+  <contributor label="the nearly half million dollar fine he levied on a specialist firm on the New York Stock Exchange">
+   <part label="the nearly half million dollar fine he levied on a specialist firm on the New York Stock Exchange" start="2568" end="2665"/>
+  </contributor>
+ </scu>
+ <scu uid="104" label="Judge ordered community service with probation for a city councilman after reducing the charge from a felony to a misdemeanor">
+  <contributor label="and ordered community service with probation">
+   <part label="and ordered community service with probation" start="297" end="341"/>
+  </contributor>
+ </scu>
+ <scu uid="178" label="Los Angeles federal judge imposed a 15-year prison sentence on David A. Feldman">
+  <contributor label="A Los Angeles federal judge imposed a 15-year prison sentence on David A. Feldman">
+   <part label="A Los Angeles federal judge imposed a 15-year prison sentence on David A. Feldman" start="3417" end="3498"/>
+  </contributor>
+ </scu>
+ <scu uid="179" label="Los Angeles federal judge ordered David A. Feldman  to pay $70.7 million in restitution to Bank of America">
+  <contributor label="A Los Angeles federal judge...David A. Feldman...ordered him to pay $70.7 million in restitution to Bank of America">
+   <part label="A Los Angeles federal judge" start="3417" end="3444"/>
+   <part label="David A. Feldman" start="3482" end="3498"/>
+   <part label="ordered him to pay $70.7 million in restitution to Bank of America" start="3539" end="3605"/>
+  </contributor>
+ </scu>
+ <scu uid="103" label="Superior court judge reduced a city councilman's charge to a misdemeanor from a felony forgergy">
+  <contributor label="but a superior court judge reduced the charge to a misdemeanor">
+   <part label="but a superior court judge reduced the charge to a misdemeanor" start="234" end="296"/>
+  </contributor>
+ </scu>
+ <scu uid="122" label="Tax advisor was found guilty of orchestrating a multimillion-dollar tax shelter scheme">
+  <contributor label="orchestrating a multimillion-dollar tax shelter scheme">
+   <part label="orchestrating a multimillion-dollar tax shelter scheme" start="1304" end="1358"/>
+  </contributor>
+ </scu>
+ <scu uid="109" label="US district judge ordered the city administrator  to pay $20,000 in restitution">
+  <contributor label="and ordered $20,000 in restitution">
+   <part label="and ordered $20,000 in restitution" start="571" end="605"/>
+  </contributor>
+ </scu>
+ <scu uid="108" label="US District judge sentenced the city administrator to five years probation instead of the maximum five years in prison">
+  <contributor label="but a US District judge gave him only five years probation">
+   <part label="but a US District judge gave him only five years probation" start="512" end="570"/>
+  </contributor>
+ </scu>
+ <scu uid="192" label="Irvine, California, city councilman who forged a check for $48,000">
+  <contributor label="An Irvine, California, city councilman who forged a check for $48,000">
+   <part label="An Irvine, California, city councilman who forged a check for $48,000" start="4236" end="4305"/>
+  </contributor>
+ </scu>
+ <scu uid="168" label="Barry Minkow built a fraudulent $100-million empire">
+  <contributor label="Barry Minkow, who built a fraudulent $100-million empire">
+   <part label="Barry Minkow, who built a fraudulent $100-million empire" start="3123" end="3179"/>
+  </contributor>
+ </scu>
+ <scu uid="197" label="Barry Minkow was convicted of fraud and conspiracy">
+  <contributor label="Barry Minkow...for fraud and conspiracy">
+   <part label="Barry Minkow" start="3123" end="3135"/>
+   <part label="for fraud and conspiracy" start="3217" end="3241"/>
+  </contributor>
+ </scu>
+ <scu uid="119" label="Certain judges have sent similar clear messages at sentencing about the seriousness of fraud and white-collar crime">
+  <contributor label="Certain judges have sent similar clear messages at sentencing">
+   <part label="Certain judges have sent similar clear messages at sentencing" start="1086" end="1147"/>
+  </contributor>
+ </scu>
+ <scu uid="177" label="David A. Feldman was convicted of a massive bank fraud">
+  <contributor label="David A. Feldman, convicted of a massive bank fraud">
+   <part label="David A. Feldman, convicted of a massive bank fraud" start="3482" end="3533"/>
+  </contributor>
+ </scu>
+ <scu uid="160" label="Fines and restitution requirements for white collar crime have been in the millions of dollars">
+  <contributor label="Fines and restitution requirements have been in the millions of dollars">
+   <part label="Fines and restitution requirements have been in the millions of dollars" start="2741" end="2812"/>
+  </contributor>
+ </scu>
+ <scu uid="212" label="For white collar crime, 78% were sent to prison">
+  <contributor label="with 78% being sent to prison">
+   <part label="with 78% being sent to prison" start="5824" end="5853"/>
+  </contributor>
+ </scu>
+ <scu uid="152" label="Harshest penalties include long prison terms,  several years of probation during which community service is to be performed, plus stiff fines and restitution">
+  <contributor label="have included a multi-year prison term, plus several years of probation during which community service is to be performed, plus a stiff fine and also restitution may be required">
+   <part label="have included a multi-year prison term, plus several years of probation during which community service is to be performed, plus a stiff fine and also restitution may be required" start="2241" end="2418"/>
+  </contributor>
+ </scu>
+ <scu uid="163" label="Having a widely recognized name in the business world does not always save the convicted from doing time">
+  <contributor label="Having a widely recognized name in the business world has not saved...doing time">
+   <part label="Having a widely recognized name in the business world has not saved" start="2814" end="2881"/>
+   <part label="doing time" start="2934" end="2944"/>
+  </contributor>
+ </scu>
+ <scu uid="100" label="It is difficult to discern a current trend in prosecuting financial crime">
+  <contributor label="It is difficult to discern a current trend in prosecuting financial crime">
+   <part label="It is difficult to discern a current trend in prosecuting financial crime" start="61" end="134"/>
+  </contributor>
+ </scu>
+ <scu uid="162" label="Ivan Boesky served jail time for white collar crime">
+  <contributor label="Ivan Boesky...doing time">
+   <part label="Ivan Boesky" start="2898" end="2909"/>
+   <part label="doing time" start="2934" end="2944"/>
+  </contributor>
+ </scu>
+ <scu uid="174" label="Janet Faye McKinzie was convicted of looting the now-defunct North America Savings &amp; Loan">
+  <contributor label="Janet Faye McKinzie was convicted of looting the now-defunct North America Savings &amp; Loan">
+   <part label="Janet Faye McKinzie was convicted of looting the now-defunct North America Savings &amp; Loan" start="3287" end="3376"/>
+  </contributor>
+ </scu>
+ <scu uid="175" label="Janet Faye McKinzie was sentenced to 20 years in jail">
+  <contributor label="Janet Faye McKinzie...was sentenced to 20 years in jail">
+   <part label="Janet Faye McKinzie" start="3287" end="3306"/>
+   <part label="was sentenced to 20 years in jail" start="3382" end="3415"/>
+  </contributor>
+ </scu>
+ <scu uid="146" label="Judges are increasingly imposing stiff sentences as deterrents for white collar crime">
+  <contributor label="Judges are increasingly imposing stiff sentences...as deterrents">
+   <part label="Judges are increasingly imposing stiff sentences" start="1889" end="1937"/>
+   <part label="as deterrents" start="1962" end="1975"/>
+  </contributor>
+ </scu>
+ <scu uid="214" label="Judges were calling white-collar crimes &quot;heinous&quot;">
+  <contributor label="Judges were calling white-collar crimes &quot;heinous&quot;">
+   <part label="Judges were calling white-collar crimes &quot;heinous&quot;" start="5923" end="5972"/>
+  </contributor>
+ </scu>
+ <scu uid="215" label="Judges were denouncing liars">
+  <contributor label="Judges were...denouncing liars">
+   <part label="Judges were" start="5923" end="5934"/>
+   <part label="denouncing liars" start="5974" end="5990"/>
+  </contributor>
+ </scu>
+ <scu uid="216" label="Judges were especially going after those guilty of insider trading">
+  <contributor label="Judges were...especially for those guilty of insider trading">
+   <part label="Judges were" start="5923" end="5934"/>
+   <part label="especially for those guilty of insider trading" start="6032" end="6078"/>
+  </contributor>
+ </scu>
+ <scu uid="112" label="LarRouche's mail and tax fraud could have brought a sentence of 65 years">
+  <contributor label="that could have brought him 65 years">
+   <part label="that could have brought him 65 years" start="714" end="750"/>
+  </contributor>
+ </scu>
+ <scu uid="183" label="Leona Helmsley is the self-proclaimed queen of a luxury hotel chain">
+  <contributor label="Leona Helmsley, the self-proclaimed queen of a luxury hotel chain">
+   <part label="Leona Helmsley, the self-proclaimed queen of a luxury hotel chain" start="3875" end="3940"/>
+  </contributor>
+ </scu>
+ <scu uid="182" label="Lyndon H. LaRouche was tried and convicted at the federal level">
+  <contributor label="A federal judge sentenced political extremist Lyndon H. LaRouche">
+   <part label="A federal judge sentenced political extremist Lyndon H. LaRouche" start="3748" end="3812"/>
+  </contributor>
+ </scu>
+ <scu uid="196" label="Lyndon LaRouche's conviction/sentencing was in 1989">
+  <contributor label="In 1989 Lyndon LaRouche">
+   <part label="In 1989 Lyndon LaRouche" start="4761" end="4784"/>
+  </contributor>
+ </scu>
+ <scu uid="113" label="Lyndon LaRouche's sentence of 15 years for mail and tax fraud was much less than the 65 year maximum">
+  <contributor label="Political extremist Lyndon LaRouche was sentenced to 15 years in prison on a mail and tax fraud conviction that could have brought him 65 years">
+   <part label="Political extremist Lyndon LaRouche was sentenced to 15 years in prison on a mail and tax fraud conviction that could have brought him 65 years" start="607" end="750"/>
+  </contributor>
+ </scu>
+ <scu uid="107" label="Mail fraud is a crime which carries a maximum sentence of five years in prison">
+  <contributor label="a crime which carries a maximum sentence of five years in prison">
+   <part label="a crime which carries a maximum sentence of five years in prison" start="446" end="510"/>
+  </contributor>
+ </scu>
+ <scu uid="201" label="Michael Milken-- the junk bond king">
+  <contributor label="Michael Milken-- the junk bond king">
+   <part label="Michael Milken-- the junk bond king" start="5028" end="5063"/>
+  </contributor>
+ </scu>
+ <scu uid="180" label="Milken had pleaded guilty to six felony securities law violations">
+  <contributor label="Milken had pleaded guilty to six felony securities law violations">
+   <part label="Milken had pleaded guilty to six felony securities law violations" start="3681" end="3746"/>
+  </contributor>
+ </scu>
+ <scu uid="206" label="One insurance embezzler got 30 days, 300 hours of public service, and a $10,000 fine">
+  <contributor label="One insurance embezzler got 30 days, 300 hours of public service, and a $10,000 fine">
+   <part label="One insurance embezzler got 30 days, 300 hours of public service, and a $10,000 fine" start="5298" end="5382"/>
+  </contributor>
+ </scu>
+ <scu uid="198" label="One of  Leona Helmsley's multiple penalties was 3 years probation">
+  <contributor label="3 years probation">
+   <part label="3 years probation" start="4950" end="4967"/>
+  </contributor>
+ </scu>
+ <scu uid="199" label="One of  Leona Helmsley's multiple penalties was 750 hours of public service">
+  <contributor label="750 hours of public service">
+   <part label="750 hours of public service" start="4969" end="4996"/>
+  </contributor>
+ </scu>
+ <scu uid="200" label="One of  Leona Helmsley's multiple penalties was being ordered to pay her taxes">
+  <contributor label="ordered to pay her taxes">
+   <part label="ordered to pay her taxes" start="5002" end="5026"/>
+  </contributor>
+ </scu>
+ <scu uid="204" label="One of Michael Milken's multiple penalties was $600 million in fines">
+  <contributor label="$600 million in fines">
+   <part label="$600 million in fines" start="5145" end="5166"/>
+  </contributor>
+ </scu>
+ <scu uid="203" label="One of Michael Milken's multiple penalties was 1,800 hours of community service">
+  <contributor label="1,800 hours of community service">
+   <part label="1,800 hours of community service" start="5107" end="5139"/>
+  </contributor>
+ </scu>
+ <scu uid="202" label="One of Michael Milken's multiple penalties was 3 years probation">
+  <contributor label="3 years probation">
+   <part label="3 years probation" start="5088" end="5105"/>
+  </contributor>
+ </scu>
+ <scu uid="176" label="One of those convicted of the 1980s savings and loan frauds was sentenced to 20 years in jail">
+  <contributor label="was sentenced to 20 years in jail">
+   <part label="was sentenced to 20 years in jail" start="3382" end="3415"/>
+  </contributor>
+ </scu>
+ <scu uid="210" label="Prosecutors were using the Racketeer Influenced and Corrupt Organizations Act to go after white-collar crimes that had once been treated as civil cases">
+  <contributor label="Prosecutors were using the Racketeer Influenced and Corrupt Organizations Act to go after white-collar crimes that had once been treated as civil cases">
+   <part label="Prosecutors were using the Racketeer Influenced and Corrupt Organizations Act to go after white-collar crimes that had once been treated as civil cases" start="5569" end="5720"/>
+  </contributor>
+ </scu>
+ <scu uid="213" label="Sentences of 10 years or more were given to 25% of these criminals">
+  <contributor label="Sentences of 10 years or more were given to 25% of these criminals">
+   <part label="Sentences of 10 years or more were given to 25% of these criminals" start="5855" end="5921"/>
+  </contributor>
+ </scu>
+ <scu uid="217" label="Sentences were stiffer for those convicted of thrift savings fraud">
+  <contributor label="Sentences were stiffer for those convicted of thrift savings fraud">
+   <part label="Sentences were stiffer for those convicted of thrift savings fraud" start="5722" end="5788"/>
+  </contributor>
+ </scu>
+ <scu uid="190" label="Six New Jersey defendants were convicted of racketeering">
+  <contributor label="Six New Jersey defendants, convicted of racketeering">
+   <part label="Six New Jersey defendants, convicted of racketeering" start="4422" end="4474"/>
+  </contributor>
+ </scu>
+ <scu uid="211" label="Average sentence was 3 years for white collar crime">
+  <contributor label="The average sentence was 3 years">
+   <part label="The average sentence was 3 years" start="5790" end="5822"/>
+  </contributor>
+ </scu>
+ <scu uid="118" label="Government sought to punish those responsible for the savings and loan crisis">
+  <contributor label="the government in its efforts to punish those responsible for the savings and loan crisis">
+   <part label="the government in its efforts to punish those responsible for the savings and loan crisis" start="995" end="1084"/>
+  </contributor>
+ </scu>
+ <scu uid="117" label="Sentence received by two businessmen found guilty of savings and loan fraud  was hailed by the prosecuting US attorney as a significant victory for the government">
+  <contributor label="This was hailed by the prosecuting US attorney as a significant victory for the government">
+   <part label="This was hailed by the prosecuting US attorney as a significant victory for the government" start="919" end="1009"/>
+  </contributor>
+ </scu>
+ <scu uid="191" label="Six convicted NJ racketeers were sentenced to only a few months in prison">
+  <contributor label="Six New Jersey defendants, convicted of racketeering, were sentenced to only a few months in prison">
+   <part label="Six New Jersey defendants, convicted of racketeering, were sentenced to only a few months in prison" start="4422" end="4521"/>
+  </contributor>
+ </scu>
+ <scu uid="155" label="Trend towards stiffer penalities for white collar crime is national">
+  <contributor label="This dramatic increase in the length of prison terms is part of a nationwide trend">
+   <part label="This dramatic increase in the length of prison terms is part of a nationwide trend" start="2420" end="2502"/>
+  </contributor>
+ </scu>
+ <scu uid="150" label="Thirty days is a very short sentence for fraud">
+  <contributor label="a very short sentence such as 30 days">
+   <part label="a very short sentence such as 30 days" start="2046" end="2083"/>
+  </contributor>
+ </scu>
+ <scu uid="149" label="Those on the margin of a fraudulent scheme may sometimes escape with a very short sentence">
+  <contributor label="Those on the margin of a fraudulent scheme may sometimes escape with a very short sentence">
+   <part label="Those on the margin of a fraudulent scheme may sometimes escape with a very short sentence" start="1977" end="2067"/>
+  </contributor>
+ </scu>
+ <scu uid="116" label="Two businessmen found guilty of savings and loan fraud were ordered to make restitution of $6.8 million">
+  <contributor label="two businessmen...ordered to make restitution of $6.8 million">
+   <part label="two businessmen" start="761" end="776"/>
+   <part label="ordered to make restitution of $6.8 million" start="874" end="917"/>
+  </contributor>
+ </scu>
+ <scu uid="115" label="Two businessmen found guilty of savings and loan fraud were sentenced to 15 and 12 years">
+  <contributor label="two businessmen...were sentenced to 15 and 12 years">
+   <part label="two businessmen" start="761" end="776"/>
+   <part label="were sentenced to 15 and 12 years" start="836" end="869"/>
+  </contributor>
+ </scu>
+ <scu uid="114" label="Two businessmen were found guilty of  fraud that resulted in the collapse of a savings and loan">
+  <contributor label="two businessmen whose fraud resulted in the collapse of a savings and loan">
+   <part label="two businessmen whose fraud resulted in the collapse of a savings and loan" start="761" end="835"/>
+  </contributor>
+ </scu>
+ <scu uid="126" label="US District Judge Wood said the term for Michael Milken was intended to make him an example">
+  <contributor label="US District Judge Wood said the...term for Michael Milken was intended to make him an example">
+   <part label="US District Judge Wood said the" start="1457" end="1488"/>
+   <part label="term for Michael Milken was intended to make him an example" start="1514" end="1573"/>
+  </contributor>
+ </scu>
+ <scu uid="125" label="US District Judge Wood sentenced Michael Milken an unexpectedly long prison term ">
+  <contributor label="US District Judge Wood...the unexpectedly long prison term for Michael Milken">
+   <part label="the unexpectedly long prison term for Michael Milken" start="1485" end="1537"/>
+   <part label="US District Judge Wood" start="1457" end="1479"/>
+  </contributor>
+ </scu>
+ <scu uid="121" label="US Superior Court Judge Letts gave a heavy sentence to a tax advisor who was found guilty of orchestrating a tax shelter scheme">
+  <contributor label="US Superior Court Judge Letts...he sentenced a tax advisor to a 10-year prison term">
+   <part label="US Superior Court Judge Letts" start="1149" end="1178"/>
+   <part label="he sentenced a tax advisor to a 10-year prison term" start="1248" end="1299"/>
+  </contributor>
+ </scu>
+ <scu uid="120" label="US Superior Court Judge Letts railed against the tolerance of some judges to white-collar crime">
+  <contributor label="US Superior Court Judge Letts railed against the tolerance of some judges to white-collar crime">
+   <part label="US Superior Court Judge Letts railed against the tolerance of some judges to white-collar crime" start="1149" end="1244"/>
+  </contributor>
+ </scu>
+ <scu uid="139" label="White-collar crime includes bank fraud">
+  <contributor label="white-collar crimes such as...bank fraud">
+   <part label="bank fraud" start="1746" end="1756"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="143" label="White-collar crime includes embezzlement">
+  <contributor label="white-collar crimes such as...embezzlement">
+   <part label="embezzlement" start="1809" end="1821"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="128" label="White-collar crime includes felony forgery">
+  <contributor label="white-collar crimes such as felony forgery">
+   <part label="white-collar crimes such as felony forgery" start="1667" end="1709"/>
+  </contributor>
+ </scu>
+ <scu uid="144" label="White-collar crime includes grand theft">
+  <contributor label="white-collar crimes such as...grand theft">
+   <part label="grand theft" start="1826" end="1837"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="140" label="White-collar crime includes investment fraud">
+  <contributor label="white-collar crimes such as...investment fraud">
+   <part label="investment fraud" start="1758" end="1774"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="129" label="white-collar crime includes mail fraud">
+  <contributor label="white-collar crimes such as...mail fraud">
+   <part label="mail fraud" start="1711" end="1721"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="142" label="white-collar crime includes pension fraud">
+  <contributor label="white-collar crimes such as...pension fraud">
+   <part label="pension fraud" start="1794" end="1807"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="141" label="White-collar crime includes securities fraud">
+  <contributor label="white-collar crimes such as...securities fraud">
+   <part label="securities fraud" start="1776" end="1792"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="137" label="White-collar crime includes tax fraud">
+  <contributor label="white-collar crimes such as...tax fraud">
+   <part label="tax fraud" start="1723" end="1732"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="138" label="White-collar crime includes wire fraud">
+  <contributor label="white-collar crimes such as...wire fraud">
+   <part label="wire fraud" start="1734" end="1744"/>
+   <part label="white-collar crimes such as" start="1667" end="1694"/>
+  </contributor>
+ </scu>
+ <scu uid="209" label="White-collar criminals were beginning to be denied bail">
+  <contributor label="White-collar criminals were beginning to get...denying bail">
+   <part label="White-collar criminals were beginning to get" start="5455" end="5499"/>
+   <part label="denying bail" start="5555" end="5567"/>
+  </contributor>
+ </scu>
+ <scu uid="208" label="White-collar criminals were beginning to get the same treatment as other criminals">
+  <contributor label="White-collar criminals were beginning to get the same treatment as other criminals">
+   <part label="White-collar criminals were beginning to get the same treatment as other criminals" start="5455" end="5537"/>
+  </contributor>
+ </scu>
+</pyramid>

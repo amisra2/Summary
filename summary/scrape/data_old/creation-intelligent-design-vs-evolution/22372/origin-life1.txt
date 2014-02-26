@@ -1,0 +1,4090 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=847debd830e14e9d60ce3aa563dea671&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=22372";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="physics, observation, interesting, simple, complex, question, explains, theory, caused, observations, function, stated, matter, waste, causation, talking, interacting, explanation, proximate, valuable, description, combative, discussion, realised, perfectly, error, dismissive, honestly, personally, subject, generally, insulting, patronising, starts, axiom, pleasant, writing, arise, notes, simply, notice, observe, apples, based, empirical, matters, strictly, summary, origin, physical" name="keywords"/>
+  <meta content="Hello! 
+ 
+I understand that Abiogenesis is a separate field from evolution, but considering everything (including life) must have an origin, and Abiogenesis is a theory attempting to explain the origin of life, I think it deserves to be discussed. 
+ 
+So one theory of Abiogenesis states that the Earth's atmosphere, approximately 3.5 billion years ago, produced organic compounds when exposed to energy. These organic molecules accumulated into a pool, and eventually formed more complex organic" name="description"/>
+  <title>
+   The Origin of Life
+  </title>
+  <link href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=847debd830e14e9d60ce3aa563dea671" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=847debd830e14e9d60ce3aa563dea671" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=847debd830e14e9d60ce3aa563dea671" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="847debd830e14e9d60ce3aa563dea671"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=847debd830e14e9d60ce3aa563dea671">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=847debd830e14e9d60ce3aa563dea671">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=847debd830e14e9d60ce3aa563dea671">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=847debd830e14e9d60ce3aa563dea671">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=847debd830e14e9d60ce3aa563dea671">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=847debd830e14e9d60ce3aa563dea671">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=847debd830e14e9d60ce3aa563dea671">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=847debd830e14e9d60ce3aa563dea671">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=847debd830e14e9d60ce3aa563dea671">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=847debd830e14e9d60ce3aa563dea671">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=847debd830e14e9d60ce3aa563dea671">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=847debd830e14e9d60ce3aa563dea671">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=847debd830e14e9d60ce3aa563dea671">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       The Origin of Life
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=847debd830e14e9d60ce3aa563dea671&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=847debd830e14e9d60ce3aa563dea671" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=847debd830e14e9d60ce3aa563dea671" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="polloptionsblock" id="pollinfo">
+    <form action="poll.php?do=pollvote&amp;pollid=711" class="block" method="post">
+     <div class="blockhead">
+      <h2>
+       Poll:
+       <span class="polltitle">
+        Are there any problems for the Primordial Soup?
+       </span>
+      </h2>
+     </div>
+     <div class="blockbody">
+      <h3 class="pollsubhead">
+       Be advised that this is a public poll: other users can see the choice(s) you selected.
+      </h3>
+      <div class="blockrow" id="polloptions">
+       <ul class="checkradio group">
+        <li>
+         <label for="cb_optionnumber_1">
+          <input id="cb_optionnumber_1" name="optionnumber[1]" tabindex="1" type="checkbox" value="yes"/>
+          Life is too complex to form randomly
+         </label>
+        </li>
+        <li>
+         <label for="cb_optionnumber_2">
+          <input id="cb_optionnumber_2" name="optionnumber[2]" tabindex="1" type="checkbox" value="yes"/>
+          UV Rays would have destroyed the first cells
+         </label>
+        </li>
+        <li>
+         <label for="cb_optionnumber_3">
+          <input id="cb_optionnumber_3" name="optionnumber[3]" tabindex="1" type="checkbox" value="yes"/>
+          Oxygen would have destroyed organic matter
+         </label>
+        </li>
+        <li>
+         <label for="cb_optionnumber_4">
+          <input id="cb_optionnumber_4" name="optionnumber[4]" tabindex="1" type="checkbox" value="yes"/>
+          Other problem(s)
+         </label>
+        </li>
+        <li>
+         <label for="cb_optionnumber_5">
+          <input id="cb_optionnumber_5" name="optionnumber[5]" tabindex="1" type="checkbox" value="yes"/>
+          There are no problems
+         </label>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="blockfoot">
+      <div class="group">
+       <input class="button" tabindex="1" type="submit" value="Vote Now"/>
+       <a class="textcontrol" href="poll.php?pollid=711&amp;s=847debd830e14e9d60ce3aa563dea671&amp;do=showresults">
+        View Poll Results
+       </a>
+       <input name="s" type="hidden" value="847debd830e14e9d60ce3aa563dea671"/>
+       <input name="securitytoken" type="hidden" value="guest"/>
+       <input name="do" type="hidden" value="pollvote"/>
+       <input name="pollid" type="hidden" value="711"/>
+      </div>
+     </div>
+    </form>
+   </div>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=22372&amp;page=3&amp;s=847debd830e14e9d60ce3aa563dea671" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="22372"/>
+      <input name="s" type="hidden" value="847debd830e14e9d60ce3aa563dea671"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 11
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 160">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=22372&amp;page=2&amp;s=847debd830e14e9d60ce3aa563dea671" title="Show results 16 to 30 of 160">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=22372&amp;page=3&amp;s=847debd830e14e9d60ce3aa563dea671" title="Show results 31 to 45 of 160">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=22372&amp;page=2&amp;s=847debd830e14e9d60ce3aa563dea671" rel="next" title="Next Page - Results 16 to 30 of 160">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=22372&amp;page=11&amp;s=847debd830e14e9d60ce3aa563dea671" title="Last Page - Results 151 to 160 of 160">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 160
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671" title="Reload this Page">
+       The Origin of Life
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;t=22372&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=sendtofriend&amp;t=22372" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=addsubscription&amp;t=22372" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="847debd830e14e9d60ce3aa563dea671"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="22372"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 22372);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470673&amp;mode=threaded#post470673">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_470673">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-22-2013,
+          <span class="time">
+           12:50 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" name="post470673">
+          #1
+         </a>
+         <a id="postcount470673" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671" title="TeaAddict is offline">
+          <img alt="TeaAddict's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=23286&amp;dateline=1363107883"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671" title="TeaAddict is offline">
+            <strong>
+             TeaAddict
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=23286&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="TeaAddict is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2013
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           29
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         The Origin of Life
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_470673">
+          <blockquote class="postcontent restore">
+           Hello!
+           <br/>
+           <br/>
+           I understand that Abiogenesis is a separate field from evolution, but considering everything (including life) must have an origin, and Abiogenesis is a theory attempting to explain the origin of life, I think it deserves to be discussed.
+           <br/>
+           <br/>
+           So one theory of Abiogenesis states that the Earth's atmosphere, approximately 3.5 billion years ago, produced organic compounds when exposed to energy. These organic molecules accumulated into a pool, and eventually formed more complex organic compounds, which eventually formed life.
+           <br/>
+           <br/>
+           There are several problems which are pretty lethal to this theory.
+           <br/>
+           <br/>
+           1: The Ultraviolet rays from the sun would have destroyed any organic matter. Considering there was no oxygen in the atmosphere at the time, and therefore no ozone, there would have been no protection. Some have suggested that the spark of life started in the ocean, but this would seem impossible considering the oxygen in the water would have destroyed any organic matter.
+           <br/>
+           <br/>
+           2: The production of Adenosine triphosphate (ATP), the molecules that fuel cells, requires protons to be densely packed and separated out. This could not happen in a  "soup" mixture.
+           <br/>
+           <br/>
+           3: It is highly improbable that random organic molecules could have formed sufficient DNA, RNA, Proteins, etc. that would be necessary for a functional cell.
+           <br/>
+           <br/>
+           Although evolution is a separate study from Abiogenesis, evolution is dependent on Abiogenesis: if life cant start, it cant evolve. Therefore, is Abiogenesis is so unlikely, the Theory of Evolution is also unlikely.
+           <br/>
+           <br/>
+           Intelligent design (a creator God) is the most logical, plausible, scientific explanation for life.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470673" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470673" id="qrwq_470673" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470673" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470674">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-22-2013,
+          <span class="time">
+           02:30 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470674#post470674" name="post470674">
+          #2
+         </a>
+         <a id="postcount470674" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=20259&amp;s=847debd830e14e9d60ce3aa563dea671" title="Dani is offline">
+            <strong>
+             Dani
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=20259&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=20259&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Dani is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2012
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Valencia. Spain.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,943
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470674">
+          <blockquote class="postcontent restore">
+           In the human female, a fertilized egg can implant into the fallopian tube, cervix or ovary rather than the uterus causing an ectopic pregnancy. The existence of a cavity between the ovary and the fallopian tube could indicate a flawed design in the female reproductive system. Prior to modern surgery, ectopic pregnancy invariably caused the deaths of both mother and baby. Even in modern times, in almost all cases, the pregnancy must be aborted to save the life of the mother.
+           <br/>
+           <br/>
+           In the human female, the birth canal passes through the pelvis. The prenatal skull will deform to a surprising extent. However, if the baby&#8217;s head is significantly larger than the pelvic opening, the baby cannot be born naturally. Prior to the development of modern surgery (caesarean section), such a complication would lead to the death of the mother, the baby or both. Other birthing complications such as breech birth are worsened by this position of the birth canal.
+           <br/>
+           <br/>
+           In the human male, testes develop initially within the abdomen. Later during gestation, they migrate through the abdominal wall into the scrotum. This causes two weak points in the abdominal wall where hernias can later form. Prior to modern surgical techniques, complications from hernias, including intestinal blockage, gangrene, etc., usually resulted in death.
+           <br/>
+           <br/>
+           Other examples of "poor design" include:
+           <br/>
+           <br/>
+           Barely used nerves and muscles, such as the plantaris muscle of the foot,[5] that are missing in part of the human population and are routinely harvested as spare parts if needed during operations. Another example is the muscles that move the ears, which some people can learn to control to a degree, but serve no purpose in any case.
+           <br/>
+           <br/>
+           The common malformation of the human spinal column, leading to scoliosis, sciatica and congenital misalignment of the vertebrae.
+           <br/>
+           <br/>
+           Crowded teeth and poor sinus drainage, as human faces are significantly flatter than those of other primates and humans share the same tooth set. This results in a number of problems, most notably with wisdom teeth.
+           <br/>
+           <br/>
+           The existence of the pharynx, a passage used for both ingestion and respiration, with the consequent drastic increase in the risk of choking.
+           <br/>
+           <br/>
+           The structure of humans' eyes (as well as those of all mammals). The retina is 'inside out'. The nerves and blood vessels lie on the surface of the retina instead of behind it as is the case in many invertebrate species. This arrangement forces a number of complex adaptations and gives mammals a blind spot.
+           <br/>
+           <br/>
+           Six muscles move the eye when three would suffice.
+           <br/>
+           <br/>
+           The breathing reflex is stimulated not directly by the absence of oxygen but rather indirectly by the presence of carbon dioxide. A result is that, at high altitudes, oxygen deprivation can occur in unadapted individuals who do not consciously increase their breathing rate.
+           <br/>
+           <br/>
+           Sturdy but heavy bones, suited for non-flight, occurring in animals like bats. Or, on the converse: unstable, light, hollow bones, suited for flight, occurring in birds like penguins and ostriches, which cannot fly.
+           <br/>
+           <br/>
+           Various vestigial body parts, like the femur and pelvis in whales  or the third molar - or 'wisdom teeth' - in humans (whereas some other primates with differing jaw shapes make use of the third molar).
+           <br/>
+           <br/>
+           Plants are green and not black, even though black plants would absorb more light energy.
+           <br/>
+           <br/>
+           Female orgasm is usually produced only by the direct stimulation of the clitoris. The clitoris is not typically stimulated during sexual intercourse.
+           <br/>
+           <a href="http://en.wikipedia.org/wiki/Argument_from_poor_design" target="_blank">
+            Argument from poor design - Wikipedia, the free encyclopedia
+           </a>
+           <br/>
+           <br/>
+           Yep...there sure is a lot of
+           <b>
+            'intelligence'
+           </b>
+           gone into the design huh
+           <b>
+            TeaAddict?
+           </b>
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          How to make yourself look a fool in one sentence....
+          <br/>
+          <br/>
+          (P.S. worshiping only has 1 p not 2.)
+          <br/>
+          --johnson--.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470674" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470674" id="qrwq_470674" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470674" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470703">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-22-2013,
+          <span class="time">
+           09:58 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470703#post470703" name="post470703">
+          #3
+         </a>
+         <a id="postcount470703" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=15934&amp;s=847debd830e14e9d60ce3aa563dea671" title="Databed is offline">
+            <strong>
+             Databed
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=15934&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=15934&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Databed is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           652
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470703">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Hello!
+               <br/>
+               <br/>
+               I understand that Abiogenesis is a separate field from evolution, but considering everything (including life) must have an origin, and Abiogenesis is a theory attempting to explain the origin of life, I think it deserves to be discussed.
+               <br/>
+               <br/>
+               So one theory of Abiogenesis states that the Earth's atmosphere, approximately 3.5 billion years ago, produced organic compounds when exposed to energy. These organic molecules accumulated into a pool, and eventually formed more complex organic compounds, which eventually formed life.
+               <br/>
+               <br/>
+               There are several problems which are pretty lethal to this theory.
+              </div>
+             </div>
+            </div>
+           </div>
+           Okay, one theory of abiogenesis says that, not all of them. And don't forget about exogenesis. Life did not necessarily start on Earth.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               1: The Ultraviolet rays from the sun would have destroyed any organic matter. Considering there was no oxygen in the atmosphere at the time, and therefore no ozone, there would have been no protection. Some have suggested that the spark of life started in the ocean, but this would seem impossible considering the oxygen in the water would have destroyed any organic matter.
+              </div>
+             </div>
+            </div>
+           </div>
+           How do you know that UV rays would have destroyed any organic matter? Do you know what molecules comprised the first reproducing molecules? Also, escaping UV rays is easy, you just have to go under a rock, beneath enough water, underground, etc. And also, since when does oxygen destroy organic matter? We breath oxygen and were just fine, right? And who told you oxygen was even present in primitive oceans?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               2: The production of Adenosine triphosphate (ATP), the molecules that fuel cells, requires protons to be densely packed and separated out. This could not happen in a  "soup" mixture.
+              </div>
+             </div>
+            </div>
+           </div>
+           This one is beyond me. ATP is a molecule used to store energy the cell can use to metabolize. What's this about protons? And it doesn't do well in soup? And again, who told you the first reproducing, metabolizing life was in the form of cells?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               3: It is highly improbable that random organic molecules could have formed sufficient DNA, RNA, Proteins, etc. that would be necessary for a functional cell.
+              </div>
+             </div>
+            </div>
+           </div>
+           Necessary for a modern functional cell. You don't know what life looked like 3.5 billion years ago. It eventually became dominated by cells, but certainly didn't start with the cell. No theory of abiogenesis claims that it did.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Although evolution is a separate study from Abiogenesis, evolution is dependent on Abiogenesis: if life cant start, it cant evolve. Therefore, is Abiogenesis is so unlikely, the Theory of Evolution is also unlikely.
+              </div>
+             </div>
+            </div>
+           </div>
+           If anything, abiogenesis is dependent on evolution. Evolution explains the diversity of life. It does suggest abiogenesis, just as an expanding universe suggests the Big Bang, but it does not require it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470673#post470673" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Intelligent design (a creator God) is the most logical, plausible, scientific explanation for life.
+              </div>
+             </div>
+            </div>
+           </div>
+           That is not scientific and your logic is not sound. Even if your premises were correct, not based on a misunderstanding of what life is and what it most likely was in the past, even if you had a lick of chemistry supporting your other claims, your logic still would not follow.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Databed; 02-22-2013 at
+         <span class="time">
+          10:43 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470703" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470703" id="qrwq_470703" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470703" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470704">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-23-2013,
+          <span class="time">
+           12:17 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470704#post470704" name="post470704">
+          #4
+         </a>
+         <a id="postcount470704" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671" title="Easyrider is offline">
+          <img alt="Easyrider's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=2127&amp;dateline=1356615100"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671" title="Easyrider is offline">
+            <strong>
+             Easyrider
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=2127&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Easyrider is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           One Nation Under GOD
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           12,627
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470704">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Dani
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470674#post470674" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               In the human female, a fertilized egg can implant into the fallopian tube, cervix or ovary rather than the uterus causing an ectopic pregnancy. The existence of a cavity between the ovary and the fallopian tube could indicate a flawed design in the female reproductive system. Prior to modern surgery, ectopic pregnancy invariably caused the deaths of both mother and baby. Even in modern times, in almost all cases, the pregnancy must be aborted to save the life of the mother.
+               <br/>
+               <br/>
+               In the human female, the birth canal passes through the pelvis. The prenatal skull will deform to a surprising extent. However, if the baby’s head is significantly larger than the pelvic opening, the baby cannot be born naturally. Prior to the development of modern surgery (caesarean section), such a complication would lead to the death of the mother, the baby or both. Other birthing complications such as breech birth are worsened by this position of the birth canal.
+               <br/>
+               <br/>
+               In the human male, testes develop initially within the abdomen. Later during gestation, they migrate through the abdominal wall into the scrotum. This causes two weak points in the abdominal wall where hernias can later form. Prior to modern surgical techniques, complications from hernias, including intestinal blockage, gangrene, etc., usually resulted in death.
+               <br/>
+               <br/>
+               Other examples of "poor design" include:
+               <br/>
+               <br/>
+               Barely used nerves and muscles, such as the plantaris muscle of the foot,[5] that are missing in part of the human population and are routinely harvested as spare parts if needed during operations. Another example is the muscles that move the ears, which some people can learn to control to a degree, but serve no purpose in any case.
+               <br/>
+               <br/>
+               The common malformation of the human spinal column, leading to scoliosis, sciatica and congenital misalignment of the vertebrae.
+               <br/>
+               <br/>
+               Crowded teeth and poor sinus drainage, as human faces are significantly flatter than those of other primates and humans share the same tooth set. This results in a number of problems, most notably with wisdom teeth.
+               <br/>
+               <br/>
+               The existence of the pharynx, a passage used for both ingestion and respiration, with the consequent drastic increase in the risk of choking.
+               <br/>
+               <br/>
+               The structure of humans' eyes (as well as those of all mammals). The retina is 'inside out'. The nerves and blood vessels lie on the surface of the retina instead of behind it as is the case in many invertebrate species. This arrangement forces a number of complex adaptations and gives mammals a blind spot.
+               <br/>
+               <br/>
+               Six muscles move the eye when three would suffice.
+               <br/>
+               <br/>
+               The breathing reflex is stimulated not directly by the absence of oxygen but rather indirectly by the presence of carbon dioxide. A result is that, at high altitudes, oxygen deprivation can occur in unadapted individuals who do not consciously increase their breathing rate.
+               <br/>
+               <br/>
+               Sturdy but heavy bones, suited for non-flight, occurring in animals like bats. Or, on the converse: unstable, light, hollow bones, suited for flight, occurring in birds like penguins and ostriches, which cannot fly.
+               <br/>
+               <br/>
+               Various vestigial body parts, like the femur and pelvis in whales  or the third molar - or 'wisdom teeth' - in humans (whereas some other primates with differing jaw shapes make use of the third molar).
+               <br/>
+               <br/>
+               Plants are green and not black, even though black plants would absorb more light energy.
+               <br/>
+               <br/>
+               Female orgasm is usually produced only by the direct stimulation of the clitoris. The clitoris is not typically stimulated during sexual intercourse.
+               <br/>
+               <a href="http://en.wikipedia.org/wiki/Argument_from_poor_design" target="_blank">
+                Argument from poor design - Wikipedia, the free encyclopedia
+               </a>
+               <br/>
+               <br/>
+               Yep...there sure is a lot of
+               <b>
+                'intelligence'
+               </b>
+               gone into the design huh
+               <b>
+                TeaAddict?
+               </b>
+              </div>
+             </div>
+            </div>
+           </div>
+           Congratulations on your
+           <font size="4">
+            <b>
+             GREAT FAITH
+            </b>
+           </font>
+           in believing in abiogenesis.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/xbouncer.gif" title="xbouncer"/>
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “For the scientist who has lived by his faith in the power of reason, the story ends like a bad dream. He has scaled the mountains of ignorance; he is about to conquer the highest peak; as he pulls himself over the final rock, he is greeted by a band of theologians who have been sitting there for centuries.”  - Robert Jastrow
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470704" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470704" id="qrwq_470704" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470704" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470705">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-23-2013,
+          <span class="time">
+           04:54 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470705#post470705" name="post470705">
+          #5
+         </a>
+         <a id="postcount470705" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=20259&amp;s=847debd830e14e9d60ce3aa563dea671" title="Dani is offline">
+            <strong>
+             Dani
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=20259&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=20259&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Dani is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2012
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Valencia. Spain.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,943
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470705">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Easyrider
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470704#post470704" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Congratulations on your
+               <font size="4">
+                <b>
+                 GREAT FAITH
+                </b>
+               </font>
+               in believing in abiogenesis.
+               <img alt="" border="0" class="inlineimg" src="images/smilies/xbouncer.gif" title="xbouncer"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           Run along and play somewhere else Coco. The grown ups are discussing things here.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          How to make yourself look a fool in one sentence....
+          <br/>
+          <br/>
+          (P.S. worshiping only has 1 p not 2.)
+          <br/>
+          --johnson--.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470705" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470705" id="qrwq_470705" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470705" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470708">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-23-2013,
+          <span class="time">
+           08:24 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470708#post470708" name="post470708">
+          #6
+         </a>
+         <a id="postcount470708" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=5285&amp;s=847debd830e14e9d60ce3aa563dea671" title="smiley is offline">
+          <img alt="smiley's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=5285&amp;dateline=1171419269"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=5285&amp;s=847debd830e14e9d60ce3aa563dea671" title="smiley is offline">
+            <strong>
+             smiley
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=5285&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=5285&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="smiley is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,117
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470708">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Easyrider
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470704#post470704" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Congratulations on your
+               <font size="4">
+                <b>
+                 GREAT FAITH
+                </b>
+               </font>
+               in believing in abiogenesis.
+               <img alt="" border="0" class="inlineimg" src="images/smilies/xbouncer.gif" title="xbouncer"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           Abiogenesis is a fact.  Once there was no life, and then there was life.  That's abiogenesis.  Whether you believe that a god poofed it into existence or natural forces formed it through chemical means, it happened.
+           <br/>
+           <br/>
+           Oh ye of little thought.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Religion is the placebo of the masses  -  House.
+          <br/>
+          If you could reason with religious people, there would be no religious people - House.
+          <br/>
+          God is an ever receding pocket of scientific ignorance  -  Neil deGrasse Tyson.
+          <br/>
+          That which can be asserted without evidence, can be dismissed without evidence.  -  Christopher Hitchens.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470708" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470708" id="qrwq_470708" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470708" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470713">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-23-2013,
+          <span class="time">
+           06:25 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470713#post470713" name="post470713">
+          #7
+         </a>
+         <a id="postcount470713" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671" title="Easyrider is offline">
+          <img alt="Easyrider's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=2127&amp;dateline=1356615100"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671" title="Easyrider is offline">
+            <strong>
+             Easyrider
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=2127&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Easyrider is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           One Nation Under GOD
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           12,627
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470713">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                smiley
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470708#post470708" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Abiogenesis is a fact.
+              </div>
+             </div>
+            </div>
+           </div>
+           Horse manure.  You can't even explain the original process, much less tell us when and where it supposedly occurred.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “For the scientist who has lived by his faith in the power of reason, the story ends like a bad dream. He has scaled the mountains of ignorance; he is about to conquer the highest peak; as he pulls himself over the final rock, he is greeted by a band of theologians who have been sitting there for centuries.”  - Robert Jastrow
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470713" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470713" id="qrwq_470713" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470713" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470714">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-23-2013,
+          <span class="time">
+           07:14 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470714#post470714" name="post470714">
+          #8
+         </a>
+         <a id="postcount470714" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=16261&amp;s=847debd830e14e9d60ce3aa563dea671" title="Freedom is offline">
+            <strong>
+             Freedom
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=16261&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=16261&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Freedom is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2010
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,414
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470714">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Easyrider
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470713#post470713" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Horse manure.  You can't even explain the original process, much less tell us when and where it supposedly occurred.
+              </div>
+             </div>
+            </div>
+           </div>
+           Is god biological?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Morals are a religious Myth.. - Xcaliber
+          <br/>
+          How is Evil Immoral? - Xcaliber
+          <br/>
+          I am right until you prove otherwise - Xcaliber
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470714" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470714" id="qrwq_470714" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470714" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470715">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-23-2013,
+          <span class="time">
+           07:34 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470715#post470715" name="post470715">
+          #9
+         </a>
+         <a id="postcount470715" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=5285&amp;s=847debd830e14e9d60ce3aa563dea671" title="smiley is offline">
+          <img alt="smiley's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=5285&amp;dateline=1171419269"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=5285&amp;s=847debd830e14e9d60ce3aa563dea671" title="smiley is offline">
+            <strong>
+             smiley
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=5285&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=5285&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="smiley is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,117
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470715">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Easyrider
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470713#post470713" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Horse manure.  You can't even explain the original process, much less tell us when and where it supposedly occurred.
+              </div>
+             </div>
+            </div>
+           </div>
+           It is such a shame you couldn't even be bothered to read the rest of my post.
+           <br/>
+           <br/>
+           Try again!
+           <br/>
+           <br/>
+           Unless of course you are proposing that life has always been, with no beginning.  That would certainly be interesting.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Religion is the placebo of the masses  -  House.
+          <br/>
+          If you could reason with religious people, there would be no religious people - House.
+          <br/>
+          God is an ever receding pocket of scientific ignorance  -  Neil deGrasse Tyson.
+          <br/>
+          That which can be asserted without evidence, can be dismissed without evidence.  -  Christopher Hitchens.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470715" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470715" id="qrwq_470715" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470715" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470718">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-24-2013,
+          <span class="time">
+           07:20 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470718#post470718" name="post470718">
+          #10
+         </a>
+         <a id="postcount470718" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671" title="Easyrider is offline">
+          <img alt="Easyrider's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=2127&amp;dateline=1356615100"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671" title="Easyrider is offline">
+            <strong>
+             Easyrider
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2127&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=2127&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Easyrider is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           One Nation Under GOD
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           12,627
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470718">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470714#post470714" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Is god biological?
+              </div>
+             </div>
+            </div>
+           </div>
+           He created the biological.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “For the scientist who has lived by his faith in the power of reason, the story ends like a bad dream. He has scaled the mountains of ignorance; he is about to conquer the highest peak; as he pulls himself over the final rock, he is greeted by a band of theologians who have been sitting there for centuries.”  - Robert Jastrow
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470718" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470718" id="qrwq_470718" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470718" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470768">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-25-2013,
+          <span class="time">
+           04:00 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" name="post470768">
+          #11
+         </a>
+         <a id="postcount470768" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671" title="TeaAddict is offline">
+          <img alt="TeaAddict's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=23286&amp;dateline=1363107883"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671" title="TeaAddict is offline">
+            <strong>
+             TeaAddict
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=23286&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="TeaAddict is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2013
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           29
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470768">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <b>
+               Dani
+              </b>
+              :
+              <br/>
+              In the human female, a fertilized egg can implant into the fallopian tube, cervix or ovary rather than the uterus causing an ectopic pregnancy. The existence of a cavity between the ovary and the fallopian tube could indicate a flawed design in the female reproductive system. Prior to modern surgery, ectopic pregnancy invariably caused the deaths of both mother and baby. Even in modern times, in almost all cases, the pregnancy must be aborted to save the life of the mother.
+              <br/>
+              <br/>
+              In the human female, the birth canal passes through the pelvis. The prenatal skull will deform to a surprising extent. However, if the baby’s head is significantly larger than the pelvic opening, the baby cannot be born naturally. Prior to the development of modern surgery (caesarean section), such a complication would lead to the death of the mother, the baby or both. Other birthing complications such as breech birth are worsened by this position of the birth canal.
+              <br/>
+              <br/>
+              <br/>
+              Various vestigial body parts, like the femur and pelvis in whales or the third molar - or 'wisdom teeth' - in humans (whereas some other primates with differing jaw shapes make use of the third molar).
+              <br/>
+              <br/>
+              Plants are green and not black, even though black plants would absorb more light energy.
+              <br/>
+              <br/>
+              Female orgasm is usually produced only by the direct stimulation of the clitoris. The clitoris is not typically stimulated during sexual intercourse.
+              <br/>
+              Argument from poor design - Wikipedia, the free encyclopedia
+              <br/>
+              <br/>
+              Yep...there sure is a lot of 'intelligence' gone into the design huh TeaAddict?
+             </div>
+            </div>
+           </div>
+           The anatomical “malfunctions”, such as ectopic pregnancy, are a result of the Fall. God created humans perfect, so it stands to reason that our anatomy and DNA were also perfect.  Problems could not arise. But after the fall, we began to decline. This is even documented in the Bible by the drop in the age of humans: we could, right after the fall, live more than 900 years, but after a couple thousand years, the average human lifespan declined.
+           <br/>
+           <br/>
+           And if plants would do better black than green, then why didn’t they evolve that way?
+           <img alt="" border="0" class="inlineimg" src="images/smilies/confused.gif" title="Confused"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <b>
+               Datebed
+              </b>
+              <br/>
+              Okay, one theory of abiogenesis says that, not all of them. And don't forget about exogenesis. Life did not necessarily start on Earth.
+             </div>
+            </div>
+           </div>
+           One big problem with exogenesis is that it would have the same problems with this version of abiogenesis.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              How do you know that UV rays would have destroyed any organic matter?
+             </div>
+            </div>
+           </div>
+           Because that’s what UV rays do. We use UV to sterilize, killing bacteria. UV from the sun burns our skin, giving us greater risk of skin cancer. UV is destructive to organic matter.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Necessary for a modern functional cell. You don't know what life looked like 3.5 billion years ago. It eventually became dominated by cells, but certainly didn't start with the cell. No theory of abiogenesis claims that it did.
+             </div>
+            </div>
+           </div>
+           But whatever life cam about, had to be complex enough to survive and reproduce. These things, in themselves, are complex, and
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And also, since when does oxygen destroy organic matter? We breath oxygen and were just fine, right?
+             </div>
+            </div>
+           </div>
+           The reason we can breathe the air is because we have antioxidants in our bodies. Antioxidants are molecules that prevent our cells from being destroyed by the oxidation process. Without antioxidants, our cells would be destroyed by the oxygen in the air and water, much the same way as metal rusts.
+           <br/>
+           <br/>
+           So the primordial soup is stuck between a rock and a hard space, as it were: If there was oxygen in the atmosphere, the earliest organic matter would have been destroyed (because a pile of amino acids wouldn’t have antioxidants). But if there was no oxygen in the atmosphere, there would have been no ozone layer protecting the surface of the earth from the suns UV.
+           <br/>
+           <br/>
+           Our skin cells are susceptible to cancer when exposed to long term UV WITH an Ozone layer. What would it be like for the primordial cells WITHOUT one?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And who told you oxygen was even present in primitive oceans?
+             </div>
+            </div>
+           </div>
+           If there was no oxygen in earth’s oceans, then they wouldn’t have been water. Because water molecules have 1 oxygen atom. That’s why metal rusts in water.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Also, escaping UV rays is easy, you just have to go under a rock, beneath enough water, underground, etc.
+             </div>
+            </div>
+           </div>
+           Going underwater wouldn’t work, for the reason stated above.
+           <br/>
+           <br/>
+           Under a rock doesn’t make much sense either. That rock would have to remain steady for hundreds of thousands, maybe even millions of years. Earthquakes, erosion, etc. would threaten to destroy/knock down the rock, and possibly expose the soup.
+           <br/>
+           <br/>
+           We must also consider the possibility that, depending on where the soup was, the environment could have been very hot even if the sun wasn’t shining directly on the soup. The liquid could have evaporated before anything could have formed. A million years is a looooooong time for a puddle of goo to sit around, safe from the environment.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/xdonno.gif" title="xdonno"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It is such a shame you couldn't even be bothered to read the rest of my post.
+              <br/>
+              <br/>
+              Try again!
+             </div>
+            </div>
+           </div>
+           He doesn’t have to. You description of Abiogenesis is sadly flawed.
+           <br/>
+           <br/>
+           Abiogenesis describes the beginning of life
+           <b>
+            through chemical and biological reactions
+           </b>
+           .
+           <br/>
+           <br/>
+           <br/>
+           From Wikipedia:
+           <br/>
+           “Abiogenesis or biopoiesis is the
+           <b>
+            natural
+           </b>
+           process by which life
+           <b>
+            arises from inorganic matter.
+           </b>
+           ”
+           <br/>
+           This does not include Biblical Creation.
+           <br/>
+           <br/>
+           You are correct in stating that there was once no life, then there was life. But this isn’t, technically, the definition of Abiogenesis. At least not the most common one.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470768" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470768" id="qrwq_470768" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470768" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470777">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-25-2013,
+          <span class="time">
+           09:15 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470777#post470777" name="post470777">
+          #12
+         </a>
+         <a id="postcount470777" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=15934&amp;s=847debd830e14e9d60ce3aa563dea671" title="Databed is offline">
+            <strong>
+             Databed
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=15934&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=15934&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Databed is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           652
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470777">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               One big problem with exogenesis is that it would have the same problems with this version of abiogenesis.
+              </div>
+             </div>
+            </div>
+           </div>
+           Yes, except that it doesn't occur on Earth. So all the below supposed problems go away.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Because that’s what UV rays do. We use UV to sterilize, killing bacteria. UV from the sun burns our skin, giving us greater risk of skin cancer. UV is destructive to organic matter.
+              </div>
+             </div>
+            </div>
+           </div>
+           You don't know what UV rays did to the first life on Earth because you don't even know what it is composed of. Nobody does. It was most likely a precursor to modern RNA or DNA, but much more simple and much less susceptible to damage.
+           <br/>
+           <br/>
+           It is possible and quite probable that the first lifeforms to see the Sun were dependent on its UV radiation, just as many organisms, including ourselves, are today.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               But whatever life cam about, had to be complex enough to survive and reproduce. These things, in themselves, are complex, and
+              </div>
+             </div>
+            </div>
+           </div>
+           You want to complete your thought here?
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               The reason we can breathe the air is because we have antioxidants in our bodies. Antioxidants are molecules that prevent our cells from being destroyed by the oxidation process. Without antioxidants, our cells would be destroyed by the oxygen in the air and water, much the same way as metal rusts.
+              </div>
+             </div>
+            </div>
+           </div>
+           You have no idea what role oxidation played in the first life since you don't know what the first life was. Oxidation at some point became necessary for life just as it is in every oxygen dependent life form on Earth today. Oxidation keeps us alive. Yes, we have antioxidants to keep the process in check, but antioxidants do not entirely prevent oxidation in our bodies. If they did, we would die.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               So the primordial soup is stuck between a rock and a hard space, as it were: If there was oxygen in the atmosphere, the earliest organic matter would have been destroyed (because a pile of amino acids wouldn’t have antioxidants). But if there was no oxygen in the atmosphere, there would have been no ozone layer protecting the surface of the earth from the suns UV.
+              </div>
+             </div>
+            </div>
+           </div>
+           Just as last time, your logic is flawed. You have assumed that life was in the past just as it is today. That's not what evolution says. It says life changes with changing environment. Just because you have devised an environment lethal to today's life (although bacteria and simple lifeforms would quickly re-adapt), doesn't mean you have devised a scenario lethal to all iterations of life.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Our skin cells are susceptible to cancer when exposed to long term UV WITH an Ozone layer. What would it be like for the primordial cells WITHOUT one?
+              </div>
+             </div>
+            </div>
+           </div>
+           Well, since single celled organisms by definition don't develop cancer, it would be a non-issue.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               If there was no oxygen in earth’s oceans, then they wouldn’t have been water. Because water molecules have 1 oxygen atom. That’s why metal rusts in water.
+              </div>
+             </div>
+            </div>
+           </div>
+           Metal requires water
+           <b>
+            and
+           </b>
+           oxygen to rust. Just water won't do. Go back to the books - look at basic corrosion.
+           <br/>
+           <br/>
+           Also, when I say oxygen in this context, just as anyone else who knows ANYTHING, I am referring to
+           <i>
+            free
+           </i>
+           oxygen. Not oxygen locked up in water molecules.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <br/>
+               Going underwater wouldn’t work, for the reason stated above.
+               <br/>
+               <br/>
+               Under a rock doesn’t make much sense either. That rock would have to remain steady for hundreds of thousands, maybe even millions of years. Earthquakes, erosion, etc. would threaten to destroy/knock down the rock, and possibly expose the soup.
+              </div>
+             </div>
+            </div>
+           </div>
+           You do not have a grasp on this science at all. Let's say that one photon kills a bacterium. Bacteria would STILL thrive on this planet. Lets says one photon, or being exposed to a certain non-zero concentration of
+           <i>
+            free
+           </i>
+           oxygen kills a bacterium. Same result. There are so many ways to metabolize and so many environments to exist in, your scenario just can't account for it all.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                TeaAddict
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470768#post470768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               We must also consider the possibility that, depending on where the soup was, the environment could have been very hot even if the sun wasn’t shining directly on the soup. The liquid could have evaporated before anything could have formed. A million years is a looooooong time for a puddle of goo to sit around, safe from the environment.
+               <img alt="" border="0" class="inlineimg" src="images/smilies/xdonno.gif" title="xdonno"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           So basically, by this logic, there shouldn't be any fish on the planet. Really there shouldn't even be water except in the form of vapor.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470777" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470777" id="qrwq_470777" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470777" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470781">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-26-2013,
+          <span class="time">
+           12:50 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" name="post470781">
+          #13
+         </a>
+         <a id="postcount470781" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=16261&amp;s=847debd830e14e9d60ce3aa563dea671" title="Freedom is offline">
+            <strong>
+             Freedom
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=16261&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=16261&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Freedom is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2010
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,414
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470781">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Databed
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470777#post470777" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You don't know what UV rays did to the first life on Earth because you don't even know what it is composed of. Nobody does. It was most likely a precursor to modern RNA or DNA, but much more simple and much less susceptible to damage.
+               <br/>
+               <br/>
+               It is possible and quite probable that the first lifeforms to see the Sun were dependent on its UV radiation, just as many organisms, including ourselves, are today.
+              </div>
+             </div>
+            </div>
+           </div>
+           Not very impressed databed, high energy radiation is extremely attenuated by H2O molecules, you would probably need less than a centimeter of water to protect bacteria from death at the hands of UV radiation.
+           <br/>
+           <br/>
+           Not only is that the obvious counter, but then you go on to say life was dependent on UV radiation. No, sorry he is right that if radiation of the correct wave length penetrates to the nucleus of a cell without being canceled it destroys DNA. You need special pigments if you are going to cancel UV radiation at the cell membrane so it's a chicken out of the egg just like every other biological feature in existence.
+           <br/>
+           <br/>
+           That something this trivial sent you scurrying back to an appeal to ignorance (Yes that is what postulating the existence of magical unknown life matter which doesn't have to follow any rules since it's undefined is) reminds of of certain pro-religious characters around here.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Databed
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470777#post470777" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You have no idea what role oxidation played in the first life since you don't know what the first life was. Oxidation at some point became necessary for life just as it is in every oxygen dependent life form on Earth today. Oxidation keeps us alive. Yes, we have antioxidants to keep the process in check, but antioxidants do not entirely prevent oxidation in our bodies. If they did, we would die.
+              </div>
+             </div>
+            </div>
+           </div>
+           I just love it how this 'first life' got on without chemistry. It's all disposable, to the abiogenesis proponent an enzyme constitutes life.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Databed
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470777#post470777" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Just as last time, your logic is flawed. You have assumed that life was in the past just as it is today. That's not what evolution says. It says life changes with changing environment. Just because you have devised an environment lethal to today's life (although bacteria and simple lifeforms would quickly re-adapt), doesn't mean you have devised a scenario lethal to all iterations of life.
+              </div>
+             </div>
+            </div>
+           </div>
+           By professing ignorance of the early iterations of life you except them from any constraints at all. They could be spaghetti monsters for all you know.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Databed
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470777#post470777" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Metal requires water
+               <b>
+                and
+               </b>
+               oxygen to rust. Just water won't do. Go back to the books - look at basic corrosion.
+               <br/>
+               <br/>
+               Also, when I say oxygen in this context, just as anyone else who knows ANYTHING, I am referring to
+               <i>
+                free
+               </i>
+               oxygen. Not oxygen locked up in water molecules.
+              </div>
+             </div>
+            </div>
+           </div>
+           There is free oxygen dissolved in earths oceans.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Databed
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470777#post470777" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You do not have a grasp on this science at all. Let's say that one photon kills a bacterium. Bacteria would STILL thrive on this planet. Lets says one photon, or being exposed to a certain non-zero concentration of
+               <i>
+                free
+               </i>
+               oxygen kills a bacterium. Same result. There are so many ways to metabolize and so many environments to exist in, your scenario just can't account for it all.
+              </div>
+             </div>
+            </div>
+           </div>
+           At the point of abiogenisis there is one species in one place. Only your mystical ? life can exist everywhere at all times.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Morals are a religious Myth.. - Xcaliber
+          <br/>
+          How is Evil Immoral? - Xcaliber
+          <br/>
+          I am right until you prove otherwise - Xcaliber
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470781" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470781" id="qrwq_470781" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470781" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470817">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-26-2013,
+          <span class="time">
+           04:47 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470817#post470817" name="post470817">
+          #14
+         </a>
+         <a id="postcount470817" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671" title="TeaAddict is offline">
+          <img alt="TeaAddict's Avatar" src="image.php?s=847debd830e14e9d60ce3aa563dea671&amp;u=23286&amp;dateline=1363107883"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671" title="TeaAddict is offline">
+            <strong>
+             TeaAddict
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=23286&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=23286&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="TeaAddict is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2013
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           29
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470817">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <b>
+               Databed:
+              </b>
+              <br/>
+              You want to complete your thought here?
+             </div>
+            </div>
+           </div>
+           Wow, sorry.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/msn 09.gif" title="emb"/>
+           Forgot to finish that part.
+           <br/>
+           <br/>
+           But whatever life came about, had to be complex enough to survive and reproduce. These things, in themselves, are complex, and... it would be extremely unlikely for them to occur randomly.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470817" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470817" id="qrwq_470817" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470817" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_470887">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-28-2013,
+          <span class="time">
+           10:31 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;p=470887#post470887" name="post470887">
+          #15
+         </a>
+         <a id="postcount470887" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=15934&amp;s=847debd830e14e9d60ce3aa563dea671" title="Databed is offline">
+            <strong>
+             Databed
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=15934&amp;s=847debd830e14e9d60ce3aa563dea671">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=finduser&amp;userid=15934&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Databed is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2009
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           652
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_470887">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Not very impressed databed, high energy radiation is extremely attenuated by H2O molecules, you would probably need less than a centimeter of water to protect bacteria from death at the hands of UV radiation.
+              </div>
+             </div>
+            </div>
+           </div>
+           Look at his claim, Freedom. He said there is no way organic molecules can survive UV radiation. Not only is this easy to counter due to the ease at which you can escape the radiation, at some point life began to use this radiation as an energy source to convert low energy molecules to a higher state. It is not unreasonable to postulate that this happened very early. I'm not claiming that it did, I'm just using this to counter his claim that UV radiation is necessarily damaging to any theory of abiogenesis.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Not only is that the obvious counter, but then you go on to say life was dependent on UV radiation. No, sorry he is right that if radiation of the correct wave length penetrates to the nucleus of a cell without being canceled it destroys DNA. You need special pigments if you are going to cancel UV radiation at the cell membrane so it's a chicken out of the egg just like every other biological feature in existence.
+              </div>
+             </div>
+            </div>
+           </div>
+           The first life had nothing to do with cells. There is no theory of abiogenesis that postulates that a cell was first. I am not sure why we keep bringing up cells.
+           <br/>
+           <br/>
+           The fact is, we do not know what the first life was composed of, but there is a good chance that it was a simple self replicating molecule that we would not even recognize as life to day. How you can sit here and claim that such a molecule (because you know so much about it) could not exist on Earth due to UV radiation is beyond me.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               That something this trivial sent you scurrying back to an appeal to ignorance (Yes that is what postulating the existence of magical unknown life matter which doesn't have to follow any rules since it's undefined is) reminds of of certain pro-religious characters around here.
+              </div>
+             </div>
+            </div>
+           </div>
+           What else do you expect me to do? There were no surveillance devices back there that I can just go and dig up. These molecules and early life forms are long decomposed and there are no remnants of them left, and we would not expect there to be. You are the one that is using the lack of evidence
+           <i>
+            for
+           </i>
+           as proof
+           <i>
+            against
+           </i>
+           . An appeal to ignorance on my part is only to counter your claim of absolute certainty based on this same lack of knowledge. YOU are the one being unreasonable.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I just love it how this 'first life' got on without chemistry. It's all disposable, to the abiogenesis proponent an enzyme constitutes life.
+              </div>
+             </div>
+            </div>
+           </div>
+           No, self replicating and capable of evolving - that's all it takes. And what is this 'without chemistry?' You just made that up.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               By professing ignorance of the early iterations of life you except them from any constraints at all. They could be spaghetti monsters for all you know.
+              </div>
+             </div>
+            </div>
+           </div>
+           No, they couldn't. Spaghetti monsters do not make sense. What does make sense is that they were precursors to RNA or DNA and self replicating. Maybe a strand of proto-RNA formed that coded for the enzyme that would sometimes help to roughly duplicate it. The process could get its energy from chemosynthesis, which back then would have been as simple as breaking down a loosely bonded molecule ejected by thermal vents deep in the ocean, away from any chance of oxidation or UV degradation. As soon as that one molecule just happened to form, both the enzyme and the proto-RNA would explode in population. Soon, due to all the errors since this was a primitive version, many new versions would appear. Every once in a while a better version would appear. The process becomes more efficient and more precise as the iterations continue. Clearly, abiogenesis is more dependent on evolution than evolution is dependent on abiogenesis as every possible abiogenesis story will necessarily involve descent with improvement.
+           <br/>
+           <br/>
+           Now, all this being said, can you find anything in the previous paragraph that is impossible?? No you can't. Therefore, when you say abiogenesis is impossible, and this is why, you are wrong because my story could be true.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There is free oxygen dissolved in earths oceans.
+              </div>
+             </div>
+            </div>
+           </div>
+           Okay, Einstein - show me where I said there was no free oxygen in the oceans. What I did ask is how Tea Addict knew there was oxygen in the primordial atmosphere.  The fact is, since oxygen does oxidize so readily, it took early life to free that oxygen.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=847debd830e14e9d60ce3aa563dea671&amp;p=470781#post470781" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               At the point of abiogenisis there is one species in one place. Only your mystical ? life can exist everywhere at all times.
+              </div>
+             </div>
+            </div>
+           </div>
+           You are claiming that life had to exist within the top few feet of a pool of crystal clear water that must be easily penetrable by UV radiation and that there must be an extremely high concentration of oxygen dissolved in that water - enough to melt away any organic molecule immediately.
+           <br/>
+           <br/>
+           I do realize that you did not bring up chemosynthesis in hopes that I would not either. The fact is, I didn't think I would need to, but if you are going to claim that my previous paragraph must follow based on your omniscient view of the way things had to unfold on primordial Earth, I will just remove the Sun and free oxygen from the equation completely.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_470887" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=newreply&amp;p=470887" id="qrwq_470887" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_470887" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=22372&amp;page=3&amp;s=847debd830e14e9d60ce3aa563dea671" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="22372"/>
+      <input name="s" type="hidden" value="847debd830e14e9d60ce3aa563dea671"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 11
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 160">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=22372&amp;page=2&amp;s=847debd830e14e9d60ce3aa563dea671" title="Show results 16 to 30 of 160">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=22372&amp;page=3&amp;s=847debd830e14e9d60ce3aa563dea671" title="Show results 31 to 45 of 160">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=22372&amp;page=2&amp;s=847debd830e14e9d60ce3aa563dea671" rel="next" title="Next Page - Results 16 to 30 of 160">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=22372&amp;page=11&amp;s=847debd830e14e9d60ce3aa563dea671" title="Last Page - Results 151 to 160 of 160">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=22372#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=847debd830e14e9d60ce3aa563dea671">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=847debd830e14e9d60ce3aa563dea671">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=847debd830e14e9d60ce3aa563dea671">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=847debd830e14e9d60ce3aa563dea671">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=847debd830e14e9d60ce3aa563dea671">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=847debd830e14e9d60ce3aa563dea671">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=847debd830e14e9d60ce3aa563dea671">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=847debd830e14e9d60ce3aa563dea671">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=847debd830e14e9d60ce3aa563dea671">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=847debd830e14e9d60ce3aa563dea671">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=847debd830e14e9d60ce3aa563dea671">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=847debd830e14e9d60ce3aa563dea671">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=847debd830e14e9d60ce3aa563dea671">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=847debd830e14e9d60ce3aa563dea671">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=847debd830e14e9d60ce3aa563dea671">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=847debd830e14e9d60ce3aa563dea671">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=847debd830e14e9d60ce3aa563dea671">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=22372&amp;s=847debd830e14e9d60ce3aa563dea671&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=22372#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=847debd830e14e9d60ce3aa563dea671&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=847debd830e14e9d60ce3aa563dea671">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=22372#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     11:52 AM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=847debd830e14e9d60ce3aa563dea671&amp;rand=1392483129" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,3425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=0e2370c27b84875182a363d3867ec78e&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=9437";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="moral, morality, approach, proclamations, trimester, general, pro-life, abortion, rules, treat, treated, mentally, abortions, proponents, pro-choice, reason, arguement, killed, human, sacred, concerned, self-consistent, exist, start, views, applied, expect, approaches, existed, universally, issue, strictly, difference, empathize, aborted, existing, beings, limit, conceived, problem, rights, proclamation, supporting, questioned, leads, terms, supporters, stance, found, forum" name="keywords"/>
+  <meta content='In discussions in this forum, I have found that a key differentiator between pro-life and pro-choice proponents is their approach to morality.  
+ 
+Pro-life proponents tend to ultimately have a morality based on moral proclamations - religious or otherwise - that cannot be questioned and need no supporting arguement. The proclamation "All human life is sacred" is the main one which leads to their pro-life stance.  
+ 
+Pro-choice supporters tend not to think in terms of moral proclamations, so' name="description"/>
+  <title>
+   Approach to morality determines view on abortion
+  </title>
+  <link href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=0e2370c27b84875182a363d3867ec78e" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=0e2370c27b84875182a363d3867ec78e" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=0e2370c27b84875182a363d3867ec78e">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=0e2370c27b84875182a363d3867ec78e">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=0e2370c27b84875182a363d3867ec78e">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=0e2370c27b84875182a363d3867ec78e">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=0e2370c27b84875182a363d3867ec78e">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=0e2370c27b84875182a363d3867ec78e">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=0e2370c27b84875182a363d3867ec78e">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=0e2370c27b84875182a363d3867ec78e">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=0e2370c27b84875182a363d3867ec78e">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=8&amp;s=0e2370c27b84875182a363d3867ec78e">
+       Abortion Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Approach to morality determines view on abortion
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=0e2370c27b84875182a363d3867ec78e&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=0e2370c27b84875182a363d3867ec78e" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=9437&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="9437"/>
+      <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 5
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 68">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9437&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 16 to 30 of 68">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9437&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 31 to 45 of 68">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9437&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" rel="next" title="Next Page - Results 16 to 30 of 68">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9437&amp;page=5&amp;s=0e2370c27b84875182a363d3867ec78e" title="Last Page - Results 61 to 68 of 68">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 68
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e" title="Reload this Page">
+       Approach to morality determines view on abortion
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;t=9437&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=sendtofriend&amp;t=9437" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=addsubscription&amp;t=9437" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="9437"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 9437);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246725&amp;mode=threaded#post246725">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_246725">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           10:10 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246725#post246725" name="post246725">
+          #1
+         </a>
+         <a id="postcount246725" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         Approach to morality determines view on abortion
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_246725">
+          <blockquote class="postcontent restore">
+           In discussions in this forum, I have found that a key differentiator between pro-life and pro-choice proponents is their approach to morality.
+           <br/>
+           <br/>
+           Pro-life proponents tend to ultimately have a morality based on moral proclamations - religious or otherwise - that cannot be questioned and need no supporting arguement. The proclamation "All human life is sacred" is the main one which leads to their pro-life stance.
+           <br/>
+           <br/>
+           Pro-choice supporters tend not to think in terms of moral proclamations, so proclamations such as "All human life is sacred" mean little to them if not more fully supported by rational arguement.
+           <br/>
+           <br/>
+           What is your general approach to morality and how has that affected your view of abortion rights?
+           <br/>
+           <br/>
+           ---------------
+           <br/>
+           Starting with myself, my general approach to morality is one that tries to "treat others as I would have myself be treated" and involves empathizing with others to try to understand where they are coming from. I follow no fixed moral proclamations. I simply think it would be illogical for me to treat others with one set of moral rules but expect myself to be treated with another set of moral rules - moral rules should be universally applied for them to be self-consistent.
+           <br/>
+           <br/>
+           Where abortion is concerned, "I' did not start to exist before I did so mentally (which would have been sometime in the third trimester). For me, it would therefore have made no difference if I had been aborted in the first or second trimester or if I had never been conceived - either way, I never would have existed. So, I have no problem in general with abortions in the first and second trimester. However, I would strictly limit third trimester abortions since I can empathize with mentally existing beings and would not want them to be killed without very good reason, as I would not want to be killed without good reason.
+           <br/>
+           <br/>
+           -----
+           <br/>
+           <br/>
+           So, what are your views on this issue or your own moral approaches?
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246725" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246725" id="qrwq_246725" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246725" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246736">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           10:48 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246736#post246736" name="post246736">
+          #2
+         </a>
+         <a id="postcount246736" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+          <img alt="ShadowPikachu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=1795&amp;dateline=1266612566"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+            <strong>
+             ShadowPikachu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=1795&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="ShadowPikachu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Proud PUMA
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Hear that breathing behind you?
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,913
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246736">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246725#post246725" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               In discussions in this forum, I have found that a key differentiator between pro-life and pro-choice proponents is their approach to morality.
+               <br/>
+               <br/>
+               Pro-life proponents tend to ultimately have a morality based on moral proclamations - religious or otherwise - that cannot be questioned and need no supporting arguement. The proclamation "All human life is sacred" is the main one which leads to their pro-life stance.
+               <br/>
+               <br/>
+               Pro-choice supporters tend not to think in terms of moral proclamations, so proclamations such as "All human life is sacred" mean little to them if not more fully supported by rational arguement.
+               <br/>
+               <br/>
+               What is your general approach to morality and how has that affected your view of abortion rights?
+               <br/>
+               <br/>
+               ---------------
+               <br/>
+               Starting with myself, my general approach to morality is one that tries to "treat others as I would have myself be treated" and involves empathizing with others to try to understand where they are coming from. I follow no fixed moral proclamations. I simply think it would be illogical for me to treat others with one set of moral rules but expect myself to be treated with another set of moral rules - moral rules should be universally applied for them to be self-consistent.
+               <br/>
+               <br/>
+               Where abortion is concerned, "I' did not start to exist before I did so mentally (which would have been sometime in the third trimester). For me, it would therefore have made no difference if I had been aborted in the first or second trimester or if I had never been conceived - either way, I never would have existed. So, I have no problem in general with abortions in the first and second trimester. However, I would strictly limit third trimester abortions since I can empathize with mentally existing beings and would not want them to be killed without very good reason, as I would not want to be killed without good reason.
+               <br/>
+               <br/>
+               -----
+               <br/>
+               <br/>
+               So, what are your views on this issue or your own moral approaches?
+              </div>
+             </div>
+            </div>
+           </div>
+           I have generally the same moral view as you (maybe from a different source, but the same view nonetheless).  I really do try to treat others the way I want to be treated.  I'm not sure what religion you follow (if any at all), but I am personally Christian, so I try to follow Jesus' teaching.  My moral view is sort of expressed in these passages:
+           <br/>
+           <br/>
+           <span style="font-family: Arial Narrow">
+            <font size="2">
+             <i>
+              <font size="3">
+               <b>
+                Matthew 7
+               </b>
+              </font>
+              <br/>
+              <br/>
+              Do Not Judge Others
+              <br/>
+              <br/>
+              <br/>
+              “Do not judge others, and you will not be judged. 2 For you will be treated as you treat others. The standard you use in judging is the standard by which you will be judged.
+              <br/>
+              <br/>
+              3 “And why worry about a speck in your friend’s eye when you have a log in your own? 4 How can you think of saying to your friend, ‘Let me help you get rid of that speck in your eye,’ when you can’t see past the log in your own eye? 5 Hypocrite! First get rid of the log in your own eye; then you will see well enough to deal with the speck in your friend’s eye.
+              <br/>
+              <br/>
+              6 “Don’t waste what is holy on people who are unholy. Don’t throw your pearls to pigs! They will trample the pearls, then turn and attack you.
+             </i>
+            </font>
+           </span>
+           <br/>
+           <br/>
+           and
+           <br/>
+           <br/>
+           <span style="font-family: Arial Narrow">
+            <i>
+             <font size="2">
+              The Golden Rule
+              <br/>
+              <br/>
+              <br/>
+              12 “Do to others whatever you would like them to do to you. This is the essence of all that is taught in the law and the prophets.
+             </font>
+            </i>
+           </span>
+           <br/>
+           <br/>
+           These are both from the Jesus' Sermon on the Mount, and that is pretty much what I follow.
+           <br/>
+           <br/>
+           I also agree with you on abortion:  before I existed mentally (around third trimester), I did not exist at all.  I also agree that after mental existence comes into play (around third trimester), there must be a really good reason for abortion, such as the woman's life is at risk, or her health is severely threatened.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246736" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246736" id="qrwq_246736" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246736" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246747">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           11:21 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246747#post246747" name="post246747">
+          #3
+         </a>
+         <a id="postcount246747" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246747">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246725#post246725" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               In discussions in this forum, I have found that a key differentiator between pro-life and pro-choice proponents is their approach to morality.
+               <br/>
+               <br/>
+               Pro-life proponents tend to ultimately have a morality based on moral proclamations - religious or otherwise - that cannot be questioned and need no supporting arguement. The proclamation "All human life is sacred" is the main one which leads to their pro-life stance.
+              </div>
+             </div>
+            </div>
+           </div>
+           sounds good.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Pro-choice supporters tend not to think in terms of moral proclamations, so proclamations such as "All human life is sacred" mean little to them if not more fully supported by rational arguement.
+             </div>
+            </div>
+           </div>
+           This is wrong.  You yourself find "mental existence" to be "sacred' in a way.  There is no rational argument for mental existence being the point of obtaining rights...no matter how hard any of us try
+           <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              --------------
+              <br/>
+              Starting with myself, my general approach to morality is one that tries to
+              <u>
+               "treat others as I would have myself be treated"
+              </u>
+              and involves empathizing with others to try to understand where they are coming from. I follow no fixed moral proclamations.
+             </div>
+            </div>
+           </div>
+           You just stated a moral proclamation...(underlined)
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Where abortion is concerned, "I' did not start to exist before I did so mentally (which would have been sometime in the third trimester).
+             </div>
+            </div>
+           </div>
+           This, in a way, is another moral proclamation.  You feel mental existence is of importance for existing (or being of value).  I'm not saying that is wrong or bad (well...I do say that but just not right now
+           <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+           ) but it is a moral stance.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              For me, it would therefore have made no difference if I had been aborted in the first or second trimester or if I had never been conceived - either way, I never would have existed. So, I have no problem in general with abortions in the first and second trimester. However, I would strictly limit third trimester abortions since I can empathize with mentally existing beings and would not want them to be killed without very good reason, as I would not want to be killed without good reason.
+              <br/>
+              <br/>
+              -----
+              <br/>
+              <br/>
+              So, what are your views on this issue or your own moral approaches?
+             </div>
+            </div>
+           </div>
+           It logically follows from the moral foundation set up but you made to important claims or "proclamations" as you called it. 1) Treat others as you wish to be treated (golden rule)  and 2) Mental existence is required to have value
+           <br/>
+           <br/>
+           My morality was already nicely summed up by you (atleast part of it)
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246747" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246747" id="qrwq_246747" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246747" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246750">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           11:28 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246750#post246750" name="post246750">
+          #4
+         </a>
+         <a id="postcount246750" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+          <img alt="ShadowPikachu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=1795&amp;dateline=1266612566"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+            <strong>
+             ShadowPikachu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=1795&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="ShadowPikachu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Proud PUMA
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Hear that breathing behind you?
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,913
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246750">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246747#post246747" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <br/>
+               This is wrong.  You yourself find "mental existence" to be "sacred' in a way.  There is no rational argument for mental existence being the point of obtaining rights...no matter how hard any of us try
+               <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           We're legally dead when we no longer mentally exist (hence the term "brain-dead"), so there is no logical reason to set the beginning point as anything other than the start of the mental existence.  Just as people who are dead and without mental existence do not have the ability to obtain rights, a collection of human cells without a mental existence cannot obtain rights.
+           <br/>
+           <br/>
+           I also notice you have resorted to attacking other people's views rather than following the topic of the thread, which is to share YOUR views.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/xbanghead.gif" title="xbanghead"/>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246750" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246750" id="qrwq_246750" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246750" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246761">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           12:04 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246761#post246761" name="post246761">
+          #5
+         </a>
+         <a id="postcount246761" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246761">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246747#post246747" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               This is wrong.  You yourself find "mental existence" to be "sacred' in a way.  There is no rational argument for mental existence being the point of obtaining rights...no matter how hard any of us try
+               <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't find mental existence "sacred" - after all, I accept the fact that military action is sometimes necessary where people get killed, I accept people killing when necessary for self-defence, etc. My moral approach comes from the OBSERVATION that when I think of myself, I don't think of my body alone, I think mainly of my mind where I view my body as being, in a sense, owned by my mind. It is my understanding of myself that comes from self-observation, not from a proclamation.
+           <br/>
+           <br/>
+           The "treat others as I would have myself be treated" is a statement but one which has rational reasons behind it and is, therefore, not merely a proclamation. I want to be treated in certain ways because being treated otherwise leads me to suffering, and I don't like to suffer (that is also not a proclamation, just an observation). It is illogical for me to propose a moral code that states that I should be treated one way and all others another way. Sure, I can propose that but it would be ludicrous - why would anyone accept that as a code? I would also laugh at someone who would present to me a moral code where I would treat them better than myself. Moral codes are codes which societies try to follow. Chaos would erupt if there were no moral codes. I choose a code that makes some logical sense by being at least self-consistent so that it has the least chance of being accepted by others as a universal code. The option is chaos, and I personally prefer to avoid chaos.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246761" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246761" id="qrwq_246761" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246761" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246762">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           12:07 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246762#post246762" name="post246762">
+          #6
+         </a>
+         <a id="postcount246762" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246762">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                ShadowPikachu
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246750#post246750" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               We're legally dead when we no longer mentally exist (hence the term "brain-dead"), so there is no logical reason to set the beginning point as anything other than the start of the mental existence.  Just as people who are dead and without mental existence do not have the ability to obtain rights, a collection of human cells without a mental existence cannot obtain rights.
+              </div>
+             </div>
+            </div>
+           </div>
+           This assumes brain-dead is a logical choice to consider one dead.  Even so, it proves nothing about when life begins.  What says they have to be the same?  This is a classic example of a conclusion not following from the premise.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I also notice you have resorted to attacking other people's views rather than following the topic of the thread, which is to share YOUR views.
+              <img alt="" border="0" class="inlineimg" src="images/smilies/xbanghead.gif" title="xbanghead"/>
+             </div>
+            </div>
+           </div>
+           yeah, that is correct.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Steeeeve; 01-11-2007 at
+         <span class="time">
+          12:42 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246762" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246762" id="qrwq_246762" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246762" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246765">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           12:18 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246765#post246765" name="post246765">
+          #7
+         </a>
+         <a id="postcount246765" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e" title="jyoshu is offline">
+          <img alt="jyoshu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=2055&amp;dateline=1323300273"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e" title="jyoshu is offline">
+            <strong>
+             jyoshu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2055&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jyoshu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,799
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246765">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246725#post246725" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               In discussions in this forum, I have found that a key differentiator between pro-life and pro-choice proponents is their approach to morality.
+               <br/>
+               <br/>
+               Pro-life proponents tend to ultimately have a morality based on moral proclamations - religious or otherwise - that cannot be questioned and need no supporting arguement. The proclamation "All human life is sacred" is the main one which leads to their pro-life stance.
+               <br/>
+               <br/>
+               Pro-choice supporters tend not to think in terms of moral proclamations, so proclamations such as "All human life is sacred" mean little to them if not more fully supported by rational arguement.
+               <br/>
+               <br/>
+               What is your general approach to morality and how has that affected your view of abortion rights?
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't think those blanket statements necessarily apply.  You have to realize that there is something behind the proclamations of that sort of morality; human life is sacred isn't just a proclamation, it's a philosophy.  The case could just as easily be made that pro-choicers are basing their morality on a proclamation
+           <i>
+            as well
+           </i>
+           , that "reason is the basis for morality".
+           <br/>
+           <br/>
+           Even if you call either a case of proclamation, it's the philosophy behind it that serves as the basis for the morality, not statement itself.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “We must reject the idea that every time a law’s broken, society is guilty rather than the lawbreaker. It is time to restore the American precept that each individual is accountable for his actions.”  - Reagan
+          <br/>
+          <br/>
+          "A young man who wishes to remain a sound atheist cannot be too careful of his reading."
+          <br/>
+          - C. S. Lewis
+          <br/>
+          <br/>
+          "I suffer more harassment as a former homosexual than I ever did as an out and proud homosexual." - Greg Quinlan, PFOX
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246765" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246765" id="qrwq_246765" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246765" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246768">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           12:44 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246768#post246768" name="post246768">
+          #8
+         </a>
+         <a id="postcount246768" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246768">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                jyoshu
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246765#post246765" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I don't think those blanket statements necessarily apply.  You have to realize that there is something behind the proclamations of that sort of morality; human life is sacred isn't just a proclamation, it's a philosophy.  The case could just as easily be made that pro-choicers are basing their morality on a proclamation
+               <i>
+                as well
+               </i>
+               , that "reason is the basis for morality".
+               <br/>
+               <br/>
+               Even if you call either a case of proclamation, it's the philosophy behind it that serves as the basis for the morality, not statement itself.
+              </div>
+             </div>
+            </div>
+           </div>
+           What are the reasons which you would present behind the statement "all human life is sacred" (or whichever similar statement you think is the core of your pro-life stance)?
+           <br/>
+           <br/>
+           If morality is based only on arbitrary proclamations, then there is little chance of consensus because other groups or religions come up with other arbitrary set of rules and we are back to the situation of, in the worst case, chaos and, in the best case, a majority imposing arbitrary rules on an unwilling suffering minority.
+           <br/>
+           <br/>
+           I suspect that a lot of people, if not most people, at least partially follow some version of "treat others as you would have yourself be treated". When, as children, we were scolded "How would you like it if ..." that is a tactic of teaching this rule. For those who are religious (which I only marginally, occasionally and hesitatingly am), even Jesus stated "Do to others whatever you would like them to do to you." in the Sermon on the Mount talk (as quoted by ShadowPikachu). Many world religions and philosophies seem to incorporate that general rule, which is partly why I think it has a reasonable chance at being incorporated as a global base of morality.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246768" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246768" id="qrwq_246768" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246768" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246779">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           01:15 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246779#post246779" name="post246779">
+          #9
+         </a>
+         <a id="postcount246779" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246779">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246768#post246768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               What are the reasons which you would present behind the statement "all human life is sacred" (or whichever similar statement you think is the core of your pro-life stance)?
+               <br/>
+               <br/>
+               If morality is based only on arbitrary proclamations, then there is little chance of consensus because other groups or religions come up with other arbitrary set of rules and we are back to the situation of, in the worst case, chaos and, in the best case, a majority imposing arbitrary rules on an unwilling suffering minority.
+               <br/>
+               <br/>
+               I suspect that a lot of people, if not most people, at least partially follow some version of "treat others as you would have yourself be treated". When, as children, we were scolded "How would you like it if ..." that is a tactic of teaching this rule. For those who are religious (which I only marginally, occasionally and hesitatingly am), even Jesus stated "Do to others whatever you would like them to do to you." in the Sermon on the Mount talk (as quoted by ShadowPikachu). Many world religions and philosophies seem to incorporate that general rule, which is partly why I think it has a reasonable chance at being incorporated as a global base of morality.
+              </div>
+             </div>
+            </div>
+           </div>
+           Jyoshu pretty much answered for me so I won't go back but I will say that your morality is formed based on arbitrary things as well.  Whether you believe in a god or make yourself god you still are making arbitrary rules for which you develop a morality.
+           <br/>
+           <br/>
+           The idea that you don't want to suffer and therefore came up with this morality is abritrary as everything we have stated.  Why wasn't the conclusion "I dont' want to suffer so be stronger than everyone else" or "I don't want to suffer so don't associate with anyone else".  Or maybe the conslusion could be to believe in a religion.  Either way, you are going to have to believe in something and that forms the basis for a morality.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246779" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246779" id="qrwq_246779" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246779" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246785">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           01:49 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246785#post246785" name="post246785">
+          #10
+         </a>
+         <a id="postcount246785" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e" title="jyoshu is offline">
+          <img alt="jyoshu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=2055&amp;dateline=1323300273"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e" title="jyoshu is offline">
+            <strong>
+             jyoshu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2055&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jyoshu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,799
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246785">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246768#post246768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               What are the reasons which you would present behind the statement "all human life is sacred" (or whichever similar statement you think is the core of your pro-life stance)?
+              </div>
+             </div>
+            </div>
+           </div>
+           Because to not view it as sacred presents a greater potential for harm.  People sometimes to take a disposable view of things that they consider unimportant.  To view humanity as sacred helps protect humanity.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246768#post246768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               If morality is based only on arbitrary proclamations
+              </div>
+             </div>
+            </div>
+           </div>
+           But I didn't say it was based on proclamations (arbitrary or otherwise); you did--at least one side's.  I said it was based on what's behind the proclamation.  I think you are getting hung up on the proclamation and not realizing that all the "proclamation" does is reflect the moral view behind it.  It's no different than your proclamation that morality be based on reason.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246768#post246768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               then there is little chance of consensus because other groups or religions come up with other arbitrary set of rules and we are back to the situation of, in the worst case, chaos and, in the best case, a majority imposing arbitrary rules on an unwilling suffering minority.
+              </div>
+             </div>
+            </div>
+           </div>
+           But pro-lifers often base the pro-life stance on preventing harm.  Not just religion.  (And in this case they are one-in-the-same anyway.)  This isn't a case of
+           <i>
+            harm-preventative-morality
+           </i>
+           versus
+           <i>
+            religious-morality
+           </i>
+           ; it's a case of
+           <i>
+            two
+           </i>
+           harm-preventative moralities in conflict, due to each only focusing mostly on one aspect (either the mother or the unborn baby).
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “We must reject the idea that every time a law’s broken, society is guilty rather than the lawbreaker. It is time to restore the American precept that each individual is accountable for his actions.”  - Reagan
+          <br/>
+          <br/>
+          "A young man who wishes to remain a sound atheist cannot be too careful of his reading."
+          <br/>
+          - C. S. Lewis
+          <br/>
+          <br/>
+          "I suffer more harassment as a former homosexual than I ever did as an out and proud homosexual." - Greg Quinlan, PFOX
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246785" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246785" id="qrwq_246785" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246785" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246789">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           02:03 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246789#post246789" name="post246789">
+          #11
+         </a>
+         <a id="postcount246789" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+          <img alt="ShadowPikachu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=1795&amp;dateline=1266612566"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+            <strong>
+             ShadowPikachu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=1795&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="ShadowPikachu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Proud PUMA
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Hear that breathing behind you?
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,913
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246789">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246762#post246762" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               This assumes brain-dead is a logical choice to consider one dead.  Even so, it proves nothing about when life begins.  What says they have to be the same?  This is a classic example of a conclusion not following from the premise.
+              </div>
+             </div>
+            </div>
+           </div>
+           You have some evidence to support another conclusion of when one is dead?  Because in medical definitions, the definition is exactly what I said (methinks you don't have an argument here).  It might not prove it to you, but to most rational and logially thinking people it would.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246762#post246762" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               yeah, that is correct.
+              </div>
+             </div>
+            </div>
+           </div>
+           And this here shows exactly what type of a person you are.  Why don't you post as to the topic of the thread instead of trying to start arguments?  It's really sickening.  ON the subject of your starting arguments, I notice you selectively ignored my view that I posted.  Couldn't come up with an argument
+           <img alt="" border="0" class="inlineimg" src="images/smilies/xangel.gif" title="xangel"/>
+           ?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246789" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246789" id="qrwq_246789" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246789" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246790">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           02:05 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246790#post246790" name="post246790">
+          #12
+         </a>
+         <a id="postcount246790" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+          <img alt="ShadowPikachu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=1795&amp;dateline=1266612566"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e" title="ShadowPikachu is offline">
+            <strong>
+             ShadowPikachu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1795&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=1795&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="ShadowPikachu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Proud PUMA
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Hear that breathing behind you?
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,913
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246790">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246768#post246768" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I suspect that a lot of people, if not most people, at least partially follow some version of "treat others as you would have yourself be treated". When, as children, we were scolded "How would you like it if ..." that is a tactic of teaching this rule. For those who are religious (which I only marginally, occasionally and hesitatingly am), even Jesus stated "Do to others whatever you would like them to do to you." in the Sermon on the Mount talk (as quoted by ShadowPikachu). Many world religions and philosophies seem to incorporate that general rule, which is partly why I think it has a reasonable chance at being incorporated as a global base of morality.
+              </div>
+             </div>
+            </div>
+           </div>
+           Exactly.  Most people would incorporate it, from childhood most often.  Steeeeve can't seem to wrap his mind around that.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246790" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246790" id="qrwq_246790" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246790" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246792">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           02:18 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246792#post246792" name="post246792">
+          #13
+         </a>
+         <a id="postcount246792" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e" title="jyoshu is offline">
+          <img alt="jyoshu's Avatar" src="image.php?s=0e2370c27b84875182a363d3867ec78e&amp;u=2055&amp;dateline=1323300273"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e" title="jyoshu is offline">
+            <strong>
+             jyoshu
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2055&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2055&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jyoshu is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,799
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246792">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                ShadowPikachu
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246790#post246790" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Exactly.  Most people would incorporate it, from childhood most often.  Steeeeve can't seem to wrap his mind around that.
+              </div>
+             </div>
+            </div>
+           </div>
+           Really???  You think most people would incorporate the golden rule?  I don't think so--I think most people are willing to make a buck off of others (business ventures), land that job they want before someone else gets it, curse someone for cutting them off in traffic, get that parking spot before the guy coming around the corner gets it, or even get in an intentionally insulting dig to someone in a discussion forum such as this.  The examples could go on and on ...    I think a lot of people like to THINK they incorporate the golden rule, but at close, honest examination would find that they rarely do.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “We must reject the idea that every time a law’s broken, society is guilty rather than the lawbreaker. It is time to restore the American precept that each individual is accountable for his actions.”  - Reagan
+          <br/>
+          <br/>
+          "A young man who wishes to remain a sound atheist cannot be too careful of his reading."
+          <br/>
+          - C. S. Lewis
+          <br/>
+          <br/>
+          "I suffer more harassment as a former homosexual than I ever did as an out and proud homosexual." - Greg Quinlan, PFOX
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246792" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246792" id="qrwq_246792" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246792" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246793">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           02:22 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246793#post246793" name="post246793">
+          #14
+         </a>
+         <a id="postcount246793" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246793">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                ShadowPikachu
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=246789#post246789" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You have some evidence to support another conclusion of when one is dead?  Because in medical definitions, the definition is exactly what I said (methinks you don't have an argument here).  It might not prove it to you, but to most rational and logially thinking people it would.
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't doubt that brain-dead means dead but I do doubt that can therefore infer that life means "brain alive"...even you don't believe this as it has to be more than just a brain substance.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And this here shows exactly what type of a person you are.  Why don't you post as to the topic of the thread instead of trying to start arguments?  It's really sickening.
+             </div>
+            </div>
+           </div>
+           well, I thought Another Opinion covered my belief fairly well so why bother?  There is always the option not to respond to me.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              ON the subject of your starting arguments, I notice you selectively ignored my view that I posted.  Couldn't come up with an argument
+              <img alt="" border="0" class="inlineimg" src="images/smilies/xangel.gif" title="xangel"/>
+              ?
+             </div>
+            </div>
+           </div>
+           Actually I didn't even read it (and doubt I ever will).  Don't get all worked up over it.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246793" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246793" id="qrwq_246793" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246793" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_246794">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          01-11-2007,
+          <span class="time">
+           02:23 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=246794#post246794" name="post246794">
+          #15
+         </a>
+         <a id="postcount246794" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=996&amp;s=0e2370c27b84875182a363d3867ec78e" title="jitobear is offline">
+            <strong>
+             jitobear
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=996&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=996&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="jitobear is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,715
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_246794">
+          <blockquote class="postcontent restore">
+           Ultimately I am pro-choice because I was taught by my elders and my own experiences that life without liberty is meaningless.  I and only I get to make decisions for me - not you, not God, not the government and not a fetus.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          “But who prays for Satan? Who, in eighteen centuries, has had the common humanity to pray for the one sinner that needed it most? ” ~ Mark Twain
+          <br/>
+          <br/>
+          "Those who are easily shocked... should be shocked more often" ~ Mae West
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_246794" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=246794" id="qrwq_246794" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_246794" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=9437&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="9437"/>
+      <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 5
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 68">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9437&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 16 to 30 of 68">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9437&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 31 to 45 of 68">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9437&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" rel="next" title="Next Page - Results 16 to 30 of 68">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9437&amp;page=5&amp;s=0e2370c27b84875182a363d3867ec78e" title="Last Page - Results 61 to 68 of 68">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e">
+       <span class="ctrlcontainer">
+        Abortion Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=9437#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=0e2370c27b84875182a363d3867ec78e">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=0e2370c27b84875182a363d3867ec78e">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=0e2370c27b84875182a363d3867ec78e">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=0e2370c27b84875182a363d3867ec78e">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=0e2370c27b84875182a363d3867ec78e">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=0e2370c27b84875182a363d3867ec78e">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=0e2370c27b84875182a363d3867ec78e">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=0e2370c27b84875182a363d3867ec78e">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=0e2370c27b84875182a363d3867ec78e">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=0e2370c27b84875182a363d3867ec78e">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=9437&amp;s=0e2370c27b84875182a363d3867ec78e&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=9437#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=0e2370c27b84875182a363d3867ec78e">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=9437#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     03:42 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=0e2370c27b84875182a363d3867ec78e&amp;rand=1392410576" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

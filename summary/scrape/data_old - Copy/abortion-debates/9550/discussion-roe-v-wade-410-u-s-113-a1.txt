@@ -1,0 +1,3265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=0e2370c27b84875182a363d3867ec78e&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=9550";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="thread, discussion, states, united, posts, abortion, interest, personal, intended, important, forward, benefit, manner, moderator, proceed, debate, constitutional, longer, invite, forums, series, reasons, matter, explore, follow-up, shorter, follow, and/or, detail, greater, times, comments, views, contribute, attention, explanation, short, spend, starting, beneficial, focus, discussing, future, kindly, comments/questions/disagreements, desire, sincerely, offer, moving, topic" name="keywords"/>
+  <meta content="In a recent thread, I think some interest was expressed in a discussion of the United States Supreme Court’s decision in Roe v. Wade (410 U.S. 113).  If I am mistaken as to the depth of this interest, I apologize.  But I do believe that a discussion of Roe is quite important to a discussion about abortion in the United States.  And it is for this reason that I decided that Roe deserves its own thread. 
+ 
+Before going further, I wish to say something to those who reside outside of the United" name="description"/>
+  <title>
+   A Discussion of Roe v. Wade (410 U.S. 113)
+  </title>
+  <link href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=0e2370c27b84875182a363d3867ec78e" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=0e2370c27b84875182a363d3867ec78e" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=0e2370c27b84875182a363d3867ec78e">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=0e2370c27b84875182a363d3867ec78e">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=0e2370c27b84875182a363d3867ec78e">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=0e2370c27b84875182a363d3867ec78e">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=0e2370c27b84875182a363d3867ec78e">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=0e2370c27b84875182a363d3867ec78e">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=0e2370c27b84875182a363d3867ec78e">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=0e2370c27b84875182a363d3867ec78e">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=0e2370c27b84875182a363d3867ec78e">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=8&amp;s=0e2370c27b84875182a363d3867ec78e">
+       Abortion Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       A Discussion of Roe v. Wade (410 U.S. 113)
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=0e2370c27b84875182a363d3867ec78e&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=0e2370c27b84875182a363d3867ec78e" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=0e2370c27b84875182a363d3867ec78e" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=9550&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="9550"/>
+      <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 8
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 111">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 16 to 30 of 111">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 31 to 45 of 111">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9550&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" rel="next" title="Next Page - Results 16 to 30 of 111">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" title="Last Page - Results 106 to 111 of 111">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 111
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e" title="Reload this Page">
+       A Discussion of Roe v. Wade (410 U.S. 113)
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;t=9550&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=sendtofriend&amp;t=9550" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=addsubscription&amp;t=9550" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="9550"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 9550);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250428&amp;mode=threaded#post250428">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_250428">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-09-2007,
+          <span class="time">
+           12:04 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250428#post250428" name="post250428">
+          #1
+         </a>
+         <a id="postcount250428" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         A Discussion of Roe v. Wade (410 U.S. 113)
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_250428">
+          <blockquote class="postcontent restore">
+           In a recent thread, I think some interest was expressed in a discussion of the United States Supreme Court’s decision in
+           <i>
+            <a href="http://www.law.cornell.edu/supct/html/historics/USSC_CR_0410_0113_ZS.html" target="_blank">
+             Roe v. Wade (410 U.S. 113)
+            </a>
+           </i>
+           .  If I am mistaken as to the depth of this interest, I apologize.  But I do believe that a discussion of
+           <i>
+            Roe
+           </i>
+           is quite important to a discussion about abortion in the United States.  And it is for this reason that I decided that
+           <i>
+            Roe
+           </i>
+           deserves its own thread.
+           <br/>
+           <br/>
+           Before going further, I wish to say something to those who reside outside of the United States.  It is not uncommon in this thread for a person to point out that such-and-such only applies to the United States or some similar objection.  This thread will really only apply to those residing in the United States, although I certainly would like to invite our European friends to participate if they would like to.  I just want to say up front that I have intended to restrict this particular thread to an issue that probably only has significance to United States citizens.
+           <br/>
+           <br/>
+           I would now like to explain my proposed methodology in this thread.  Though I am not a moderator and possess no ability to ensure this thread goes forward in my intended manner, I will nevertheless express my hopes for this discussion.  This thread is intended to proceed much in the same manner as a debate in the “formal debate” thread would proceed, with a single exception: the attitude (atmosphere) in this thread will be more of a discussion as opposed to a debate.  As such, many posts might be longer than the average for the general forums.
+           <br/>
+           <br/>
+           I intend to post a systematic treatise (of sorts) on
+           <i>
+            Roe v. Wade
+           </i>
+           .  This will be done in a series of posts, and I invite questions/comments/discussion at whatever juncture would seem appropriate in the series.  I do not know how frequently I will be able to add to my discussion (i.e., the longer posts), but I will try to respond to questions and/or comments whenever appropriate (i.e., in shorter follow-up posts).  I have at least two reasons for starting this thread, and I will end this first post with a short explanation of those reasons.
+           <br/>
+           <br/>
+           First, I believe this will be beneficial to many that contribute to the Abortion forums.  Many times we focus all of our attention on our personal view of abortion (which I do believe is important), but we spend very little time on whether those personal views actually matter.  I will explore this in greater detail in a post to follow.  Secondly, even if nobody else is interested in this discussion, I will nevertheless benefit myself by engaging in the exercise of trying to articulate some foundational principles of Constitutional law.  I have a deep personal interest in Constitutional law, and discussing some of the specifics surrounding that discipline will in the very least benefit my own understanding.
+           <br/>
+           <br/>
+           I have one final thought.  I do hope that this discussion will be of interest to all those who feel so strongly—one way or another—about abortion.  That may be an ambitious desire, but I hold it sincerely.  Please do offer any comments/questions/disagreements you may have with this (but especially future) posts in this thread.  I look forward to this important discussion.
+           <br/>
+           <br/>
+           <b>
+            ***[Update]***
+           </b>
+           <br/>
+           <br/>
+           I have kindly been given moderator privileges for this thread.  This will enable the discussion to move forward, and will hopefully prevent it from moving too far off topic.
+           <br/>
+           <br/>
+           <b>
+            ***[/Update]***
+           </b>
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Phyllis; 02-09-2007 at
+         <span class="time">
+          01:32 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250428" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250428" id="qrwq_250428" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250428" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250508">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-10-2007,
+          <span class="time">
+           01:38 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250508#post250508" name="post250508">
+          #2
+         </a>
+         <a id="postcount250508" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         #2
+        </h2>
+        <div class="content">
+         <div id="post_message_250508">
+          <blockquote class="postcontent restore">
+           In my previous post, I suggested that one reason I started this thread is that it seems we spend a great deal of time discussing our personal view of abortion (quite appropriately so), and we spend very little time discussing whether those personal views actually matter.  In this post I hope to develop this point a little more fully.
+           <br/>
+           <br/>
+           After reading through these forums and viewing various abortion polling data, it appears to me that a very large majority of people would support some sort of abortion regulation once a pregnancy has reached the third trimester.  But in reading polling data surrounding the question of whether the public would support the reversal of
+           <i>
+            Roe v. Wade
+           </i>
+           , the overwhelming majority say they would oppose such a reversal.  I hope to show that these two views are contradictory to such a degree that so long as
+           <i>
+            Roe v. Wade
+           </i>
+           remains intact, one’s personal view on the issue of abortion has no significance in the area that matters most: the formulation of law.
+           <br/>
+           <br/>
+           Since
+           <i>
+            Roe v. Wade
+           </i>
+           was decided in 1973, abortion policy in the United States has been set by the Supreme Court.  In holding that the Constitution protects a woman’s right to terminate her pregnancy, the Court effectively took the issue of abortion off of the democratic stage.  Because of this decision, the personal views of the American People as to what abortion policy should be implemented at any given stage of pregnancy became insignificant.  I submit as an example the case of
+           <i>
+            Stenberg v. Carhart
+           </i>
+           (530 U.S. 914).
+           <br/>
+           <br/>
+           Nebraska enacted a law which proscribed partial birth abortion except where the procedure was necessary to save the life of the mother.  The law was challenged, and in 2000, the Supreme Court issued a decision overturning that law.  Given the present state of affairs regarding the Supreme Court’s handling of abortion, it has become apparent that one’s personal views about abortion do not—in one very important sense—matter at all.  We will, of course, examine whether this ought to be the case in future posts.
+           <br/>
+           <br/>
+           <i>
+            Roe
+           </i>
+           stands in the way of any meaningful abortion regulation at any stage of pregnancy (as I intend to show), and those who honestly believe that some sort of protection should be given to the fetus at the third trimester should honestly desire that
+           <i>
+            Roe
+           </i>
+           be done away with.  Please note that I have not said that this desire
+           <i>
+            alone
+           </i>
+           would justify or compel one to believe that
+           <i>
+            Roe
+           </i>
+           should be reversed by the United States Supreme Court.  I only suggest that those who honestly believe that a fetus in the third trimester of pregnancy deserves some protection (and that is most of us) should pay close attention to this discussion.  A discussion of
+           <i>
+            Roe
+           </i>
+           is necessary if we want our opinions on abortion to matter significantly, and that is why I hope to receive input as this thread moves forward.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Phyllis; 02-14-2007 at
+         <span class="time">
+          11:03 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250508" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250508" id="qrwq_250508" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250508" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250528">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-10-2007,
+          <span class="time">
+           10:56 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250528#post250528" name="post250528">
+          #3
+         </a>
+         <a id="postcount250528" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250528">
+          <blockquote class="postcontent restore">
+           I do not wish to go into a full debate with you since, frankly, my knowledge of legal jurisprudence is quite limited and it is of low priority for me to spend a lot of time researching it for such a debate. I would leave that to people more knowledgeable and interested in legal theory.
+           <br/>
+           <br/>
+           However, it is important for me to point out that Roe vs. Wade does allow for states to limit a woman’s right to abortion in the third trimester. Quoting from section X of Roe vs. Wade:
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Roe vs Wade section X
+               </strong>
+              </div>
+              <div class="message">
+               With respect to the State's important and legitimate interest in potential life, the "compelling" point is at viability. This is so because the fetus then presumably has the capability of meaningful life outside the mother's womb. State regulation protective of fetal life after viability thus has both logical and biological justifications. If the State is interested in protecting fetal life after viability, it may go so far as to proscribe abortion [410 U.S. 113, 164]   during that period, except when it is necessary to preserve the life or health of the mother.
+              </div>
+             </div>
+            </div>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250528" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250528" id="qrwq_250528" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250528" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250530">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-10-2007,
+          <span class="time">
+           11:14 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250530#post250530" name="post250530">
+          #4
+         </a>
+         <a id="postcount250530" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250530">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250528#post250528" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I do not wish to go into a full debate with you since, frankly, my knowledge of legal jurisprudence is quite limited and it is of low priority for me to spend a lot of time researching it for such a debate. I would leave that to people more knowledgeable and interested in legal theory.
+              </div>
+             </div>
+            </div>
+           </div>
+           I encourage your participation anyway.  As I said previously, I'm not necessarily looking for this to be a debate, but rather a discussion.  For some reason I see this as an important distinction.  I tend to think of a debate as getting heated, whereas a discussion seems to be a little more laid back.
+           <br/>
+           <br/>
+           Also, I intend to suggest in a later post that one's not having extensive knowledge of Constitutional law does not necessarily preclude them from understanding these issues appropriately.  The Constitution was written by and for the people, and it seems to me a little bizarre that given that fact, the people would not be able to understand it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another Opinion
+               </strong>
+              </div>
+              <div class="message">
+               However, it is important for me to point out that Roe vs. Wade does allow for states to limit a woman’s right to abortion in the third trimester. Quoting from section X of Roe vs. Wade:
+              </div>
+             </div>
+            </div>
+           </div>
+           Yes, I recognize that Roe does say that there can be regulations in the third trimester, which is why I suppose that so many people do not wish it to be overturned.  However, it turns out that in practice, there really cannot be any meaningful regulation even in the third trimester.  I will get into this in a little more detail, but this has to do with the fact that a "health" exception must be included in any regulation in the third trimester.  That health exception essentially guts the state from being able to prevent any third trimester abortions.  As I said, I will get into this in more detail, but I'm glad to get a response.  I now know that at least one person has been (and perhaps will be?) reading.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250530" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250530" id="qrwq_250530" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250530" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250531">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-10-2007,
+          <span class="time">
+           11:30 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250531#post250531" name="post250531">
+          #5
+         </a>
+         <a id="postcount250531" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250531">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phyllis
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250530#post250530" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I encourage your participation anyway.  As I said previously, I'm not necessarily looking for this to be a debate, but rather a discussion.  For some reason I see this as an important distinction.  I tend to think of a debate as getting heated, whereas a discussion seems to be a little more laid back.
+               <br/>
+               <br/>
+               Also, I intend to suggest in a later post that one's not having extensive knowledge of Constitutional law does not necessarily preclude them from understanding these issues appropriately.  The Constitution was written by and for the people, and it seems to me a little bizarre that given that fact, the people would not be able to understand it.
+              </div>
+             </div>
+            </div>
+           </div>
+           I am willing to conduct a general discussion with you but will not engage in any discussion on legal jurisprudence (ex. literal readings of the constitution vs. judgements of intent of the constitution) for the reasons stated in my previous post.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phyllis
+               </strong>
+              </div>
+              <div class="message">
+               Yes, I recognize that Roe does say that there can be regulations in the third trimester, which is why I suppose that so many people do not wish it to be overturned.  However, it turns out that in practice, there really cannot be any meaningful regulation even in the third trimester.  I will get into this in a little more detail, but this has to do with the fact that a "health" exception must be included in any regulation in the third trimester.  That health exception essentially guts the state from being able to prevent any third trimester abortions.  As I said, I will get into this in more detail, but I'm glad to get a response.  I now know that at least one person has been (and perhaps will be?) reading.
+              </div>
+             </div>
+            </div>
+           </div>
+           Perhaps your concern is that "health" is too loosely defined and could therefore be used to block all legislation against third term abortions. I do not know and cannot speak to the legalities of the issue, but I have never heard anyone from the pro-choice side use that as an arguement.
+           <br/>
+           <br/>
+           As for procedures such as partial birth abortion and other attempts by the far-right to limit third term abortion, my understanding (and granted this is from word of mouth only) is that the legislation proposed was too general and purposely included language that opened judicial paths toward banning all abortions. For an example of this type of manipulation of law, if, in the murder of a pregnant woman, a law is introduced in which the killing of her fetus is also considered a murder (making it a double murder), that opens judicial paths to counting the fetus (at any stage) as having the same rights against being killed as any other person. Legislators and judges alike are wary of the slippery slope and do pay attention to such intentional manipulations.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250531" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250531" id="qrwq_250531" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250531" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250540">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-10-2007,
+          <span class="time">
+           12:45 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250540#post250540" name="post250540">
+          #6
+         </a>
+         <a id="postcount250540" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250540">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another opinion
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250531#post250531" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I am willing to conduct a general discussion with you but will not engage in any discussion on legal jurisprudence (ex. literal readings of the constitution vs. judgements of intent of the constitution) for the reasons stated in my previous post.
+              </div>
+             </div>
+            </div>
+           </div>
+           Cool.  I will, by nature of this discussion, be broaching these topics at some point, but I didn't want that to discourage you from weighing in whenever you want to.  Also, I will be up front about the fact that I will, in the course of this discussion, attempt to persuade you (and others) to dive into the legal issues.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another Opinion
+               </strong>
+              </div>
+              <div class="message">
+               Perhaps your concern is that "health" is too loosely defined and could therefore be used to block all legislation against third term abortions. I do not know and cannot speak to the legalities of the issue, but I have never heard anyone from the pro-choice side use that as an arguement.
+              </div>
+             </div>
+            </div>
+           </div>
+           That is indeed my concern.  I am also aware that the pro-choice side does not argue this.  This is why I have begun the discussion.
+           <i>
+            Roe v. Wade
+           </i>
+           is inconsistent with what seems to be the vast majority of pro-choice opinions on these boards specifically, and pro-choice opinions more generally as well.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another Opinion
+               </strong>
+              </div>
+              <div class="message">
+               As for procedures such as partial birth abortion and other attempts by the far-right to limit third term abortion, my understanding (and granted this is from word of mouth only) is that the legislation proposed was too general and purposely included language that opened judicial paths toward banning all abortions. For an example of this type of manipulation of law, if, in the murder of a pregnant woman, a law is introduced in which the killing of her fetus is also considered a murder (making it a double murder), that opens judicial paths to counting the fetus (at any stage) as having the same rights against being killed as any other person. Legislators and judges alike are wary of the slippery slope and do pay attention to such intentional manipulations.
+              </div>
+             </div>
+            </div>
+           </div>
+           Just a couple of points:
+           <br/>
+           <br/>
+           First, I believe your characterization that it is the far-right that is seeking to limit third-term abortions is incorrect.  There seems to be large support on these forums from both the pro-choice and the pro-life side regarding third trimester abortions.  Likewise, the general public seems to have been so upset with the Supreme Courts decision in
+           <i>
+            Stenburg
+           </i>
+           that Congress stepped in and passed a nearly identical statute to the Nebraska law.  That statute cleared the Senate with the support of 16 Democrats, and it cleared the House with the support of 63 Democrats.
+           <br/>
+           <br/>
+           That is not to ignore the fact that it is largely Republicans that would go further than third trimester restrictions.  I am merely trying to point out that
+           <i>
+            Roe
+           </i>
+           stands in the way of restrictions that we all support (third trimester), and thus we all should hope for legal reform in this area.
+           <br/>
+           <br/>
+           Secondly, the slippery slope argument is common, and I will address it in more detail later.  My basic point is that if we really do think that third trimester fetuses have a significant moral status (and I take people at their word on this), than we should work to reform abortion laws in the United States.  And that reform, as I am trying to argue, must begin with the undermining of
+           <i>
+            Roe v. Wade
+           </i>
+           .
+           <br/>
+           <br/>
+           Note that I have not yet discussed whether
+           <i>
+            Roe v. Wade
+           </i>
+           should be overturned.  I do plan on discussing the legal issues with this case.  But as of now, I am only trying to lay some groundwork for why that discussion is so important.  A lot of people that I speak with seem to think the law is so technical that it cannot be understood (or is too hard to be understood), and thus they would rather not bother with it.  So, I am trying to address that.  And I am doing so by simply saying "If one seriously wishes to restrict abortion in the third trimester (which virtually everyone seems to), than one must seriously consider the legal aspects of the issue."
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250540" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250540" id="qrwq_250540" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250540" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250785">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-12-2007,
+          <span class="time">
+           01:57 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250785#post250785" name="post250785">
+          #7
+         </a>
+         <a id="postcount250785" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250785">
+          <blockquote class="postcontent restore">
+           I'm going to go out on a limb here and say that not many people are going to question on this thread as they know it is out of their league.  Of course if the Supreme Court does overturn Roe and Casey then you will certainly see many people complain about how the court did the wrong thing...even though they knowingly don't understand the constitution (which is not always a  bad thing...that is why we have lawyers).
+           <br/>
+           <br/>
+           I just doubt that many people here have heard, let alone understand, the concept of substantive due process or other legal terms like that.  Just look at the last thread where people did not understand that the same process to make slavery ok was the same legal process that made abortion ok...yet we reject the process for one and support it for the other.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250785" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250785" id="qrwq_250785" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250785" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250792">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-12-2007,
+          <span class="time">
+           02:10 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250792#post250792" name="post250792">
+          #8
+         </a>
+         <a id="postcount250792" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250792">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250785#post250785" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I'm going to go out on a limb here and say that not many people are going to question on this thread as they know it is out of their league.  Of course if the Supreme Court does overturn Roe and Casey then you will certainly see many people complain about how the court did the wrong thing...even though they knowingly don't understand the constitution (which is not always a  bad thing...that is why we have lawyers).
+              </div>
+             </div>
+            </div>
+           </div>
+           My next post will address this seemingly pervasive idea that the Constitution is inaccessible to common (i.e., non-lawyerly) people.  I stated from the beginning that while I hope people will participate, I will benefit from this thread even if they do not.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250792" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250792" id="qrwq_250792" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250792" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250796">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-12-2007,
+          <span class="time">
+           02:17 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250796#post250796" name="post250796">
+          #9
+         </a>
+         <a id="postcount250796" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250796">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phyllis
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250792#post250792" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               My next post will address this seemingly pervasive idea that the Constitution is inaccessible to common (i.e., non-lawyerly) people.  I stated from the beginning that while I hope people will participate, I will benefit from this thread even if they do not.
+              </div>
+             </div>
+            </div>
+           </div>
+           I agree it is not a hard document to understand from a basic standpoint.  The questions like "is there a right to abortion" or "right to privacy"..etc are clear from looking at the document.  Is there a right for a dog to drink water in the constitution?  Well....that is easy to find out too!  There are more complicated issues though and those are where the lawyers come in.  The only way you get to these "right to privacy" things is if you have a policy way of thinking as a judge.  Once you do this the constitution becomes incredibly complicated to the point where no one really knows the meaning of the thing.  It seems to be the only legal document that changes when one feels like it.  I can't imagine us having, say, a treaty with another country evolve over time without legislative action.  Perhaps all of a sudden we evolved out of a few clauses in a treaty protecting the oceans...no big deal, we still are following the treaty right?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250796" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250796" id="qrwq_250796" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250796" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250802">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-12-2007,
+          <span class="time">
+           02:25 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250802#post250802" name="post250802">
+          #10
+         </a>
+         <a id="postcount250802" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250802">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250796#post250796" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I agree it is not a hard document to understand from a basic standpoint.  The questions like "is there a right to abortion" or "right to privacy"..etc are clear from looking at the document.  Is there a right for a dog to drink water in the constitution?  Well....that is easy to find out too!  There are more complicated issues though and those are where the lawyers come in.  The only way you get to these "right to privacy" things is if you have a policy way of thinking as a judge.  Once you do this the constitution becomes incredibly complicated to the point where no one really knows the meaning of the thing.  It seems to be the only legal document that changes when one feels like it.  I can't imagine us having, say, a treaty with another country evolve over time without legislative action.  Perhaps all of a sudden we evolved out of a few clauses in a treaty protecting the oceans...no big deal, we still are following the treaty right?
+              </div>
+             </div>
+            </div>
+           </div>
+           I was not suggesting that lawyers are irrelevant.  Indeed, they are especially handy when it comes to procedure and the like.  However, I will suggest (and argue in my next post) that lawyers are really no better at understanding the meaning of a text than a common citizen.  That may sound like a bold claim to some.  But stay tuned, and I will try to make the case.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250802" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250802" id="qrwq_250802" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250802" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250814">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-12-2007,
+          <span class="time">
+           02:47 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250814#post250814" name="post250814">
+          #11
+         </a>
+         <a id="postcount250814" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250814">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phyllis
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250802#post250802" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I was not suggesting that lawyers are irrelevant.  Indeed, they are especially handy when it comes to procedure and the like.  However, I will suggest (and argue in my next post) that lawyers are really no better at understanding the meaning of a text than a common citizen.  That may sound like a bold claim to some.  But stay tuned, and I will try to make the case.
+              </div>
+             </div>
+            </div>
+           </div>
+           I'd say any many cases this is true but there are some cases that it really does take someone with more knowledge to better grasp the idea.  The most controversial cases are really the ones that are not complicated and the common citizen can easily see those.  Things like school vouchers are really the harder types of cases.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250814" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250814" id="qrwq_250814" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250814" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250866">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-13-2007,
+          <span class="time">
+           10:26 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250866#post250866" name="post250866">
+          #12
+         </a>
+         <a id="postcount250866" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250866">
+          <blockquote class="postcontent restore">
+           I just want to note that, if the US Constitution was clear cut and easy to interpret, then it would suffice to have had administrative clerks on the Supreme Court, not well educated and well experienced Judges. I, as nearly all others, may have little or no background in legal theory (nor particular interest for that matter) but the justices on the Supreme Court obviously do and there are at least two views held by these experts (which, I should note, none of us are in this thread) about how the Constitution should be interpreted. My knowledge of legal theory may be quite limited but I frankly place far more credence in the views of justices that are far more highly educated in this field than any of us, than I do in either of your opinions. I may personally prefer one philosophy over another in that the philosophies that justices follow partly determines their decisions. My only input, as an American citizen, is to vote my conscience in this matter in elections for the US Congress and president - who in turn either choose or approve the next justices.
+           <br/>
+           <br/>
+           As for Roe vs Wade, you still have yet to prove that Roe vs Wade is being used to block all third trimester abortion bans. From the things I have read, the great majority of abortion bans post-Roe were far too general and/or full of slippery slope manipulations and that is why they were blocked.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250866" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250866" id="qrwq_250866" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250866" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250923">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-13-2007,
+          <span class="time">
+           11:00 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250923#post250923" name="post250923">
+          #13
+         </a>
+         <a id="postcount250923" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250923">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Another Opinion
+               </strong>
+              </div>
+              <div class="message">
+               I just want to note that, if the US Constitution was clear cut and easy to interpret, then it would suffice to have had administrative clerks on the Supreme Court, not well educated and well experienced Judges.
+              </div>
+             </div>
+            </div>
+           </div>
+           Well for one the supreme court does more than the constitution.  It works much like a doctor though.  The average person can tell when they or someone else is sick....and many times can say "oh, you have a cold" or "oh, you leg is cut open".  A doctor is not really needed in cases like this but a doctor would be needed for my complicated questions.  Similiarly, the question on whether or not the constitution gives you the right dance like a chicken in a privatly owned hospital is not a hard question to answer if you have just read the document once.  Many questions are easy to answer if you have a finite way of defining the constitution.  Thus questions like abortion, homosexual marriage, death penalty, etc are easy questions with regards to the constitution.   Questions like school vouchers are more complicated and need a lawyer.  Now, if you have an evolving constitution then I agree...it is insanely complicated.  You never know what the constitution means.  In fact, it is hard to ever make a law as the supreme law (ie the boundries) are changing all the time!
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250923" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250923" id="qrwq_250923" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250923" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250941">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-14-2007,
+          <span class="time">
+           10:32 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250941#post250941" name="post250941">
+          #14
+         </a>
+         <a id="postcount250941" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e" title="Another opinion is offline">
+            <strong>
+             Another opinion
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2129&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=2129&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Another opinion is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Maryland, USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,872
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_250941">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=0e2370c27b84875182a363d3867ec78e&amp;p=250923#post250923" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Well for one the supreme court does more than the constitution.  It works much like a doctor though.  The average person can tell when they or someone else is sick....and many times can say "oh, you have a cold" or "oh, you leg is cut open".  A doctor is not really needed in cases like this but a doctor would be needed for my complicated questions.  Similiarly, the question on whether or not the constitution gives you the right dance like a chicken in a privatly owned hospital is not a hard question to answer if you have just read the document once.  Many questions are easy to answer if you have a finite way of defining the constitution.  Thus questions like abortion, homosexual marriage, death penalty, etc are easy questions with regards to the constitution.   Questions like school vouchers are more complicated and need a lawyer.  Now, if you have an evolving constitution then I agree...it is insanely complicated.  You never know what the constitution means.  In fact, it is hard to ever make a law as the supreme law (ie the boundries) are changing all the time!
+              </div>
+             </div>
+            </div>
+           </div>
+           Perhaps I was misinterpreting what the two of you were saying, but it sounded like you thought that there was only one right way to interpret the Constitution and that was the literal interpretation. That is what I was arguing against. Indeed, apparently there are several approaches which judges have used in interpreting the Constitution (which I learned recently from the following Blog that I found from Google searching:
+           <a href="http://faculty.ncwc.edu/TOConnor/410/410lect02.htm" target="_blank">
+            http://faculty.ncwc.edu/TOConnor/410/410lect02.htm
+           </a>
+           , which appears to be a few years old but is still relevant). Quoting from that site, and sorry for the legth:
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <b>
+               <font size="3">
+                MODES OF CONSTITUTIONAL INTERPRETATION
+               </font>
+               <br/>
+               <br/>
+               1. ORIGINAL INTENT, aka Original History, intended meanings of words
+              </b>
+              - the reasoning behind this approach is that the framers carefully debated and chose their words precisely to produce neutral principles of law. Advocates claim it fosters consistency and stability in law, and keeps rights that exist today from ever disappearing tomorrow. Critics claim that it can be easily used to disguise ideological ends, that the framers were not of one mind, and historical records are lost. The doctrine of original intent was used in Hustler v. Falwell (1988) to find that cartoon parodies are a form of protected First Amendment expression.  Intent of the framers is also the logic behind reasonable expectation of privacy in Katz v. U.S. (1967). Another place where the doctrine is framed is over whether capital punishment is cruel and unusual, as those words were used by the writers of the Eighth Amendment. The leading proponents of original intent are Justice Stevens and to a lesser extent, Justice Ginsburg.
+              <br/>
+              <br/>
+              <b>
+               2. TEXTUALISM, aka Literalism, Plain Words approach, ordinary meanings of words
+              </b>
+              - this approach doesn't look any further than the words of the Constitution itself; it doesn't try to infer any intended meanings. The reasoning is that justices should take the words as written and promulgated to the people of the United States.  A pure textualist, or literalist, approach looks for key phrases like "Congress shall make no law...abridging the freedom of speech" and finds that no law means no law.  Reading the Constitution literally is also called strict construction. Other strands of textualism try to understand what the words would have meant to the people at the time they were written. Advocates claim it produces value-free jurisprudence and keeps justices in touch with the people. Critics claim it leads to inconsistent decision making, and represents a static, non-living document view of the Constitution.  Textualism is often found in Fourth, Fifth, and Sixth Amendment cases involving criminal procedure when the Court decides to go off in some new expansionist or restrictionist direction. Textual analysis was present in Coy v. Iowa (1988) which struck down a system in which child witnesses could testify behind a screen. The leading proponent of textualism is Justice Scalia and to a lesser extent, Justice Rehnquist.
+              <br/>
+              <br/>
+              <b>
+               3. PRECEDENT, aka Stare Decisis, look at previously decided cases
+              </b>
+              - this is the doctrine of stare decisis (let the decision stand) which means that the Supreme Court looks at its own past decisions. Technically, all courts are bound to follow the rule of law in all previous decisions by higher courts (the Supreme Court being no exception), in what is called the holding. The holding of a case is the opposite of dictum, what is irrelevant to decide a case. For example, if a case involves overturning a confession police obtained from a mentally retarded person, the part about the person being mentally retarded would be the dictum, and the rule that police should not obtain confessions from any mentally challenged person would be the holding.  Advocates claim that precedent serves as a clear-cut guide, makes interpretation predictable, and keeps the Court from reversing itself. Critics claim that precedent is used as a weapon rather than guide, justices often pick and choose which precedents they like, and that the Supreme Court has generated so much precedent that support for any conclusion is possible. Precedent is often used as a rationale to limit the rights of criminal defendants. The leading proponents of precedent today are Justice Rehnquist and to a lesser extent, Justice O'Connor.  Precedent was present in the reasoning behind the famous desegregation case of Brown v. Board of Education (1954), although that case also involved social scientific testimony that Justices who follow precedent don't always favor.
+              <br/>
+              <br/>
+              <b>
+               4. LOGICAL, aka Mathematical, put words into logic formulas
+              </b>
+              - this is the approach that justices ought to engage in formal reasoning, usually in the form of a syllogism, a type of logic which draws a conclusion from a major and minor premise.  Advocates claim that it gives legal reasoning a scientific justification.  Critics claim that minor premises are often faulty and lead to invalid conclusions.  Currently, there are no Supreme Court justices that use this method. The most famous case to use logical reasoning is Marbury v. Madison (1803) which created the right of judicial review.
+              <br/>
+              <br/>
+              <b>
+               5. PRUDENTIALISM, aka Doctrinal, if appropriate for adversary process
+              </b>
+              - this is a common approach found throughout the court system. What every prosecutor knows is that you only try cases you can win with, look good in court with, and call forth established doctrines or rules of law.  The Supreme Court is no exception. It avoids unfamiliar ground, but in some cases will decide on a case very carefully and thoroughly simply in order to allow important legal arguments to be heard, to enhance the prestige of the Court, and to clarify important doctrines.  It's unknown how many Supreme Court justices explicitly adhere to this approach, but whenever you get lengthy opinions that cover a wide range of subjects and doctrines, you know its being used. An example is Baker v. Carr (1962) which was a judicial review over legislative redistricting case involving the political question doctrine, the Equal Protection clause, standing, and justiciability.
+              <br/>
+              <br/>
+              <b>
+               6. STRUCTURALISM, aka Aspirational, if maintains social order
+              </b>
+              - this is a Constitution as "living document" approach which looks at each and every case as unique, and is more concerned with remedy-making than rule-making.  More case specific than philosophical, this method usually results in a balancing test, matching the powers of government on one side and the rights of individuals on the other side.  It's unknown how many Supreme court justices use this method, but it's assumed the logic behind the famous abortion case Roe v. Wade (1973) is the idea of a living constitution.
+             </div>
+            </div>
+           </div>
+           I only post this to note that there is no one RIGHT way to interpret the Constitution. Since the result of Constitutional interpretation depends a lot on which of these approaches a judge chooses to take, the only input that we, as citizens, can have on the process is to vote our conscience in presidential elections and elections for Congress - which ultimately determine the choice and approval of judges.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250941" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250941" id="qrwq_250941" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250941" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_250945">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          02-14-2007,
+          <span class="time">
+           11:02 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;p=250945#post250945" name="post250945">
+          #15
+         </a>
+         <a id="postcount250945" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e" title="Phyllis is offline">
+            <strong>
+             Phyllis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4060&amp;s=0e2370c27b84875182a363d3867ec78e">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=finduser&amp;userid=4060&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phyllis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           924
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         #3
+        </h2>
+        <div class="content">
+         <div id="post_message_250945">
+          <blockquote class="postcontent restore">
+           There is an opinion that appears to be pervasive.  That opinion is that a regular person cannot understand the complexities of Constitutional law.  It is suggested that Constitutional interpretation is so complex and so intricate that one really needs to be an expert in legal theory if he wishes to understand the Constitution itself, as well as the interpretation of that document.  In this post, I will examine this position.  I will argue that the Constitution can be understood by ordinary (that is, non-lawyerly) people.
+           <br/>
+           <br/>
+           When the delegates of the Constitutional Convention recommended the Constitution to the several states for ratification, some members of the delegation anticipated that the new plan would be heavily opposed.  One of those members, Alexander Hamilton, decided to take on a project to defend the charter that was produced at the Convention.  His plan was to write a series of papers in favor of adopting the Constitution.  After securing the help of John Jay and James Madison, these papers were printed in the popular press, and collectively they would become known as
+           <i>
+            <a href="http://www.constitution.org/fed/federa00.htm" target="_blank">
+             The Federalist
+            </a>
+           </i>
+           .
+           <br/>
+           <br/>
+           <i>
+            The Federalist
+           </i>
+           was addressed to “the People of the State of New York.”  It is safe to assume that in 1787—just as in our day—most of the population was comprised of non-lawyers.  Yet Hamilton, Madison, and Jay wrote to these ordinary citizens anyway.  Why would they do this if these citizens were incapable of understanding the Constitution?  The answer is quite simple I think.  Constitutions are written by the people and are adopted by the people.  Hamilton knew that understanding the Constitution was a pre-requisite to adopting the Constitution, and thus if a Constitution is to be adopted by the general public, the general public must necessarily understand what it is they are adopting.
+           <br/>
+           <br/>
+           We see this borne out in our day as well.  Take, for example, the many states that have adopted amendments to their respective Constitutions in recent years (I am thinking specifically of the various marriage amendments).  To my knowledge, every one of these Amendments were submitted directly to the people in a vote.  Before those amendments were ratified, they had to be approved by the people, and they had to give their consent before it was adopted.  It therefore seems strange to assert that the general public would give their consent to a legal text that they did not understand.  Would you vote for a Constitutional Amendment that was written in a language that you did not know?  So too would we expect the general population to reject an amendment that they did not understand.
+           <br/>
+           <br/>
+           I have found that it is more likely than not that the person leveling the charge that the Constitution cannot be understood by the general public has never read the Constitution through in its entirety.  I think that this is very problematic, and I will now spend a moment trying to convince those who have never read the entire Constitution to read it.
+           <br/>
+           <br/>
+           I would agree that it is impossible—or in the very least, difficult—for a person to understand the Constitution if he has never read it in its entirety.  By not having read that document, one is setting himself up to fall prey to those abuses which the Constitution was established to prevent.  Suppose you find yourself subject to an interrogation in a criminal investigation.  Do you know what can and cannot be done to and by you?  Do you know whether you have to provide the information solicited or not?  Do you know whether you even have to remain in the interrogation or not?
+           <br/>
+           <br/>
+           Now, one may say, “Oh, if I find myself in that situation, I will just wait for a lawyer.”  But suppose you find yourself in that situation and you find that you are denied a lawyer.  What then?  This happens several times a year, and the result is that many individuals’ lives are impacted forever.  And that impact is usually negative.
+           <br/>
+           <br/>
+           I humbly suggest that everyone take the time to read the Constitution in its entirety at least once.  I just recently did this again, and it took me about 30 minutes.  That may seem like too much time to invest, but I have found the benefits of doing so to be vast, and the consequences of not doing so to be potentially devastating.  The Articles of the Constitution can be found
+           <a href="http://caselaw.findlaw.com/data/constitution/articles.html" target="_blank">
+            here
+           </a>
+           , and the Amendments can be found
+           <a href="http://caselaw.findlaw.com/data/constitution/amendments.html" target="_blank">
+            here
+           </a>
+           .  I seriously hope you will consider reading them soon.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_250945" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=newreply&amp;p=250945" id="qrwq_250945" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_250945" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=9550&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="9550"/>
+      <input name="s" type="hidden" value="0e2370c27b84875182a363d3867ec78e"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 8
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 111">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 16 to 30 of 111">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=9550&amp;page=3&amp;s=0e2370c27b84875182a363d3867ec78e" title="Show results 31 to 45 of 111">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=9550&amp;page=2&amp;s=0e2370c27b84875182a363d3867ec78e" rel="next" title="Next Page - Results 16 to 30 of 111">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=9550&amp;page=8&amp;s=0e2370c27b84875182a363d3867ec78e" title="Last Page - Results 106 to 111 of 111">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e">
+       <span class="ctrlcontainer">
+        Abortion Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=9550#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=0e2370c27b84875182a363d3867ec78e">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=0e2370c27b84875182a363d3867ec78e">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=0e2370c27b84875182a363d3867ec78e">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=0e2370c27b84875182a363d3867ec78e">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=0e2370c27b84875182a363d3867ec78e">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=0e2370c27b84875182a363d3867ec78e">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=0e2370c27b84875182a363d3867ec78e">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=0e2370c27b84875182a363d3867ec78e">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=0e2370c27b84875182a363d3867ec78e">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=0e2370c27b84875182a363d3867ec78e">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=0e2370c27b84875182a363d3867ec78e">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=0e2370c27b84875182a363d3867ec78e">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=0e2370c27b84875182a363d3867ec78e">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=0e2370c27b84875182a363d3867ec78e">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=9550&amp;s=0e2370c27b84875182a363d3867ec78e&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=9550#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=0e2370c27b84875182a363d3867ec78e&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=0e2370c27b84875182a363d3867ec78e">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=9550#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     03:40 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=0e2370c27b84875182a363d3867ec78e&amp;rand=1392410440" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

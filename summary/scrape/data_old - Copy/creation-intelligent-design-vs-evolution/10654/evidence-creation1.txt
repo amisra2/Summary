@@ -1,0 +1,3553 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=b58a740badbd173aee25c10a673ad245&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=10654";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="creation, evolution, evidence, admittedly, curious, unproven, hear/see, proven, board, validity, discussion, false, clear" name="keywords"/>
+  <meta content='There is a lot of discussion regarding the validity of evolution on this board and some against creation. But since it is a clear fact that even if evolution was proven to be false, it would NOT make creation right, I think it is about time we hear some evidence for creation. 
+ 
+Admittedly, I have yet to hear/see any so I am curious to find out if there any at all that does not rely on evolution being "unproven".....' name="description"/>
+  <title>
+   Evidence For Creation
+  </title>
+  <link href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=b58a740badbd173aee25c10a673ad245" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=b58a740badbd173aee25c10a673ad245" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=b58a740badbd173aee25c10a673ad245&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=b58a740badbd173aee25c10a673ad245">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=b58a740badbd173aee25c10a673ad245">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=b58a740badbd173aee25c10a673ad245">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=b58a740badbd173aee25c10a673ad245">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=b58a740badbd173aee25c10a673ad245">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=b58a740badbd173aee25c10a673ad245&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=b58a740badbd173aee25c10a673ad245">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=b58a740badbd173aee25c10a673ad245">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=b58a740badbd173aee25c10a673ad245">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Evidence For Creation
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=b58a740badbd173aee25c10a673ad245&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=10654&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="10654"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 7
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 95">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10654&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 95">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10654&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 95">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=10654&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 16 to 30 of 95">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=10654&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 91 to 95 of 95">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 95
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245" title="Reload this Page">
+       Evidence For Creation
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=b58a740badbd173aee25c10a673ad245&amp;t=10654&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=b58a740badbd173aee25c10a673ad245&amp;do=sendtofriend&amp;t=10654" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245&amp;do=addsubscription&amp;t=10654" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="10654"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 10654);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292034&amp;mode=threaded#post292034">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_292034">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           10:02 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292034#post292034" name="post292034">
+          #1
+         </a>
+         <a id="postcount292034" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=6175&amp;s=b58a740badbd173aee25c10a673ad245" title="panda is offline">
+            <strong>
+             panda
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=6175&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=6175&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="panda is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         <img alt="Question" src="images/icons/icon5.png"/>
+         Evidence For Creation
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_292034">
+          <blockquote class="postcontent restore">
+           There is a lot of discussion regarding the validity of evolution on this board and some against creation. But since it is a clear fact that even if evolution was proven to be false, it would NOT make creation right, I think it is about time we hear some
+           <b>
+            evidence for creation.
+           </b>
+           <br/>
+           <br/>
+           Admittedly, I have yet to hear/see any so I am curious to find out if there any at all that does not rely on evolution being "unproven".....
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292034" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292034" id="qrwq_292034" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292034" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292037">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           10:41 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292037#post292037" name="post292037">
+          #2
+         </a>
+         <a id="postcount292037" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292037">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                panda
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292034#post292034" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There is a lot of discussion regarding the validity of evolution on this board and some against creation. But since it is a clear fact that even if evolution was proven to be false, it would NOT make creation right, I think it is about time we hear some
+               <b>
+                evidence for creation.
+               </b>
+               <br/>
+               <br/>
+               Admittedly, I have yet to hear/see any so I am curious to find out if there any at all that does not rely on evolution being "unproven".....
+              </div>
+             </div>
+            </div>
+           </div>
+           There is reasonable evidence to support what we believe but it is doubtful that any evolutionists will accept it so we don't bother to try to produce it. But here is some for you to consider.
+           <br/>
+           <br/>
+           <a href="http://rds.yahoo.com/_ylt=A0geu5w6hU9H.kcBHIdXNyoA;_ylu=X3oDMTExcDQ1bmxqBHNlYwNzcgRwb3MDMwRjb2xvA2FjMgR2dGlkAwRsA1dTMQ--/SIG=122shm1qk/EXP=1196480186/**http%3a//www.bibleplus.org/creation/evidence.htm" target="_blank">
+            http://rds.yahoo.com/_ylt=A0geu5w6hU...n/evidence.htm
+           </a>
+           <br/>
+           <br/>
+           <div style="margin-left:40px">
+            <font size="3">
+             EVIDENCE FOR CREATION
+             <br/>
+             <br/>
+             Following are a number of arguments why the Theory of Evolution (and that's all it is) cannot be correct, and why Creation has to be correct.   More extensive evidence, largely ignored or brushed over by most of the agnostic scientific community, is contained in the excellent book In the Beginning by Walter T. Brown.  More on that later.  Let's first look at:
+             <br/>
+             <br/>
+             The Male - Female Problem
+             <br/>
+             <br/>
+             The simplest and most compelling argument for Creation is the male/female pairing issue.
+             <br/>
+             <br/>
+             Abstract:  If an animal mates with another animal not of its exact species, the result will be a sterile creature (e.g. a horse mating with a donkey produces a sterile mule).  If animals of a given species mate and produce an abnormal offspring (i.e. a mutant), it also is sterile.    Therefore, how could the macro evolutionary process advance?  How could a "mutant" (i.e. advances in form) reproduce?  It would first have to be fertile itself.  It would have to find a sexually compatible mate who was also fertile during its relatively miniscule life span on the overall evolutionary time scale.  Thirdly, their offspring would also have to be fertile and be able to continue the advance.  So if single celled animals formed in the primordial soup and they were asexual (not have either male or female characteristics, but reproducing by themselves, how would they advance to a hermaphroditic state (having both male and female sexual organs) and then to the higher orders of animals which almost always have distinct male and female reproductive organs?  All in-between states are sterile.
+             <br/>
+             <br/>
+             The Details:  Evolution can only explain asexual or self-fertilizing hermaphroditic reproduction.   Yet we have tens of thousands of the higher orders of species with perfectly matched sexually sets of males and females.  And any deviations from a normal union and offspring is sterile (not capable of reproduction).  Why?  How could evolutionary processes possibly explain what we see all around us today?
+             <br/>
+             <br/>
+             In short, the theory of evolution states that lower life evolved over eons into higher life forms.  Many lower life forms (generally single cells or plants) are asexual, which is what one would expect if the theory of evolution had any validity.  If the evolutionary process was to continue however, we would expect the continuation of asexual characteristics or possibly hermaphroditic characteristics (i.e. having both sets of sexual reproductive organs).  Moreover, an evolving hermaphroditic creature should be able to self-fertilize itself.  Without asexual characteristics or self-fertilizing hermaphroditic characteristics, how possibly could a mutant entity reproduce?  The chance of such a mutant finding an exact complementary mate within its lifespan would be extremely remote given the infrequency of mutations, and especially fertile mutations.
+             <br/>
+             <br/>
+             Yet scientific observation reveals that of all the hermaphroditic creatures, only the flatworm is self-fertilizing.  Moreover, there are no (or a statistically insignificant number of) creatures that we might suppose or rationalize as evolving.  Given the eons of time for evolution to take place,we should expect to see many creatures at all stages of the evolutionary process.  But we don't see any missing links to speak of, or creatures in transition. (Once in a while some "scientist" will speculate and publish some "finding" which is generally discarded later)
+             <br/>
+             <br/>
+             When we find a mutant in the higher level creatures, it is nearly always sterile.  Furthermore, the offspring of cross specie types are always sterile (such as the mule, an offspring of a horse and donkey or the offspring of one type of dolphin mating with another type of dolphin.).
+             <br/>
+             <br/>
+             Again, how can possibly sterile creatures reproduce and continue the evolutionary process?  They can't!!!
+             <br/>
+             <br/>
+             The answer to the male-female problem is pretty obvious.   Genesis 5:2 states:  "He (God) created them male and female and blessed them."
+             <br/>
+             <br/>
+             Click here for a full dissertation on the male-female subject which also shows the possible progressions of evolutionary changes.
+             <br/>
+             <br/>
+            </font>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292037" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292037" id="qrwq_292037" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292037" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292039">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           10:43 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292039#post292039" name="post292039">
+          #3
+         </a>
+         <a id="postcount292039" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292039">
+          <blockquote class="postcontent restore">
+           <b>
+            From the link above:
+           </b>
+           <br/>
+           <br/>
+           Creation's Tiny Mysteries
+           <br/>
+           <br/>
+           The second most compelling evidence for instantaneous creation pertains to the spherical halos caused by the decay of a radioactive core.  These halos are found by the trillions in all Precambrian granites, the foundation stones of the earth's crust.   More particularly they are found in biotite, the mica portion of the granite.
+           <br/>
+           <br/>
+           As a radioactive particle decays, it progresses through a well know set of elements and isotopes, emitting Beta or Alpha particles of given MeV (Million electron Volts).   When alpha particles are emitted by a radioactive speck in a given substrate or material, the alpha particles  "run out of energy" a certain distance away from the core and leave a "damage" sphere or ring (when cross-sectioned).  See illustrations below.  By measuring the diameter of the damaged ring, and also noting the various rings around a core, its fairly straightforward to determine what the exact center core particle was to begin with.
+           <br/>
+           <br/>
+           Reviewing:  By
+           <br/>
+           <br/>
+           understanding the energy levels of particles being emitted from the radioactive core, and
+           <br/>
+           determining how far those "energetic" particles would travel in the material, (leaving a "sphere" of damage as the particles came to a halt), and
+           <br/>
+           slicing a halo and measuring the halo ring diameters under a microscope, and
+           <br/>
+           understanding the elements and isotopes that the core material progresses through as it radioactively decays,
+           <br/>
+           it is easily possible to accurately determine what the composition was of the original radioactive material encased in the substrate.
+           <br/>
+           <br/>
+           Following are some illustrations of Polonium halos and photographs of actual cross-sections of halos of those isotopes.
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           210 Po Halo Cross Section
+           <br/>
+           <br/>
+           Idealized three-dimensional illustration of a 210 Po halo obtained by slicing the halo through the center.  Each halo ring is identified by the appropriate isotope and its alpha energy in MeV (Million electron Volts)
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           214 Po Halo Cross Section
+           <br/>
+           <br/>
+           Idealized three-dimensional illustration of a 214 Po halo obtained by slicing the halo through the center.  Each halo ring is identified by the appropriate isotope and its alpha energy in MeV (Million electron Volts)
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           218 Po Halo Cross Section
+           <br/>
+           <br/>
+           Idealized three-dimensional illustration of a 218 Po halo obtained by slicing the halo through the center.  Each halo ring is identified by the appropriate isotope and its alpha energy in MeV (Million electron Volts)
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           Adapted from Creation's Tiny Mysteries by Robert V. Gentry.  Published by Earth Science Associates, Knoxville, TN.
+           <br/>
+           Copyright Robert V. Gentry.  All rights reserved.
+           <br/>
+           <br/>
+           Robert Gentry, a government laboratory researcher discovered that many halos were caused by original (not secondary) particles of Polonium 210 (210Po), Polonium 214 and Polonium 218.
+           <br/>
+           <br/>
+           The half-lives of the Polonium isotopes are as follows:
+           <br/>
+           Polonium 210 half-life = 138.4 days
+           <br/>
+           Polonium 214 half-life = 164 microseconds
+           <br/>
+           Polonium 218 half-life = 3 minutes
+           <br/>
+           <br/>
+           The radioactivity of these cores are of course long extinct.
+           <br/>
+           <br/>
+           Now here's the kicker.  How could the Precambrian granites, which scientists state formed over millions of years, possibly contains evidence that would have taken only a few minutes to disappear?
+           <br/>
+           <br/>
+           Gentry wondered too, and published his findings in some of the leading scientific journals, hoping there might be some adequate response.  But there wasn't.  The most common approach of the scientific community was to ignore the evidence and many journals refused to publish his work.  There never was a satisfactory answer.
+           <br/>
+           <br/>
+           There are only two ways that the phenomena of having a 3-minute half-life particle entrapped in granite could have occurred.
+           <br/>
+           <br/>
+           the granite substrate surrounding the Polonium core particle was instantaneously formed around the particle (at least in under three minutes), or
+           <br/>
+           the substrate surrounded a non-radioactive Polonium core particle and sometime later, the particle became radioactive.
+           <br/>
+           The first option can only have come about through instantaneous creation.  The second at some later event (such as the Fall of Adam) at which time the death causing process of radioactivity on earth may have begun.
+           <br/>
+           <br/>
+           The first option seems the more reasonable of the two. God spoke and the land (granites included) instantly formed.  God left His fingerprint inside these foundation stones and left evidence that will stand forever.
+           <br/>
+           <br/>
+           For an excellent and full dissertation on these halos, get Robert Gentry's excellent book, Creation's Tiny Mysteries published by Earth Sciences Associates, Knoxville, Tennessee.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292039" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292039" id="qrwq_292039" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292039" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292040">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           10:45 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" name="post292040">
+          #4
+         </a>
+         <a id="postcount292040" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292040">
+          <blockquote class="postcontent restore">
+           <div style="margin-left:40px">
+            <font size="3">
+             <font color="Sienna">
+              Evidence for a Young Universe
+              <br/>
+              <br/>
+              Following is a list of natural phenomena, adapted from an article entitled Evidence for a Young Universe, by D. Russell Humphreys of the Creation Science Fellowship of New Mexico, P.O. Box 10550, Albuquerque, NM 87184.
+              <br/>
+              <br/>
+              Current evolutionary science states that our galaxy is around 10 billion years old and our solar system over 5 billion years old. However, most scientific evidence (90% according to Humphreys) indicates an earth age much less than that, thereby lending support to the Biblical account of Creation. It should be noted that the time periods or ages given below are maximum possible ages and could be considerably less. All quotations and emphasis are found in the original article.
+              <br/>
+              <br/>
+              Based on the observed rotational speeds of the stars about the center of our own galaxy, "if our galaxy were more than a few hundred million years old, it would be a featureless smear of stars instead of its present spiral shape."
+              <br/>
+              Comets disintegrate rapidly as they approach the sun, most surviving less "than 100,000 years. Many comets have typical ages of 10,000 years." (Science says the age of cometary material is similar to the 5 billion year age of the solar system.)
+              <br/>
+              At the current rate of erosion from water and winds "it would only take 15 million years to erode all land above sea level," depositing it into the ocean. (Science says the age of continents is hundreds of millions of years old)
+              <br/>
+              At the current rate of sedimentation, the accumulation of sedimentation from the continents "implies that the present ocean floors have existed less than 15 million years." Fossil evidence supports the current rate of sedimentation. (Science says the age of the ocean floors is around 200 million years old).
+              <br/>
+              Assuming that the oceans had no salt to start with, at the current rates of sodium entering and leaving the oceans, the oceans would have accumulated their present amount in less than 42 million years. Using the most generous allowances for evolutionary scenarios, still gives a maximum possible age for the oceans of only 62 million years. (Science says the age of the oceans are around 3 billion years old)
+              <br/>
+              The earth's magnetic field energy has been decaying at a factor of 2.7 over the past 1,000 years. At this current decay rate, the earth could not be greater than 10,000 years old. (Science says the age of the earth is around 5 billion years old)
+              <br/>
+              Many erect fossil trees in Nova Scotia were found "throughout 2,500 feet of geologic strata, penetrating 20 geologic horizons. These trees had to have been buried faster than it took them to decay. This implies that the entire formation was deposited in less than a few years." (Science says layers were deposited over millions of years)
+              <br/>
+              "Many strata are too tightly bent. In many mountainous areas, strata thousands of feet thick are bent and folded into hairpin shapes. The conventional geologic timescale says these formations were deeply buried and solidified for hundreds of millions of years before they were bent. Yet the folding occurred without cracking, with radii so small that the entire formation had to be still wet and unsolidified when the bending occurred. This implies that the folding occurred less than thousands of years after deposition."
+              <br/>
+              Radiohalos are spheres (rings in cross section) "of color formed around microscopic bits of radioactive minerals in rock crystals. They are fossil evidence of radioactive decay." "'Orphan' Polonium-218 radiohalos, having no evidence of their mother elements, imply either instant creation or drastic changes in radioactivity decay rates."
+              <br/>
+              All naturally-occurring families of radioactive elements generate Helium (in the form of an alpha particle) as they decay. Taking into account the amount of helium flowing into and out of the atmosphere, "it would take less than 2 million years to accumulate the small amount of helium in the air today."
+              <br/>
+              "Helium produced by radioactive decay in deep, hot rocks has not had time to escape. Though the rocks are supposed to be billions of years old, their helium retention suggest an age much less than millions of years."
+              <br/>
+              There are not enough stone-age skeletons to account for the approximately 4 billion Neanderthal and Cro-magnon people that evolutionary anthropologists say lived during the 100,000 years of the stone age. "Yet only a few thousand skeletons have been found implying that the stone age was much shorter, a few hundred years in many areas."
+              <br/>
+              And there is much more evidence for a young earth and instant creation as well as a worldwide flood.
+             </font>
+            </font>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292040" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292040" id="qrwq_292040" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292040" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292041">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           10:54 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292041#post292041" name="post292041">
+          #5
+         </a>
+         <a id="postcount292041" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292041">
+          <blockquote class="postcontent restore">
+           <div style="margin-left:40px">
+            <font size="3">
+             <font color="Sienna">
+              CREATION, THE FLOOD, AND CARBON-14 DATING
+              <br/>
+              <br/>
+              One commonly used argument against the Creation week as detailed in Genesis is that the sun and moon were created on day four. This was after the creation of plant life on day three. How could the plants survive without sunlight?
+              <br/>
+              <br/>
+              Having an engineering background with a logical perspective, I don't really have any problem accepting the Creation week account as reported in Genesis. God is the source of light and life (see John 1:4). Light was created on day one (see Gen. 1:3). The sun is incidental to God's light and while modern man sees the sun as the source of life, it is not -- God is!
+              <br/>
+              <br/>
+              Revelation indicates that when God dwells in the New Jerusalem, the sun and moon are not necessary to produce light.
+              <br/>
+              <br/>
+              "The city does not need the sun or the moon to shine on it, for the glory of God gives it light, and the Lamb is its lamp. The nations will walk by its light, and the kings of the earth will bring their splendor into it. On no day will its gates ever be shut, for there will be no night there." (Rev. 21:23-25)
+              <br/>
+              <br/>
+              Secondly, since God had created the world from water (2 Peter 3:5, 6), separating the water into the sea and a protective cover over the sky (Gen. 1:6-8), this would have produced a very controlled greenhouse. Subsequently, there would have been minimal climatic changes from season to season prior to the flood. Ron Wyatt's analysis of the petrified wood of the ark formation (see the Surprising Discoveries section) indicated that the wood lacked growth rings. Growth rings are caused by rapid growth during warm wet periods (spring and summer) and slow growth during cold or dry periods (fall and winter). Again this supports that the world was like a controlled greenhouse. Given the heat holding ability of water, there is no reason, why vegetation could not survive one 24-hour day, from day three of Creation to day four when the sun and moon were created. Certainly even now, plants do not die when they don't get the sun for one day, let alone in the presence of God, the source of life.
+              <br/>
+              <br/>
+              The upper expanse providing the protective cover collapsed during the Flood, combining its waters with those that "God had placed in storehouses" during the creation process. These were released in the fountains or springs of the deep (see Gen. 7:11, 8:2, Prov. 8:28). The immense amount of water released, upon forming into seas or vaporizing after the flood, primed the hydrodynamic cycle and rain became a common occurrence. With the protective expanse gone, seasons became more pronounced, thus producing the subsequent growth rings found in trees today.
+              <br/>
+              <br/>
+              One intriguing theory posed regarding this protective expanse is that this "water blanket" would have been able to absorb the majority of high energy particles caused by solar radiation. (This idea was first proposed to me by Dr. Griffith Thomas). It is these high energy particles that are responsible for the formation of radioactive Carbon-14 in the atmosphere. All living entities, plant or animal life absorb C-14 while they are living, either directly or by eating other plant or animal life. After the plant or animal dies, the C-14 ingested continues to radioactively decay. Scientists commonly measure the age of an object by how much C-14 is still in the fossil. The claim is made that greater the amount of C-14, the more recently the object lived.
+              <br/>
+              <br/>
+              However, organisms living prior to the flood would have absorbed little or no C-14 during their lives since there was little or no C-14 in the air that they breathed. Thus using current C-14 dating methods, preflood organisms would give the appearance of dating in the order of "millions" or "billions" of years old.  Even the petrified wood from the Noah's Ark rediscovery mentioned earlier dated (using C-14 methods) in the 100s of thousands of years old.  Yet we know that this took place less than 5,000 years ago!
+              <br/>
+              <br/>
+              After this expanse collapsed, C-14 would have begun forming immediately in the atmosphere. However, it would have taken some time for the C-14 levels to stabilize to where the rate of C-14 formation equaled the rate of C-14 disintegration, i.e. reached an equilibrium point.
+              <br/>
+              <br/>
+              After the Flood and during the time that the C-14 levels in the atmosphere were reaching equilibrium, living objects would take in less C-14 than their modern counterparts for the same time period. Thus using the C-14 method on the fossils of these animals would date them in the tens or hundreds of thousands of years old.
+              <br/>
+              <br/>
+              Fossils of animals dying after the C-14 level had reached equilibrium would be dated fairly accurately using current methods.
+              <br/>
+              <br/>
+              Thus in light of the Biblical account of Creation and the Flood, it is not reasonable to accept the dating methods generally used by evolutionary scientists for dates prior to and for several hundred years after the Flood. And the student of Scripture has a much surer footing on the Word of God than the theories of man.
+              <br/>
+              <br/>
+              With regards to an apparent stratification of various life forms, it is also possible that the dinosaurs and "more primitive" creatures could have sank or been buried in reverse proportion to their buoyancy, i.e. denser life forms, such as reptiles and amphibians sank before less dense mammalian life forms. Alternatively, as the fountains of the deep broke open and etched the crack through which they exploded wider and wider, the copious water movement and movement of soils could have "sloshed" back and forth over certain areas, leaving stratified sediment.  This might explain the general stratification of various life forms in sedimentary rocks, but it does not exclude the possibility that a horse and dinosaur could be buried together by some other means. Footprints of horses and people have been discovered next to those of dinosaurs. Evolutionary scientists have a hard time explaining this evidence.
+             </font>
+            </font>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292041" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292041" id="qrwq_292041" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292041" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292044">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           11:03 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292044#post292044" name="post292044">
+          #6
+         </a>
+         <a id="postcount292044" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           Archangel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292044">
+          <blockquote class="postcontent restore">
+           <div style="margin-left:40px">
+            <font size="3">
+             <font color="Sienna">
+              WHY CREATION IS THE ONLY RATIONAL ANSWER FOR ORIGINS:
+              <br/>
+              <br/>
+              It is agreed on all sides that there are only two possible solutions to the riddle of origins. Either Someone made the world, or the world made itself. A third option, the world is eternal and without origin, contradicts Natural Laws such as Thermodynamics and has been disproved with mathematical certainty in the 20th century. As the universe is obviously complex and seemingly well-designed, a Designer should be the scientific default. In everything we observe today, concept and design are the result of a Mind. Furthermore, Natural Laws such as Gravity, Inverse Squares, Cause and Effect, and Thermodynamics imply a Law-giver.
+              <br/>
+              <br/>
+              Unless a natural mechanism constrained by Natural Law, by which the entire universe could come into existence and further develop through random process, is found, a Creator must be the theoretical default. It doesn't matter whether an individual scientist has difficulty accepting it or not. As Sir Arthur Conan Doyle so eloquently stated in his Sherlock Holmes series, "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth."
+              <br/>
+              <br/>
+              Creation Evidence - A Few Brief Examples:
+              <br/>
+              Lack of Transitional Fossils. Charles Darwin wrote, "Lastly, looking not to any one time, but to all time, if my theory be true, numberless intermediate varieties, linking closely together all the species of the same group, must assuredly have existed. But, as by this theory, innumerable transitional forms must have existed, why do we not find them embedded in countless numbers in the crust of the earth?" (Origin of Species, 1859). Since Darwin put forth his theory, scientists have sought fossil evidence indicating past organic transitions. Nearly 150 years later, there has been no evidence of transition found thus far in the fossil record.
+              <br/>
+              Lack of a Natural Mechanism. Charles Darwin, in his Origin of Species, proposed Natural Selection to be the mechanism by which an original simple-celled organism could have evolved gradually into all species observed today, both plant and animal. Darwin defines evolution as "descent with modification." However, Natural Selection is known to be a conservative process, not a means of developing complexity from simplicity. Later, with our increased understanding of genetics, it was thought perhaps Natural Selection in conjunction with genetic mutation allowed for the development of all species from a common ancestor. However, this is theoretical and controversial, since "beneficial" mutations have yet to be observed. In fact, scientists have only observed harmful, "downward" mutations thus far.
+              <br/>
+              Time Constraints. Both Creationists and Evolutionists agree that if evolution is at all possible, there needs to be an excessive (if not infinite) amount of time. For much of the 20th century, it was thought evolutionists had all the time they needed. If the earth ever looked too young for certain evolutionary developments to have occurred, the age was pushed back in the textbooks. In 1905, the earth was declared to be two billion years old. By 1970, the earth was determined to be 3.5 billion years old, and by the 1990's, the earth had become 4.6 billion years old. However, Young Earth advocates have identified quite a few Young Earth chronometers in recent years. Currently, there are approximately five times more natural chronometers indicating a "Young Earth" than an "Old Earth." Each discovery is a separate "Limiting Factor" that places a constraint on the possible age of the earth. For example, moon drift, earth rotation speed, magnetic field decay, erosion rates, chemical influx into the oceans, ocean salinity, etc, all constrain the possible age of the earth. Each Limiting Factor is distinct. If one were successfully challenged, there is still the problem of all the rest. Furthermore, there are Limiting Factors constraining the possible age of the universe, such as spiral galaxies where they're maintaining their spiral shapes despite their centers spinning faster than their extremities.
+              <br/>
+              Unacceptable Model of Origins. The Big Bang Theory is the accepted source of Origins among the majority of Evolutionists, and is taught in our public schools. However, the Big Bang does not explain many things, including the uneven distribution of matter that results in "voids" and "clumps," or the retrograde motion that must violate the Law of Conservation of Angular Momentum. Furthermore, the Big Bang does not address the primary question at hand, "where did everything come from?" Did nothing explode? How did this explosion cause order, while every explosion observed in recorded history causes disorder and disarray?
+             </font>
+            </font>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292044" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292044" id="qrwq_292044" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292044" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292047">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           11:50 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292047#post292047" name="post292047">
+          #7
+         </a>
+         <a id="postcount292047" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=5285&amp;s=b58a740badbd173aee25c10a673ad245" title="smiley is offline">
+          <img alt="smiley's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=5285&amp;dateline=1171419269"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=5285&amp;s=b58a740badbd173aee25c10a673ad245" title="smiley is offline">
+            <strong>
+             smiley
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=5285&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=5285&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="smiley is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,117
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292047">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292037#post292037" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There is reasonable evidence to support what we believe but it is doubtful that any evolutionists will accept it so we don't bother to try to produce it. But here is some for you to consider.
+               <br/>
+               <br/>
+               <a href="http://rds.yahoo.com/_ylt=A0geu5w6hU9H.kcBHIdXNyoA;_ylu=X3oDMTExcDQ1bmxqBHNlYwNzcgRwb3MDMwRjb2xvA2FjMgR2dGlkAwRsA1dTMQ--/SIG=122shm1qk/EXP=1196480186/**http%3a//www.bibleplus.org/creation/evidence.htm" target="_blank">
+                http://rds.yahoo.com/_ylt=A0geu5w6hU...n/evidence.htm
+               </a>
+               <br/>
+               <br/>
+               <div style="margin-left:40px">
+                <font size="3">
+                 EVIDENCE FOR CREATION
+                 <br/>
+                 <br/>
+                 Following are a number of arguments why the Theory of Evolution (and that's all it is) cannot be correct, and why Creation has to be correct.   More extensive evidence, largely ignored or brushed over by most of the agnostic scientific community, is contained in the excellent book In the Beginning by Walter T. Brown.  More on that later.  Let's first look at:
+                 <br/>
+                 <br/>
+                 The Male - Female Problem
+                 <br/>
+                 <br/>
+                 The simplest and most compelling argument for Creation is the male/female pairing issue.
+                 <br/>
+                 <br/>
+                 Abstract:  If an animal mates with another animal not of its exact species, the result will be a sterile creature (e.g. a horse mating with a donkey produces a sterile mule).  If animals of a given species mate and produce an abnormal offspring (i.e. a mutant), it also is sterile.    Therefore, how could the macro evolutionary process advance?  How could a "mutant" (i.e. advances in form) reproduce?  It would first have to be fertile itself.  It would have to find a sexually compatible mate who was also fertile during its relatively miniscule life span on the overall evolutionary time scale.  Thirdly, their offspring would also have to be fertile and be able to continue the advance.  So if single celled animals formed in the primordial soup and they were asexual (not have either male or female characteristics, but reproducing by themselves, how would they advance to a hermaphroditic state (having both male and female sexual organs) and then to the higher orders of animals which almost always have distinct male and female reproductive organs?  All in-between states are sterile.
+                 <br/>
+                 <br/>
+                 The Details:  Evolution can only explain asexual or self-fertilizing hermaphroditic reproduction.   Yet we have tens of thousands of the higher orders of species with perfectly matched sexually sets of males and females.  And any deviations from a normal union and offspring is sterile (not capable of reproduction).  Why?  How could evolutionary processes possibly explain what we see all around us today?
+                 <br/>
+                 <br/>
+                 In short, the theory of evolution states that lower life evolved over eons into higher life forms.  Many lower life forms (generally single cells or plants) are asexual, which is what one would expect if the theory of evolution had any validity.  If the evolutionary process was to continue however, we would expect the continuation of asexual characteristics or possibly hermaphroditic characteristics (i.e. having both sets of sexual reproductive organs).  Moreover, an evolving hermaphroditic creature should be able to self-fertilize itself.  Without asexual characteristics or self-fertilizing hermaphroditic characteristics, how possibly could a mutant entity reproduce?  The chance of such a mutant finding an exact complementary mate within its lifespan would be extremely remote given the infrequency of mutations, and especially fertile mutations.
+                 <br/>
+                 <br/>
+                 Yet scientific observation reveals that of all the hermaphroditic creatures, only the flatworm is self-fertilizing.  Moreover, there are no (or a statistically insignificant number of) creatures that we might suppose or rationalize as evolving.  Given the eons of time for evolution to take place,we should expect to see many creatures at all stages of the evolutionary process.  But we don't see any missing links to speak of, or creatures in transition. (Once in a while some "scientist" will speculate and publish some "finding" which is generally discarded later)
+                 <br/>
+                 <br/>
+                 When we find a mutant in the higher level creatures, it is nearly always sterile.  Furthermore, the offspring of cross specie types are always sterile (such as the mule, an offspring of a horse and donkey or the offspring of one type of dolphin mating with another type of dolphin.).
+                 <br/>
+                 <br/>
+                 Again, how can possibly sterile creatures reproduce and continue the evolutionary process?  They can't!!!
+                 <br/>
+                 <br/>
+                 The answer to the male-female problem is pretty obvious.   Genesis 5:2 states:  "He (God) created them male and female and blessed them."
+                 <br/>
+                 <br/>
+                 Click here for a full dissertation on the male-female subject which also shows the possible progressions of evolutionary changes.
+                 <br/>
+                 <br/>
+                </font>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           It's bed-time, so I'll only reply to the one for now.
+           <br/>
+           <br/>
+           What exactly does this little passage say?
+           <br/>
+           <br/>
+           To paraphrase . . .
+           <br/>
+           <br/>
+           <i>
+            Look, here is a reason evolution is rubbish.  Look, here's another one.  Ooh, and another.
+            <br/>
+            <br/>
+            Therefore, creationism must be right
+           </i>
+           <br/>
+           <br/>
+           I hate to burst your little fantasy bubble, but the thread is asking for some sort of evidence that creationism is "the real deal", not the usual 'if A is not true, it therefore follows that B must be'.  This is not a valid logical conclusion.
+           <br/>
+           <br/>
+           Smiley
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292047" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292047" id="qrwq_292047" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292047" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292048">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           11:53 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292048#post292048" name="post292048">
+          #8
+         </a>
+         <a id="postcount292048" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245" title="electrolyte is offline">
+            <strong>
+             electrolyte
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3272&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="electrolyte is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Scholar for Hire
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,691
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292048">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292037#post292037" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               The simplest and most compelling argument for Creation is the male/female pairing issue.
+              </div>
+             </div>
+            </div>
+           </div>
+           This is the "most compelling"?  No wonder no biologists aren't worried!
+           <br/>
+           <br/>
+           Here's an explanation that even you can understand.
+           <br/>
+           <br/>
+           There is variation within a species.  Let's assign the number 0 to the "average" individual.  There will be, however, individuals of the same species that are different, say 1 and -1.  We'll ignore merely for simplicity's sake that there may be 2s and -2s, 3s and -3s, etc.
+           <br/>
+           <br/>
+           Suppose a couple of 1s reproduce.  They might have an offspring of character 1.  Or maybe 0.  Or maybe 2.  This is simply variation within a species.  Rinse and repeat, extrapolating.  You can see that 10s might arise.  Therefore, -10s could also arise.  Such a character separation might mean that a 10 can't reproduce with a -10.  And there you have speciation with sex.
+           <br/>
+           <br/>
+           Think I'm making up this scenario?  Tell us about ring species, Archie.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the chemistry of carbon compounds that crawl.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292048" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292048" id="qrwq_292048" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292048" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292049">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-29-2007,
+          <span class="time">
+           11:58 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292049#post292049" name="post292049">
+          #9
+         </a>
+         <a id="postcount292049" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245" title="electrolyte is offline">
+            <strong>
+             electrolyte
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3272&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="electrolyte is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Scholar for Hire
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,691
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292049">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292039#post292039" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Creation's Tiny Mysteries
+              </div>
+             </div>
+            </div>
+           </div>
+           Look, another anti-evolution argument instead of evidence for creation!  Go ahead, ask if I'm surprised.
+           <br/>
+           <br/>
+           The halos are from Rn-222, not Po-218.  Rn-222 decays to Po-218, so the subsequent decay chains are identical.  In some of these "tiny mysteries," you can see the ring.  In others, the resolution is too poor to distinguish them.  No practicing geologist accepts this as anti-old earth evidence.  Plus, there are countless other pieces of evidence that counter this alleged "problem."
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the chemistry of carbon compounds that crawl.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292049" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292049" id="qrwq_292049" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292049" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292052">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-30-2007,
+          <span class="time">
+           12:12 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292052#post292052" name="post292052">
+          #10
+         </a>
+         <a id="postcount292052" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+          <img alt="obvious_child's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=4405&amp;dateline=1242022144"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+            <strong>
+             obvious_child
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=4405&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="obvious_child is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,525
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292052">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                panda
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292034#post292034" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There is a lot of discussion regarding the validity of evolution on this board and some against creation. But since it is a clear fact that even if evolution was proven to be false, it would NOT make creation right, I think it is about time we hear some
+               <b>
+                evidence for creation.
+               </b>
+               <br/>
+               <br/>
+               Admittedly, I have yet to hear/see any so I am curious to find out if there any at all that does not rely on evolution being "unproven".....
+              </div>
+             </div>
+            </div>
+           </div>
+           Well, all Arch could do was attack Evolution.
+           <br/>
+           <br/>
+           Your point is proven as well as my poll. Besides, the complete and utter failure for creationists to argue their belief on its own merits is a well known fact. There are at least three threads that ask creationists to do just that. There isn't any single one where they even try to do it.
+           <br/>
+           <br/>
+           They always, always fall back on the false dichotomy of if not A, therefore B. But C through ZZZ may exist. If the sky is not orange, it is therefore brown!
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You are, of course, free to make your own calls on how much rationality you want to impose upon yourself." - Kronus
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292052" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292052" id="qrwq_292052" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292052" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292053">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-30-2007,
+          <span class="time">
+           12:16 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292053#post292053" name="post292053">
+          #11
+         </a>
+         <a id="postcount292053" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+          <img alt="obvious_child's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=4405&amp;dateline=1242022144"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+            <strong>
+             obvious_child
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=4405&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="obvious_child is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,525
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292053">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292041#post292041" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               With regards to an apparent stratification of various life forms, it is also possible that the dinosaurs and "more primitive" creatures could have sank or been buried in reverse proportion to their buoyancy, i.e. denser life forms, such as reptiles and amphibians sank before less dense mammalian life forms. Alternatively, as the fountains of the deep broke open and etched the crack through which they exploded wider and wider, the copious water movement and movement of soils could have "sloshed" back and forth over certain areas, leaving stratified sediment.  This might explain the general stratification of various life forms in sedimentary rocks, but it does not exclude the possibility that a horse and dinosaur could be buried together by some other means. Footprints of horses and people have been discovered next to those of dinosaurs. Evolutionary scientists have a hard time explaining this evidence.
+              </div>
+             </div>
+            </div>
+           </div>
+           This makes absolutely no sense. This argument
+           <b>
+            entirely ignores how fluid mechanics works.
+           </b>
+           <br/>
+           <br/>
+           Reptiles and amphibians are not as a classification more dense then mammals.  That argument would dictate that a 2 lb rat is less dense then a 2 lb reptile and that a complex 2 lb rat sunk SLOWER then a 5 oz primitive amphibian.
+           <br/>
+           <br/>
+           Furthermore it fails to explain why primitive versions of organisms are at the bottom of the strata where the complex are at the top even in the same density and mass ranges. On top of that insane madness, it does not explain how species such as horseshoe crabs managed to get fossilized all over the stratas yet species like the T-rex are only found in one layer.
+           <br/>
+           <br/>
+           <a href="http://en.wikipedia.org/wiki/Fluid_mechanics" target="_blank">
+            http://en.wikipedia.org/wiki/Fluid_mechanics
+           </a>
+           <br/>
+           <br/>
+           Another science creationist pretend does not exist, despite their use of it daily.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You are, of course, free to make your own calls on how much rationality you want to impose upon yourself." - Kronus
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292053" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292053" id="qrwq_292053" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292053" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292055">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-30-2007,
+          <span class="time">
+           12:23 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292055#post292055" name="post292055">
+          #12
+         </a>
+         <a id="postcount292055" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245" title="electrolyte is offline">
+            <strong>
+             electrolyte
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3272&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="electrolyte is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Scholar for Hire
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,691
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292055">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                Current evolutionary science states that our galaxy is around 10 billion years old and our solar system over 5 billion years old. However, most scientific evidence (90% according to Humphreys) indicates an earth age much less than that
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Humphreys is full of ####.  How about you check out Dalrymple's book?  100% of the scientific evidence kicks Humphreys's XXX.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                Based on the observed rotational speeds of the stars about the center of our own galaxy, "if our galaxy were more than a few hundred million years old, it would be a featureless smear of stars instead of its present spiral shape."
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           a.k.a. "The Winding Up Problem."  Completely fabricated, based on a complete misunderstanding of galactic motion.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                Comets disintegrate rapidly as they approach the sun, most surviving less "than 100,000 years. Many comets have typical ages of 10,000 years."
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Many don't.  But they're replenished from the Oort Cloud regularly.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                At the current rate of erosion from water and winds "it would only take 15 million years to erode all land above sea level," depositing it into the ocean. (Science says the age of continents is hundreds of millions of years old)
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Science also explains this thing called
+           <i>
+            plate tectonics
+           </i>
+           .  That Humphreys "overlooks" this should make you smell the rat.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                At the current rate of sedimentation, the accumulation of sedimentation from the continents "implies that the present ocean floors have existed less than 15 million years." Fossil evidence supports the current rate of sedimentation. (Science says the age of the ocean floors is around 200 million years old).
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           So he "overlooks" plate tectonics twice?  He's either ignorant or a liar.  Some might say both.  Knowing his other work as I do, I say both.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                Assuming that the oceans had no salt to start with, at the current rates of sodium entering and leaving the oceans, the oceans would have accumulated their present amount in less than 42 million years. Using the most generous allowances for evolutionary scenarios, still gives a maximum possible age for the oceans of only 62 million years. (Science says the age of the oceans are around 3 billion years old)
+                <br/>
+                The earth's magnetic field energy has been decaying at a factor of 2.7 over the past 1,000 years. At this current decay rate, the earth could not be greater than 10,000 years old. (Science says the age of the earth is around 5 billion years old)
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           First, it's a faulty assumption.  Second, the ion content of the oceans isn't changing.  Third, if this method worked, and we used aluminum, we could "prove" that the earth can't be more than 300 years old.  Oops.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                Many erect fossil trees in Nova Scotia were found "throughout 2,500 feet of geologic strata, penetrating 20 geologic horizons. These trees had to have been buried faster than it took them to decay. This implies that the entire formation was deposited in less than a few years." (Science says layers were deposited over millions of years)
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Talkorigins takes care of this one just fine.  I'm just wondering what kind of trees grow to 2500 feet tall.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                "Many strata are too tightly bent....
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Never trust anybody too ignorant of plate tectonics to understand subduction to tell you about geology.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                Radiohalos are spheres (rings in cross section) "of color formed around microscopic bits of radioactive minerals in rock crystals. They are fossil evidence of radioactive decay." "'Orphan' Polonium-218 radiohalos...
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           ... were addressed above.  You have so few arguments that you're repeating yourself, mainly because you don't even read the tripe that you post.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                "Helium produced by radioactive decay in deep, hot rocks has not had time to escape...
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Humphreys blew the calculations big time.  He's been refuted left and right.  Do a search on his bogus R.A.T.E. group and find out for yourself.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                There are not enough stone-age skeletons ...
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           Because Humphreys went out looking?  How many should we allegedly find?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292040#post292040" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <div style="margin-left:40px">
+                And there is much more evidence for a young earth and instant creation as well as a worldwide flood.
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           But there's no evidence here for
+           <i>
+            creation
+           </i>
+           .  All you can do is argue (extremely poorly) against an old earth.
+           <br/>
+           Three strikes and your out, kid.  Hit the showers.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the chemistry of carbon compounds that crawl.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292055" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292055" id="qrwq_292055" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292055" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292057">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-30-2007,
+          <span class="time">
+           12:27 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292057#post292057" name="post292057">
+          #13
+         </a>
+         <a id="postcount292057" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+          <img alt="obvious_child's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=4405&amp;dateline=1242022144"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245" title="obvious_child is offline">
+            <strong>
+             obvious_child
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=4405&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=4405&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="obvious_child is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2006
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,525
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292057">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                electrolyte
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292055#post292055" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               But there's no evidence here for
+               <i>
+                creation
+               </i>
+               .  All you can do is argue (extremely poorly) against an old earth.
+               <br/>
+               Three strikes and your out, kid.  Hit the showers.
+              </div>
+             </div>
+            </div>
+           </div>
+           Actually Electro, do you remember
+           <a href="http://www.4forums.com/political/showthread.php?t=8816" target="_blank">
+            this thread?
+           </a>
+           <br/>
+           <br/>
+           Evidence for a flood? Oddly enough it took 20 pages before one of them even tried to argue against the reasons why the flood did not occur.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You are, of course, free to make your own calls on how much rationality you want to impose upon yourself." - Kronus
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292057" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292057" id="qrwq_292057" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292057" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292061">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-30-2007,
+          <span class="time">
+           12:35 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292061#post292061" name="post292061">
+          #14
+         </a>
+         <a id="postcount292061" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245" title="electrolyte is offline">
+            <strong>
+             electrolyte
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3272&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="electrolyte is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Scholar for Hire
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,691
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292061">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                obvious_child
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292057#post292057" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Actually Electro, do you remember
+               <a href="http://www.4forums.com/political/showthread.php?t=8816" target="_blank">
+                this thread?
+               </a>
+              </div>
+             </div>
+            </div>
+           </div>
+           Can't say I did.  The creationist disinformation campaign has swelled to such disgusting proportions that I can't keep up with it all.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the chemistry of carbon compounds that crawl.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292061" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292061" id="qrwq_292061" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292061" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_292090">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-30-2007,
+          <span class="time">
+           05:49 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=292090#post292090" name="post292090">
+          #15
+         </a>
+         <a id="postcount292090" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=719&amp;s=b58a740badbd173aee25c10a673ad245" title="unkerpaulie is offline">
+          <img alt="unkerpaulie's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=719&amp;dateline=1094588555"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=719&amp;s=b58a740badbd173aee25c10a673ad245" title="unkerpaulie is offline">
+            <strong>
+             unkerpaulie
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=719&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=719&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="unkerpaulie is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           reasoner
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,778
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_292090">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Archangel
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=292037#post292037" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There is reasonable evidence to support what we believe but it is doubtful that any evolutionists will accept it so we don't bother to try to produce it. But here is some for you to consider.
+               <br/>
+               <br/>
+               <a href="http://rds.yahoo.com/_ylt=A0geu5w6hU9H.kcBHIdXNyoA;_ylu=X3oDMTExcDQ1bmxqBHNlYwNzcgRwb3MDMwRjb2xvA2FjMgR2dGlkAwRsA1dTMQ--/SIG=122shm1qk/EXP=1196480186/**http%3a//www.bibleplus.org/creation/evidence.htm" target="_blank">
+                http://rds.yahoo.com/_ylt=A0geu5w6hU...n/evidence.htm
+               </a>
+               <br/>
+               <br/>
+               <div style="margin-left:40px">
+                <font size="3">
+                 EVIDENCE FOR CREATION
+                 <br/>
+                 <br/>
+                 Following are a number of arguments why the Theory of Evolution (and that's all it is) cannot be correct, and why Creation has to be correct.   More extensive evidence, largely ignored or brushed over by most of the agnostic scientific community, is contained in the excellent book In the Beginning by Walter T. Brown.  More on that later.  Let's first look at:
+                 <br/>
+                 <br/>
+                 The Male - Female Problem
+                 <br/>
+                 <br/>
+                 The simplest and most compelling argument for Creation is the male/female pairing issue.
+                 <br/>
+                 <br/>
+                 Abstract:  If an animal mates with another animal not of its exact species, the result will be a sterile creature (e.g. a horse mating with a donkey produces a sterile mule).  If animals of a given species mate and produce an abnormal offspring (i.e. a mutant), it also is sterile.    Therefore, how could the macro evolutionary process advance?  How could a "mutant" (i.e. advances in form) reproduce?  It would first have to be fertile itself.  It would have to find a sexually compatible mate who was also fertile during its relatively miniscule life span on the overall evolutionary time scale.  Thirdly, their offspring would also have to be fertile and be able to continue the advance.  So if single celled animals formed in the primordial soup and they were asexual (not have either male or female characteristics, but reproducing by themselves, how would they advance to a hermaphroditic state (having both male and female sexual organs) and then to the higher orders of animals which almost always have distinct male and female reproductive organs?  All in-between states are sterile.
+                 <br/>
+                 <br/>
+                 The Details:  Evolution can only explain asexual or self-fertilizing hermaphroditic reproduction.   Yet we have tens of thousands of the higher orders of species with perfectly matched sexually sets of males and females.  And any deviations from a normal union and offspring is sterile (not capable of reproduction).  Why?  How could evolutionary processes possibly explain what we see all around us today?
+                 <br/>
+                 <br/>
+                 In short, the theory of evolution states that lower life evolved over eons into higher life forms.  Many lower life forms (generally single cells or plants) are asexual, which is what one would expect if the theory of evolution had any validity.  If the evolutionary process was to continue however, we would expect the continuation of asexual characteristics or possibly hermaphroditic characteristics (i.e. having both sets of sexual reproductive organs).  Moreover, an evolving hermaphroditic creature should be able to self-fertilize itself.  Without asexual characteristics or self-fertilizing hermaphroditic characteristics, how possibly could a mutant entity reproduce?  The chance of such a mutant finding an exact complementary mate within its lifespan would be extremely remote given the infrequency of mutations, and especially fertile mutations.
+                 <br/>
+                 <br/>
+                 Yet scientific observation reveals that of all the hermaphroditic creatures, only the flatworm is self-fertilizing.  Moreover, there are no (or a statistically insignificant number of) creatures that we might suppose or rationalize as evolving.  Given the eons of time for evolution to take place,we should expect to see many creatures at all stages of the evolutionary process.  But we don't see any missing links to speak of, or creatures in transition. (Once in a while some "scientist" will speculate and publish some "finding" which is generally discarded later)
+                 <br/>
+                 <br/>
+                 When we find a mutant in the higher level creatures, it is nearly always sterile.  Furthermore, the offspring of cross specie types are always sterile (such as the mule, an offspring of a horse and donkey or the offspring of one type of dolphin mating with another type of dolphin.).
+                 <br/>
+                 <br/>
+                 Again, how can possibly sterile creatures reproduce and continue the evolutionary process?  They can't!!!
+                 <br/>
+                 <br/>
+                 The answer to the male-female problem is pretty obvious.   Genesis 5:2 states:  "He (God) created them male and female and blessed them."
+                 <br/>
+                 <br/>
+                 Click here for a full dissertation on the male-female subject which also shows the possible progressions of evolutionary changes.
+                 <br/>
+                 <br/>
+                </font>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           why is it that both males and females have even numbers of ribs? if god took a rib from man, did he originally make man with an odd number of ribs?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          when man tried to understand nature, theism was born
+          <br/>
+          when man tried to understand God, atheism was born
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_292090" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=292090" id="qrwq_292090" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_292090" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=10654&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="10654"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 7
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 95">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10654&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 95">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10654&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 31 to 45 of 95">
+        3
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=10654&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 16 to 30 of 95">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=10654&amp;page=7&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 91 to 95 of 95">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=10654#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=b58a740badbd173aee25c10a673ad245">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=b58a740badbd173aee25c10a673ad245">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=b58a740badbd173aee25c10a673ad245">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=b58a740badbd173aee25c10a673ad245">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=b58a740badbd173aee25c10a673ad245">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=b58a740badbd173aee25c10a673ad245">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=b58a740badbd173aee25c10a673ad245">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=b58a740badbd173aee25c10a673ad245">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=b58a740badbd173aee25c10a673ad245">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=b58a740badbd173aee25c10a673ad245">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=b58a740badbd173aee25c10a673ad245">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=b58a740badbd173aee25c10a673ad245">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=b58a740badbd173aee25c10a673ad245">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=b58a740badbd173aee25c10a673ad245">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=b58a740badbd173aee25c10a673ad245">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=b58a740badbd173aee25c10a673ad245">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=b58a740badbd173aee25c10a673ad245">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=b58a740badbd173aee25c10a673ad245">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=b58a740badbd173aee25c10a673ad245">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=b58a740badbd173aee25c10a673ad245">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=b58a740badbd173aee25c10a673ad245">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=b58a740badbd173aee25c10a673ad245">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=b58a740badbd173aee25c10a673ad245">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=b58a740badbd173aee25c10a673ad245">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=b58a740badbd173aee25c10a673ad245">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=b58a740badbd173aee25c10a673ad245">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=b58a740badbd173aee25c10a673ad245">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=b58a740badbd173aee25c10a673ad245">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=b58a740badbd173aee25c10a673ad245">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=b58a740badbd173aee25c10a673ad245">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=b58a740badbd173aee25c10a673ad245">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=b58a740badbd173aee25c10a673ad245">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=b58a740badbd173aee25c10a673ad245">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=b58a740badbd173aee25c10a673ad245">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=b58a740badbd173aee25c10a673ad245">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=b58a740badbd173aee25c10a673ad245">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=b58a740badbd173aee25c10a673ad245">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=b58a740badbd173aee25c10a673ad245">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=b58a740badbd173aee25c10a673ad245">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=b58a740badbd173aee25c10a673ad245">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=b58a740badbd173aee25c10a673ad245">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=b58a740badbd173aee25c10a673ad245">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=b58a740badbd173aee25c10a673ad245">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=b58a740badbd173aee25c10a673ad245">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=b58a740badbd173aee25c10a673ad245">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=b58a740badbd173aee25c10a673ad245">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=b58a740badbd173aee25c10a673ad245">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=b58a740badbd173aee25c10a673ad245">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=b58a740badbd173aee25c10a673ad245">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=b58a740badbd173aee25c10a673ad245">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=b58a740badbd173aee25c10a673ad245">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=b58a740badbd173aee25c10a673ad245">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=b58a740badbd173aee25c10a673ad245">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=b58a740badbd173aee25c10a673ad245">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=b58a740badbd173aee25c10a673ad245">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=b58a740badbd173aee25c10a673ad245">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=b58a740badbd173aee25c10a673ad245">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=b58a740badbd173aee25c10a673ad245">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=b58a740badbd173aee25c10a673ad245">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=b58a740badbd173aee25c10a673ad245">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=b58a740badbd173aee25c10a673ad245">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=b58a740badbd173aee25c10a673ad245">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=b58a740badbd173aee25c10a673ad245">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=b58a740badbd173aee25c10a673ad245">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=10654&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=10654#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=b58a740badbd173aee25c10a673ad245">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=10654#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     10:04 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=b58a740badbd173aee25c10a673ad245&amp;rand=1392433440" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

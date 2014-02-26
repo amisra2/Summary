@@ -1,0 +1,4400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=b58a740badbd173aee25c10a673ad245&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=11467&amp;page=3";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="billions, colors, human, observation, sight, yellow, primary, universe, color, that’s, science, applied, inspire, rational, testable, worldviews, thought, emotion, visible, outline, stars, addressed, don’t, light, conflicts, possibility, exist, dozens, limited, hundreds, things, years, matters, community, generally, scientific, planets, evolution, telescope, repeatable, micorscope, observations, debate, evolutionists, learn, enable, decision, senses, observe, reality" name="keywords"/>
+  <meta content="Testable, repeatable, observable. It’s a big part of evolution, a big part of science. When debates come up concerning conflicts in worldviews, it’s often the observation that’s involved that determines the validity of an argument, or how it will be applied to a political decision.  While humans have five senses that enable us to observe reality, it’s usually the sense of sight that is applied to what science can learn - we see through a micorscope, we see through a telescope. etc. Are not most" name="description"/>
+  <title>
+   Observation - Page 3
+  </title>
+  <link href="showthread.php?t=11467&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=b58a740badbd173aee25c10a673ad245" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=b58a740badbd173aee25c10a673ad245" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=b58a740badbd173aee25c10a673ad245&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=b58a740badbd173aee25c10a673ad245">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=b58a740badbd173aee25c10a673ad245">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=b58a740badbd173aee25c10a673ad245">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=b58a740badbd173aee25c10a673ad245">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=b58a740badbd173aee25c10a673ad245">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=b58a740badbd173aee25c10a673ad245">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=b58a740badbd173aee25c10a673ad245&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=b58a740badbd173aee25c10a673ad245">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=b58a740badbd173aee25c10a673ad245">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=b58a740badbd173aee25c10a673ad245">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+       Creation(Intelligent Design) vs Evolution
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Observation
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=b58a740badbd173aee25c10a673ad245&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=b58a740badbd173aee25c10a673ad245" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="11467"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 3 of 4
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 54">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11467&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 16 to 30 of 54">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 1 to 15 of 54">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11467&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 54">
+        2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 31 to 45 of 54">
+        3
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 46 to 54 of 54">
+        4
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 46 to 54 of 54">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 46 to 54 of 54">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 31 to 45 of 54
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=11467&amp;page=3&amp;s=b58a740badbd173aee25c10a673ad245" title="Reload this Page">
+       Observation
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=b58a740badbd173aee25c10a673ad245&amp;t=11467&amp;pp=15&amp;page=3" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=b58a740badbd173aee25c10a673ad245&amp;do=sendtofriend&amp;t=11467" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245&amp;do=addsubscription&amp;t=11467" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="11467"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="3"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 11467);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319886&amp;mode=threaded#post319886">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_319886">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-10-2008,
+          <span class="time">
+           03:46 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319886#post319886" name="post319886">
+          #31
+         </a>
+         <a id="postcount319886" name="31">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=10133&amp;s=b58a740badbd173aee25c10a673ad245" title="isly ilwott is offline">
+            <strong>
+             isly ilwott
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=10133&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=10133&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="isly ilwott is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2008
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           824
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_319886">
+          <blockquote class="postcontent restore">
+           It is also interesting that different races of people percieve colors differently.  I have read that the Chinese see green differently.  I suppose that's why they actually think their drab uniforms are fashionable.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319886" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319886" id="qrwq_319886" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319886" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319894">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-10-2008,
+          <span class="time">
+           05:34 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319894#post319894" name="post319894">
+          #32
+         </a>
+         <a id="postcount319894" name="32">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319894">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319816#post319816" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               My question doesn’t really concern the very few pure colors that we understand. My  question concerns the possibility of other colors existing that we can’t possibly understand, and how those colors might hold information about astronomy that could contradict what we believe about the universe.
+              </div>
+             </div>
+            </div>
+           </div>
+           You're actually asking a very pertinent question, but you're phrasing it in a way that's guaranteed to attract the wrong kind of answer
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <br/>
+           Remember: 'colour' is a label we attach to a particular electromagnetic wavelength - specifically, the ones our eyes are sensitive, or 'tuned' to pick up. When you enquire about 'other colours' existing, you're in effect talking about non-visible electromagnetic frequencies. Now, we can tune electronic receivers to pretty much any frequency we like, thus 'seeing' a much broader range of colours, from radio waves to X-rays, gamma rays and so forth.
+           <br/>
+           <br/>
+           It's kind of strange to think of it like this, but a radio transmitter is doing exactly the same thing as a torch: spitting out light, just at a different frequency. And since, as you know, you can listen to your radio indoors, that means your opaque-to-visible-light walls are translucent on other frequencies - which is slightly unnerving, frankly.
+           <br/>
+           <br/>
+           Anyway, by the very meaning of 'colour' - no, there are no 'colours' of which we are ignorant that could overturn our understanding of the universe.
+           <br/>
+           <br/>
+           However, your question does touch on relevant issues like dark matter, which is something we can't 'see' using EM waves in the normal sense. We can only observe it indirectly by its gravitational effects on light we
+           <i>
+            can
+           </i>
+           see.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Before TQ calls me a flat earther, I have no problem with  the solar system distances above. I guess I can even swallow the proclamation that there are a couple dozen stars that range from 4 to 12 light years from earth, in spite of my light-days NY to LA analogy above, and what the microscopic specks on that 4‘ diameter ball can see. I realize that atheists love the idea of a universe so big that no God could oversee it all,
+             </div>
+            </div>
+           </div>
+           Well, that makes
+           <i>
+            no
+           </i>
+           sense at all
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           That's like saying atheists love the idea of a number so big that no number could be bigger.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              But Richard Dawkins has claimed that life anywhere else in the universe has to have evolved by the Darwinian method. That’s the same kind of thinking that says light behaves all throughout the universe exactly the same way it behaves here in our solar system, and our knowledge of five whole colors tells us so, so we can make maps of the universe involving billions of light years, and ram it down school childrens throats, while telling them to leave what they learned in Sunday School at home. It’s not science.
+             </div>
+            </div>
+           </div>
+           The fundamental problem here is that you get far more pleasure cooking up these fantastic stories than you ever could applying some critical thinking and nipping them in the bud
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <br/>
+           The reason we make maps of the universe on the scale of billions of light years is that the scientific method has led us to that tentative but evidentially robust conclusion.
+           <br/>
+           <br/>
+           I mean, look at
+           <a href="http://hubblesite.org/newscenter/archive/releases/1996/01/" target="_blank">
+            this
+           </a>
+           . A section of the sky the width of a dime 75 feet away,
+           <i>
+            crammed
+           </i>
+           with galaxies. And there's nothing special about that dime's worth of sky, either.
+           <br/>
+           <br/>
+           The frankly inconceivable scale of the universe is something we just have to try and deal with as best we can. Your earlier comment was revealing in that respect:
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I realize that atheists love the idea of a universe so big that no God could oversee it all,
+             </div>
+            </div>
+           </div>
+           Clearly,
+           <i>
+            you
+           </i>
+           have a problem reconciling such a vast, humanity-dwarfing universe with your religion, otherwise you wouldn't perceive it as a coup for atheists. This thread itself seems aimed at securing reasonable doubt within your mind as to the veracity of current estimates - why would you want to do that if you didn't find them troubling?
+           <br/>
+           <br/>
+           I don't see the size of the universe as having any implications one way or another, theistically speaking. Omnipotence is what it is: no one thing can be described as harder than any other for an omnipotent being. My position can be summarised thus: I see no evidence for an attentive, involved, anthropomorphic deity that isn't
+           <i>
+            better
+           </i>
+           explained by human ingenuity and/or frailty. I find no compelling reasoning in support of any kind of ultimate creator that does not in turn beg the question of his origin, and again I find the theistic willingness to suspend such rules in the special case of god to be a reflection of our own limitations: we cannot imagine ourselves not existing, and therefore falsely believe that we
+           <i>
+            can
+           </i>
+           imagine a personality enduring forever. We can't. Whatever it is you're imagining when you think of god being timeless, must necessarily be wrong. You can no more imagine that than you can imagine the colour of ultra-violet.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319894" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319894" id="qrwq_319894" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319894" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319902">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-10-2008,
+          <span class="time">
+           06:44 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319902#post319902" name="post319902">
+          #33
+         </a>
+         <a id="postcount319902" name="33">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1517&amp;s=b58a740badbd173aee25c10a673ad245" title="Kronus is offline">
+            <strong>
+             Kronus
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1517&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1517&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Kronus is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,930
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319902">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319877#post319877" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Why then, have few if any, naked eye observations from hundreds of years ago been turned on their heads?
+              </div>
+             </div>
+            </div>
+           </div>
+           Why should they be?  Hundreds of years ago astronomers said "I saw such and such".  And they had, their eyes weren't lying to them.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319877#post319877" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               How recently have we discovered the limitations of the eye, and built these tools? You’re making these tools out to be the cats meow for space exploration, yet modern methods only seem to ADD TO, not CHANGE what astronomers discovered hundreds of years ago.
+              </div>
+             </div>
+            </div>
+           </div>
+           You say that as if it were some sort of problem?  Early astronomers mapped the stars, plotted the course of the planets, discovered the moons of Jupiter.  They did their jobs, and they did them well.  Which means they didn't just make up a bunch of stuff which we now find ourselves needing to refute.  They only made statements which they could support, and given the task they had set out for themselves and the tools they had available that was a fairly small set of statements.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319877#post319877" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               That does not indicate any breakthrough knowledge in our very limited ability to see.
+              </div>
+             </div>
+            </div>
+           </div>
+           You are, of course, wrong.  Huge amounts of knowledge has been added.  Change does not need to be revamping the past, it can be growth towards the future.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319877#post319877" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               If we’ve made tremendous new discoveries about colors and light,
+              </div>
+             </div>
+            </div>
+           </div>
+           We haven't, and no one has said we have.  Do you need a tutorial on the basics of light?  Because I can't help but get the impression that you have some serious misconceptions that are seriously hindering your ability to follow what we're saying here.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319902" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319902" id="qrwq_319902" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319902" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319903">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-10-2008,
+          <span class="time">
+           06:49 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319903#post319903" name="post319903">
+          #34
+         </a>
+         <a id="postcount319903" name="34">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1517&amp;s=b58a740badbd173aee25c10a673ad245" title="Kronus is offline">
+            <strong>
+             Kronus
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1517&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1517&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Kronus is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,930
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319903">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Multiple light years away, there could be something going on that is in a different realm from the electromagnetic spectrum. Something that could interfere with how we read it at those distances.
+              </div>
+             </div>
+            </div>
+           </div>
+           And yet,
+           <b>
+            ALL
+           </b>
+           of our observations are consistant with the laws of light and optics being universal.
+           <b>
+            NOTHING
+           </b>
+           has ever suggested that the laws of the universe change from place to place.  So until some shred of data arises to support your wild idea, it goes in the reject pile.
+           <br/>
+           <br/>
+           You can make up all the "what if" scenarios you like, but if there's no data to support them, if they
+           <i>
+            contradict
+           </i>
+           the data we have, then they have no place in a real scientific discussion.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319903" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319903" id="qrwq_319903" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319903" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319907">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-10-2008,
+          <span class="time">
+           08:31 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319907#post319907" name="post319907">
+          #35
+         </a>
+         <a id="postcount319907" name="35">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=3909&amp;s=b58a740badbd173aee25c10a673ad245" title="GazzaElliott is offline">
+          <img alt="GazzaElliott's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=3909&amp;dateline=1146016129"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3909&amp;s=b58a740badbd173aee25c10a673ad245" title="GazzaElliott is offline">
+            <strong>
+             GazzaElliott
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3909&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3909&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="http://www.flickr.com/photos/gazzaelliott/">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="GazzaElliott is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Edits = Typo zapping!!!!!
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2006
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Portsmouth - UK
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           346
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319907">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319894#post319894" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Omnipotence is what it is: no one thing can be described as harder than any other for an omnipotent being.
+              </div>
+             </div>
+            </div>
+           </div>
+           Minor quibble. Omnipotence merely means that a being is capable of all things. It states nothing about how awkward or difficult these things are. Making a galaxy may require some serious brainsweat, whilst making a person may not...
+           <br/>
+           <br/>
+           Anyway, besides that I agree with you!
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          I cannot believe the same God who endowed us with logic and sense intended us to forgo thier use - Galileo Galilei
+          <br/>
+          <br/>
+          A fanatic is one who can't change his mind and won't change the subject - Winston Stanley Churchill
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319907" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319907" id="qrwq_319907" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319907" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319916">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-10-2008,
+          <span class="time">
+           10:53 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319916#post319916" name="post319916">
+          #36
+         </a>
+         <a id="postcount319916" name="36">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245" title="electrolyte is offline">
+            <strong>
+             electrolyte
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3272&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="electrolyte is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Scholar for Hire
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,691
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319916">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Multiple light years away, there could be something going on that is in a different realm from the electromagnetic spectrum. Something that could interfere with how we read it at those distances.
+              </div>
+             </div>
+            </div>
+           </div>
+           We detect the very same emission spectra from distant items like supernovae and quasars as we do from atoms in the lab on our planet.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               There’s not a thing wrong with human curiosity, the things we’ve learned and guessed at, and the future things we’ll learn and guess at.
+              </div>
+             </div>
+            </div>
+           </div>
+           You love to characterize research as guessing when it is nothing of the sort.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               People who choose to explore these kinds of things should be completely unrestricted to study and guess and hypothesize and theorize all they want. But there should be a point where we ask them to do it on their own nickel, on their own time, and refrain from teaching it in public schools as fact.
+              </div>
+             </div>
+            </div>
+           </div>
+           It's not mere hypothesis.  It's a collection of facts that together form an extremely well supported theory.  This is how science works.  This is the science we teach.  Your only motivation for taking this out of schools is your religion-based anti-science bias.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               We make that demand of ID studies, and it needs to be made of studies of astronomy, or anything considered by the general public to be subjective.
+              </div>
+             </div>
+            </div>
+           </div>
+           Several points to make:
+           <br/>
+           ID is not a theory.  It has no collection of facts and observations and
+           <i>
+            supported
+           </i>
+           hypotheses that explain a phenomenon.  There has been
+           <i>
+            no
+           </i>
+           research or experimentation that can be used to support ID.  (But I thought you didn't want to delve into that?)
+           <br/>
+           Those demands
+           <i>
+            are
+           </i>
+           made of astronomy.  If you want evidence that the spectrum is the same millions, billions of light years away, we have it.  We've observed the light from far-off stars and we see the same thing.  We have comprehensive explanations for the characteristics of light based on wavelength.  These conclusions are not lacking support.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Billions-of-light-years astronomy is not ONE BIT more objective than searches for intelligence in biology.
+              </div>
+             </div>
+            </div>
+           </div>
+           *shrug*  Look, marc, if you're just going to lie, I won't bother.  There's nothing objective about measuring wavelength of incoming light.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319874#post319874" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I'm showing that it very well may, your closed mindedness notwithstanding.
+              </div>
+             </div>
+            </div>
+           </div>
+           No, you're
+           <i>
+            saying
+           </i>
+           that it may, but not only do you have no evidence, the evidence is against your position.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the chemistry of carbon compounds that crawl.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319916" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319916" id="qrwq_319916" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319916" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319931">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-11-2008,
+          <span class="time">
+           05:35 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319931#post319931" name="post319931">
+          #37
+         </a>
+         <a id="postcount319931" name="37">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319931">
+          <blockquote class="postcontent restore">
+           Following on from my earlier post, to address a few points I missed:
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319816#post319816" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               But Richard Dawkins has claimed that life anywhere else in the universe has to have evolved by the Darwinian method. That&#8217;s the same kind of thinking that says light behaves all throughout the universe exactly the same way it behaves here in our solar system,
+              </div>
+             </div>
+            </div>
+           </div>
+           As it turns out, no, it isn't like that at all
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <br/>
+           Dawkin's statement is correct. The reason you find it presumptuous is that - if you'll forgive me for saying so - you're doing what you always do when discussing evolution and conflating it with other phenomena.
+           <br/>
+           <br/>
+           Darwinian evolution does
+           <i>
+            not
+           </i>
+           mean life elsewhere has to look like it does here, or be based on cells and DNA, or even on carbon.
+           <br/>
+           <br/>
+           Darwinian evolution does
+           <i>
+            not
+           </i>
+           mean life must have arisen in the absence of a creator.
+           <br/>
+           <br/>
+           Darwinian evolution is simply this: the inevitable result of inheritable variation and competition for limited resources. Can life ever reproduce perfectly? No: uncertainty is demonstrably integral to the physics of our universe. Can life ever have access to unlimited resources? No: the instant you reproduce, the resources available per organism are halved. Dawkins is merely saying that whereever life may exist and in whatever form, it
+           <i>
+            cannot avoid
+           </i>
+           being subject to Darwinian evolution.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319877#post319877" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Why then, have few if any, naked eye observations from hundreds of years ago been turned on their heads?
+              </div>
+             </div>
+            </div>
+           </div>
+           Is there some reason they should be? We know the height of Everest more accurately now than we did on the day of its discovery, but the refinement is minor because the original techniques were pretty good.
+           <br/>
+           <br/>
+           In any case, many hypotheses based upon initial observation
+           <i>
+            have
+           </i>
+           been overturned. For instance, the Andromeda galaxy was initially described as a 'small cloud' and as late as 1917 was believed to lie within our galaxy - or rather, it was believed that our galaxy was all there was, and that Andromeda was a part of it. It was 1925 before Hubble settled the matter, and we started to appreciate just
+           <i>
+            how
+           </i>
+           damn big our universe really is. Since then, the distance to Andromeda has been confirmed via at least four independent methods to be around 2.5 million LY.
+           <br/>
+           <br/>
+           Then there are quasars, which I seem to vaguely recall being described within my lifetime as existing on the fringe of our own galaxy - whoops! Not
+           <i>
+            quite
+           </i>
+           right. And don't forget the observations of gravitational lensing, the observational confirmation of relativity...
+           <br/>
+           <br/>
+           We may not have recently overturned many of the comparatively parochial observations of our ancestors, but we've looked
+           <i>
+            so
+           </i>
+           far beyond what the naked eye or early instruments could detect, and discovered the context in  which our local stellar neighbourhood exists.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Friedrich Wilhelm Bessel, in the early 1800&#8217;s, was the first to use parallax in calculating the distance to a star. Like myself, he had no university education, making him worthless to most 4forums posters.
+              <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+              If we&#8217;ve made tremendous new discoveries about colors and light, I&#8217;d expect his conclusions to turned upside down, yet in fact they are only a few percentages different than what modern methods tell us. Do 21st century  college graduates with all the latest tools really know more about light behavior or color recognition than non college graduate Friedrich Bessel did 200 years ago? Where&#8217;s the proof?
+             </div>
+            </div>
+           </div>
+           Your reasoning doesn't add up, as I'm sure you'd recognise for yourself if you took the time to think about it. Why would new discoveries
+           <i>
+            necessarily
+           </i>
+           invalidate parallax techniques? We do indeed know a heck of a lot more now about the electromagnetic spectrum and the behaviour of light than Bessel ever could - but we haven't found anything that grossly invalidates the proven geometric techniques he employed. Incidentally, Bessel also pioneered the technique of deducing hitherto unseen companion bodies from the erratic motion of stars, correctly predicting the existence of Sirius B. That same technique, massively refined, is now used to find extrasolar planets.
+           <br/>
+           <br/>
+           <b>
+            Late edit for an important point:
+           </b>
+           <br/>
+           <br/>
+           The close correlation between Bessel's estimates and those produced by other methods is, in fact, highly significant. The more independent methods there are for establishing a fact, the better. Why? Because it safeguards against the 'unknown and unknowable' variables AA and your good self are fond of invoking. The reasoning goes thus: whatever the chances may be of one particular technique being unexpectedly and wildly inaccurate, it's highly unlikely that a completely independent technique would be inaccurate to exactly the same degree. Carbon dating is a good example of this: the technique has been calibrated by several independent methods (tree rings, lake varves, ice cores, coral growth, etc etc). All those methods are potentially error-prone. However, the
+           <i>
+            consillience
+           </i>
+           of those results means that in order to dispute them it is not enough to simply say 'well, there might be some source of error you haven't thought of' and dismiss them out of hand. You have to explain why the 'unknown variable' that invalidates ice core dating would just happen to induce
+           <i>
+            the same
+           </i>
+           wrong result as the completely different 'unknown variables' that invalidate tree ring, lake varves, coral growth etc etc. The burden of proof is very much upon the skeptic.
+           <br/>
+           <br/>
+           It is sort of funny, though, that no matter what happens you're not happy. Multiple methods confirm the same results and you complain because they haven't contradicted each other. Would it be grossly unfair of me to predict what you would be saying if they
+           <i>
+            had
+           </i>
+           contradicted each other?
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 08-12-2008 at
+         <span class="time">
+          05:11 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319931" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319931" id="qrwq_319931" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319931" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_319938">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-11-2008,
+          <span class="time">
+           09:53 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=319938#post319938" name="post319938">
+          #38
+         </a>
+         <a id="postcount319938" name="38">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1010&amp;s=b58a740badbd173aee25c10a673ad245" title="Ripskar is offline">
+          <img alt="Ripskar's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1010&amp;dateline=1317232730"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1010&amp;s=b58a740badbd173aee25c10a673ad245" title="Ripskar is offline">
+            <strong>
+             Ripskar
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1010&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1010&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Ripskar is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Grognard
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Here be Dragons
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,423
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_319938">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                electrolyte
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319916#post319916" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               We detect the very same emission spectra from distant items like supernovae and quasars as we do from atoms in the lab on our planet.
+               <br/>
+               <br/>
+               Those demands
+               <i>
+                are
+               </i>
+               made of astronomy.  If you want evidence that the spectrum is the same millions, billions of light years away, we have it.  We've observed the light from far-off stars and we see the same thing.  We have comprehensive explanations for the characteristics of light based on wavelength.  These conclusions are not lacking support.
+              </div>
+             </div>
+            </div>
+           </div>
+           Actually there is a difference in the spectra, namely the redshift of the hydrogen absorbtion lines.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why pray when you can Google?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_319938" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=319938" id="qrwq_319938" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_319938" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320007">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-11-2008,
+          <span class="time">
+           09:44 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320007#post320007" name="post320007">
+          #39
+         </a>
+         <a id="postcount320007" name="39">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245" title="electrolyte is offline">
+            <strong>
+             electrolyte
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3272&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3272&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="electrolyte is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Scholar for Hire
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,691
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320007">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Ripskar
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319938#post319938" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Actually there is a difference in the spectra, namely the redshift of the hydrogen absorbtion lines.
+              </div>
+             </div>
+            </div>
+           </div>
+           Yes, the spectra are redshifted, but the lines positions
+           <i>
+            relative to each other
+           </i>
+           are identical, which wouldn't be the case if marc's allegations were true.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Organic chemistry is the chemistry of carbon compounds.  Biochemistry is the chemistry of carbon compounds that crawl.
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320007" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320007" id="qrwq_320007" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320007" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320085">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-12-2008,
+          <span class="time">
+           06:25 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320085#post320085" name="post320085">
+          #40
+         </a>
+         <a id="postcount320085" name="40">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1288&amp;s=b58a740badbd173aee25c10a673ad245" title="Waxy is offline">
+          <img alt="Waxy's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1288&amp;dateline=1081793720"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1288&amp;s=b58a740badbd173aee25c10a673ad245" title="Waxy is offline">
+            <strong>
+             Waxy
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1288&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1288&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Waxy is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Calgary AB Canada
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,592
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320085">
+          <blockquote class="postcontent restore">
+           Yet another mind numbing thread.
+           <br/>
+           <br/>
+           Some of you have patience I can only marvel at...
+           <br/>
+           <br/>
+           Waxy
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320085" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320085" id="qrwq_320085" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320085" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320124">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-12-2008,
+          <span class="time">
+           10:41 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320124#post320124" name="post320124">
+          #41
+         </a>
+         <a id="postcount320124" name="41">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320124">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319894#post319894" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               You're actually asking a very pertinent question, but you're phrasing it in a way that's guaranteed to attract the wrong kind of answer
+               <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+               <br/>
+               <br/>
+               Remember: 'colour' is a label we attach to a particular electromagnetic wavelength - specifically, the ones our eyes are sensitive, or 'tuned' to pick up. When you enquire about 'other colours' existing, you're in effect talking about non-visible electromagnetic frequencies. Now, we can tune electronic receivers to pretty much any frequency we like, thus 'seeing' a much broader range of colours, from radio waves to X-rays, gamma rays and so forth.
+               <br/>
+               <br/>
+               It's kind of strange to think of it like this, but a radio transmitter is doing exactly the same thing as a torch: spitting out light, just at a different frequency. And since, as you know, you can listen to your radio indoors, that means your opaque-to-visible-light walls are translucent on other frequencies - which is slightly unnerving, frankly.
+               <br/>
+               <br/>
+               Anyway, by the very meaning of 'colour' - no, there are no 'colours' of which we are ignorant that could overturn our understanding of the universe.
+              </div>
+             </div>
+            </div>
+           </div>
+           Then that’s as far as we can go on it, and that’s fine. Not being a science worshiper myself, I simply don’t automatically take this type of blanket statement as automatically true. What largely prompted this thread happened last Tuesday - 6:30 AM, and a six-figure weather forecaster scientist guy assured everyone watching him that a pretty nice day was ahead, largely cloudy yet with peeks of sun, with a slim chance of very spotty rain. 2 hours later, the beginning of widespread heavy rain, for three solid hours. Unusual of course, but if we have scientific blunders concerning a few miles, I can imagine we could have a few blunders concerning hundreds of thousands of light years.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              However, your question does touch on relevant issues like dark matter, which is something we can't 'see' using EM waves in the normal sense. We can only observe it indirectly by its gravitational effects on light we
+              <i>
+               can
+              </i>
+              see.
+             </div>
+            </div>
+           </div>
+           Then the issue I’ve raised has some merit? Is dark matter the only possible thing we
+           <br/>
+           can’t see using EM waves, or could there be other things that could throw off our conclusions at these great distances? Space dust and clutter does exist, and it’s only logical that greater distances increase it’s likelyhood of interference. No poster yet has said a word about my “scale downs”, to bring into perspective the great distances we’re talking about, the 4’ earth, the 1” earth. Don’t you think that’s a pretty good way to make someone think about these distances? Is there really any other way? Neither the 4’ earth nor  the 1” earth are capable of bringing into focus a light-year distance, but a little quick figuring shows that reducing the earth to a grain of sand can do that.
+           <br/>
+           <br/>
+           Grains of sand vary in size of course, but it’s safe to say that normal visible ones in mortar sand will fit 46 in a line, in the space of 1 inch. 186,000 miles per second is light speed, 23 and a fraction multiplied by 8000 gives us that figure, so light moves at a rate of 23 earths, side by side, in one second. With our 46 per inch figure, we now have light moving at ½ inch per second, if the earth is the size of a grain of sand, easily visible to the naked eye, but obviously very small.  The sun is then 2 ¼ inches in diameter (golf ball - close enough) and is 21 feet away. Neptune is bb size, and is 606 feet away. So if the sun is a golf ball, the earth is a grain of sand, we can fit the entire solar system in a really big field without Pluto. (Forget Pluto, scientists seem to still be having trouble deciding if it’s even a planet or not anyway) How far is a light year from the field? 31, 536,000 seconds in a year, half inch per second, divide by 2, divide by 12, 5280 goes into…….. 249 MILES for one light year. If the earth is a grain of sand, the sun is a golf ball, and the solar system minus Pluto fits into a field, a light-year away from it is 249 miles. I’m rounding things off and being quick and careless, and may have even made a math mistake, but it should help get the point across. The nearest star to us, Centauri is 4.22 light years away, making it 1050 miles away from that grain of sand earth. If the grain of sand earth is in New York city, the nearest star is in Montgomery Alabama. Sirius, 8.55 light years, 2129 miles, just about New York to LA. This is all with light moving at ½ inch per second, we can multiply its speed by just a little over 2000 times by making it go 60 mph. Ever drive 7 or 8 hours straight? I did not long ago. Trying to imagine how many grains of sand I may have passed. Probably couldn’t have been more than a couple of billion, if that. Just a number, right?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              [marc9000]I realize that atheists love the idea of a universe so big that no God could oversee it all,
+             </div>
+            </div>
+           </div>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                peeling
+               </strong>
+              </div>
+              <div class="message">
+               Well, that makes
+               <i>
+                no
+               </i>
+               sense at all
+               <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+               That's like saying atheists love the idea of a number so big that no number could be bigger.
+              </div>
+             </div>
+            </div>
+           </div>
+           Here’s how it makes sense; If atheists seek to support their belief system, they are more likely to accept what science tells them about topics like this without giving the details much thought. People are often short on patience you know, post # 40 indicates it. I honestly wonder if those analogies don’t soar over many peoples heads. They're not scientific, they're common sense. But if an educated person disregards them because of impatience, or arrogance directed at the source, it can obliterate the effect of their education. It's the difference in having been taught
+           <b>
+            what
+           </b>
+           to think, vs. knowing
+           <b>
+            how
+           </b>
+           to think. There is a reason why the most successful countries involve people besides only the educated in the political process.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The fundamental problem here is that you get far more pleasure cooking up these fantastic stories than you ever could applying some critical thinking and nipping them in the bud
+              <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+             </div>
+            </div>
+           </div>
+           I’m not really cooking up fantastic stories, I’m asking logical questions. You’ll notice that I brought this subject up without immediately insulting and name calling anyone in astronomy, something evolutionists don’t always do when starting a topic about ID or Christianity. You’ll notice several subject change attempts, several of my points are being completely ignored, and of course, the trolling, posts 4, 7, 11, 36, and 40 so far. I’m not talking about posts 14, 16, 23, 25, 26, 30, 31, 35, or 38, those are all good, supplemental posts that I like to see.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The reason we make maps of the universe on the scale of billions of light years is that the scientific method has led us to that tentative but evidentially robust conclusion.
+              <br/>
+              <br/>
+              I mean, look at
+              <a href="http://hubblesite.org/newscenter/archive/releases/1996/01/" target="_blank">
+               this
+              </a>
+              . A section of the sky the width of a dime 75 feet away,
+              <i>
+               crammed
+              </i>
+              with galaxies. And there's nothing special about that dime's worth of sky, either.
+             </div>
+            </div>
+           </div>
+           Crammed with them, sure, why not? It’s easy, only a few million light years. The scientific method is used in weather forecasting too.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The frankly inconceivable scale of the universe is something we just have to try and deal with as best we can.
+             </div>
+            </div>
+           </div>
+           Do you think the scientific community should be more compelled to stress some type of similar analogies like my grain-of-sand one above to make it more clear, especially to students, just how inconceivable these great distances are? No? It’s not their job to teach simple math? Maybe they sincerely think that most people have a perfect perception of how far 4, or 8, or thousands of light years are. If they think that, they are more out of touch with human nature than a 6 year old, and I'd question their ability to tell me what's going on thousands of light years away. If they don’t care, if it’s not their job, then maybe it’s just arrogant elitism, and it’s not good for a society. The US wasn’t built on arrogant elitism, and I daresay neither were most European countries including yours. I suspect that the scientific community is just as happy that the public doesn’t have much perception or concern about how far away a hundred thousand light years are, it could help keep the public from asking too many troubling questions. That’s not the accusation of a conspiracy, it’s called laziness in the workplace, and it abounds worldwide. From one person to huge organizations - more often than not if someone’s not held accountable, they won’t be accountable. It’s a sinful world.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Your earlier comment was revealing in that respect:
+             </div>
+            </div>
+           </div>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              [marc9000]I realize that atheists love the idea of a universe so big that no God could oversee it all,
+             </div>
+            </div>
+           </div>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                peeling
+               </strong>
+              </div>
+              <div class="message">
+               Clearly,
+               <i>
+                you
+               </i>
+               have a problem reconciling such a vast, humanity-dwarfing universe with your religion, otherwise you wouldn't perceive it as a coup for atheists. This thread itself seems aimed at securing reasonable doubt within your mind as to the veracity of current estimates - why would you want to do that if you didn't find them troubling?
+              </div>
+             </div>
+            </div>
+           </div>
+           Hahahaha, there could be 100 crazed flat-earth creationists joining with me in asking questions about evolution and astronomy, and it wouldn’t be within light years of the panic and scrambling that evolutionists/atheists have been doing for years now concerning ID. This thread is just aimed at watching the dances. Would I be getting the insults I’m getting in this thread if they all didn’t find this troubling? At least I’m not advocating hauling astronomy to court and getting it thrown out of significant parts of the public realm. Do you think they’re all genuinely mystified that someone would suggest that other branches of science be held to the same criteria that evolutionists have set for ID? This thread wouldn't exist without it, a lot of controversy wouldn't exist without it, the thoughtfulness and usefulness of science has been thrown into  confusion just because militant atheists found a branch of it they didn't personally like, and emotionally set criteria for it that they don't want applied to other branches of it that they do like. Science has been taken over by atheists, and now it's political. It's going to stay that way. Atheists shouldn't complain about it - they caused it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I don't see the size of the universe as having any implications one way or another, theistically speaking. Omnipotence is what it is: no one thing can be described as harder than any other for an omnipotent being. My position can be summarised thus: I see no evidence for an attentive, involved, anthropomorphic deity that isn't
+              <i>
+               better
+              </i>
+              explained by human ingenuity and/or frailty. I find no compelling reasoning in support of any kind of ultimate creator that does not in turn beg the question of his origin, and again I find the theistic willingness to suspend such rules in the special case of god to be a reflection of our own limitations: we cannot imagine ourselves not existing, and therefore falsely believe that we
+              <i>
+               can
+              </i>
+              imagine a personality enduring forever. We can't. Whatever it is you're imagining when you think of god being timeless, must necessarily be wrong. You can no more imagine that than you can imagine the colour of ultra-violet.
+             </div>
+            </div>
+           </div>
+           <br/>
+           How big is the universe? Are there two divisions - the observable, and the unobservable? Is the unobservable predictable, just more galaxies and groups of galaxies, going on forever and forever and forever? If it’s all that endless and limitless, there would have to be an endless, limitless number of planets exactly like this one. Same number of grains of sand, same number of blades of grass, same number of humans who look exactly like each one of us, doing exactly the same things at exactly the same times. Anything anyone could imagine would HAVE to be out there somewhere. There would be planets exactly like this only dogs rule, or others exactly like this where cats rule. The God I believe in would have no problem creating it and ruling over it all, but it would get a little more complex if the identical humans on the other planets were sinners, needed salvation, etc. to differing degrees.
+           <br/>
+           <br/>
+           I don’t believe there are any more earths like this one. I don’t believe there are any planets where dogs rule. I believe there is some kind of limit to the universe somewhere. I'm not afraid of being mocked because of it.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320124" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320124" id="qrwq_320124" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320124" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320125">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-12-2008,
+          <span class="time">
+           10:46 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320125#post320125" name="post320125">
+          #42
+         </a>
+         <a id="postcount320125" name="42">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320125">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Originally Posted by marc9000
+              <br/>
+              Why then, have few if any, naked eye observations from hundreds of years ago been turned on their heads?
+             </div>
+            </div>
+           </div>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Kronus
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319902#post319902" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Why should they be?  Hundreds of years ago astronomers said "I saw such and such".  And they had, their eyes weren't lying to them.
+               <br/>
+               <br/>
+               <br/>
+               You say that as if it were some sort of problem?  Early astronomers mapped the stars, plotted the course of the planets, discovered the moons of Jupiter.  They did their jobs, and they did them well.  Which means they didn't just make up a bunch of stuff which we now find ourselves needing to refute.  They only made statements which they could support, and given the task they had set out for themselves and the tools they had available that was a fairly small set of statements.
+              </div>
+             </div>
+            </div>
+           </div>
+           Here’s what you originally said, that I was responding to;
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Originally Posted by Kronus &#65532;
+              <br/>
+              Mistakes are always possible, but not due to what you seem to be concerned about. For the sort of science you seem to be refering to
+              <b>
+               we don't use naked eye observations.
+              </b>
+              We use machines designed to pick up the appropriate wavelengths of light. We know the limitations of the eye, and so built tools that can do things the eye can't.
+             </div>
+            </div>
+           </div>
+           I was originally questioning mans human, limited capabilities to understand what was involved in incomprehensible distances. That prompted your above statement that “we don’t use naked eye observations.” Your answer was, in effect, that it’s not mans limited, human capabilities that are making the determinations, it’s machines that man has built that make the determinations. If these machines aren’t coming to completely new, different conclusions, then they aren’t showing themselves to be on the completely different level that you clearly implied that they were on.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320125" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320125" id="qrwq_320125" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320125" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320127">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-12-2008,
+          <span class="time">
+           10:56 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320127#post320127" name="post320127">
+          #43
+         </a>
+         <a id="postcount320127" name="43">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=b58a740badbd173aee25c10a673ad245&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320127">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Peeling
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=319931#post319931" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Following on from my earlier post, to address a few points I missed:
+               <br/>
+               <br/>
+               As it turns out, no, it isn't like that at all
+               <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+               <br/>
+               <br/>
+               Dawkin's statement is correct. The reason you find it presumptuous is that - if you'll forgive me for saying so - you're doing what you always do when discussing evolution and conflating it with other phenomena.
+               <br/>
+               <br/>
+               Darwinian evolution does
+               <i>
+                not
+               </i>
+               mean life elsewhere has to look like it does here, or be based on cells and DNA, or even on carbon.
+               <br/>
+               <br/>
+               Darwinian evolution does
+               <i>
+                not
+               </i>
+               mean life must have arisen in the absence of a creator.
+               <br/>
+               <br/>
+               Darwinian evolution is simply this: the inevitable result of inheritable variation and competition for limited resources. Can life ever reproduce perfectly? No: uncertainty is demonstrably integral to the physics of our universe. Can life ever have access to unlimited resources? No: the instant you reproduce, the resources available per organism are halved. Dawkins is merely saying that whereever life may exist and in whatever form, it
+               <i>
+                cannot avoid
+               </i>
+               being subject to Darwinian evolution.
+              </div>
+             </div>
+            </div>
+           </div>
+           <b>
+            It could avoid it if a powerful enough creator was involved.
+           </b>
+           <br/>
+           <br/>
+           Evolutionists constantly complain that creationists don’t take enough time to study the basics of evolution, it really does go both ways. You, Dawkins, and about 100 other posters here don’t know enough about Judeo Christianity to criticize it, if you‘ll forgive me for saying so.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <b>
+               Late edit for an important point:
+              </b>
+              <br/>
+              <br/>
+              The close correlation between Bessel's estimates and those produced by other methods is, in fact, highly significant. The more independent methods there are for establishing a fact, the better. Why? Because it safeguards against the 'unknown and unknowable' variables AA and your good self are fond of invoking. The reasoning goes thus: whatever the chances may be of one particular technique being unexpectedly and wildly inaccurate, it's highly unlikely that a completely independent technique would be inaccurate to exactly the same degree. Carbon dating is a good example of this: the technique has been calibrated by several independent methods (tree rings, lake varves, ice cores, coral growth, etc etc). All those methods are potentially error-prone. However, the
+              <i>
+               consillience
+              </i>
+              of those results means that in order to dispute them it is not enough to simply say 'well, there might be some source of error you haven't thought of' and dismiss them out of hand. You have to explain why the 'unknown variable' that invalidates ice core dating would just happen to induce
+              <i>
+               the same
+              </i>
+              wrong result as the completely different 'unknown variables' that invalidate tree ring, lake varves, coral growth etc etc. The burden of proof is very much upon the skeptic.
+             </div>
+            </div>
+           </div>
+           I basically agree, but when one side, one path of exploration is free to build and build independent methods using the public domain, money and education, and the other path is not, blocked in the courts - separation of church and state / combination of atheism ansd state - it makes sense that path number one is going to come up with more independent methods than path number two. You've just inadvertantly exposed why there is so much fear of ID.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It is sort of funny, though, that no matter what happens you're not happy. Multiple methods confirm the same results and you complain because they haven't contradicted each other. Would it be grossly unfair of me to predict what you would be saying if they
+              <i>
+               had
+              </i>
+              contradicted each other?
+              <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+             </div>
+            </div>
+           </div>
+           Would it be unfair of me to predict the panic in the secular scientific community if ID were free to explore multiple methods of its own to the same degree that evolution is, that is, the huge public establishment?
+           <br/>
+           <br/>
+           We’re not happy no matter what happens because the playing field is not level no matter what happens. We look into a telescope, and we see galaxies, inconceivable distances even when scaling the earth down to a grain of sand. No matter how confident we are, greater and greater light year distances MEAN SOMETHING, when it comes to the likelihood of losing information. It’s speculative, it’s imprecise, and it’s largely useless information. The same things that are used as weapons in throwing ID out of the scientific realm. Either they are both science, or neither one of them are science.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320127" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320127" id="qrwq_320127" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320127" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320138">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-13-2008,
+          <span class="time">
+           07:00 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320138#post320138" name="post320138">
+          #44
+         </a>
+         <a id="postcount320138" name="44">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320138">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=320124#post320124" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Then that&#8217;s as far as we can go on it, and that&#8217;s fine. Not being a science worshiper myself, I simply don&#8217;t automatically take this type of blanket statement as automatically true.
+              </div>
+             </div>
+            </div>
+           </div>
+           And nor does anyone else. I think you
+           <i>
+            grossly
+           </i>
+           underestimate the thoroughness of much of the science you criticise.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What largely prompted this thread happened last Tuesday - 6:30 AM, and a six-figure weather forecaster scientist guy assured everyone watching him that a pretty nice day was ahead, largely cloudy yet with peeks of sun, with a slim chance of very spotty rain. 2 hours later, the beginning of widespread heavy rain, for three solid hours. Unusual of course, but if we have scientific blunders concerning a few miles, I can imagine we could have a few blunders concerning hundreds of thousands of light years.
+             </div>
+            </div>
+           </div>
+           That's a pretty tortured comparison
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           What exactly makes the forecaster's error one of
+           <i>
+            measuring distance?
+           </i>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Then the issue I&#8217;ve raised has some merit? Is dark matter the only possible thing we can&#8217;t see using EM waves, or could there be other things that could throw off our conclusions at these great distances?
+             </div>
+            </div>
+           </div>
+           Throw off our conclusions about what? I'm getting a bit confused as to what you're trying to cast doubt upon.
+           <br/>
+           <br/>
+           Dark matter is stuff that doesn't interact via the electromagnetic force, so again by definition anything that we can't 'see' using EM waves is dark matter.
+           <a href="http://home.slac.stanford.edu/pressreleases/2006/20060821.htm" target="_blank">
+            this
+           </a>
+           is an interesting article about one way we can observe it indirectly
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Space dust and clutter does exist, and it&#8217;s only logical that greater distances increase it&#8217;s likelyhood of interference.
+             </div>
+            </div>
+           </div>
+           Dust and clutter we can see, and chemically analyse through emission or absorption spectra. But again, what exactly do you think it's interfering with?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              No poster yet has said a word about my &#8220;scale downs&#8221;, to bring into perspective the great distances we&#8217;re talking about, the 4&#8217; earth, the 1&#8221; earth. Don&#8217;t you think that&#8217;s a pretty good way to make someone think about these distances?
+             </div>
+            </div>
+           </div>
+           I think it's fine, although when you shrink the earth to 1" across one starts to lose one's grip on how tiny a person is. I don't really get what the problem is.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The nearest star to us, Centauri is 4.22 light years away, making it 1050 miles away from that grain of sand earth. If the grain of sand earth is in New York city, the nearest star is in Montgomery Alabama. Sirius, 8.55 light years, 2129 miles, just about New York to LA.
+             </div>
+            </div>
+           </div>
+           Illuminating, but again - so what?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Here&#8217;s how it makes sense; If atheists seek to support their belief system, they are more likely to accept what science tells them about topics like this without giving the details much thought.
+             </div>
+            </div>
+           </div>
+           I still don't see what this has to do with your claim that atheists love the idea of a universe too big for any god to preside over it. I think you've realised that argument makes no sense and you're trying to turn it into something else.
+           <br/>
+           <br/>
+           But ok, let's follow this new avenue instead. If
+           <i>
+            anyone
+           </i>
+           is actively seeking to support a belief system, no matter what it is, they'll readily accept hypotheses and conclusions they find agreeable whatever the source. Equally, they will
+           <i>
+            dismiss
+           </i>
+           theories or conclusions they find disagreeable, whatever the source, and without giving the details much thought. This has no bearing on the scientific validity (or lack thereof) of the hypotheses or conclusions themselves.
+           <br/>
+           <br/>
+           To put it another way, the fact someone
+           <i>
+            can
+           </i>
+           unquestioningly take statements about the universe's vast scale at face value does not mean if they
+           <i>
+            did
+           </i>
+           ask questions they would find it to be in error.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              People are often short on patience you know, post # 40 indicates it. I honestly wonder if those analogies don&#8217;t soar over many peoples heads. They're not scientific, they're common sense.
+             </div>
+            </div>
+           </div>
+           If you'll forgive me for saying so, you seem to have a rather fuzzy idea of what it means for something to be 'scientific'
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           I don't think your scale analogies (if that's what you're talking about) are soaring over anyone's head. I think they, like me, are wondering what you're trying to show with them.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I&#8217;m not really cooking up fantastic stories, I&#8217;m asking logical questions.
+             </div>
+            </div>
+           </div>
+           Yes, and then
+           <i>
+            answering
+           </i>
+           them yourself, with fantastic stories
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Crammed with them, sure, why not? It&#8217;s easy, only a few million light years. The scientific method is used in weather forecasting too.
+             </div>
+            </div>
+           </div>
+           Again, you're going to have to explain what relevance the difficulties we have forecasting the behaviour of a complex, chaotic system has to the straightforward
+           <i>
+            observation
+           </i>
+           of galaxies. I mean, they're
+           <i>
+            galaxies.
+           </i>
+           Right there, in a picture in front of you. I'm struggling to understand what you think can have gone wrong
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <br/>
+           Let's use the same kind of analogy you've employed. If I want to take a picture of a basketball, I can do that close up, right? But if I want to take a picture of
+           <i>
+            1500
+           </i>
+           basketballs, all spaced out, I have no option but to do so from further away. With a standard 28mm lens on a 35mm camera, and allowing 4 square feet of floor per basketball, I would need to be roughly 90 feet up in the air to fit them all in the frame.
+           <br/>
+           <br/>
+           Now imagine I want to take that same picture with an extreme telephoto lens, equivalent to peeking through a dime-sized hole seventy-five feet away. In order to see all those basketballs through that hole, they're going to have to be a bit further away. Almost
+           <i>
+            nineteen miles
+           </i>
+           in fact.
+           <br/>
+           <br/>
+           Now make them 1500 earth-sized planets. It's a straightforward scaling up of similar triangles: now I'd have to be almost 2,000,000,000 miles away. 1500 suns? 217,011,334,736 miles away. 1500 solar systems (just out to pluto, not including the comets)? 919,679,070,315,789 miles away, or 156LY. If we include the comets, that becomes 2,299,197,675,789,472,500 miles.
+           <br/>
+           <br/>
+           But we aren't looking at basketballs, planets, or solar systems. We're looking at
+           <i>
+            galaxies
+           </i>
+           , giving us a whopping 145,473,622,268,931,148,838,190 miles or 24,746,725,672 LY. Now, that's actually rather
+           <i>
+            more
+           </i>
+           than the measured distance to those galaxies, mainly because I'm assuming they're all laid out flat. To get a more accurate estimate we need to think about looking through a 'cone' of space, with galaxies at different distances.
+           <br/>
+           <br/>
+           But I dunno - maybe I'm just swallowing all this without really thinking about it
+           <img alt="" border="0" class="inlineimg" src="images/smilies/wink.gif" title="Wink"/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Do you think the scientific community should be more compelled to stress some type of similar analogies like my grain-of-sand one above to make it more clear, especially to students, just how inconceivable these great distances are?
+             </div>
+            </div>
+           </div>
+           Um... I'm no stranger to these analogies. I think every astronomical book I've ever encountered has had some variant of 'If earth was a tennis ball...'
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              No? It&#8217;s not their job to teach simple math?
+             </div>
+            </div>
+           </div>
+           Well, no - that would be for teachers to do.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Maybe they sincerely think that most people have a perfect perception of how far 4, or 8, or thousands of light years are.
+             </div>
+            </div>
+           </div>
+           On the contrary, anyone who takes an interest in such things is well placed to appreciate just how
+           <i>
+            hard
+           </i>
+           it is to grasp such distances.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If they don&#8217;t care, if it&#8217;s not their job, then maybe it&#8217;s just arrogant elitism, and it&#8217;s not good for a society.
+             </div>
+            </div>
+           </div>
+           ....no, sorry, you're losing me again now. If I choose to take an interest in a subject, it's suddenly
+           <i>
+            my
+           </i>
+           responsibility to ensure everyone else takes an interest in it too, lest I be guilty of elitism? Most people don't care how far away Andromeda is. If they take an interest, I'm happy to oblige.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The US wasn&#8217;t built on arrogant elitism, and I daresay neither were most European countries including yours.
+             </div>
+            </div>
+           </div>
+           No. They were built on slavery. Oh hang on, that
+           <i>
+            is
+           </i>
+           arrogant elitism!
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I suspect that the scientific community is just as happy that the public doesn&#8217;t have much perception or concern about how far away a hundred thousand light years are, it could help keep the public from asking too many troubling questions.
+             </div>
+            </div>
+           </div>
+           Why do you keep talking about 'the public' and 'scientists' as if they're somehow seperate? Scientists are members of the public too. They're members of the public who have taken and interest and
+           <i>
+            do
+           </i>
+           ask troubling questions. That's how science has advanced. It's a good thing.
+           <br/>
+           <br/>
+           However, you have inadvertantly put your finger upon the primary reason ID is vilified by scientists: it's a PR campaign knowingly exploiting ignorance to leverage public opinion for religious and political purposes, and it is doing so without a care in the world for the damage it is doing to science.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Hahahaha, there could be 100 crazed flat-earth creationists joining with me in asking questions about evolution and astronomy, and it wouldn&#8217;t be within light years of the panic and scrambling that evolutionists/atheists have been doing for years now concerning ID.
+             </div>
+            </div>
+           </div>
+           <i>
+            Now
+           </i>
+           who's choosing to believe something that panders to their beliefs without thinking too hard about the details?
+           <br/>
+           <br/>
+           Like I said: you're much happier telling fantastic stories than thinking critically about them. Evolution has been a 'theory in crisis' for hundreds of years now, and for an equally long time ID has been confidently on the brink of shattering revelations. Call me when something changes
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              This thread is just aimed at watching the dances. Would I be getting the insults I&#8217;m getting in this thread if they all didn&#8217;t find this troubling?
+             </div>
+            </div>
+           </div>
+           Not everyone reacts to repeated accusations of global scientific conspiracy, incompetence and corruption the same way. You ought to at least consider the possibility that you're merely being offensive
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              At least I&#8217;m not advocating hauling astronomy to court and getting it thrown out of significant parts of the public realm. Do you think they&#8217;re all genuinely mystified that someone would suggest that other branches of science be held to the same criteria that evolutionists have set for ID?
+             </div>
+            </div>
+           </div>
+           Er, they
+           <i>
+            are
+           </i>
+           held to the same standards. ID fails to meet them. That's the point
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              This thread wouldn't exist without it, a lot of controversy wouldn't exist without it,
+             </div>
+            </div>
+           </div>
+           That's certainly true, but that doesn't make ID as it stands valid science. It's a PR campaign, designed to achieve precisely what it has achieved in you.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              How big is the universe? Are there two divisions - the observable, and the unobservable?
+             </div>
+            </div>
+           </div>
+           Yes, although that line changes over time.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Is the unobservable predictable, just more galaxies and groups of galaxies, going on forever and forever and forever?
+             </div>
+            </div>
+           </div>
+           No. Current estimates put it at at least 93 billion light years.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If it&#8217;s all that endless and limitless, there would have to be an endless, limitless number of planets exactly like this one.
+             </div>
+            </div>
+           </div>
+           Logically incorrect. One can as many red balls as one likes, and still only have one green one.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Same number of grains of sand, same number of blades of grass, same number of humans who look exactly like each one of us, doing exactly the same things at exactly the same times. Anything anyone could imagine would HAVE to be out there somewhere. There would be planets exactly like this only dogs rule, or others exactly like this where cats rule.
+             </div>
+            </div>
+           </div>
+           Again, logically incorrect. That's like saying there
+           <i>
+            must
+           </i>
+           be a world just like this one where water flows uphill - clearly that's nonsense: this world has been shaped by forces that ensure water flows
+           <i>
+            downhill
+           </i>
+           .
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I don&#8217;t believe there are any more earths like this one. I don&#8217;t believe there are any planets where dogs rule. I believe there is some kind of limit to the universe somewhere. I'm not afraid of being mocked because of it.
+             </div>
+            </div>
+           </div>
+           And nor should you be. Mocked, that is.
+           <br/>
+           <br/>
+           What I
+           <i>
+            would
+           </i>
+           venture to chastise you for is your oft-demonstrated arrogance. You don't see it that way, I think, but arrogance is what it is.
+           <br/>
+           <br/>
+           Time and time again you describe something that
+           <i>
+            you
+           </i>
+           can clearly see is stupid, and blithely assume that
+           <i>
+            other
+           </i>
+           people have been stupid enough to accept it. A more useful attitude would be to think 'If I think this is stupid,
+           <i>
+            maybe I haven't understood it properly.
+           </i>
+           ' A limitless universe does not logically entail 'planet of the dogs'.
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 08-13-2008 at
+         <span class="time">
+          11:17 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320138" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320138" id="qrwq_320138" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320138" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_320141">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-13-2008,
+          <span class="time">
+           07:57 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;p=320141#post320141" name="post320141">
+          #45
+         </a>
+         <a id="postcount320141" name="45">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245" title="Peeling is offline">
+            <strong>
+             Peeling
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3478&amp;s=b58a740badbd173aee25c10a673ad245">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=b58a740badbd173aee25c10a673ad245&amp;do=finduser&amp;userid=3478&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="https://www.smashwords.com/books/view/769">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Peeling is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Zerg is the new cat.
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,077
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_320141">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+               <a href="showthread.php?s=b58a740badbd173aee25c10a673ad245&amp;p=320127#post320127" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <b>
+                It could avoid it if a powerful enough creator was involved.
+               </b>
+              </div>
+             </div>
+            </div>
+           </div>
+           No marc, not even then. However much control such a being exerted, he would merely be replacing one kind of selection with another. Evolution would still be occurring.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Evolutionists constantly complain that creationists don&#8217;t take enough time to study the basics of evolution, it really does go both ways. You, Dawkins, and about 100 other posters here don&#8217;t know enough about Judeo Christianity to criticize it, if you&#8216;ll forgive me for saying so.
+              <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+             </div>
+            </div>
+           </div>
+           Actually, I don't think I've been particularly critical of Christianity at all. I've been critical of
+           <i>
+            faith
+           </i>
+           on a number of occasions, and I'm critical of the justifications offered for Christianity being 'true' or being of genuine divine origin, but as a belief system I don't think I've given it much stick at all. You can believe all you like; you'll only hear from me when you try and justify that belief objectively.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I basically agree, but when one side, one path of exploration is free to build and build independent methods using the public domain, money and education, and the other path is not, blocked in the courts - separation of church and state / combination of atheism ansd state - it makes sense that path number one is going to come up with more independent methods than path number two. You've just inadvertantly exposed why there is so much fear of ID.
+             </div>
+            </div>
+           </div>
+           You need to seperate in your mind the idea of
+           <i>
+            looking for design
+           </i>
+           and the
+           <i>
+            ID movement.
+           </i>
+           They are not the same thing. We can talk about the difficulties with detecting design in more detail elsewhere, if you like, but that's really only a tangential issue. ID as it stands is a religious PR campaign.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Would it be unfair of me to predict the panic in the secular scientific community if ID were free to explore multiple methods of its own to the same degree that evolution is, that is, the huge public establishment?
+             </div>
+            </div>
+           </div>
+           Anyone is free to propose a method for detecting design. The ones proposed so far are faulty. What gets up the nose of scientists is 1) that the ID movement is asking for these worthless methods that have fallen at the first hurdle to be given equal prominence in science classrooms to theories that have withstood centuries of critical and empirical bombardment, and 2) that they're being dishonest. The infamous 'cdesign proponentsists' debacle being a classic example.
+           <br/>
+           <br/>
+           Cry foul all you like - that's the real goal of the ID movement: to manipulate public opinion by false appeals to 'fair play'.
+           <i>
+            Fair
+           </i>
+           would be ID hypotheses successfully weathering the critical storm of peer review like everything else you get taught in the classroom. The proponents of the ID movement know full well that
+           <i>
+            you
+           </i>
+           either don't know or will readily refuse to believe that theories like the Big Bang and evolution have won out on merit after a long, bitter slog. Their stated goal is to foster a default position of cynicism and mistrust of scientific methods, people and results that are not biblically derived. They want to emotionally vaccinate you against being convinced by reason, argument or evidence. You tell me: has it worked?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              We&#8217;re not happy no matter what happens because the playing field is not level no matter what happens. We look into a telescope, and we see galaxies, inconceivable distances even when scaling the earth down to a grain of sand. No matter how confident we are, greater and greater light year distances MEAN SOMETHING, when it comes to the likelihood of losing information. It&#8217;s speculative, it&#8217;s imprecise, and it&#8217;s largely useless information.
+             </div>
+            </div>
+           </div>
+           I invite you to refute my earlier calculations regarding the distance requirements for seeing that many galaxies in such a tiny area of sky.
+           <br/>
+           <br/>
+           Moreover, you're walling yourself into a paradox: you're saying that we could be wrong about the vast distances to other galaxies
+           <i>
+            because they're so far away.
+           </i>
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by Peeling; 08-13-2008 at
+         <span class="time">
+          07:16 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_320141" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=b58a740badbd173aee25c10a673ad245&amp;do=newreply&amp;p=320141" id="qrwq_320141" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_320141" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="11467"/>
+      <input name="s" type="hidden" value="b58a740badbd173aee25c10a673ad245"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 3 of 4
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245" rel="start" title="First Page - Results 1 to 15 of 54">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11467&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" rel="prev" title="Prev Page - Results 16 to 30 of 54">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 1 to 15 of 54">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11467&amp;page=2&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 16 to 30 of 54">
+        2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 31 to 45 of 54">
+        3
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Show results 46 to 54 of 54">
+        4
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" rel="next" title="Next Page - Results 46 to 54 of 54">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=11467&amp;page=4&amp;s=b58a740badbd173aee25c10a673ad245" title="Last Page - Results 46 to 54 of 54">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245">
+       <span class="ctrlcontainer">
+        Creation(Intelligent Design) vs Evolution
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=11467&amp;page=3#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=b58a740badbd173aee25c10a673ad245">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=b58a740badbd173aee25c10a673ad245">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=b58a740badbd173aee25c10a673ad245">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=b58a740badbd173aee25c10a673ad245">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=b58a740badbd173aee25c10a673ad245">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=b58a740badbd173aee25c10a673ad245">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=b58a740badbd173aee25c10a673ad245">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=b58a740badbd173aee25c10a673ad245">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=b58a740badbd173aee25c10a673ad245">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=b58a740badbd173aee25c10a673ad245">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=b58a740badbd173aee25c10a673ad245">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=b58a740badbd173aee25c10a673ad245">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=b58a740badbd173aee25c10a673ad245">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=b58a740badbd173aee25c10a673ad245">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=b58a740badbd173aee25c10a673ad245">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=b58a740badbd173aee25c10a673ad245">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=b58a740badbd173aee25c10a673ad245">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=b58a740badbd173aee25c10a673ad245">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=b58a740badbd173aee25c10a673ad245">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=b58a740badbd173aee25c10a673ad245">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=b58a740badbd173aee25c10a673ad245">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=b58a740badbd173aee25c10a673ad245">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=b58a740badbd173aee25c10a673ad245">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=b58a740badbd173aee25c10a673ad245">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=b58a740badbd173aee25c10a673ad245">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=b58a740badbd173aee25c10a673ad245">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=b58a740badbd173aee25c10a673ad245">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=b58a740badbd173aee25c10a673ad245">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=b58a740badbd173aee25c10a673ad245">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=b58a740badbd173aee25c10a673ad245">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=b58a740badbd173aee25c10a673ad245">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=b58a740badbd173aee25c10a673ad245">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=b58a740badbd173aee25c10a673ad245">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=b58a740badbd173aee25c10a673ad245">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=b58a740badbd173aee25c10a673ad245">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=b58a740badbd173aee25c10a673ad245">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=b58a740badbd173aee25c10a673ad245">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=b58a740badbd173aee25c10a673ad245">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=b58a740badbd173aee25c10a673ad245">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=b58a740badbd173aee25c10a673ad245">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=b58a740badbd173aee25c10a673ad245">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=b58a740badbd173aee25c10a673ad245">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=b58a740badbd173aee25c10a673ad245">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=b58a740badbd173aee25c10a673ad245">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=b58a740badbd173aee25c10a673ad245">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=b58a740badbd173aee25c10a673ad245">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=b58a740badbd173aee25c10a673ad245">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=b58a740badbd173aee25c10a673ad245">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=b58a740badbd173aee25c10a673ad245">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=b58a740badbd173aee25c10a673ad245">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=b58a740badbd173aee25c10a673ad245">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=b58a740badbd173aee25c10a673ad245">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=b58a740badbd173aee25c10a673ad245">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=b58a740badbd173aee25c10a673ad245">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=b58a740badbd173aee25c10a673ad245">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=b58a740badbd173aee25c10a673ad245">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=b58a740badbd173aee25c10a673ad245">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=b58a740badbd173aee25c10a673ad245">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=b58a740badbd173aee25c10a673ad245">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=b58a740badbd173aee25c10a673ad245">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=b58a740badbd173aee25c10a673ad245">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=b58a740badbd173aee25c10a673ad245">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=b58a740badbd173aee25c10a673ad245">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=b58a740badbd173aee25c10a673ad245">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=b58a740badbd173aee25c10a673ad245">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=b58a740badbd173aee25c10a673ad245">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=b58a740badbd173aee25c10a673ad245">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=b58a740badbd173aee25c10a673ad245">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=b58a740badbd173aee25c10a673ad245">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=b58a740badbd173aee25c10a673ad245">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=b58a740badbd173aee25c10a673ad245">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=b58a740badbd173aee25c10a673ad245">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=11467&amp;s=b58a740badbd173aee25c10a673ad245&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=11467&amp;page=3#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=b58a740badbd173aee25c10a673ad245&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=b58a740badbd173aee25c10a673ad245">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=11467&amp;page=3#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     10:03 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=b58a740badbd173aee25c10a673ad245&amp;rand=1392433392" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>
