@@ -1,0 +1,3403 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=4b1cbcd9456fd8062f54adeb722c2736&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=1393&amp;page=4";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="opinion, ideas, pledge, constitution, seperate, curch, state" name="keywords"/>
+  <meta content="Should under God be out of the pledge??? It says in the constitution to seperate curch from state... so in my opinion it should be out. but tell me you ideas" name="description"/>
+  <title>
+   Under God Out? - Page 4
+  </title>
+  <link href="showthread.php?t=1393&amp;page=4&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Government Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Under God Out?
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=4b1cbcd9456fd8062f54adeb722c2736&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="polloptionsblock" id="pollinfo">
+    <form action="poll.php?do=pollvote&amp;pollid=149" class="block" method="post">
+     <div class="blockhead">
+      <h2>
+       Poll:
+       <span class="polltitle">
+        Take under god out of the pledge?
+       </span>
+      </h2>
+     </div>
+     <div class="blockbody">
+      <div class="blockrow" id="polloptions">
+       <ul class="checkradio group">
+        <li>
+         <label for="rb_optionnumber_1">
+          <input id="rb_optionnumber_1" name="optionnumber" tabindex="1" type="radio" value="1"/>
+          YEA!
+         </label>
+        </li>
+        <li>
+         <label for="rb_optionnumber_2">
+          <input id="rb_optionnumber_2" name="optionnumber" tabindex="1" type="radio" value="2"/>
+          NO!!
+         </label>
+        </li>
+        <li>
+         <label for="rb_optionnumber_3">
+          <input id="rb_optionnumber_3" name="optionnumber" tabindex="1" type="radio" value="3"/>
+          yea... i dont care.
+         </label>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="blockfoot">
+      <div class="group">
+       <input class="button" tabindex="1" type="submit" value="Vote Now"/>
+       <a class="textcontrol" href="poll.php?pollid=149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showresults">
+        View Poll Results
+       </a>
+       <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+       <input name="securitytoken" type="hidden" value="guest"/>
+       <input name="do" type="hidden" value="pollvote"/>
+       <input name="pollid" type="hidden" value="149"/>
+      </div>
+     </div>
+    </form>
+   </div>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="1393"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 4 of 5
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="start" title="First Page - Results 1 to 15 of 69">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=1393&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="prev" title="Prev Page - Results 31 to 45 of 69">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=1393&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 30 of 69">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=1393&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 31 to 45 of 69">
+        3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 46 to 60 of 69">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 61 to 69 of 69">
+        5
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 61 to 69 of 69">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 61 to 69 of 69">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 46 to 60 of 69
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=1393&amp;page=4&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Reload this Page">
+       Under God Out?
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;t=1393&amp;pp=15&amp;page=4" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=sendtofriend&amp;t=1393" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=addsubscription&amp;t=1393" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="1393"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="4"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 1393);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28129&amp;mode=threaded#post28129">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_28129">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-17-2003,
+          <span class="time">
+           09:44 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28129#post28129" name="post28129">
+          #46
+         </a>
+         <a id="postcount28129" name="46">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Parcum is offline">
+          <img alt="Parcum's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=7&amp;dateline=1071635341"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Parcum is offline">
+            <strong>
+             Parcum
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=7&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="http://www.torchx.com">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Parcum is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Marsz! Marsz, D&#261;browski!
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('icq', '7', 550, 550); return false;">
+            <img alt="Send a message via ICQ to Parcum" src="images/misc/im_icq.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('aim', '7', 440, 255); return false;">
+            <img alt="Send a message via AIM to Parcum" src="images/misc/im_aim.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '7', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Parcum" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           San Francisco
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           796
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_28129">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              isnt this teaching discrimination? Is it less right to discriminate against gays or more right to discriminate against christians? How is it more wrong to indoctrinate children with dislike towards christians? should children be taught to tolerate christianity? how is exposing children to homosexuality in schools better or worse than exposing children to religion in schools?
+             </div>
+            </div>
+           </div>
+           Not in public schools. We don't teach religion to young children in public schools.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          [COLOR=red]Atheism is a logical fallacy.[/COLOR]
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28129" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28129" id="qrwq_28129" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28129" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28134">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-17-2003,
+          <span class="time">
+           09:54 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28134#post28134" name="post28134">
+          #47
+         </a>
+         <a id="postcount28134" name="47">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+          <img alt="unkerpaulie's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=719&amp;dateline=1094588555"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+            <strong>
+             unkerpaulie
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=719&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="unkerpaulie is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           reasoner
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,778
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28134">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Parcum
+               </strong>
+              </div>
+              <div class="message">
+               Not in public schools. We don't teach religion to young children in public schools.
+              </div>
+             </div>
+            </div>
+           </div>
+           I got that part. my question was, how is it OK to teach homosexuality to young children in schools? particularly by homosexuals that are teaching discrimination against christianity. I certainly agree with not teaching religion in schools, but thats because religion embodies a lot of intolerance, and its something you need to personally decide on when you are mature enough.
+           <br/>
+           <br/>
+           the thing is, when you have gays that come into a school teaching little children to dislike christians, how is that OK? wouldn't that just be replacing one form of discrimination for another?
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by unkerpaulie; 12-17-2003 at
+         <span class="time">
+          10:20 PM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28134" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28134" id="qrwq_28134" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28134" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28136">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-17-2003,
+          <span class="time">
+           10:09 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28136#post28136" name="post28136">
+          #48
+         </a>
+         <a id="postcount28136" name="48">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=192&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="SilentPoet is offline">
+          <img alt="SilentPoet's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=192&amp;dateline=1089391817"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=192&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="SilentPoet is offline">
+            <strong>
+             SilentPoet
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=192&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=192&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="SilentPoet is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Julius Caesar
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('aim', '192', 440, 255); return false;">
+            <img alt="Send a message via AIM to SilentPoet" src="images/misc/im_aim.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           USA
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,315
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28136">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              More stuff in NYC,
+             </div>
+            </div>
+           </div>
+           Those are attempts at reaching public schools with the message. Not the message in the school.
+           <br/>
+           <br/>
+           The gay high school is designed to preotect gay students from being harassed. Its not what I'm here to debate.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              So what if you were raised in a Christian household? If you were raised in an atheist household, you would be atheist. Agnostic, you would be agnostic. This doesn't disprove Christianity.
+             </div>
+            </div>
+           </div>
+           Perhaps you forgot what we were talking about. Your origonal comment that sparked my continuance of showing brainwashing was:
+           <br/>
+           <br/>
+           "Oh, oh, Catholic schools so bad! They brainwash children!! They teach them abotu CATHOLICISM. HOW DISGUSTING. SilentPlanet, you were not brainwashed by Catholics. That's ridiculous. You're just a rebellious teenager, that's all :-)"
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          The search for truth exists on the faulty assumptions that the truth exists, and that you can find it.
+          <br/>
+          <span class="smallfont">
+           <i>
+            To view links or images in signatures your post count must be 10 or greater. You currently have 0 posts.
+           </i>
+          </span>
+          <br/>
+          <br/>
+          <br/>
+          - Proud Israel supporter -
+          <br/>
+          <br/>
+          <br/>
+          <span class="smallfont">
+           <i>
+            To view links or images in signatures your post count must be 10 or greater. You currently have 0 posts.
+           </i>
+          </span>
+          <br/>
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28136" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28136" id="qrwq_28136" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28136" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28168">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           12:52 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28168#post28168" name="post28168">
+          #49
+         </a>
+         <a id="postcount28168" name="49">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Parcum is offline">
+          <img alt="Parcum's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=7&amp;dateline=1071635341"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Parcum is offline">
+            <strong>
+             Parcum
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=7&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="http://www.torchx.com">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Parcum is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Marsz! Marsz, D&#261;browski!
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('icq', '7', 550, 550); return false;">
+            <img alt="Send a message via ICQ to Parcum" src="images/misc/im_icq.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('aim', '7', 440, 255); return false;">
+            <img alt="Send a message via AIM to Parcum" src="images/misc/im_aim.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '7', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Parcum" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jan 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           San Francisco
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           796
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28168">
+          <blockquote class="postcontent restore">
+           That's completely different, SilentPlanet. The Catholic School's Mission is to teach the faith- I suppose you could consider it brainwashing, but it's sort of an exaggerating. The duty of the teachers are to teach children one thing- if they say "well this is what Catholic believe, but you guys have your own opinions", no. They say "this is the faith. Your only choices are with or without God".
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          [COLOR=red]Atheism is a logical fallacy.[/COLOR]
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28168" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28168" id="qrwq_28168" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28168" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28197">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           07:14 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28197#post28197" name="post28197">
+          #50
+         </a>
+         <a id="postcount28197" name="50">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+          <img alt="Charchuk's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=565&amp;dateline=1068034713"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+            <strong>
+             Charchuk
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=565&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Charchuk is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Master Debater
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Canada
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,183
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28197">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                unkerpaulie
+               </strong>
+              </div>
+              <div class="message">
+               charchuk, you have a habit of assuming I mean what I didnt say. Homosexuality is not illegal, religion is not illegal. both are a question of personal choice, and both should be treated the same as far as constitution goes.
+              </div>
+             </div>
+            </div>
+           </div>
+           Wrong on all accounts. Religion is illegal when it is endorsed by the State. And homosexuality is not a personal choice. No more so than being a heterosexual is. And you have to accept it as such.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              the purpose of the constitution is not to supress religion. the purpose of the constitution is to define a government neutral of discrimination and bias.
+             </div>
+            </div>
+           </div>
+           And the only way to do this is to keep the two completely separate.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              yes, religion and state should be separate. but so should homosexuality and state, Santa Claus and state, and any other personal belief/lifestyle and state
+             </div>
+            </div>
+           </div>
+           That is why the State shouldn't make any laws banning it or defining what marriage is either. Government has no business in the bedrooms of consenting persons.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              this is exactly what would happen. as far fetched to your imagination as it may seem, if society by large lobbied for public stonings, you'd be seeing public stonings
+             </div>
+            </div>
+           </div>
+           That is why you have the Constitution and Bill of rights to prevent the majority from oppressing the minority.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I know what religion is. I said religion alone is inadequate for defining a neutral goverment. read what I wrote, not what you think I wrote
+             </div>
+            </div>
+           </div>
+           The state is barred from imposing religious beliefs on others. The founding fathers felt that this was more important since they knew all too well what happens when church and state mix.
+           <br/>
+           <br/>
+           Homosexuality is not a belief, it is biology.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28197" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28197" id="qrwq_28197" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28197" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28198">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           07:16 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28198#post28198" name="post28198">
+          #51
+         </a>
+         <a id="postcount28198" name="51">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+          <img alt="Charchuk's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=565&amp;dateline=1068034713"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+            <strong>
+             Charchuk
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=565&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Charchuk is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Master Debater
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Canada
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,183
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28198">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Parcum
+               </strong>
+              </div>
+              <div class="message">
+               Not in public schools. We don't teach religion to young children in public schools.
+              </div>
+             </div>
+            </div>
+           </div>
+           And it isn't from a lack of trying either. You can't teach sexuality. Either you are or you aren't. They've been teaching sex ed in schools for several decades now.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28198" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28198" id="qrwq_28198" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28198" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28199">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           07:20 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28199#post28199" name="post28199">
+          #52
+         </a>
+         <a id="postcount28199" name="52">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+          <img alt="Charchuk's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=565&amp;dateline=1068034713"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+            <strong>
+             Charchuk
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=565&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Charchuk is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Master Debater
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Canada
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,183
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28199">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                unkerpaulie
+               </strong>
+              </div>
+              <div class="message">
+               I got that part. my question was, how is it OK to teach homosexuality to young children in schools? particularly by homosexuals that are teaching discrimination against christianity. I certainly agree with not teaching religion in schools, but thats because religion embodies a lot of intolerance, and its something you need to personally decide on when you are mature enough.
+              </div>
+             </div>
+            </div>
+           </div>
+           As I had said to Parcum above. You can't teach sexuality. All they are doing is showing how intolerant theists can be towards something they don't (won't) understand.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              the thing is, when you have gays that come into a school teaching little children to dislike christians, how is that OK? wouldn't that just be replacing one form of discrimination for another?
+             </div>
+            </div>
+           </div>
+           How are they teaching little children to dislike christians? Does teaching about the crusades, the Inquistion, or the Burning Times also teach children to "dislike" christians as well? There really isn't all that much in Christian history to speak well of it to begin with. I'm surprised that more people stop being christians once they study all of its bloody and intolerant history.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28199" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28199" id="qrwq_28199" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28199" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28208">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           09:25 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28208#post28208" name="post28208">
+          #53
+         </a>
+         <a id="postcount28208" name="53">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+          <img alt="unkerpaulie's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=719&amp;dateline=1094588555"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+            <strong>
+             unkerpaulie
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=719&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="unkerpaulie is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           reasoner
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,778
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28208">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Charchuk
+               </strong>
+              </div>
+              <div class="message">
+               Wrong on all accounts. Religion is illegal when it is endorsed by the State. And homosexuality is not a personal choice. No more so than being a heterosexual is. And you have to accept it as such.
+              </div>
+             </div>
+            </div>
+           </div>
+           I said religion is not illegal. I'm not disagreeing with you. I even said I agree that the state and religion should be kept separate. followng a religion is your own personal choice, and the government should remain neutral on that at all times. being homosexual, hetrosexual or otherwise is also your personal choice, and the government should remain neutral on this as well. its the same thing I said before...
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Charchuk
+               </strong>
+              </div>
+              <div class="message">
+               Homosexuality is not a belief, it is biology.
+              </div>
+             </div>
+            </div>
+           </div>
+           ^ thats just being plain ignorant. wth does homosexuality have to do with biology??? if you said psychology I would have no problem with that, but biology?? are you serious?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28208" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28208" id="qrwq_28208" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28208" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28211">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           09:34 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28211#post28211" name="post28211">
+          #54
+         </a>
+         <a id="postcount28211" name="54">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+          <img alt="unkerpaulie's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=719&amp;dateline=1094588555"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+            <strong>
+             unkerpaulie
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=719&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="unkerpaulie is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           reasoner
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,778
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28211">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Charchuk
+               </strong>
+              </div>
+              <div class="message">
+               As I had said to Parcum above. You can't teach sexuality. All they are doing is showing how intolerant theists can be towards something they don't (won't) understand.
+              </div>
+             </div>
+            </div>
+           </div>
+           theists dont misunderstand homosexuality. they disagree with it
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                charchuk
+               </strong>
+              </div>
+              <div class="message">
+               How are they teaching little children to dislike christians? Does teaching about the crusades, the Inquistion, or the Burning Times also teach children to "dislike" christians as well? There really isn't all that much in Christian history to speak well of it to begin with. I'm surprised that more people stop being christians once they study all of its bloody and intolerant history.
+              </div>
+             </div>
+            </div>
+           </div>
+           I'm against barring any doctrine that teaches discrimination. that was my original statement. this is what Parcum said
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                parcum
+               </strong>
+              </div>
+              <div class="message">
+               Yes it happened. My 4th grade teacher was gay, and every year we had the annual "gay pride parade", where gay parents would talk to children in the class and explain that gays are normal and that Christians hate them and call them "XXXXXXX" and "dikes". This is partially the reason I was pulled out of the public school system.
+              </div>
+             </div>
+            </div>
+           </div>
+           if you have gay parents coming to 4th graders and telling them that christians hate gays, it sounds to me that they are teaching children discrimination against christians. I think there should be no place for that kind of doctrine in public schools, just as much as religion shouldnt be part of public schools. again this the statement I made in the first place
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28211" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28211" id="qrwq_28211" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28211" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28213">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           09:42 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28213#post28213" name="post28213">
+          #55
+         </a>
+         <a id="postcount28213" name="55">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+          <img alt="Charchuk's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=565&amp;dateline=1068034713"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+            <strong>
+             Charchuk
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=565&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Charchuk is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Master Debater
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Canada
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,183
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28213">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                unkerpaulie
+               </strong>
+              </div>
+              <div class="message">
+               being homosexual, hetrosexual or otherwise is also your personal choice,
+              </div>
+             </div>
+            </div>
+           </div>
+           One's sexuality is not a "personal choice". It is biology.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              ^ thats just being plain ignorant. wth does homosexuality have to do with biology???
+             </div>
+            </div>
+           </div>
+           <a href="http://www.geocities.com/southbeach/boardwalk/7151/biobasis.html" target="_blank">
+            http://www.geocities.com/southbeach/.../biobasis.html
+           </a>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              if you said psychology I would have no problem with that, but biology?? are you serious?
+             </div>
+            </div>
+           </div>
+           So, you're saying that you chose to be a heterosexual? Why would anyone choose to be gay?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28213" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28213" id="qrwq_28213" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28213" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28215">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           09:47 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28215#post28215" name="post28215">
+          #56
+         </a>
+         <a id="postcount28215" name="56">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+          <img alt="Charchuk's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=565&amp;dateline=1068034713"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Charchuk is offline">
+            <strong>
+             Charchuk
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=565&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=565&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Charchuk is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Master Debater
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Canada
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,183
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28215">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                unkerpaulie
+               </strong>
+              </div>
+              <div class="message">
+               theists dont misunderstand homosexuality. they disagree with it
+              </div>
+             </div>
+            </div>
+           </div>
+           Apparently you don't understand it. It is irrelevant if you agree or disagree with it since it is not a choice. Do you choose to breathe air? Do you choose who you love? No, you don't.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I'm against barring any doctrine that teaches discrimination. that was my original statement. this is what Parcum said
+             </div>
+            </div>
+           </div>
+           Christianity teaches discrimination.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              if you have gay parents coming to 4th graders and telling them that christians hate gays, it sounds to me that they are teaching children discrimination against christians.
+             </div>
+            </div>
+           </div>
+           Are they telling the children to hate Christians? Christianity has a long and ugly history. Telling people the truth is not discrimination.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I think there should be no place for that kind of doctrine in public schools, just as much as religion shouldnt be part of public schools.
+             </div>
+            </div>
+           </div>
+           It is not "doctrine". You sound just as bad as those you keep going on about a non-existent gay agenda. The only agenda here is yours.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28215" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28215" id="qrwq_28215" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28215" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28230">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           10:40 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28230#post28230" name="post28230">
+          #57
+         </a>
+         <a id="postcount28230" name="57">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+          <img alt="unkerpaulie's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=719&amp;dateline=1094588555"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+            <strong>
+             unkerpaulie
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=719&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="unkerpaulie is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           reasoner
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,778
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28230">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Charchuk
+               </strong>
+              </div>
+              <div class="message">
+               One's sexuality is not a "personal choice". It is biology.
+               <br/>
+               <br/>
+               So, you're saying that you chose to be a heterosexual? Why would anyone choose to be gay?
+              </div>
+             </div>
+            </div>
+           </div>
+           anyone can choose to be gay. I can choose to be gay at anytime, with no alteration to my biological composition. you can have 2 identical twins, one gay and one straight.
+           <br/>
+           <br/>
+           and there are a number of reasons I can think of off the top of my head why someone would choose to be gay: social acceptance, peer approval, sexual access, rebellion, pure curiousity, and I could go on. how do you explain ex-convicts being gay after coming out of jail? did their right hand develop a few more ridges? did their SCN suddenly get bigger?
+           <br/>
+           <br/>
+           here's an
+           <a href="http://www.familyresearchinst.org/FRI_EduPamphlet1.html" target="_blank">
+            article
+           </a>
+           on the subject... here's
+           <a href="http://www.narth.com/docs/istheregene.html" target="_blank">
+            another
+           </a>
+           (this one touches on the "twin" issue)... here's yet
+           <a href="http://www.gene-watch.org/programs/privacy/gene-sexuality.html" target="_blank">
+            another
+           </a>
+           ...
+           <br/>
+           <br/>
+           linking biological characteristic to sexual preference has been elusive, to say the least. and there are probably more resources on the net that argues against homosexuality linked to biology than for it
+           <br/>
+           <br/>
+           being gay is a choice
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28230" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28230" id="qrwq_28230" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28230" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28231">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           10:47 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28231#post28231" name="post28231">
+          #58
+         </a>
+         <a id="postcount28231" name="58">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Crim is offline">
+          <img alt="Crim's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=65&amp;dateline=1047088534"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Crim is offline">
+            <strong>
+             Crim
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=65&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Crim is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Ralphie
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Illinois
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           911
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28231">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I can choose to be gay at anytime
+             </div>
+            </div>
+           </div>
+           lol, no you can't
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Save me from this drunken jockocracy
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28231" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28231" id="qrwq_28231" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28231" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28235">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           10:57 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28235#post28235" name="post28235">
+          #59
+         </a>
+         <a id="postcount28235" name="59">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+          <img alt="unkerpaulie's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=719&amp;dateline=1094588555"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="unkerpaulie is offline">
+            <strong>
+             unkerpaulie
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=719&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=719&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="unkerpaulie is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           reasoner
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Dec 2003
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,778
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28235">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Crim
+               </strong>
+              </div>
+              <div class="message">
+               lol, no you can't
+              </div>
+             </div>
+            </div>
+           </div>
+           why not? elaborate
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28235" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28235" id="qrwq_28235" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28235" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_28237">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          12-18-2003,
+          <span class="time">
+           11:12 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=28237#post28237" name="post28237">
+          #60
+         </a>
+         <a id="postcount28237" name="60">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Crim is offline">
+          <img alt="Crim's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=65&amp;dateline=1047088534"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Crim is offline">
+            <strong>
+             Crim
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=65&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Crim is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Ralphie
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Illinois
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           911
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_28237">
+          <blockquote class="postcontent restore">
+           You're saying that you can just instantly change what you're attracted to.  You can't.
+           <br/>
+           <br/>
+           You could go have sex with a guy, but you wouldn't like it.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Save me from this drunken jockocracy
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_28237" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=28237" id="qrwq_28237" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_28237" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="1393"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 4 of 5
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="start" title="First Page - Results 1 to 15 of 69">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=1393&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="prev" title="Prev Page - Results 31 to 45 of 69">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=1393&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 30 of 69">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=1393&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 31 to 45 of 69">
+        3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 46 to 60 of 69">
+        4
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 61 to 69 of 69">
+        5
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 61 to 69 of 69">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=1393&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 61 to 69 of 69">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       <span class="ctrlcontainer">
+        Government Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=1393&amp;page=4#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=1393&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=1393&amp;page=4#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=1393&amp;page=4#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     12:36 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,3416 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=4b1cbcd9456fd8062f54adeb722c2736&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=10590";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="federal, government, people, states, constitution, understanding, detriment, overreaches, trust, delegated, powers, founders/ratifiers, place, rightful, reclaim, forefront, policy, domestic, usurpations, watch, continue, usurping, power, books, constitutional, recently, supreme, court, return, state, inception, sovereignty, ideals, revolution, governments" name="keywords"/>
+  <meta content="I have recently read a few books and it seems to me that the federal government has been usurping power (particularly the Supreme Court) since its inception.  The sovereignty of the states and the ideals of the Revolution seem to have been lost upon us, instead of fair state governments people watch and trust, we have a federal government that overreaches its delegated powers to the detriment of the will of the people and the founders/ratifiers understanding of our Constitution. 
+ 
+Should we" name="description"/>
+  <title>
+   Return to Constitutional Government
+  </title>
+  <link href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Government Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Return to Constitutional Government
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=4b1cbcd9456fd8062f54adeb722c2736&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=10590&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="10590"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 41">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10590&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 30 of 41">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10590&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 31 to 41 of 41">
+        3
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=10590&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 30 of 41">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=10590&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 31 to 41 of 41">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 41
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Reload this Page">
+       Return to Constitutional Government
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;t=10590&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=sendtofriend&amp;t=10590" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=addsubscription&amp;t=10590" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="10590"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 10590);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=289844&amp;mode=threaded#post289844">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_289844">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-05-2007,
+          <span class="time">
+           12:39 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=289844#post289844" name="post289844">
+          #1
+         </a>
+         <a id="postcount289844" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="nate895 is offline">
+            <strong>
+             nate895
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=9171&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="nate895 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Jeffersonian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           169
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         Return to Constitutional Government
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_289844">
+          <blockquote class="postcontent restore">
+           I have recently read a few books and it seems to me that the federal government has been usurping power (particularly the Supreme Court) since its inception.  The sovereignty of the states and the ideals of the Revolution seem to have been lost upon us, instead of fair state governments people watch and trust, we have a federal government that overreaches its delegated powers to the detriment of the will of the people and the founders/ratifiers understanding of our Constitution.
+           <br/>
+           <br/>
+           Should we continue down this road of Federal usurpations and just form a new Constitution or should we have the States reclaim the rightful place at the forefront of domestic policy?
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_289844" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=289844" id="qrwq_289844" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_289844" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290205">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-08-2007,
+          <span class="time">
+           04:49 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290205#post290205" name="post290205">
+          #2
+         </a>
+         <a id="postcount290205" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+          <img alt="Phunting's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1034&amp;dateline=1154308213"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+            <strong>
+             Phunting
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1034&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phunting is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           London
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,173
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290205">
+          <blockquote class="postcontent restore">
+           National governmental rule is a logical consequence of government. Local government can regulate all the parking restrictions and rubbish collections they like, but I fail to see why people consider centralized government a bad thing.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          And whom better to dispense such blatantly evident factoids but a self-appointed authority like myself?
+          <br/>
+          <br/>
+          http://www.kevan.org/brain.cgi?Phunting
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290205" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290205" id="qrwq_290205" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290205" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290213">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-08-2007,
+          <span class="time">
+           05:51 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290213#post290213" name="post290213">
+          #3
+         </a>
+         <a id="postcount290213" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2553&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="gamehuis is offline">
+          <img alt="gamehuis's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2553&amp;dateline=1114156973"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2553&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="gamehuis is offline">
+            <strong>
+             gamehuis
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2553&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2553&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="gamehuis is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Trollslayer
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Amsterdam or Beirut
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,329
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290213">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phunting
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290205#post290205" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               National governmental rule is a logical consequence of government. Local government can regulate all the parking restrictions and rubbish collections they like, but I fail to see why people consider centralized government a bad thing.
+              </div>
+             </div>
+            </div>
+           </div>
+           Easy. Centralized government means a concentration of power in the hands of a few people. And power corrupts and it attracts the sort of people that should not have power.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Eh, what's this?  A Republican from Texas that actually makes sense and can speak English?
+          <br/>
+          <br/>
+          http://www.ronpaul2008.com/html/Issues_fx.html
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290213" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290213" id="qrwq_290213" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290213" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290221">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-08-2007,
+          <span class="time">
+           07:16 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290221#post290221" name="post290221">
+          #4
+         </a>
+         <a id="postcount290221" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="nate895 is offline">
+            <strong>
+             nate895
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=9171&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="nate895 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Jeffersonian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           169
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290221">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phunting
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290205#post290205" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               National governmental rule is a logical consequence of government. Local government can regulate all the parking restrictions and rubbish collections they like, but I fail to see why people consider centralized government a bad thing.
+              </div>
+             </div>
+            </div>
+           </div>
+           Our government is Federal not National, a stipulation they made specifically at the Constitutional Convention, as there were multiple proposals as to the form the new union would take, from mere alliance or league (though advocates were not at the convention) to monarchists (only a couple were admitted at the Constitution).
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290221" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290221" id="qrwq_290221" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290221" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290342">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2007,
+          <span class="time">
+           07:05 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290342#post290342" name="post290342">
+          #5
+         </a>
+         <a id="postcount290342" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+          <img alt="Phunting's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1034&amp;dateline=1154308213"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+            <strong>
+             Phunting
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1034&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phunting is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           London
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,173
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290342">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                gamehuis
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290213#post290213" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Easy. Centralized government means a concentration of power in the hands of a few people. And power corrupts and it attracts the sort of people that should not have power.
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't think that's necessarily true. A representational legislature is capable of making any decision worth making, leaving things that are obviously local matters to the States. It is still subject to scrutiny. I’m not advocating giving all the power just to the President, but I don’t see the problem in big government. I don't really see why incoherency between States is such a desired thing.
+           <br/>
+           <br/>
+           Take the death penalty for example. I don't understand how one State can have it or another not. Something like that is either considered just punishment or morally unacceptable. Such elements shouldn't change depending on what post code you're in.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+              </div>
+              <div class="message">
+               Our government is Federal not National, a stipulation they made specifically at the Constitutional Convention, as there were multiple proposals as to the form the new union would take, from mere alliance or league (though advocates were not at the convention) to monarchists (only a couple were admitted at the Constitution).
+              </div>
+             </div>
+            </div>
+           </div>
+           Apologies, I use the language I'm used to, hence not using the word 'federal' as we're not a federation. Still, I understand that the US government was created in that way, but that's not
+           <i>
+            why
+           </i>
+           it should be. That's just saying 'we've got to do it that way coz the constitution says so'...
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          And whom better to dispense such blatantly evident factoids but a self-appointed authority like myself?
+          <br/>
+          <br/>
+          http://www.kevan.org/brain.cgi?Phunting
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290342" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290342" id="qrwq_290342" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290342" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290343">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2007,
+          <span class="time">
+           07:13 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290343#post290343" name="post290343">
+          #6
+         </a>
+         <a id="postcount290343" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=979&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Symbiote is offline">
+          <img alt="Symbiote's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=979&amp;dateline=1077589510"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=979&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Symbiote is offline">
+            <strong>
+             Symbiote
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=979&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=979&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Symbiote is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Bringing the Light
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Sydney, Oz
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3,253
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290343">
+          <blockquote class="postcontent restore">
+           I don't understand why you're advocating national government, shouldn't world government be the solution from your perspective, with only obviously local matters taken care of at a lower level?
+           <br/>
+           <br/>
+           If not, why not?  Isn't the greater the centralisation of power and the more uniform the law across different peoples and cultures the better?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          He or she who supports a State organized in a military way – whether directly or indirectly – participates in sin. Each man takes part in the sin by contributing to the maintenance of the State by paying taxes.
+          <br/>
+          <br/>
+          ~ Gandhi
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290343" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290343" id="qrwq_290343" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290343" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290346">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2007,
+          <span class="time">
+           07:28 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290346#post290346" name="post290346">
+          #7
+         </a>
+         <a id="postcount290346" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+          <img alt="Phunting's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1034&amp;dateline=1154308213"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+            <strong>
+             Phunting
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1034&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phunting is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           London
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,173
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290346">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Symbiote
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290343#post290343" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I don't understand why you're advocating national government, shouldn't world government be the solution from your perspective, with only obviously local matters taken care of at a lower level?
+               <br/>
+               <br/>
+               If not, why not?  Isn't the greater the centralisation of power and the more uniform the law across different peoples and cultures the better?
+              </div>
+             </div>
+            </div>
+           </div>
+           You're absolutely right. That would, of course, be the ideal.
+           <br/>
+           <br/>
+           I was advocating national government as I thought it was worth taking these things one step at a time...
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          And whom better to dispense such blatantly evident factoids but a self-appointed authority like myself?
+          <br/>
+          <br/>
+          http://www.kevan.org/brain.cgi?Phunting
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290346" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290346" id="qrwq_290346" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290346" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290354">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2007,
+          <span class="time">
+           09:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290354#post290354" name="post290354">
+          #8
+         </a>
+         <a id="postcount290354" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="nate895 is offline">
+            <strong>
+             nate895
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=9171&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="nate895 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Jeffersonian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           169
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290354">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phunting
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290342#post290342" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I don't think that's necessarily true. A representational legislature is capable of making any decision worth making, leaving things that are obviously local matters to the States. It is still subject to scrutiny. I’m not advocating giving all the power just to the President, but I don’t see the problem in big government. I don't really see why incoherency between States is such a desired thing.
+               <br/>
+               <br/>
+               Take the death penalty for example. I don't understand how one State can have it or another not. Something like that is either considered just punishment or morally unacceptable. Such elements shouldn't change depending on what post code you're in.
+               <br/>
+               <br/>
+               Apologies, I use the language I'm used to, hence not using the word 'federal' as we're not a federation. Still, I understand that the US government was created in that way, but that's not
+               <i>
+                why
+               </i>
+               it should be. That's just saying 'we've got to do it that way coz the constitution says so'...
+              </div>
+             </div>
+            </div>
+           </div>
+           We do have to do it because the Constitution says so, otherwise why would we have written it.  If you want to change our form of government, get a constitutional amendment, you can't impose your will upon everyone because it is your personal opinion.
+           <br/>
+           <br/>
+           If you look at most states, on the vast majority of issues, the people of those states agree upon many things that the entire country is evenly divided upon.  Take gay marriage, in most states there is an overwhelming majority of people who oppose it, but in a few states the supporters outnumber those who oppose by a lot.  Overall a federalist system puts things that are of national importance that no state can do alone, in the hands of the Feds, while the controversial issues stay in the place of power where they'll cause the least dissension.  If one side on many issues was able to get the upper hand in the majority of the Union, and imposes their will upon the minority then this might lead to conflict and if the issue is important enough, it leads to war.
+           <br/>
+           <br/>
+           P.S.  When representatives from a certain portion of the Union heavily outnumber those from another, they can use that portion of the Union as basically a revenue maker or whatever there experiment of the day is.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290354" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290354" id="qrwq_290354" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290354" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290356">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2007,
+          <span class="time">
+           10:00 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290356#post290356" name="post290356">
+          #9
+         </a>
+         <a id="postcount290356" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+          <img alt="Matthew S's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2833&amp;dateline=1135858579"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+            <strong>
+             Matthew S
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2833&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew S is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gay Crusader
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('yahoo', '2833', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Matthew S" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,060
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290356">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=289844#post289844" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I have recently read a few books and it seems to me that the federal government has been usurping power (particularly the Supreme Court) since its inception.  The sovereignty of the states and the ideals of the Revolution seem to have been lost upon us, instead of fair state governments people watch and trust, we have a federal government that overreaches its delegated powers to the detriment of the will of the people and the founders/ratifiers understanding of our Constitution.
+               <br/>
+               <br/>
+               Should we continue down this road of Federal usurpations and just form a new Constitution or should we have the States reclaim the rightful place at the forefront of domestic policy?
+              </div>
+             </div>
+            </div>
+           </div>
+           I am not sure what you mean. Could you give a few examples of this over reaching power you state?
+           <br/>
+           <br/>
+           From my perspective. The federal government is there to protect US citizens from excesses of state oppression. I also take it to mean that you think that anti discrimination laws, voting rights laws, and food safety issues are not part of the federal governments power. I take it to mean that if a black person in x state can be discriminated against if they move to y state and that the federal government should have no say in the matter.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          -----------------------------------------------------------------------------
+          <br/>
+          <br/>
+          Every time one of the Republican presidential candidates speak all I hear is the sound of the marching boots of the Brown shirts.
+          <br/>
+          <br/>
+          "Saying I can't get married because it violates your religion is like me saying you can't eat donuts because it violates my diet!" -------anonymous
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290356" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290356" id="qrwq_290356" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290356" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290360">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2007,
+          <span class="time">
+           10:42 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" name="post290360">
+          #10
+         </a>
+         <a id="postcount290360" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="nate895 is offline">
+            <strong>
+             nate895
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=9171&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="nate895 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Jeffersonian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           169
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290360">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew S
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290356#post290356" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               I am not sure what you mean. Could you give a few examples of this over reaching power you state?
+               <br/>
+               <br/>
+               From my perspective. The federal government is there to protect US citizens from excesses of state oppression. I also take it to mean that you think that anti discrimination laws, voting rights laws, and food safety issues are not part of the federal governments power. I take it to mean that if a black person in x state can be discriminated against if they move to y state and that the federal government should have no say in the matter.
+              </div>
+             </div>
+            </div>
+           </div>
+           Since when does a government possibly thousands of miles away protect rights more than governments who are close to home.  I'm not talking about fundamental rights anyway.
+           <br/>
+           Lets look at a few examples of the Feds overreaching;
+           <br/>
+           1)So called "Great Society" clearly not a delegated authority in the Constitution, if so point out provision please.
+           <br/>
+           <br/>
+           2) So called "New Deal" same as previous
+           <br/>
+           <br/>
+           3) A certain little war that I can vaguely remember, it happened between 1861-65.
+           <br/>
+           <br/>
+           4) Federal courts making ridiculous assumptions as to meaning of provisions, or making it up out of whole cloth.
+           <br/>
+           <br/>
+           5) Creation of the so-called "National Guard" when the militia provisions of both the States and Feds already are sufficient for these purposes.
+           <br/>
+           <br/>
+           6) Pork barrel spending.
+           <br/>
+           <br/>
+           7) Possibility of creating National Health Care, point to provision.
+           <br/>
+           <br/>
+           8) Entangling foreign alliances, such as NATO.
+           <br/>
+           <br/>
+           Will be back with more.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290360" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290360" id="qrwq_290360" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290360" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290371">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-10-2007,
+          <span class="time">
+           05:38 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290371#post290371" name="post290371">
+          #11
+         </a>
+         <a id="postcount290371" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+          <img alt="Matthew S's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2833&amp;dateline=1135858579"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+            <strong>
+             Matthew S
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2833&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew S is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gay Crusader
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('yahoo', '2833', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Matthew S" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,060
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290371">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Since when does a government possibly thousands of miles away protect rights more than governments who are close to home.  I'm not talking about fundamental rights anyway.
+              </div>
+             </div>
+            </div>
+           </div>
+           When local and state governments refuse to honor those basic rights, such as voting, in the cases of discrinintion, and freedom to be and marry who you want. Would you say that Oklahoma has a right to say to couples that are just traveling through that their adopted child is not their adopted child because the child was adopted in another state? Because Oklahoma has just such a law. Do you think that Virginia has a right to invalidate my power of attorney if when visiting the state and something happens that I need medical attention? Because Virginia has just such a law.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Lets look at a few examples of the Feds overreaching;
+               <br/>
+               1)So called "Great Society" clearly not a delegated authority in the Constitution, if so point out provision please.
+              </div>
+             </div>
+            </div>
+           </div>
+           No idea what you mean by this. This is not specific.
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               2) So called "New Deal" same as previous
+              </div>
+             </div>
+            </div>
+           </div>
+           <br/>
+           Again not specific.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               3) A certain little war that I can vaguely remember, it happened between 1861-65.
+              </div>
+             </div>
+            </div>
+           </div>
+           What does the civil war have to do with anything. I do believe that it is the federal governments responsiblity to keep the union together.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               4) Federal courts making ridiculous assumptions as to meaning of provisions, or making it up out of whole cloth.
+              </div>
+             </div>
+            </div>
+           </div>
+           Again nothing specific could you give some examples.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               5) Creation of the so-called "National Guard" when the militia provisions of both the States and Feds already are sufficient for these purposes.
+              </div>
+             </div>
+            </div>
+           </div>
+           OK something specific. I don't see a problem with this and the national gaurd is under the control of the governors of the various states.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               6) Pork barrel spending.
+              </div>
+             </div>
+            </div>
+           </div>
+           Again nothing specific but I will take a shot at this as I think I understand what you mean. What is pork barrel spending if it isn't individual congress people getting money for their state and local area that they represent. Which is exactly opposite of the arguement you are trying to make, they are looking after the intrests of the local people.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               7) Possibility of creating National Health Care, point to provision.
+              </div>
+             </div>
+            </div>
+           </div>
+           Again why this is a bad thing? As a socialist I believe that it is the responsiblity of the federal government to take care of the people. Do you want people to die in the homeless in the streets ravshied by the excesses of capitalism? It is that capitalisic excesses that has, in every case, led to each expansion of power by the federal government. Take the banking mess of the 1930's it was created by speculators. The federal government stepped in to protect the people. Are you saying that FDIC is a bad idea? Are you saying that you approve of the banks using your money to play the stock market then go under leaving you with no money?
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290360#post290360" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               8) Entangling foreign alliances, such as NATO.
+              </div>
+             </div>
+            </div>
+           </div>
+           This is exactly the power set up by the constitution. Are you saying that you want each state to set up its own alliances?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          -----------------------------------------------------------------------------
+          <br/>
+          <br/>
+          Every time one of the Republican presidential candidates speak all I hear is the sound of the marching boots of the Brown shirts.
+          <br/>
+          <br/>
+          "Saying I can't get married because it violates your religion is like me saying you can't eat donuts because it violates my diet!" -------anonymous
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290371" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290371" id="qrwq_290371" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290371" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290395">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-10-2007,
+          <span class="time">
+           02:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290395#post290395" name="post290395">
+          #12
+         </a>
+         <a id="postcount290395" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="nate895 is offline">
+            <strong>
+             nate895
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=9171&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="nate895 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Jeffersonian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           169
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290395">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew S
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290371#post290371" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               When local and state governments refuse to honor those basic rights, such as voting, in the cases of discrinintion, and freedom to be and marry who you want. Would you say that Oklahoma has a right to say to couples that are just traveling through that their adopted child is not their adopted child because the child was adopted in another state? Because Oklahoma has just such a law. Do you think that Virginia has a right to invalidate my power of attorney if when visiting the state and something happens that I need medical attention? Because Virginia has just such a law.
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               No idea what you mean by this. This is not specific.
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               Again not specific.
+               <br/>
+               <br/>
+               <br/>
+               What does the civil war have to do with anything. I do believe that it is the federal governments responsiblity to keep the union together.
+               <br/>
+               <br/>
+               <br/>
+               Again nothing specific could you give some examples.
+               <br/>
+               <br/>
+               <br/>
+               OK something specific. I don't see a problem with this and the national gaurd is under the control of the governors of the various states.
+               <br/>
+               <br/>
+               <br/>
+               Again nothing specific but I will take a shot at this as I think I understand what you mean. What is pork barrel spending if it isn't individual congress people getting money for their state and local area that they represent. Which is exactly opposite of the arguement you are trying to make, they are looking after the intrests of the local people.
+               <br/>
+               <br/>
+               <br/>
+               Again why this is a bad thing? As a socialist I believe that it is the responsiblity of the federal government to take care of the people. Do you want people to die in the homeless in the streets ravshied by the excesses of capitalism? It is that capitalisic excesses that has, in every case, led to each expansion of power by the federal government. Take the banking mess of the 1930's it was created by speculators. The federal government stepped in to protect the people. Are you saying that FDIC is a bad idea? Are you saying that you approve of the banks using your money to play the stock market then go under leaving you with no money?
+               <br/>
+               <br/>
+               This is exactly the power set up by the constitution. Are you saying that you want each state to set up its own alliances?
+              </div>
+             </div>
+            </div>
+           </div>
+           Marriage is a social contract and therefore the community can set provisions as to who can enter into the contract, if they can't then that leads to mischief.
+           <br/>
+           <br/>
+           If you don't know what the "New Deal" and "Great Society" are then you are pretty ignorant of American History.
+           <br/>
+           <br/>
+           Just because you think holding the Union together is the Feds responsibility doesn't make it so.
+           <br/>
+           <br/>
+           The National Guard has taken the place of a well-regulated militia because the Feds are scared of what that would mean.  If every male between 17 and 45 (the definition of the militia) knew how to fight then the feds (especially the courts) then wouldn't be able to make any law they want.
+           <br/>
+           <br/>
+           Where does it say in the Constitution that because something is considered good by socialist wack-jobs then they can override it.  If you want to override the Constitution, get enough states to call a new constitutional convention, then send out the new constitution to the states for ratification, and if not enough ratify, you've lost.  If enough do, but not all then the rest are not in the Union any more.  There you've got yourself a way to "win."
+           <br/>
+           <br/>
+           Where does it say that the Federal government can make alliances, it can make treaties, but not join any body such as an alliance.
+           <br/>
+           <br/>
+           As far as discrimination is concerned, the 13th and 15th amendment made it the Feds responsibility, and I'm fine with them enforcing the powers they've been delegated, though nothing more.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290395" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290395" id="qrwq_290395" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290395" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290460">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-11-2007,
+          <span class="time">
+           08:26 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290460#post290460" name="post290460">
+          #13
+         </a>
+         <a id="postcount290460" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+          <img alt="Phunting's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1034&amp;dateline=1154308213"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Phunting is offline">
+            <strong>
+             Phunting
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1034&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1034&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Phunting is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Feb 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           London
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,173
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290460">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                nate895
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290354#post290354" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               We do have to do it because the Constitution says so, otherwise why would we have written it.  If you want to change our form of government, get a constitutional amendment, you can't impose your will upon everyone because it is your personal opinion.
+              </div>
+             </div>
+            </div>
+           </div>
+           Riiiight. So slavery must have been fine, else why would people have made it legal? I'm not trying to change anyone's government, I'm just saying that 'because it is' is no reason on it's own for keeping something so. Despite what the majority of America appears to believe the constitution is not some holy, divinely ordained act of God. It was written by humans; just as fallible, bigoted and flawed as the rest of us.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If you look at most states, on the vast majority of issues, the people of those states agree upon many things that the entire country is evenly divided upon.  Take gay marriage, in most states there is an overwhelming majority of people who oppose it, but in a few states the supporters outnumber those who oppose by a lot.  Overall a federalist system puts things that are of national importance that no state can do alone, in the hands of the Feds, while the controversial issues stay in the place of power where they'll cause the least dissension.  If one side on many issues was able to get the upper hand in the majority of the Union, and imposes their will upon the minority then this might lead to conflict and if the issue is important enough, it leads to war.
+             </div>
+            </div>
+           </div>
+           Perhaps I overstated. I do understand that many things can and should be regulated on a state level. But I see many things as inherent rights that should be decided nationally. Either homosexual marriage is acceptable or it isn't, either you have consensus or else something that is invalid if you move next door. It may be controversial, but surely rights and freedoms transcend such things?
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          And whom better to dispense such blatantly evident factoids but a self-appointed authority like myself?
+          <br/>
+          <br/>
+          http://www.kevan.org/brain.cgi?Phunting
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290460" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290460" id="qrwq_290460" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290460" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290463">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-11-2007,
+          <span class="time">
+           09:45 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290463#post290463" name="post290463">
+          #14
+         </a>
+         <a id="postcount290463" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           thecap0
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290463">
+          <blockquote class="postcontent restore">
+           phunt,
+           <br/>
+           <br/>
+           <b>
+            Either homosexual marriage is acceptable or it isn't, either you have consensus or else something that is invalid if you move next door. It may be controversial, but surely rights and freedoms transcend such things?
+           </b>
+           <br/>
+           <br/>
+           Just so!!
+           <br/>
+           <br/>
+           Segregation in public schools and in places of public accommodation and bans on interracial marriage were sanctioned by law in many of the states.
+           <br/>
+           <br/>
+           Yet these were among the rights and freedoms that transcend simple consensus and today they are no longer the law in any of the states.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290463" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290463" id="qrwq_290463" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290463" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_290465">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-12-2007,
+          <span class="time">
+           12:21 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290465#post290465" name="post290465">
+          #15
+         </a>
+         <a id="postcount290465" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="nate895 is offline">
+            <strong>
+             nate895
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=9171&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=9171&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="nate895 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Jeffersonian
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Nov 2007
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           169
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_290465">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Phunting
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=290460#post290460" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Riiiight. So slavery must have been fine, else why would people have made it legal? I'm not trying to change anyone's government, I'm just saying that 'because it is' is no reason on it's own for keeping something so. Despite what the majority of America appears to believe the constitution is not some holy, divinely ordained act of God. It was written by humans; just as fallible, bigoted and flawed as the rest of us.
+               <br/>
+               <br/>
+               Perhaps I overstated. I do understand that many things can and should be regulated on a state level. But I see many things as inherent rights that should be decided nationally. Either homosexual marriage is acceptable or it isn't, either you have consensus or else something that is invalid if you move next door. It may be controversial, but surely rights and freedoms transcend such things?
+              </div>
+             </div>
+            </div>
+           </div>
+           I never said the Constitution wasn't flawed, but it is the best we got.
+           <br/>
+           <br/>
+           As Winston Churchill said
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Democracy is the worst form of government, except all the others that have been tried.
+             </div>
+            </div>
+           </div>
+           Slavery was made legal in all the colonies, but we ended slavery with a constitutional amendment.  Like I have said, if you want a legitimate change of government you can do any one the following things;
+           <br/>
+           (1) amend the constitution if wish the union to stay whole with all the states staying within it,
+           <br/>
+           (2) call a new constitutional convention and have the new constitution ratified in the same manner as our last one,
+           <br/>
+           (3) if your state doesn't like any of those options call a convention and adopt an ordinance of secession, I assure you that the American people will not have the stomach for a fight, and if they do, I'll fight right alongside you.
+           <br/>
+           <br/>
+           I am advocating Democracy at the state level, as our nation is too large to have the central government handle the issues not enumerated in our constitution or given by the several amendments.  If the central government handles the powers I think you are suggesting then it might lead to disunion, as many around the country, whether you know or not are willing to fight against such usurpations. Segregation is obviously against the constitution, therefore a state can't make a law it has agreed it can't make.
+           <br/>
+           <br/>
+           P.S. As a curiosity, could you please enumerate the powers you desire the feds to have, and not vague like "protecting rights" if you desire something of that nature please enumerate those rights.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_290465" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=290465" id="qrwq_290465" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_290465" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=10590&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="10590"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 3
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 41">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10590&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 30 of 41">
+        2
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=10590&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 31 to 41 of 41">
+        3
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=10590&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 30 of 41">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=10590&amp;page=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 31 to 41 of 41">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       <span class="ctrlcontainer">
+        Government Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=10590#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=10590&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=10590#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=10590#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     12:26 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;rand=1393435574" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

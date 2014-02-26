@@ -1,0 +1,3623 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=4b1cbcd9456fd8062f54adeb722c2736&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=6149&amp;page=7";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="christian, classes, impose, science, design, taught, morality, opinions, intelligent, forced, anymore, state, church, noticed, nowadays, nabbit, coalitions, powerful, seperation" name="keywords"/>
+  <meta content="Has anyone noticed nowadays how powerful Christian coalitions have become?  Not only have they forced intelligent design to be taught in science classes, but now they impose their christian morality upon us all?  What are your opinions on this?" name="description"/>
+  <title>
+   Dag nabbit, does seperation of church and state mean anything anymore? - Page 7
+  </title>
+  <link href="showthread.php?t=6149&amp;page=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Government Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Dag nabbit, does seperation of church and state mean anything anymore?
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=4b1cbcd9456fd8062f54adeb722c2736&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=6149&amp;page=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="6149"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 7 of 15
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="start" title="First Page - Results 1 to 15 of 222">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=6149&amp;page=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="prev" title="Prev Page - Results 76 to 90 of 222">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 61 to 75 of 222">
+        5
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 76 to 90 of 222">
+        6
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 91 to 105 of 222">
+        7
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 106 to 120 of 222">
+        8
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 121 to 135 of 222">
+        9
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=6149&amp;page=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 106 to 120 of 222">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=6149&amp;page=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 211 to 222 of 222">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 91 to 105 of 222
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=6149&amp;page=7&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Reload this Page">
+       Dag nabbit, does seperation of church and state mean anything anymore?
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;t=6149&amp;pp=15&amp;page=7" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=sendtofriend&amp;t=6149" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=addsubscription&amp;t=6149" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li id="threadrating_current" title="Thread Rating: 13 votes, 5.00 average.">
+           <label>
+            <span class="rating r5">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="6149"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="7"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 6149);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156266&amp;mode=threaded#post156266">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_156266">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-22-2005,
+          <span class="time">
+           10:51 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156266#post156266" name="post156266">
+          #91
+         </a>
+         <a id="postcount156266" name="91">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1517&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Kronus is offline">
+            <strong>
+             Kronus
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1517&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1517&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Kronus is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,930
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_156266">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+              </div>
+              <div class="message">
+               I've never said it isn't possible to explain a phrase by using words not in the phrase, only that it's not uncommon for someone to intentionally get it wrong, by using the wrong words, for political purposes.
+               <br/>
+               <br/>
+               A well thought out phrase doesn't need additional words. Every phrase in the Constitution was well thought out.
+              </div>
+             </div>
+            </div>
+           </div>
+           That's an utterly ludicrous statement, for multiple reasons.  If every phrase in the Constitution is so perfect, we wouldn't need a Supreme court to interpret it.  English is an imprecise language; almost any sentence can have multiple interpretations, with changes in meaning both subtle and gross.  And most importantly, the Constitution was
+           <b>
+            meant
+           </b>
+           to be interpreted!  It's not a legal straightjacket, it's a set of guidelines and principles.  Every single provision in the Bill of Rights has tomes written about it, delving into meaning, exceptions, interpretations, provisions, you name it.  Your assertion that the Bill of Rights can stand utterly on it's own, and that no further discussion or interpretation is allowed, is baseless, and is shown to be false by over 200 years of history.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156266" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156266" id="qrwq_156266" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156266" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156331">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-22-2005,
+          <span class="time">
+           03:31 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156331#post156331" name="post156331">
+          #92
+         </a>
+         <a id="postcount156331" name="92">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=3113&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="ctaylors is offline">
+            <strong>
+             ctaylors
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=3113&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=3113&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+            <li class="left">
+             <a class="siteicon_homepage" href="http://www.charliesoap.com/index.asp?refid=Blog">
+              Visit Homepage
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="ctaylors is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           American &amp; Proud
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Aug 2005
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Mayodan, NC
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           3
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         whew!
+        </h2>
+        <div class="content">
+         <div id="post_message_156331">
+          <blockquote class="postcontent restore">
+           I seem to have moved this thread in a direction [almost] entirely unanticipated.  The original poster countering my thought suggested that I didn't know science.  Exactly what part of so-called "Creation Science" is a science?  If you can prove to me that it is a science, I will be inclined to acquiesce.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156331" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156331" id="qrwq_156331" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156331" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156451">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-22-2005,
+          <span class="time">
+           09:02 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156451#post156451" name="post156451">
+          #93
+         </a>
+         <a id="postcount156451" name="93">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156451">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                zachvac
+               </strong>
+              </div>
+              <div class="message">
+               there are a couple of phrases you used, let's see if I can rephrase them.
+               <br/>
+               <br/>
+               #1. I didn't say it was impossible to explain a group of words with other words, but it's common for people to incorrectly misiniterpret the phrase for political puurposes
+               <br/>
+               <br/>
+               #2. Single words are defined in dictionaries, not groups of words. There is a colossal difference. An intelligent phrase needs no addition. The Constitution is filled with such thought-out phrases.
+               <br/>
+               <br/>
+               No doubt your phrases were thought out, but I rewrote them and they mean more or less the same.
+              </div>
+             </div>
+            </div>
+           </div>
+           Your rephrasing used words that were very comparable to my words.
+           <br/>
+           <br/>
+           didn't / never
+           <br/>
+           isn't possible / impossible
+           <br/>
+           intentionally get wrong / incorrectly misinterpret
+           <br/>
+           groups of words / phrases
+           <br/>
+           big / colossal
+           <br/>
+           well thought out / intelligent
+           <br/>
+           <br/>
+           Yet in the part of the first amendment that we're discussing, we have the main words "establishment of religion", and "prohibiting the free exercise thereof". No similarities at all to "wall of separation".
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156451" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156451" id="qrwq_156451" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156451" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156454">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-22-2005,
+          <span class="time">
+           09:18 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156454#post156454" name="post156454">
+          #94
+         </a>
+         <a id="postcount156454" name="94">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156454">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Kronus
+               </strong>
+              </div>
+              <div class="message">
+               That's an utterly ludicrous statement, for multiple reasons.  If every phrase in the Constitution is so perfect, we wouldn't need a Supreme court to interpret it.  English is an imprecise language; almost any sentence can have multiple interpretations, with changes in meaning both subtle and gross.  And most importantly, the Constitution was
+               <b>
+                meant
+               </b>
+               to be interpreted!  It's not a legal straightjacket, it's a set of guidelines and principles.  Every single provision in the Bill of Rights has tomes written about it, delving into meaning, exceptions, interpretations, provisions, you name it.  Your assertion that the Bill of Rights can stand utterly on it's own, and that no further discussion or interpretation is allowed, is baseless, and is shown to be false by over 200 years of history.
+              </div>
+             </div>
+            </div>
+           </div>
+           Has it been shown to be false, or shown to be debatable? Is it a fact that the Constitution is ever-changing and flexible, or has it been "interpreted" that way in some controversial cases? "Interpreting" all too often means "changing" to arrive at a desired outcome. The ends justify the means. It's called judicial activism.
+           <br/>
+           <br/>
+           The Constitution is meant to be APPLIED. That is what the Supreme Court's job is.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156454" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156454" id="qrwq_156454" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156454" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156459">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-22-2005,
+          <span class="time">
+           10:09 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156459#post156459" name="post156459">
+          #95
+         </a>
+         <a id="postcount156459" name="95">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1517&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Kronus is offline">
+            <strong>
+             Kronus
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1517&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1517&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Kronus is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,930
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156459">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+              </div>
+              <div class="message">
+               Has it been shown to be false, or shown to be debatable? Is it a fact that the Constitution is ever-changing and flexible, or has it been "interpreted" that way in some controversial cases? "Interpreting" all too often means "changing" to arrive at a desired outcome. The ends justify the means. It's called judicial activism.
+               <br/>
+               <br/>
+               The Constitution is meant to be APPLIED. That is what the Supreme Court's job is.
+              </div>
+             </div>
+            </div>
+           </div>
+           Has the meaning of the Constitution ever been debated?  Are you serious?  Does the right to bear arms mean you can have an assault rifle?  Does freedom of the press mean that reporters never need to reveal their sources?  Is flag burning covered under freedom of speech?  Any of these debates ring a bell?
+           <br/>
+           <br/>
+           The Bill of Rights is a guideline, it simply isn't specific enough to stand on its own.  It
+           <b>
+            must
+           </b>
+           be interpreted, and
+           <b>
+            that
+           </b>
+           is the job of the Supreme Court.  This country, which once condoned slavery and denied women the vote, has grown morally over the years, and so we must re-examine what the Constitution means in light of that growth.  Sometimes new decisions as to how to interpret the Bill of Rights must be made.  You call certain decisions 'judicial activism', I call them interpretations you don't like.  Unless you're willing to take the stance that
+           <i>
+            every single
+           </i>
+           re-interpretation was judicial activism?  Is that your claim?  If not then I don't see how your claim holds any water.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156459" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156459" id="qrwq_156459" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156459" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156501">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           12:43 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156501#post156501" name="post156501">
+          #96
+         </a>
+         <a id="postcount156501" name="96">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           DamEtel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156501">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Kronus: Has the meaning of the Constitution ever been debated?  Are you serious?  Does the right to bear arms mean you can have an assault rifle?  Does freedom of the press mean that reporters never need to reveal their sources?  Is flag burning covered under freedom of speech?  Any of these debates ring a bell?
+             </div>
+            </div>
+           </div>
+           You nailed him on that one!
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Kronus:  The Bill of Rights is a guideline, it simply isn't specific enough to stand on its own.  It
+              <b>
+               must
+              </b>
+              be interpreted, and
+              <b>
+               that
+              </b>
+              is the job of the Supreme Court.
+             </div>
+            </div>
+           </div>
+           Yes, and lucky for us all, the Supreme Court has Jefferson's explanations, dataing back to just after the Bill of Rights was created, of what the First Ammendment's religious restrictions were originally intended to do: to build a "wall of separation between church and state".
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156501" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156501" id="qrwq_156501" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156501" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156503">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           01:38 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156503#post156503" name="post156503">
+          #97
+         </a>
+         <a id="postcount156503" name="97">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           DamEtel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156503">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000: Gee, I don't think so. Because they waited 150 years to even think much about it.
+             </div>
+            </div>
+           </div>
+           And?   When they DID think about it, they referenced Jefferson's explanatory statements, penned shortly after the Bill of Rights itself was written, by one of the primary founding fathers of our nation.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000:  Can you cite any examples of political battles over "separation of church &amp; state" before the last 60 years?
+             </div>
+            </div>
+           </div>
+           Sure.  The 'template' for the Constitution, Virginia's 1786 Act for Establishing Religious Freedom.  There was much political - which at the time also meant religious! - debate about Jefferson's proposal, which is one reason it took until 1786 to pass.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000: Why do you suppose George Washington's proclaimation of Thanksgiving day went politically unchallanged?
+             </div>
+            </div>
+           </div>
+           I'd imagine that in those days, when Washington was a god, he could have done all sorts of questionable things, without being questioned about them.
+           <br/>
+           <br/>
+           I mean, come on, consider what our current George W - XXXXX and hypocrite - gets away with ... and he, sir, is no Washington!
+           <br/>
+           <br/>
+           Also, opposing religious things in those days was virtual political suicide.  Just ask Jefferson!
+           <br/>
+           <br/>
+           And let's not forget how Jefferson handled this issue...
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              "Jefferson, unlike Washington and Adams, refused to issue presidential proclamations of thanksgiving to God, often requested on official occassions by the evangelical churches that had played such an important role in passage of the Virginia religious freedom act and ratification of the Constitution."  (Freethinkers, Susan Jacoby, Owl Books, 2004, p43)
+             </div>
+            </div>
+           </div>
+           Washington's thanksgiving proclamations may have gone officially unchallenged, but Jefferson - as president - refused to do it and considered it a violation of the First Amendment.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000:  Was Jefferson the only one entrusted with interpreting the Constitution for us?
+             </div>
+            </div>
+           </div>
+           He's one hell of a lot more authoritative on the matter than you are!
+           <br/>
+           <br/>
+           Can you show us a founding father's statements, made just after the Consistution and Bill of Rights were written, that says the First Amendment is NOT supposed to build a wal of separationg between chruch and state?
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000: Why is all this "separation of church &amp; state" outcry happening only today?
+             </div>
+            </div>
+           </div>
+           Probably because freethinkers these days don't risk the same kind of retaliation as they did back then.  Hell, just about 10 years ago an atheist who put a stop to school prayer - Madalyn Murray O'Hair - was brutally murdered.  Kind of tough for freethinkers to speak out against religious wrongs when those who do get killed, are mistreated, or face destroying their own political careers.
+           <br/>
+           <br/>
+           Religious persecution still occurs in America today!  The religous persecute those who as not religious.
+           <br/>
+           <br/>
+           Over the years, the opposition to freethough has risen and subsided and risen and ....  When it's on an upswing, we shouldn't expect to see much protesting of religious actions.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000:  Then why are those words not in there - EVERYONE who ratified it DID NOT SEE those words.
+             </div>
+            </div>
+           </div>
+           What words?  And what is the it that people ratified? Gee, am I supposed to be able to figure out what your intent is just by reading some words?  :-)
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000:  It can be when you add words, that are not in the text.
+             </div>
+            </div>
+           </div>
+           Jefferson didn't add words to the text, and he didn't change the interpretation ... he explained the original intent.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000:  No, the ones intent on changing it are the ones who ADD WORDS, not ones who leave the wording as it is.
+             </div>
+            </div>
+           </div>
+           No, those who interpret the First Amendment in a manner other than the original intent - as spelled out by Jefferson - are those who are changing it.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              marc9000:  Are you really an originalist, or are you a non-originalist (activist), as almost all of the "separation of church &amp; state" crowd are?
+             </div>
+            </div>
+           </div>
+           Are you an undereducated religious fundamentalist, as almost all of the bashers of "separation of church and state" are?
+          </blockquote>
+         </div>
+        </div>
+        <!-- edit note -->
+        <blockquote class="postcontent lastedited">
+         Last edited by DamEtel; 08-23-2005 at
+         <span class="time">
+          08:13 AM
+         </span>
+         .
+        </blockquote>
+        <!-- / edit note -->
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156503" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156503" id="qrwq_156503" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156503" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156531">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           08:00 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156531#post156531" name="post156531">
+          #98
+         </a>
+         <a id="postcount156531" name="98">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <span class="username guest">
+           DamEtel
+          </span>
+          <span class="usertitle">
+           Guest
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156531">
+          <blockquote class="postcontent restore">
+           I’d love to hang out here and continue to show you why you’re wrong, but  as I said this past Saturday
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              DamEtel:  Well, the next semester starts Monday, so it'll be back to college for me (in addition to working full time). So I won't be able to post here as much as I have been.
+              <br/>
+              (
+              <a href="http://www.4forums.com/political/showthread.php?t=6228" target="_blank">
+               http://www.4forums.com/political/showthread.php?t=6228
+              </a>
+              )
+             </div>
+            </div>
+           </div>
+           Simply not enough time now.  I already did a no-no, on my first day back to school, and deprived myself of sleep by replying to you above (and now that I'm back in school I won’t be able to catch up on missed sleep until the weekends).  It’s not something I can continue to do.
+           <br/>
+           <br/>
+           What little time I can spare here and there for posting on the Net I will devote to my primary concern, the Creation/Evolution debates; the section where I have spent the vast majority of my time here, and the only one I mentioned when stating I was going back to school...
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I've been involved heavily in a lot of different threads in this Evolution/Creationism forum. For me to make my "back to college" comment on the last page of one thread would not let everyone I've been debating know, and they may mistakenly take my sudden lack of responding to mean I can't counter their arguments. So I'm letting everyone know ahead of time, in one spot, that is clearly seen by all.
+              <br/>
+              (
+              <a href="http://www.4forums.com/political/showthread.php?t=6228" target="_blank">
+               http://www.4forums.com/political/showthread.php?t=6228
+              </a>
+              )
+             </div>
+            </div>
+           </div>
+           TTFN
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156531" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156531" id="qrwq_156531" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156531" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156664">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           07:37 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156664#post156664" name="post156664">
+          #99
+         </a>
+         <a id="postcount156664" name="99">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156664">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Kronus
+               </strong>
+              </div>
+              <div class="message">
+               Has the meaning of the Constitution ever been debated?  Are you serious?  Does the right to bear arms mean you can have an assault rifle?  Does freedom of the press mean that reporters never need to reveal their sources?  Is flag burning covered under freedom of speech?  Any of these debates ring a bell?
+              </div>
+             </div>
+            </div>
+           </div>
+           <b>
+            The constitution is not about such details.
+           </b>
+           The constitution defines and establishes the distribution, authority, and structure of Government. The
+           <b>
+            process
+           </b>
+           by which decisions are made.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The Bill of Rights is a guideline, it simply isn't specific enough to stand on its own.
+             </div>
+            </div>
+           </div>
+           The Constitution is principles, not specifics, and it stands on it's own just fine, to those who halfway understand it.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It
+              <b>
+               must
+              </b>
+              be interpreted, and
+              <b>
+               that
+              </b>
+              is the job of the Supreme Court.
+             </div>
+            </div>
+           </div>
+           And it's the job of legislatures, states and people, to determine specifics about things like assault rifles, news sources, and flag burning.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              This country, which once condoned slavery and denied women the vote, has grown morally over the years, and so we must re-examine what the Constitution means in light of that growth.
+             </div>
+            </div>
+           </div>
+           And there is a process to do it, without eliminating or changing it's principles in the slightest. Slavery was outlawed by the 13th amendment, NOT by judicial order. Women were given the right to vote by the 19th amendment, not by judicial order.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Sometimes new decisions as to how to interpret the Bill of Rights must be made.  You call certain decisions 'judicial activism', I call them interpretations you don't like.
+             </div>
+            </div>
+           </div>
+           No, I call them political decisions made by the wrong people according to the Constitution.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Unless you're willing to take the stance that
+              <i>
+               every single
+              </i>
+              re-interpretation was judicial activism?  Is that your claim?  If not then I don't see how your claim holds any water.
+             </div>
+            </div>
+           </div>
+           I do take that stance,
+           <b>
+            every single re-interpretation
+           </b>
+           when the legislatures, states, or people didn't have the slightest say in the matter.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156664" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156664" id="qrwq_156664" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156664" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156666">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           07:46 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156666#post156666" name="post156666">
+          #100
+         </a>
+         <a id="postcount156666" name="100">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156666">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                DamEtel
+               </strong>
+              </div>
+              <div class="message">
+               You nailed him on that one!
+              </div>
+             </div>
+            </div>
+           </div>
+           He did?
+           <img alt="" border="0" class="inlineimg" src="images/smilies/confused.gif" title="Confused"/>
+           I didn't notice.
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Yes, and lucky for us all, the Supreme Court has Jefferson's explanations, dataing back to just after the Bill of Rights was created, of what the First Ammendment's religious restrictions were originally intended to do: to build a "wall of separation between church and state".
+             </div>
+            </div>
+           </div>
+           If his letter to the Danbury Baptists 11 years later is all you've got on that, sorry - it's just not there.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156666" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156666" id="qrwq_156666" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156666" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156671">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           08:31 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156671#post156671" name="post156671">
+          #101
+         </a>
+         <a id="postcount156671" name="101">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156671">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                DamEtel
+               </strong>
+              </div>
+              <div class="message">
+               And?   When they DID think about it, they referenced Jefferson's explanatory statements, penned shortly after the Bill of Rights itself was written, by one of the primary founding fathers of our nation.
+              </div>
+             </div>
+            </div>
+           </div>
+           Do you really believe a courtesy note to a religious group can by used as an all-encompassing, last word analyzation of the entire first amendment?
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Sure.  The 'template' for the Constitution, Virginia's 1786 Act for Establishing Religious Freedom.  There was much political - which at the time also meant religious! - debate about Jefferson's proposal, which is one reason it took until 1786 to pass.
+             </div>
+            </div>
+           </div>
+           I was asking about the period AFTER the Constitution and Bill of Rights were established and ratified, not before.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I'd imagine that in those days, when Washington was a god, he could have done all sorts of questionable things, without being questioned about them.
+             </div>
+            </div>
+           </div>
+           I'd imagine he couldn't have done any more questionable things than any president in any other time, possibly less. He was the first president, probably a lot of jealousy. And a very fresh Constitution. Just think, a decent percentage of people and politicians probably actually understood it!
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I mean, come on, consider what our current George W - XXXXX and hypocrite - gets away with ... and he, sir, is no Washington!
+              <br/>
+              <br/>
+              Also, opposing religious things in those days was virtual political suicide.  Just ask Jefferson!
+             </div>
+            </div>
+           </div>
+           I can't communicate with the dead.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              And let's not forget how Jefferson handled this issue...
+             </div>
+            </div>
+           </div>
+           He was outvoted on that one two to one, wasn't he? Why do you hold Jefferson's views so much higher than the other founding fathers? Why do you expect everyone else to?
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Washington's thanksgiving proclamations may have gone officially unchallenged, but Jefferson - as president - refused to do it and considered it a violation of the First Amendment.
+             </div>
+            </div>
+           </div>
+           He didn't have to do it because it was already done. He specifically considered Thanksgiving day a violation of the First Amendment? Can you reference that, or did you just make it up?
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              He's one hell of a lot more authoritative on the matter than you are!
+             </div>
+            </div>
+           </div>
+           That's true. And it's equally true that you aren't qualified to speak for him.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Can you show us a founding father's statements, made just after the Consistution and Bill of Rights were written, that says the First Amendment is NOT supposed to build a wal of separationg between chruch and state?
+             </div>
+            </div>
+           </div>
+           No. I can't find anything by them that says we can't change to communism in 50 years either, but I think it's safe to say they didn't want it. But I can show you a statement by Jefferson about judicial activism, written in 1825, after he had a chance to see how the U.S. system of government worked.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              This member of Government [the judiciary] was at first considered as the most harmless and helpless of all it's organs. But it has proved that the power of declaring what the law is...by sapping and mining slyly and without alarm the foundations of the Constitution, and do what open force would not dare to attempt.
+             </div>
+            </div>
+           </div>
+           (letter from Jefferson to Edward Livingston, 1825)
+           <br/>
+           <br/>
+           <br/>
+           Kind of reminds you of the recent eminent domain law, doesn't it?
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Probably because freethinkers these days don't risk the same kind of retaliation as they did back then.  Hell, just about 10 years ago an atheist who put a stop to school prayer - Madalyn Murray O'Hair - was brutally murdered.  Kind of tough for freethinkers to speak out against religious wrongs when those who do get killed, are mistreated, or face destroying their own political careers.
+              <br/>
+              Religious persecution still occurs in America today!  The religous persecute those who as not religious.
+              <br/>
+              <br/>
+              Over the years, the opposition to freethough has risen and subsided and risen and ....  When it's on an upswing, we shouldn't expect to see much protesting of religious actions.
+             </div>
+            </div>
+           </div>
+           O,Hair's murder "political retaliation"
+           <img alt="" border="0" class="inlineimg" src="images/smilies/rolleyes.gif" title="Roll Eyes (Sarcastic)"/>
+           / Religious persecution - give me a break.
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What words?  And what is the it that people ratified? Gee, am I supposed to be able to figure out what your intent is just by reading some words?  :-)
+             </div>
+            </div>
+           </div>
+           The words, "separation of church and state". Please concentrate.
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Jefferson didn't add words to the text, and he didn't change the interpretation ... he explained the original intent
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              No, those who interpret the First Amendment in a manner other than the original intent - as spelled out by Jefferson - are those who are changing it.
+             </div>
+            </div>
+           </div>
+           The Danbury letter was not intended to "spell it out". If you want to see things spelled out, check out the Federalist Papers sometime.
+           <br/>
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Are you an undereducated religious fundamentalist, as almost all of the bashers of "separation of church and state" are?
+             </div>
+            </div>
+           </div>
+           I'm an originalist. I see you responded to my question with a question, and ducked mine. Maybe this will help you. I honestly believe it's non partisan.
+           <br/>
+           <br/>
+           <a href="http://www.law.umkc.edu/faculty/projects/ftrials/conlaw/interp.html" target="_blank">
+            http://www.law.umkc.edu/faculty/proj...aw/interp.html
+           </a>
+           <br/>
+           <br/>
+           Read the eight reasons for each, Originalist and Non-Originalist, and let me know which one describes you best. I'll hold my breath.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156671" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156671" id="qrwq_156671" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156671" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156673">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-23-2005,
+          <span class="time">
+           08:39 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156673#post156673" name="post156673">
+          #102
+         </a>
+         <a id="postcount156673" name="102">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156673">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                DamEtel
+               </strong>
+              </div>
+              <div class="message">
+               I’d love to hang out here and continue to show you why you’re wrong, but  as I said this past Saturday
+              </div>
+             </div>
+            </div>
+           </div>
+           These threads stay up here for years - there'll be time. You'll have some breaks coming up this fall &amp; winter (Thanksgiving &amp; Christmas
+           <img alt="" border="0" class="inlineimg" src="images/smilies/xclown.gif" title="xclown"/>
+           ) I'll be here.
+           <img alt="" border="0" class="inlineimg" src="images/smilies/smile.gif" title="Smilie"/>
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156673" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156673" id="qrwq_156673" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156673" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156736">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-24-2005,
+          <span class="time">
+           09:28 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156736#post156736" name="post156736">
+          #103
+         </a>
+         <a id="postcount156736" name="103">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1517&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Kronus is offline">
+            <strong>
+             Kronus
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1517&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1517&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Kronus is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           4,930
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156736">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+              </div>
+              <div class="message">
+               I do take that stance,
+               <b>
+                every single re-interpretation
+               </b>
+               when the legislatures, states, or people didn't have the slightest say in the matter.
+              </div>
+             </div>
+            </div>
+           </div>
+           I don't suppose you want to give a few examples here?  For example, can you give one instance of where a supreme court ruling
+           <i>
+            was
+           </i>
+           based on what the legislature said?  No, you can't, because that isn't how the system works, and never was.  The Supreme Court rules based on their interpretation of the law and the Constitution, and nothing else.  If the legislature et.al. don't like the ruling they're free to try to amend the Constitution.  That's how the system works.  All you're trying to do here is invent a responsibility for the SC which never existed.  The SC aren't beholden to the people, they're beholden to the law.  You're just
+           <i>
+            want
+           </i>
+           them to be beholden to the people because you don't like some of their recent rulings.  And that's exactly why they're not.  They rule based on legal principles, not whatever political trend is popular this week.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156736" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156736" id="qrwq_156736" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156736" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156885">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-24-2005,
+          <span class="time">
+           08:20 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156885#post156885" name="post156885">
+          #104
+         </a>
+         <a id="postcount156885" name="104">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+          <img alt="marc9000's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=1682&amp;dateline=1266881253"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="marc9000 is offline">
+            <strong>
+             marc9000
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1682&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1682&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="marc9000 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           northern Ky.
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,211
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156885">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Kronus
+               </strong>
+              </div>
+              <div class="message">
+               I don't suppose you want to give a few examples here?  For example, can you give one instance of where a supreme court ruling
+               <i>
+                was
+               </i>
+               based on what the legislature said?  No, you can't, because that isn't how the system works, and never was.
+              </div>
+             </div>
+            </div>
+           </div>
+           How about two examples, one where there was re-interpretation, and one where there was correct interpretation.
+           <br/>
+           <br/>
+           A re-interpretation one was McCain-Feingold, where the Supreme Court found the words "shall make no law abridging the freedom of speech...." to be not as important as their
+           <b>
+            personal opinions
+           </b>
+           that Congress has broad authority in acting against the corrupting power of money in politics. To be fair, I must admit that Bush signed it, and IMO Bush was wrong to do that. I believe he signed it to avoid a media onslaught. No excuse, but I think he's far less guilty than the Supreme Court.
+           <br/>
+           <br/>
+           A correct interpretation one was the Railroad Retirement Act of 1934. This was legislation passed by Congress (citing the commerce clause), establishing compulsory retirement plans for railroad workers. The Supreme Court invalidated it in 1935 because it interpreted NO Constitutional authority to regulate a business relationship between employer and employee. THAT is how the system is supposed to work.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The Supreme Court rules based on their interpretation of the law and the Constitution, and nothing else.
+             </div>
+            </div>
+           </div>
+           Not when they subtract words, like "shall make no law", or when they add words, like "separation of church &amp; state".
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              If the legislature et.al. don't like the ruling they're free to try to amend the Constitution.  That's how the system works.
+             </div>
+            </div>
+           </div>
+           That is true. There are no well defined steps in the Constitution to correct their errors, or control their adjudications. The framers thought that those on the Supreme court would have integrity enough to repect the strict language of the Constitution, or at least would be intimidated by a populace that didn't have their heads in the sand. They were wrong about that.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              All you're trying to do here is invent a responsibility for the SC which never existed.
+             </div>
+            </div>
+           </div>
+           What responsibility would that be? I'm trying to show that they DON'T have responsibilities that they claim to have. Try this one; Justice Anthony Kennedy, speaking to the American Bar Association in 2003;
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I can accept neither the necessity nor the wisdom of federal mandatory minimum [prison] sentences. In too many cases, mandatory minimum sentences are unwise and unjust.
+             </div>
+            </div>
+           </div>
+           Since it's federal law, and not prohibited by the Constitution, no one should care what he "personally accepts" about it. Maybe I'm wrong, but I'd bet you won't find GOOD Supreme Court justices like Clarence Thomas or Antonin Scalia pubicly spouting off about what they can or can't personally accept, if it hasn't to do with constitutional law.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              The SC aren't beholden to the people, they're beholden to the law.  You're just
+              <i>
+               want
+              </i>
+              them to be beholden to the people because you don't like some of their recent rulings.  And that's exactly why they're not.  They rule based on legal principles, not whatever political trend is popular this week.
+             </div>
+            </div>
+           </div>
+           They're beholden to LIBERALS, and that's important to a lot of people right now, since the Presidency, House, and Senate aren't beholden to liberals these days.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Why is it that our children can't read a Bible in school, but they can in prison?
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156885" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156885" id="qrwq_156885" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156885" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_156918">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          08-25-2005,
+          <span class="time">
+           01:03 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=156918#post156918" name="post156918">
+          #105
+         </a>
+         <a id="postcount156918" name="105">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="zachvac is offline">
+            <strong>
+             zachvac
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=1643&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=1643&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="zachvac is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jul 2004
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           2,893
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_156918">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+              </div>
+              <div class="message">
+               Not when they subtract words, like "shall make no law", or when they add words, like "separation of church &amp; state".
+              </div>
+             </div>
+            </div>
+           </div>
+           The first amendment says they shall make no law RESPECTING an establishment of religion which means it can't even recognize religion when making laws (what Congress does, or is supposed to do). If you really think the Constitution should be interpreted to the letter I'm sure you also agree that I can yell "fire" in a crowded theatre because they can't abridge the freedom of speech. Period. I may also lie under oath, sell secrets to enemy governments, etc. because otherwise that would be abridging my freedom of speech.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                marc9000
+               </strong>
+              </div>
+              <div class="message">
+               That is true. There are no well defined steps in the Constitution to correct their errors, or control their adjudications. The framers thought that those on the Supreme court would have integrity enough to repect the strict language of the Constitution, or at least would be intimidated by a populace that didn't have their heads in the sand. They were wrong about that.
+              </div>
+             </div>
+            </div>
+           </div>
+           Whether they were right or wrong they did outline a process to correct the errors. It's called the amendment process.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          "You know the world is going crazy when the best rapper is a white guy, the best golfer is a black guy, the tallest guy in the NBA is Chinese, the Swiss hold the America's Cup, France is accusing the U.S. of arrogance, Germany doesn't want to go to war, and the three most powerful men in America are named Bush, Dick, and Colon. Need I say more?" - Chris Rock
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_156918" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=156918" id="qrwq_156918" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_156918" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=6149&amp;page=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="6149"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 7 of 15
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="start" title="First Page - Results 1 to 15 of 222">
+        <img alt="First" src="images/pagination/first-right.png"/>
+        First
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=6149&amp;page=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="prev" title="Prev Page - Results 76 to 90 of 222">
+        <img alt="Previous" src="images/pagination/previous-right.png"/>
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=5&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 61 to 75 of 222">
+        5
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 76 to 90 of 222">
+        6
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 91 to 105 of 222">
+        7
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 106 to 120 of 222">
+        8
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=6149&amp;page=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 121 to 135 of 222">
+        9
+       </a>
+      </span>
+      <span class="separator">
+       ...
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=6149&amp;page=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 106 to 120 of 222">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=6149&amp;page=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 211 to 222 of 222">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       <span class="ctrlcontainer">
+        Government Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=6149&amp;page=7#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=6149&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=6149&amp;page=7#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=6149&amp;page=7#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     12:25 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;rand=1393435545" width="1"/>
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

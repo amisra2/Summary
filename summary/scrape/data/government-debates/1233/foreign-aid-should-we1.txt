@@ -1,0 +1,3682 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=4b1cbcd9456fd8062f54adeb722c2736&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=1233";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="foreign, countries, nations, welfare, programs, 1960s, people, international, economic, receiving, libertarian, development, billion, handful, improved, lives, admits, agency, created, dependence, slowed, typically, status, developing, steadily, declined, worlds, heaviest, growth, negative, suffering, recipients, capita, increase, dependent, graduated, assistance, 1950s, significantly, average, annual, amounts, massive, started, http://www.lp.org/issues/foreign-policy.html, policy, ending, disastrous, tanner, michael" name="keywords"/>
+  <meta content="I was looking at the Libertarian Party website and guess what; Those guys agree with me. 
+ 
+Do you think we should give foreign aid to countries? 
+ 
+http://www.lp.org/issues/foreign-policy.html 
+ 
+Libertarian foreign policy: Ending welfare for nations -- foreign aid 
+ 
+BY MICHAEL TANNER" name="description"/>
+  <title>
+   Foreign Aid, should we?
+  </title>
+  <link href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Government Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       Foreign Aid, should we?
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=4b1cbcd9456fd8062f54adeb722c2736&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="polloptionsblock" id="pollinfo">
+    <form action="poll.php?do=pollvote&amp;pollid=125" class="block" method="post">
+     <div class="blockhead">
+      <h2>
+       Poll:
+       <span class="polltitle">
+        Should we give away money to other countries?
+       </span>
+      </h2>
+     </div>
+     <div class="blockbody">
+      <div class="blockrow" id="polloptions">
+       <ul class="checkradio group">
+        <li>
+         <label for="rb_optionnumber_1">
+          <input id="rb_optionnumber_1" name="optionnumber" tabindex="1" type="radio" value="1"/>
+          Yes
+         </label>
+        </li>
+        <li>
+         <label for="rb_optionnumber_2">
+          <input id="rb_optionnumber_2" name="optionnumber" tabindex="1" type="radio" value="2"/>
+          No
+         </label>
+        </li>
+        <li>
+         <label for="rb_optionnumber_3">
+          <input id="rb_optionnumber_3" name="optionnumber" tabindex="1" type="radio" value="3"/>
+          Only to Israel
+         </label>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="blockfoot">
+      <div class="group">
+       <input class="button" tabindex="1" type="submit" value="Vote Now"/>
+       <a class="textcontrol" href="poll.php?pollid=125&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showresults">
+        View Poll Results
+       </a>
+       <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+       <input name="securitytoken" type="hidden" value="guest"/>
+       <input name="do" type="hidden" value="pollvote"/>
+       <input name="pollid" type="hidden" value="125"/>
+      </div>
+     </div>
+    </form>
+   </div>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="1233"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 29">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 29 of 29">
+        2
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 29 of 29">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 16 to 29 of 29">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 29
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Reload this Page">
+       Foreign Aid, should we?
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;t=1233&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=sendtofriend&amp;t=1233" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=addsubscription&amp;t=1233" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="1233"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 1233);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22040&amp;mode=threaded#post22040">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_22040">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2003,
+          <span class="time">
+           03:43 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22040#post22040" name="post22040">
+          #1
+         </a>
+         <a id="postcount22040" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         Foreign Aid, should we?
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_22040">
+          <blockquote class="postcontent restore">
+           I was looking at the Libertarian Party website and guess what; Those guys agree with me.
+           <br/>
+           <br/>
+           Do you think we should give foreign aid to countries?
+           <br/>
+           <br/>
+           <a href="http://www.lp.org/issues/foreign-policy.html" target="_blank">
+            http://www.lp.org/issues/foreign-policy.html
+           </a>
+           <br/>
+           <br/>
+           Libertarian foreign policy: Ending welfare for nations -- foreign aid
+           <br/>
+           <br/>
+           BY MICHAEL TANNER
+           <br/>
+           <br/>
+           Foreign aid is little more than welfare for nations -- with the same disastrous effects as domestic welfare programs.
+           <br/>
+           <br/>
+           The U.S. currently spends approximately $14 billion per year on foreign aid -- far less than most people believe, but still a substantial sum. Since the end of World War II, the United States has spent more than $400 billion on aid to other countries. But there is little evidence that any of these programs has significantly improved the lives of the people in countries receiving this aid. Instead, foreign aid has typically slowed economic development and created dependence.
+           <br/>
+           <br/>
+           Indeed, the U.S. Agency for International Development itself admits,
+           <b>
+            "Only a handful of countries that started receiving U.S. assistance in the 1950s and 1960s has ever graduated from dependent status."
+           </b>
+           In fact, despite massive amounts of international aid, the average annual increase in per capita GNP has declined steadily in developing nations since the 1960s, with many of the Third World's heaviest aid recipients actually suffering negative economic growth.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22040" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22040" id="qrwq_22040" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22040" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22055">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2003,
+          <span class="time">
+           10:35 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22055#post22055" name="post22055">
+          #2
+         </a>
+         <a id="postcount22055" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+          <img alt="AMD4EVER's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=227&amp;dateline=1318276694"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+            <strong>
+             AMD4EVER
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=227&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="AMD4EVER is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Debate Processor
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('msn', '227', 440, 270); return false;">
+            <img alt="Send a message via MSN to AMD4EVER" src="images/misc/im_msn.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '227', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to AMD4EVER" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Michigan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,842
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22055">
+          <blockquote class="postcontent restore">
+           I'm glad the only to Israel option is on there.  That is my choice as it would seem that if we don't help protect Israel no one else will.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Hail to the ones who came before us
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22055" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22055" id="qrwq_22055" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22055" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22113">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-09-2003,
+          <span class="time">
+           09:29 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22113#post22113" name="post22113">
+          #3
+         </a>
+         <a id="postcount22113" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=370&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="sundowner is offline">
+          <img alt="sundowner's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=370&amp;dateline=1068670991"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=370&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="sundowner is offline">
+            <strong>
+             sundowner
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=370&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=370&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="sundowner is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered Registrant
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Sep 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Planet Earth
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           754
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22113">
+          <blockquote class="postcontent restore">
+           My grandfather always told me never help those that first won't help themselves.  If you do, they learn to be reliant rather than self reliant.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          [B]MY KARMA RAN OVER YOUR DOGMA.[/B]
+          <br/>
+          <br/>
+          [B]"I don't do that kind of thing anymore...I just do cats now. You want some cats?"  -God, as quoted by Tastyfish.[/B]
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22113" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22113" id="qrwq_22113" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22113" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22132">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-10-2003,
+          <span class="time">
+           12:15 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22132#post22132" name="post22132">
+          #4
+         </a>
+         <a id="postcount22132" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22132">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               I'm glad the only to Israel option is on there.  That is my choice as it would seem that if we don't help protect Israel no one else will.
+              </div>
+             </div>
+            </div>
+           </div>
+           I had too. Many people think like that.  My pastor thinks that way, but I don’t.  AMD, how do you reconcile.  There are many countries that would not receive money if we don’t give it to them?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22132" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22132" id="qrwq_22132" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22132" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22170">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-10-2003,
+          <span class="time">
+           08:55 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22170#post22170" name="post22170">
+          #5
+         </a>
+         <a id="postcount22170" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+          <img alt="AMD4EVER's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=227&amp;dateline=1318276694"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+            <strong>
+             AMD4EVER
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=227&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="AMD4EVER is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Debate Processor
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('msn', '227', 440, 270); return false;">
+            <img alt="Send a message via MSN to AMD4EVER" src="images/misc/im_msn.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '227', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to AMD4EVER" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Michigan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,842
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22170">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                theLIBERTARIAN
+               </strong>
+              </div>
+              <div class="message">
+               I had too. Many people think like that.  My pastor thinks that way, but I don’t.  AMD, how do you reconcile.  There are many countries that would not receive money if we don’t give it to them?
+              </div>
+             </div>
+            </div>
+           </div>
+           There are many countries that we send money to in order to help them grow and improve their nation.  Israel is one we send money to in order to help them survive.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Hail to the ones who came before us
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22170" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22170" id="qrwq_22170" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22170" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22620">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-14-2003,
+          <span class="time">
+           08:01 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22620#post22620" name="post22620">
+          #6
+         </a>
+         <a id="postcount22620" name="6">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22620">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               There are many countries that we send money to in order to help them grow and improve their nation.  Israel is one we send money to in order to help them survive.
+              </div>
+             </div>
+            </div>
+           </div>
+           So, if they can convince us that they NEED the money we should give the taxpayer money to them.  This sounds like welfare to me.
+           <br/>
+           <br/>
+           BTW, Israel won a major war before we gave them money and weapons.  Now they are in a better position to win a war against any Arab nation or nations.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22620" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22620" id="qrwq_22620" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22620" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22704">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-15-2003,
+          <span class="time">
+           08:22 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22704#post22704" name="post22704">
+          #7
+         </a>
+         <a id="postcount22704" name="7">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+          <img alt="AMD4EVER's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=227&amp;dateline=1318276694"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+            <strong>
+             AMD4EVER
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=227&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="AMD4EVER is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Debate Processor
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('msn', '227', 440, 270); return false;">
+            <img alt="Send a message via MSN to AMD4EVER" src="images/misc/im_msn.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '227', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to AMD4EVER" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Michigan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,842
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22704">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                theLIBERTARIAN
+               </strong>
+              </div>
+              <div class="message">
+               So, if they can convince us that they NEED the money we should give the taxpayer money to them.  This sounds like welfare to me.
+               <br/>
+               <br/>
+               BTW, Israel won a major war before we gave them money and weapons.  Now they are in a better position to win a war against any Arab nation or nations.
+              </div>
+             </div>
+            </div>
+           </div>
+           Welfare?  We support welfare here in the US.
+           <br/>
+           <br/>
+           History is not always the best judge of future outcomes.  Just because Israel survived once doesn't mean they are forever destine to succeed again.  The survival of Israel is important to maintain a balance in the Middle East.  Plus add to that the terrorism going on in that nation.  The US can easily relate to that now and since money to Israel is helping fight terrorism it is serving more than just the purpose of protecting one nation.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Hail to the ones who came before us
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22704" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22704" id="qrwq_22704" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22704" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22827">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           03:47 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22827#post22827" name="post22827">
+          #8
+         </a>
+         <a id="postcount22827" name="8">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22827">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Welfare?  We support welfare here in the US.
+              </div>
+             </div>
+            </div>
+           </div>
+           We should not support welfare here.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               History is not always the best judge of future outcomes.  Just because Israel survived once doesn't mean they are forever destine to succeed again.  The survival of Israel is important to maintain a balance in the Middle East.
+              </div>
+             </div>
+            </div>
+           </div>
+           Balance of what?  A balance of constant war?   Besides, IMHO, history is a good judge for future outcomes.
+           <br/>
+           <br/>
+           Another point:  Saddam was our friend at one time.  We gave him money and weapons.  Someday we might have to go to war against Israel and we might regret the aid.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Plus add to that the terrorism going on in that nation.  The US can easily relate to that now and since money to Israel is helping fight terrorism it is serving more than just the purpose of protecting one nation.
+              </div>
+             </div>
+            </div>
+           </div>
+           It is possible that our support created resentment that “helped” cause 9-11.  I have seen stories that say OBL said he attacked the US because of our support for Israel and our stationing of troops in Saudi Arabia.
+           <br/>
+           <br/>
+           That is not my main argument against support.  It is against my principles to tax people and give the money away.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22827" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22827" id="qrwq_22827" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22827" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22857">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           10:23 AM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22857#post22857" name="post22857">
+          #9
+         </a>
+         <a id="postcount22857" name="9">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+          <img alt="AMD4EVER's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=227&amp;dateline=1318276694"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+            <strong>
+             AMD4EVER
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=227&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="AMD4EVER is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Debate Processor
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('msn', '227', 440, 270); return false;">
+            <img alt="Send a message via MSN to AMD4EVER" src="images/misc/im_msn.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '227', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to AMD4EVER" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Michigan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,842
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22857">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                theLIBERTARIAN
+               </strong>
+              </div>
+              <div class="message">
+               We should not support welfare here.
+              </div>
+             </div>
+            </div>
+           </div>
+           Perhaps.  I agree that welfare needs to be cut back substancially but eliminating it probably isn't the best answer either.  Some people truly do need it during the hard times so they can survive and become productive again.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Balance of what?  A balance of constant war?   Besides, IMHO, history is a good judge for future outcomes.
+             </div>
+            </div>
+           </div>
+           What war?  Who in the Middle East has been constantly at war?  Anyways if you want balance see Israel destroying the Iraqi nuclear power plant in 1981.  Talk about creating balance.
+           <br/>
+           <br/>
+           The history is a good judge of future outcomes but logic is as well and to say that Israel is going to be able to survive another all out attack on them is not necessarily logically true.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Another point:  Saddam was our friend at one time.  We gave him money and weapons.  Someday we might have to go to war against Israel and we might regret the aid.
+             </div>
+            </div>
+           </div>
+           Perhaps we should end free trade with NAFTA as well.  It benefits Mexico and Canada and one day they may be our enemies and we will regret helping their economies and opening business opportunities there. Is this your train of thought?  Don't do anything that we may one day regret even if it seems likely that we are doing what is in our long term interest?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              It is possible that our support created resentment that “helped” cause 9-11.  I have seen stories that say OBL said he attacked the US because of our support for Israel and our stationing of troops in Saudi Arabia.
+             </div>
+            </div>
+           </div>
+           Is it possible 9-11 could have happened even if we stayed completely out of international affairs?  Absoultely.  There is always someone who will be angry at the US regardless of what our policy is.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              That is not my main argument against support.  It is against my principles to tax people and give the money away.
+             </div>
+            </div>
+           </div>
+           Personally I disagree with only a few Libertarian policies but there are such major flaws in a few of them that they cannot possibly succeed if put into action on a wide scale.  Taxing people and giving money away is one policy that works if done right.  Our current system needs reform but eliminating the policy completely is not the answer IMO.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Hail to the ones who came before us
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22857" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22857" id="qrwq_22857" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22857" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22870">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           01:14 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22870#post22870" name="post22870">
+          #10
+         </a>
+         <a id="postcount22870" name="10">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22870">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Perhaps.  I agree that welfare needs to be cut back substancially but eliminating it probably isn't the best answer either.  Some people truly do need it during the hard times so they can survive and become productive again.
+              </div>
+             </div>
+            </div>
+           </div>
+           Charities like welfare would be better suited for the private sector (i.e. Churches and such).  Welfare breaks up families and requires people NOT to work that are on it.  Very bad IMHO.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               What war?  Who in the Middle East has been constantly at war?  Anyways if you want balance see Israel destroying the Iraqi nuclear power plant in 1981.  Talk about creating balance.
+              </div>
+             </div>
+            </div>
+           </div>
+           What War? Iran / Iraq / Israel / Egypt / Palestinians is what I was referring to.  The only country in the region with Nuclear weapons is Israel.  What balance is that?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               The history is a good judge of future outcomes but logic is as well and to say that Israel is going to be able to survive another all out attack on them is not necessarily logically true.
+              </div>
+             </div>
+            </div>
+           </div>
+           I have not evidence other than history and Israel’s current military which is more advanced than anyone in the region.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Perhaps we should end free trade with NAFTA as well.  It benefits Mexico and Canada and one day they may be our enemies and we will regret helping their economies and opening business opportunities there. Is this your train of thought?  Don't do anything that we may one day regret even if it seems likely that we are doing what is in our long term interest?
+              </div>
+             </div>
+            </div>
+           </div>
+           Free Trade is different than outright giving money away.  Free trade requires freedom.  The foreign aid requires taxing the people where there is no freedom.  Taxes are collected at “gun point”.  Free trade is done with the absence of guns as a matter of principle.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Is it possible 9-11 could have happened even if we stayed completely out of international affairs?  Absoultely.  There is always someone who will be angry at the US regardless of what our policy is.
+              </div>
+             </div>
+            </div>
+           </div>
+           I agree with that.  Some people will get mad because there is prayer in school.  Others will be mad because condoms are handed out in school.  Whenever the government collects taxes and spends it, “it” becomes a “political football”.   I would recommend getting rid of public spending for the most part.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Personally I disagree with only a few Libertarian policies but there are such major flaws in a few of them that they cannot possibly succeed if put into action on a wide scale.  Taxing people and giving money away is one policy that works if done right.  Our current system needs reform but eliminating the policy completely is not the answer IMO.
+              </div>
+             </div>
+            </div>
+           </div>
+           We have been reforming the “system” since the system was created.  IMO we are going in the wrong direction.  We tax more and give away more liberty each year with the passage of legislation.
+           <br/>
+           <br/>
+           Everyone wants their way.  Some people want the government to give money to Nigeria, so we do.  Others want to give money to Pakistan, so we do.  Others want the government to give money to the Palestinians.  American tax dollars are for sale.  I heard just last night that some legislation was passed giving subsidies to some PRIVATE companies.  Various groups are saying we should double our charity to Afghanistan from $150 per resident to over $300 per resident.  Other countries are begging for more money too.  The better lobbyists will get the most money.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22870" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22870" id="qrwq_22870" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22870" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22879">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           04:41 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22879#post22879" name="post22879">
+          #11
+         </a>
+         <a id="postcount22879" name="11">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=463&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Madhat is offline">
+            <strong>
+             Madhat
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=463&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=463&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Madhat is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Oct 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Israel
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           39
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22879">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                theLIBERTARIAN
+               </strong>
+              </div>
+              <div class="message">
+               We should not support welfare here.
+              </div>
+             </div>
+            </div>
+           </div>
+           Are you serious? This coming from a Libertarian? I'm sorry, but I find it a little too hard to believe. Some people will starve to death without welfare. Of course, it shouldn't be done in a way that exploits the government, but there is sometimes just no choice...
+           <br/>
+           <br/>
+           About foreign aid, of course the US should continue. It's not just paying money to other countries. Do you want the US to be a pariah state? That is a bit snobish, naive and irresponsible.
+           <br/>
+           <br/>
+           You don't want to "spend" your tax money? Are you willing to let millions of Africans die of starvation only because you want to live a better life (I don't know how much America is involved in Africa, but I assume they are)? Perhaps a bigger TV, bigger cars, bigger parking spaces.....
+           <br/>
+           <br/>
+           Anyways, the US developes economic relations with countries around the globe as a result. For example, oil. Without paying money to Arab countries, you wouldn't be getting your cheap oil.
+           <br/>
+           <br/>
+           About Israel... in 1948 Israel had won a war it had no chance winning. The only aid they received was from Yugoslavia I believe. The British helped training a few troops during the mandate years, but that's basically it. Israel won the war yes. But a new country usually gets aid from other countries in the world to help it develope. In 1956 another war was between Israel and Egypt. I don't think the US aided Israel much at the time. Only after that, and before the war in 1967 US aid started to really pump up, and Israel became a major power in the Mideast (until then Israeli military wasn't acknowledged as a strong force). Even so, in 1973, Israel almost lost a war - mostly because of arrogance and intelligence that failed. The US saved Israel that war. Israeli citizens would have probably been murdered to death if the US didn't help with aid.
+           <br/>
+           <br/>
+           Anywho, you're forgeting the Cold War. The US had big interests aiding Israel as USSR was aiding Arab countries.
+           <br/>
+           <br/>
+           The world is a complicated issue.... It's all I can say.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22879" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22879" id="qrwq_22879" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22879" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22886">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           05:49 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22886#post22886" name="post22886">
+          #12
+         </a>
+         <a id="postcount22886" name="12">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+          <img alt="AMD4EVER's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=227&amp;dateline=1318276694"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="AMD4EVER is offline">
+            <strong>
+             AMD4EVER
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=227&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=227&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="AMD4EVER is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Debate Processor
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('msn', '227', 440, 270); return false;">
+            <img alt="Send a message via MSN to AMD4EVER" src="images/misc/im_msn.gif"/>
+           </a>
+           <a href="javascript://" onclick="imwindow('yahoo', '227', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to AMD4EVER" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Jun 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           Michigan
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           1,842
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22886">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                theLIBERTARIAN
+               </strong>
+              </div>
+              <div class="message">
+               Charities like welfare would be better suited for the private sector (i.e. Churches and such).  Welfare breaks up families and requires people NOT to work that are on it.  Very bad IMHO.
+              </div>
+             </div>
+            </div>
+           </div>
+           If you only view the negatives of anything it will always look bad.  You have to view the positives as well.  Do you view them?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              What War? Iran / Iraq / Israel / Egypt / Palestinians is what I was referring to.  The only country in the region with Nuclear weapons is Israel.  What balance is that?
+             </div>
+            </div>
+           </div>
+           What in the world are you talking about?  Tell me what wars you are trying to indicate are constantly going on.  Also how are the Israelis nuclear missiles causing an inbalance?  Iraq having them would have caused an inbalance when they went to war with Kuwait.  Israel has way less people than any of their neighbors so even that can be viewed as unbalanced.  But the only thing we are really testing for balance is the stability in the region.  If we have stability then things are relatively balanced.  Without Israel in the region I would find it hard to believe that there would be greater stability or balance.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I have not evidence other than history and Israel’s current military which is more advanced than anyone in the region.
+             </div>
+            </div>
+           </div>
+           Playing the laws of probability and nothing more will show that evenutally history will not repeat itself and Israel will get defeated if an attempt to do so occurs often enough.  Also don't forget that the arabs may gain alliance with European countries or the Russians and become much more of a threat to Israel.  History cannot take that type of swing into affect.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              Free Trade is different than outright giving money away.  Free trade requires freedom.  The foreign aid requires taxing the people where there is no freedom.  Taxes are collected at “gun point”.  Free trade is done with the absence of guns as a matter of principle.
+             </div>
+            </div>
+           </div>
+           We were not talking about outright giving money away.  We are talking about doing things that we may one day regret.  Is it true that we may one day regret helping the Canadian economy by implementing NAFTA?  Of course that is true.  We may one day regret it.  So should we call it off right now just in case we regret it later?  Heck, I could take your original statement of "Someday we might have to go to war against Israel and we might regret the aid." and twist it by asking could we someday need Israel and be glad that we gave them aid in the past.  There are always possibilities that something we do today could XXXX up in our face tomorrow so we don't take stupid risks.  Supporting Israel is the right thing to do and it is not a stupid risk.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              I agree with that.  Some people will get mad because there is prayer in school.  Others will be mad because condoms are handed out in school.  Whenever the government collects taxes and spends it, “it” becomes a “political football”.   I would recommend getting rid of public spending for the most part.
+             </div>
+            </div>
+           </div>
+           And this will somehow prevent any further 9/11's or are you for some reason refering to my quote with something that has no real link to anything said in it?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              We have been reforming the “system” since the system was created.  IMO we are going in the wrong direction.  We tax more and give away more liberty each year with the passage of legislation.
+              <br/>
+              <br/>
+              Everyone wants their way.  Some people want the government to give money to Nigeria, so we do.  Others want to give money to Pakistan, so we do.  Others want the government to give money to the Palestinians.  American tax dollars are for sale.  I heard just last night that some legislation was passed giving subsidies to some PRIVATE companies.  Various groups are saying we should double our charity to Afghanistan from $150 per resident to over $300 per resident.  Other countries are begging for more money too.  The better lobbyists will get the most money.
+             </div>
+            </div>
+           </div>
+           I agree with your first paragraph which is why I like many conservative policies as well as libritarian ones.  However when it comes to giving money internationally I think if we were smarter about it we would have a better system but eliminating it is not the answer.  That is the easiest way to solve a problem but it creates more than reforming the system would.  Reforming would still allow the US to help people who really need it and gather goodwill in other nations.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          Hail to the ones who came before us
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22886" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22886" id="qrwq_22886" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22886" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22903">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           09:12 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22903#post22903" name="post22903">
+          #13
+         </a>
+         <a id="postcount22903" name="13">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22903">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               If you only view the negatives of anything it will always look bad.  You have to view the positives as well.  Do you view them?
+              </div>
+             </div>
+            </div>
+           </div>
+           Hey it may be good now but give it a few years.  You are talking the typical “liberal speak”.  You want the government to help or take care of people.  You think the government is just great don’t you.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               What in the world are you talking about?  Tell me what wars you are trying to indicate are constantly going on.  Also how are the Israelis nuclear missiles causing an inbalance?  Iraq having them would have caused an inbalance when they went to war with Kuwait.  Israel has way less people than any of their neighbors so even that can be viewed as unbalanced.  But the only thing we are really testing for balance is the stability in the region.  If we have stability then things are relatively balanced.  Without Israel in the region I would find it hard to believe that there would be greater stability or balance.
+              </div>
+             </div>
+            </div>
+           </div>
+           What am I talking about?  There seems to always be a war going on in the Middle East.  Much of the time we are supplying the weapons.
+           <br/>
+           <br/>
+           You call balance one side having overwhelming power over the other?  That is silly.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               Playing the laws of probability and nothing more will show that evenutally history will not repeat itself and Israel will get defeated if an attempt to do so occurs often enough.  Also don't forget that the arabs may gain alliance with European countries or the Russians and become much more of a threat to Israel.  History cannot take that type of swing into affect.
+              </div>
+             </div>
+            </div>
+           </div>
+           That is your excuse for giving taxpayer money to Israel? If you roll the dice enough the Israeli’s might lose?  Sure anything is possible.  I really don’t care if they do lose.  They are not part of the US.  Why do you care?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               We were not talking about outright giving money away.  We are talking about doing things that we may one day regret.  Is it true that we may one day regret helping the Canadian economy by implementing NAFTA?  Of course that is true.  We may one day regret it.  So should we call it off right now just in case we regret it later?  Heck, I could take your original statement of "Someday we might have to go to war against Israel and we might regret the aid." and twist it by asking could we someday need Israel and be glad that we gave them aid in the past.  There are always possibilities that something we do today could XXXX up in our face tomorrow so we don't take stupid risks.  Supporting Israel is the right thing to do and it is not a stupid risk.
+              </div>
+             </div>
+            </div>
+           </div>
+           Why would we need the Israelis’?
+           <br/>
+           <br/>
+           Also, just because you have free trade does not justify foreign aid.  There I no reasoning there.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               And this will somehow prevent any further 9/11's or are you for some reason refering to my quote with something that has no real link to anything said in it?
+              </div>
+             </div>
+            </div>
+           </div>
+           I looked back and in that quote you are referring to I did not mention 9-11.  I mention cause and effect.  If you smoke cigarettes there is a higher possibility you will get cancer.  You cannot take taxpayer money, toss it around and expect nothing bad to come from it.  According to OBL one of the two reasons for 9-11 was our support of Israel.  Do you see the cause and effect?
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                AMD4EVER
+               </strong>
+              </div>
+              <div class="message">
+               I agree with your first paragraph which is why I like many conservative policies as well as libritarian ones.  However when it comes to giving money internationally I think if we were smarter about it we would have a better system but eliminating it is not the answer.  That is the easiest way to solve a problem but it creates more than reforming the system would.  Reforming would still allow the US to help people who really need it and gather goodwill in other nations.
+              </div>
+             </div>
+            </div>
+           </div>
+           You want to give money away so they like us?  Goodwill?  Who cares if they like our government?  It is not my responsibility.  Plus, we seem to back some of the cruelest dictators at times.
+           <br/>
+           <br/>
+           What reasons do you favor giving taxpayer money to other countries?  You personally can give money; no one is going to stop you.  But why force everyone to?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22903" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22903" id="qrwq_22903" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22903" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22904">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           09:27 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22904#post22904" name="post22904">
+          #14
+         </a>
+         <a id="postcount22904" name="14">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22904">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Madhat
+               </strong>
+              </div>
+              <div class="message">
+               Are you serious? This coming from a Libertarian? I'm sorry, but I find it a little too hard to believe. Some people will starve to death without welfare. Of course, it shouldn't be done in a way that exploits the government, but there is sometimes just no choice...
+               <br/>
+               <br/>
+               About foreign aid, of course the US should continue. It's not just paying money to other countries. Do you want the US to be a pariah state? That is a bit snobish, naive and irresponsible.
+              </div>
+             </div>
+            </div>
+           </div>
+           Wow, I feel like this is the most liberal board imaginable.  Yes Libertarians do believe in ending WELFARE.  Check it out:
+           <br/>
+           <br/>
+           <a href="http://www.lp.org/issues/welfare.html" target="_blank">
+            http://www.lp.org/issues/welfare.html
+           </a>
+           <br/>
+           <br/>
+           <b>
+            1. End Welfare
+           </b>
+           <br/>
+           None of the proposals currently being advanced by either conservatives or liberals is likely to fix the fundamental problems with our welfare system. Current proposals for welfare reform, including block grants, job training, and "workfare" represent mere tinkering with a failed system.
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Madhat
+               </strong>
+              </div>
+              <div class="message">
+               You don't want to "spend" your tax money? Are you willing to let millions of Africans die of starvation only because you want to live a better life (I don't know how much America is involved in Africa, but I assume they are)? Perhaps a bigger TV, bigger cars, bigger parking spaces.....
+              </div>
+             </div>
+            </div>
+           </div>
+           Like I said, you can spend your money on what ever you want.  I gave money to help mothers left here while their husbands are in Iraq.  This is the way charity should work: voluntarily.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Madhat
+               </strong>
+              </div>
+              <div class="message">
+               Anyways, the US developes economic relations with countries around the globe as a result. For example, oil. Without paying money to Arab countries, you wouldn't be getting your cheap oil.
+              </div>
+             </div>
+            </div>
+           </div>
+           This is your idea of developing relations?  We have to give them money?  I like the free market.  I don’t like spilling blood so I can save a few pennies on oil. OR I don’t like taking tax money and bribing people so the consumer can save some money.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Madhat
+               </strong>
+              </div>
+              <div class="message">
+               About Israel... in 1948 Israel had won a war it had no chance winning. The only aid they received was from Yugoslavia I believe. The British helped training a few troops during the mandate years, but that's basically it. Israel won the war yes. But a new country usually gets aid from other countries in the world to help it develope. In 1956 another war was between Israel and Egypt. I don't think the US aided Israel much at the time. Only after that, and before the war in 1967 US aid started to really pump up, and Israel became a major power in the Mideast (until then Israeli military wasn't acknowledged as a strong force). Even so, in 1973, Israel almost lost a war - mostly because of arrogance and intelligence that failed. The US saved Israel that war. Israeli citizens would have probably been murdered to death if the US didn't help with aid.
+              </div>
+             </div>
+            </div>
+           </div>
+           It is not the taxpayer’s responsibility.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Madhat
+               </strong>
+              </div>
+              <div class="message">
+               The world is a complicated issue.... It's all I can say.
+              </div>
+             </div>
+            </div>
+           </div>
+           You are right.  To think you can fine tune it with the exact amount of blood or taxpayer money is wrong.  I like freedom, not the government bribing people (or countries) or threatening them.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22904" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22904" id="qrwq_22904" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22904" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_22905">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          11-16-2003,
+          <span class="time">
+           09:36 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=22905#post22905" name="post22905">
+          #15
+         </a>
+         <a id="postcount22905" name="15">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+          <img alt="theLIBERTARIAN's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=150&amp;dateline=1094873744"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="theLIBERTARIAN is offline">
+            <strong>
+             theLIBERTARIAN
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=150&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=150&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="theLIBERTARIAN is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Let FREEDOM RING
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Apr 2003
+          </dd>
+          <dt>
+           Location
+          </dt>
+          <dd>
+           California
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           340
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_22905">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Madhat
+               </strong>
+              </div>
+              <div class="message">
+               You don't want to "spend" your tax money? Are you willing to let millions of Africans die of starvation only because you want to live a better life (I don't know how much America is involved in Africa, but I assume they are)? Perhaps a bigger TV, bigger cars, bigger parking spaces.....
+              </div>
+             </div>
+            </div>
+           </div>
+           How about some shoes for my kids.  My sons have worn hand-me downs.  We have shopped at the thrift store for my daughter’s dresses.  Hey, if you have lots of extra money you send the government or foreign governments money.  My kids are still young, so they don’t seem to care.  We are doing better now.  But my feelings come from the decades of poverty I experienced.
+           <br/>
+           <br/>
+           Mad and AMD, let me ask you both a question if you don’t mind.  Do you guys have kids?
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_22905" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=22905" id="qrwq_22905" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_22905" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+    </ol>
+    <div class="separator">
+    </div>
+    <div class="postlistfoot">
+    </div>
+   </div>
+   <div class="noinlinemod below_postlist" id="below_postlist">
+    <div class="pagination_bottom" id="pagination_bottom">
+     <form action="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="1233"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 29">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 29 of 29">
+        2
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 29 of 29">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=1233&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 16 to 29 of 29">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="clear">
+     </div>
+     <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+      <span class="shade">
+       Quick Navigation
+      </span>
+      <a class="popupctrl" href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       <span class="ctrlcontainer">
+        Government Debates
+       </span>
+      </a>
+      <a class="textcontrol" href="showthread.php?t=1233#top" onclick="document.location.hash='top';return false;">
+       Top
+      </a>
+      <ul class="navpopupbody popupbody popuphover">
+       <li class="optionlabel">
+        Site Areas
+       </li>
+       <li>
+        <a href="usercp.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Settings
+        </a>
+       </li>
+       <li>
+        <a href="private.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Private Messages
+        </a>
+       </li>
+       <li>
+        <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Subscriptions
+        </a>
+       </li>
+       <li>
+        <a href="online.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Who's Online
+        </a>
+       </li>
+       <li>
+        <a href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Search Forums
+        </a>
+       </li>
+       <li>
+        <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+         Forums Home
+        </a>
+       </li>
+       <li class="optionlabel">
+        Forums
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Getting Started
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=33&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Introductions
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=10&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Open Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=36&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Polls Forum
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Suggestions
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=61&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Book Suggestions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=62&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Web Site Suggestions
+            </a>
+           </li>
+          </ol>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=79&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Latest News
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=37&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Latest Political News
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=80&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Lasting News Stories
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Topics
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Abortion Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=77&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Challengers Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=18&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Civil Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=11&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Creation(Intelligent Design) vs Evolution
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=12&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Crime Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=13&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Current Events Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=54&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Economics Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=56&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Economic Advice
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=57&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Policy Ideas
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=30&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Social Security Debates
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=55&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Stock Market
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=31&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tax Debates
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Education Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=75&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Elections Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=16&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Entertainment Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=17&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Environmental Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=50&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           European politics/Economics
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=51&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             EU
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=52&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Foreign affairs
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=19&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Fun Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=20&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gay Rights Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=21&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           General
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=63&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cooking
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=64&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Gardening
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Home Projects
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=41&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Parenting
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=66&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Tips for Life and Fun
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Government Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=23&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Gun Control Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=24&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Health Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=40&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Mental Health
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=25&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           History Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=76&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Liars Corner
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=26&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Peace in the Middle East
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=34&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Philosophy Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=27&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Politics Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=28&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Religion Debates
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=38&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Biblical Contradictions
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=39&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Bible Doctrine
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=29&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Science and Math Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=32&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Society Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=59&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Sports Debates
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=46&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Technology
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=47&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cameras
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=48&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Camcorders
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=42&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cars and Trucks
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=43&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Cell phones
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=44&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Computers
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=68&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Game Machines
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=45&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Music players
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=49&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Televisions
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=69&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Works in Progress
+          </a>
+          <ol class="d2">
+           <li>
+            <a href="forumdisplay.php?f=71&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=72&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             High Tech Art
+            </a>
+           </li>
+           <li>
+            <a href="forumdisplay.php?f=70&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+             Writings
+            </a>
+           </li>
+          </ol>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=53&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Worldviews
+          </a>
+         </li>
+        </ol>
+       </li>
+       <li>
+        <a href="forumdisplay.php?f=60&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         Formal Debates
+        </a>
+        <ol class="d1">
+         <li>
+          <a href="forumdisplay.php?f=35&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debating Techniques and Styles
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=58&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Challenges
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=14&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Debate Tournaments
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=67&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Ringside
+          </a>
+         </li>
+         <li>
+          <a href="forumdisplay.php?f=73&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+           Formal Open Debate
+          </a>
+         </li>
+        </ol>
+       </li>
+      </ul>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+   </div>
+   <!-- next / previous links -->
+   <div class="navlinks">
+    <strong>
+     «
+    </strong>
+    <a href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextoldest" rel="nofollow">
+     Previous Thread
+    </a>
+    |
+    <a href="showthread.php?t=1233&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextnewest" rel="nofollow">
+     Next Thread
+    </a>
+    <strong>
+     »
+    </strong>
+   </div>
+   <!-- / next / previous links -->
+   <div class="thread_info block" id="thread_info">
+    <div class="options_block_container">
+     <div class="options_block">
+      <h4 class="collapse blockhead options_correct">
+       <a class="collapse" href="showthread.php?t=1233#top" id="collapse_posting_rules">
+        <img alt="" src="images/buttons/collapse_40b.png"/>
+       </a>
+       Posting Permissions
+      </h4>
+      <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+       <div class="info_subblock" id="forumrules">
+        <ul class="youcandoblock">
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post new threads
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post replies
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          post attachments
+         </li>
+         <li>
+          You
+          <strong>
+           may not
+          </strong>
+          edit your posts
+         </li>
+         <li>
+         </li>
+        </ul>
+        <div class="bbcodeblock">
+         <ul>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode" target="_blank">
+            BB code
+           </a>
+           is
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showsmilies" target="_blank">
+            Smilies
+           </a>
+           are
+           <strong>
+            On
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#imgcode" target="_blank">
+            [IMG]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#videocode" target="_blank">
+            [VIDEO]
+           </a>
+           code is
+           <strong>
+            Off
+           </strong>
+          </li>
+          <li>
+           HTML code is
+           <strong>
+            Off
+           </strong>
+          </li>
+         </ul>
+        </div>
+        <p class="rules_link">
+         <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showrules" target="_blank">
+          Forum Rules
+         </a>
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div style="clear: left">
+    <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+     <script type="text/javascript">
+      <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+     </script>
+     <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+     </script>
+    </div>
+   </div>
+   <div class="floatcontainer footer" id="footer">
+    <form action="forum.php" class="footer_select" id="footer_select" method="get">
+     <select name="styleid" onchange="switch_id(this, 'style')">
+      <optgroup label="Quick Style Chooser">
+       <option class="hidden">
+       </option>
+      </optgroup>
+      <optgroup label=" Standard Styles">
+       <option class="" selected="selected" value="33">
+        -- vB4 Default Style
+       </option>
+      </optgroup>
+      <optgroup label=" Mobile Styles">
+       <option class="" value="34">
+        -- Default Mobile Style
+       </option>
+      </optgroup>
+     </select>
+    </form>
+    <ul class="footer_links" id="footer_links">
+     <li>
+      <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="http://www.4forums.com/political/index.php">
+       www.4forums.com
+      </a>
+     </li>
+     <li>
+      <a href="archive/index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Archive
+      </a>
+     </li>
+     <li>
+      <a href="showthread.php?t=1233#top" onclick="document.location.hash='top'; return false;">
+       Top
+      </a>
+     </li>
+    </ul>
+    <script type="text/javascript">
+     <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+    </script>
+   </div>
+  </div>
+  <!-- closing div for body_wrapper -->
+  <div class="below_body">
+   <div class="shade footer_time" id="footer_time">
+    All times are GMT -5. The time now is
+    <span class="time">
+     12:36 PM
+    </span>
+    .
+   </div>
+   <div class="shade footer_copyright" id="footer_copyright">
+    <!-- Do not remove this copyright notice -->
+    Powered by
+    <a href="https://www.vbulletin.com" id="vbulletinlink">
+     vBulletin®
+    </a>
+    Version 4.2.2
+    <br/>
+    Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+    <!-- Do not remove this copyright notice -->
+   </div>
+   <div class="shade footer_morecopyright" id="footer_morecopyright">
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+    <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+   </div>
+  </div>
+ </body>
+</html>

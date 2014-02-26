@@ -1,0 +1,4800 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" id="vbulletin_html" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=latin-1" http-equiv="Content-Type"/>
+  <meta content="http://www.4forums.com/political" id="e_vb_meta_bburl" name="vb_meta_bburl"/>
+  <base href="http://www.4forums.com/political/"/>
+  <!--[if IE]></base><![endif]-->
+  <meta content="vBulletin 4.2.2" name="generator"/>
+  <meta content="IE=9" http-equiv="X-UA-Compatible"/>
+  <link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon"/>
+  <script type="text/javascript">
+   <!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=4b1cbcd9456fd8062f54adeb722c2736&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "http://www.4forums.com/political";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "showthread.php?t=15541";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.4forums.com/political/";
+// -->
+  </script>
+  <script src="http://www.4forums.com/political/clientscript/vbulletin-core.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/main-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/popupmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-chrome-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/vbulletin-formcontrols-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/editor-ie.css?d=1381705717" />
+	<![endif]-->
+  <meta content="taxation, government, freedom, refuses, years, 10000, enlighten, system, answer, governments, thread, modern, arguement, taxes, makes, western, democracy, history, relied, exist, http://www.4forums.com/political/435784-post151.html" name="keywords"/>
+  <meta content="Freedom makes the arguement in this thread below that government, our modern western democracy in particular, can exist without taxation. 
+ 
+http://www.4forums.com/political/435784-post151.html 
+ 
+I would like to know how. Governments throughout history have relied on taxation in one form or another for 10000 years. 
+ 
+Freedom refuses to answer how our system would work without taxation, so if any one else would like to take a stab at it please enlighten me." name="description"/>
+  <title>
+   government and taxes
+  </title>
+  <link href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="canonical"/>
+  <script src="clientscript/vbulletin_ajax_threadrate.js?v=422" type="text/javascript">
+  </script>
+  <link href="clientscript/vbulletin_css/style00033l/showthread-rollup.css?d=1381705717" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/toolsmenu-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postlist-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/showthread-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/postbit-ie.css?d=1381705717" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00033l/poll-ie.css?d=1381705717" /><![endif]-->
+  <link href="clientscript/vbulletin_css/style00033l/additional.css?d=1381705717" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div class="above_body">
+   <!-- closing tag is in template navbar -->
+   <div class="floatcontainer doc_header" id="header">
+    <div>
+     <a class="logo-image" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736" name="top">
+      <img alt="4Forums.com Political Debates and Polls" src="images/misc/4forums.gif"/>
+     </a>
+    </div>
+    <div class="toplinks" id="toplinks">
+     <ul class="nouser">
+      <li>
+       <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="nofollow">
+        Register
+       </a>
+      </li>
+      <li>
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" rel="help">
+        Help
+       </a>
+      </li>
+      <li>
+       <script src="clientscript/vbulletin_md5.js?v=422" type="text/javascript">
+       </script>
+       <form action="login.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=login" id="navbar_loginform" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+        <fieldset class="logindetails" id="logindetails">
+         <div>
+          <div>
+           <input accesskey="u" class="textbox default-value" id="navbar_username" name="vb_login_username" size="10" tabindex="101" type="text" value="User Name"/>
+           <input class="textbox" id="navbar_password" name="vb_login_password" size="10" tabindex="102" type="password"/>
+           <input class="textbox default-value" id="navbar_password_hint" name="vb_login_password_hint" size="10" style="display:none;" tabindex="102" type="text" value="Password"/>
+           <input accesskey="s" class="loginbutton" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." type="submit" value="Log in"/>
+          </div>
+         </div>
+        </fieldset>
+        <div class="remember" id="remember">
+         <label for="cb_cookieuser_navbar">
+          <input accesskey="c" class="cb_cookieuser_navbar" id="cb_cookieuser_navbar" name="cookieuser" tabindex="103" type="checkbox" value="1"/>
+          Remember Me?
+         </label>
+        </div>
+        <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+        <input name="securitytoken" type="hidden" value="guest"/>
+        <input name="do" type="hidden" value="login"/>
+        <input name="vb_login_md5password" type="hidden"/>
+        <input name="vb_login_md5password_utf" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+       </script>
+      </li>
+     </ul>
+    </div>
+    <div class="ad_global_header">
+    </div>
+    <hr/>
+   </div>
+   <div class="navbar" id="navbar">
+    <ul class="navtabs floatcontainer" id="navtabs">
+     <li id="vbtab_whatsnew">
+      <a class="navtab" href="activity.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       What's New?
+      </a>
+     </li>
+     <li class="selected" id="vbtab_forum">
+      <a class="navtab" href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <ul class="floatcontainer">
+      <li id="vbflink_faq">
+       <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        FAQ
+       </a>
+      </li>
+      <li id="vbflink_calendar">
+       <a href="calendar.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Calendar
+       </a>
+      </li>
+      <li class="popupmenu" id="vbmenu_community">
+       <a class="popupctrl" href="javascript://">
+        Community
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbclink_groups">
+         <a href="group.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Groups
+         </a>
+        </li>
+        <li id="vbclink_albums">
+         <a href="album.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Albums
+         </a>
+        </li>
+        <li id="vbclink_members">
+         <a href="memberlist.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          Member List
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_actions">
+       <a class="popupctrl" href="javascript://">
+        Forum Actions
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbalink_mfr">
+         <a href="forumdisplay.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=markread&amp;markreadhash=guest">
+          Mark Forums Read
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="vbmenu_qlinks">
+       <a class="popupctrl" href="javascript://">
+        Quick Links
+       </a>
+       <ul class="popupbody popuphover">
+        <li id="vbqlink_leaders">
+         <a href="showgroups.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+          View Site Leaders
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </ul>
+    <div class="globalsearch" id="globalsearch">
+     <form action="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=process" class="navbar_search" id="navbar_search" method="post">
+      <input name="securitytoken" type="hidden" value="guest"/>
+      <input name="do" type="hidden" value="process"/>
+      <span class="textboxcontainer">
+       <span>
+        <input class="textbox" name="query" tabindex="99" type="text" value=""/>
+       </span>
+      </span>
+      <span class="buttoncontainer">
+       <span>
+        <input class="searchbutton" name="submit" onclick="document.getElementById('navbar_search').submit;" src="images/buttons/search.png" tabindex="100" type="image"/>
+       </span>
+      </span>
+     </form>
+     <ul class="navbar_advanced_search">
+      <li>
+       <a accesskey="4" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+        Advanced Search___________________________
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- closing div for above_body -->
+  <div class="body_wrapper">
+   <div class="breadcrumb" id="breadcrumb">
+    <ul class="floatcontainer">
+     <li class="navbithome">
+      <a accesskey="1" href="index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       <img alt="Home" src="images/misc/navbit-home.png"/>
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+       Forum
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Topics
+      </a>
+     </li>
+     <li class="navbit">
+      <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+       Government Debates
+      </a>
+     </li>
+     <li class="navbit lastnavbit">
+      <span>
+       government and taxes
+      </span>
+     </li>
+    </ul>
+    <hr/>
+   </div>
+   <div style="width:728px; margin:0 auto; padding-bottom:1em">
+    <script type="text/javascript">
+     <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+    </script>
+    <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+    </script>
+   </div>
+   <form action="profile.php?do=dismissnotice" class="notices" id="notices" method="post">
+    <input name="do" type="hidden" value="dismissnotice"/>
+    <input name="s" type="hidden" value="s=4b1cbcd9456fd8062f54adeb722c2736&amp;"/>
+    <input name="securitytoken" type="hidden" value="guest"/>
+    <input id="dismiss_notice_hidden" name="dismiss_noticeid" type="hidden" value=""/>
+    <input name="url" type="hidden" value=""/>
+    <ol>
+     <li class="restore" id="navbar_notice_3">
+      If this is your first visit, be sure to
+		check out the
+      <a href="faq.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        FAQ
+       </b>
+      </a>
+      by clicking the
+		link above. You may have to
+      <a href="register.php?s=4b1cbcd9456fd8062f54adeb722c2736" target="_blank">
+       <b>
+        register
+       </b>
+      </a>
+      before you can post: click the register link above to proceed. To start viewing messages,
+		select the forum that you want to visit from the selection below.
+     </li>
+    </ol>
+   </form>
+   <div class="above_postlist" id="above_postlist">
+    <div class="pagination_top" id="pagination_top">
+     <form action="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+      <input name="t" type="hidden" value="15541"/>
+      <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+      <span>
+       <a class="popupctrl" href="javascript://">
+        Page 1 of 2
+       </a>
+      </span>
+      <span class="selected">
+       <a href="javascript://" title="Results 1 to 15 of 22">
+        1
+       </a>
+      </span>
+      <span>
+       <a href="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 22 of 22">
+        2
+       </a>
+      </span>
+      <span class="prev_next">
+       <a href="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 22 of 22">
+        <img alt="Next" src="images/pagination/next-right.png"/>
+       </a>
+      </span>
+      <span class="first_last">
+       <a href="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 16 to 22 of 22">
+        Last
+        <img alt="Last" src="images/pagination/last-right.png"/>
+       </a>
+      </span>
+      <ul class="popupbody popuphover">
+       <li class="formsubmit jumptopage">
+        <label>
+         Jump to page:
+         <input name="page" size="4" type="text"/>
+        </label>
+        <input class="button" type="submit" value="Go"/>
+       </li>
+      </ul>
+     </form>
+     <div class="postpagestats" id="postpagestats_above">
+      Results 1 to 15 of 22
+     </div>
+    </div>
+   </div>
+   <div class="pagetitle" id="pagetitle">
+    <h1>
+     Thread:
+     <span class="threadtitle">
+      <a href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Reload this Page">
+       government and taxes
+      </a>
+     </span>
+    </h1>
+   </div>
+   <div class="thread_controls toolsmenu" id="thread_controls">
+    <div>
+     <ul class="postlist_popups popupgroup" id="postlist_popups">
+      <li class="popupmenu" id="threadtools">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Thread Tools
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <a accesskey="3" href="printthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;t=15541&amp;pp=15&amp;page=1" rel="nofollow">
+          Show Printable Version
+         </a>
+        </li>
+        <li>
+         <a href="sendmessage.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=sendtofriend&amp;t=15541" rel="nofollow">
+          Email this Page&#8230;
+         </a>
+        </li>
+        <li>
+         <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=addsubscription&amp;t=15541" rel="nofollow">
+          Subscribe to this Thread&#8230;
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="popupmenu" id="threadrating">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Rate This Thread
+        </a>
+       </h6>
+       <div class="popupbody popuphover">
+        <form action="threadrate.php" id="showthread_threadrate_form" method="post">
+         <ul>
+          <li class="hidden" id="threadrating_current" title="Thread Rating: 0 votes,  average.">
+           <label>
+            <span class="rating r_right">
+             Current Rating
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r5">
+            <span class="rating r5">
+             <input id="r5" name="vote" tabindex="20" type="radio" value="5"/>
+             Excellent
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r4">
+            <span class="rating r4_right">
+             <input id="r4" name="vote" tabindex="21" type="radio" value="4"/>
+             Good
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r3">
+            <span class="rating r3_right">
+             <input id="r3" name="vote" tabindex="22" type="radio" value="3"/>
+             Average
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r2">
+            <span class="rating r2_right">
+             <input id="r2" name="vote" tabindex="23" type="radio" value="2"/>
+             Bad
+            </span>
+           </label>
+          </li>
+          <li>
+           <label for="r1">
+            <span class="rating r1_right">
+             <input id="r1" name="vote" tabindex="24" type="radio" value="1"/>
+             Terrible
+            </span>
+           </label>
+          </li>
+          <li class="formsubmit">
+           <input class="button" tabindex="25" type="submit" value="Vote Now"/>
+          </li>
+         </ul>
+         <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+         <input name="securitytoken" type="hidden" value="guest"/>
+         <input name="t" type="hidden" value="15541"/>
+         <input name="pp" type="hidden" value="15"/>
+         <input name="page" type="hidden" value="1"/>
+        </form>
+       </div>
+       <script type="text/javascript">
+        <!--
+						vB_AJAX_ThreadRate_Init('showthread_threadrate_form', 15541);
+					//-->
+       </script>
+      </li>
+      <li class="popupmenu" id="displaymodes">
+       <h6>
+        <a class="popupctrl" href="javascript://">
+         Display
+        </a>
+       </h6>
+       <ul class="popupbody popuphover">
+        <li>
+         <label>
+          Linear Mode
+         </label>
+        </li>
+        <li>
+         <a href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;mode=hybrid">
+          Switch to Hybrid Mode
+         </a>
+        </li>
+        <li>
+         <a href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435965&amp;mode=threaded#post435965">
+          Switch to Threaded Mode
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div class="postlist restrain" id="postlist">
+    <ol class="posts" id="posts" start="1">
+     <li class="postbit postbitim postcontainer old" id="post_435965">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-31-2011,
+          <span class="time">
+           01:37 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435965#post435965" name="post435965">
+          #1
+         </a>
+         <a id="postcount435965" name="1">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+          <img alt="Matthew S's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2833&amp;dateline=1135858579"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+            <strong>
+             Matthew S
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2833&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew S is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gay Crusader
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('yahoo', '2833', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Matthew S" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,060
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <h2 class="posttitle icon">
+         government and taxes
+        </h2>
+        <div style="float:right; width:300px; height:250px; margin-left:10px">
+         <script type="text/javascript">
+          <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 300;
+google_ad_height = 250;
+google_ad_format = "300x250_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+         </script>
+         <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+         </script>
+        </div>
+        <div class="content hasad">
+         <div id="post_message_435965">
+          <blockquote class="postcontent restore">
+           Freedom makes the arguement in this thread below that government, our modern western democracy in particular, can exist without taxation.
+           <br/>
+           <br/>
+           <a href="http://www.4forums.com/political/435784-post151.html" target="_blank">
+            http://www.4forums.com/political/435784-post151.html
+           </a>
+           <br/>
+           <br/>
+           I would like to know how. Governments throughout history have relied on taxation in one form or another for 10000 years.
+           <br/>
+           <br/>
+           Freedom refuses to answer how our system would work without taxation, so if any one else would like to take a stab at it please enlighten me.
+          </blockquote>
+         </div>
+        </div>
+        <div style="clear:both">
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          -----------------------------------------------------------------------------
+          <br/>
+          <br/>
+          Every time one of the Republican presidential candidates speak all I hear is the sound of the marching boots of the Brown shirts.
+          <br/>
+          <br/>
+          "Saying I can't get married because it violates your religion is like me saying you can't eat donuts because it violates my diet!" -------anonymous
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_435965" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=435965" id="qrwq_435965" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_435965" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_435977">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-31-2011,
+          <span class="time">
+           03:00 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" name="post435977">
+          #2
+         </a>
+         <a id="postcount435977" name="2">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_435977">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew S
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435965#post435965" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Freedom makes the arguement in this thread below that government, our modern western democracy in particular, can exist without taxation.
+               <br/>
+               <br/>
+               <a href="http://www.4forums.com/political/435784-post151.html" target="_blank">
+                http://www.4forums.com/political/435784-post151.html
+               </a>
+               <br/>
+               <br/>
+               I would like to know how. Governments throughout history have relied on taxation in one form or another for 10000 years.
+               <br/>
+               <br/>
+               Freedom refuses to answer how our system would work without taxation, so if any one else would like to take a stab at it please enlighten me.
+              </div>
+             </div>
+            </div>
+           </div>
+           Well Matthew, this might be the only time in history we agree upon something so savor it.
+           <br/>
+           <br/>
+           I'll attempt to explain Freedom's position but it is so ridiculous I might not be able to think that illogically.
+           <br/>
+           <br/>
+           Here it goes.......
+           <br/>
+           <br/>
+           <br/>
+           Freedom feels that taxation is immoral basically equating it to taking money without permission.  His thoughts are that we should just have the government be a Walmart where you pick and choose what services you want and pay for it and thus no taxation.
+           <br/>
+           <br/>
+           Now, what I can't explain is:
+           <br/>
+           1) why Freedom thinks taxation is immoral
+           <br/>
+           2) why government couldn't just bundle all the services together and charge (thus having the same system we have now)
+           <br/>
+           3) How, if everyone were charged the same price, the country would even remotely survive.
+           <br/>
+           <br/>
+           Good luck on this one.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_435977" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=435977" id="qrwq_435977" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_435977" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_435978">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-31-2011,
+          <span class="time">
+           03:27 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435978#post435978" name="post435978">
+          #3
+         </a>
+         <a id="postcount435978" name="3">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+          <img alt="Matthew S's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2833&amp;dateline=1135858579"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+            <strong>
+             Matthew S
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2833&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew S is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gay Crusader
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('yahoo', '2833', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Matthew S" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,060
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_435978">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Well Matthew, this might be the only time in history we agree upon something so savor it.
+               <br/>
+               <br/>
+               I'll attempt to explain Freedom's position but it is so ridiculous I might not be able to think that illogically.
+               <br/>
+               <br/>
+               Here it goes.......
+               <br/>
+               <br/>
+               <br/>
+               Freedom feels that taxation is immoral basically equating it to taking money without permission.  His thoughts are that we should just have the government be a Walmart where you pick and choose what services you want and pay for it and thus no taxation.
+               <br/>
+               <br/>
+               Now, what I can't explain is:
+               <br/>
+               1) why Freedom thinks taxation is immoral
+               <br/>
+               2) why government couldn't just bundle all the services together and charge (thus having the same system we have now)
+               <br/>
+               3) How, if everyone were charged the same price, the country would even remotely survive.
+               <br/>
+               <br/>
+               Good luck on this one.
+              </div>
+             </div>
+            </div>
+           </div>
+           Thanks
+           <br/>
+           <br/>
+           I understand Libertarianism but I don't think Freedom understands the repercussions of a truly libertarian society.
+           <br/>
+           <br/>
+           How I would love to see his face when the fireman putting out his house that is on fire pulls out a credit card machine or does a credit check before they put out the fire.
+          </blockquote>
+         </div>
+        </div>
+        <blockquote class="signature restore">
+         <div class="signaturecontainer">
+          -----------------------------------------------------------------------------
+          <br/>
+          <br/>
+          Every time one of the Republican presidential candidates speak all I hear is the sound of the marching boots of the Brown shirts.
+          <br/>
+          <br/>
+          "Saying I can't get married because it violates your religion is like me saying you can't eat donuts because it violates my diet!" -------anonymous
+         </div>
+        </blockquote>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_435978" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=435978" id="qrwq_435978" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_435978" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_435983">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-31-2011,
+          <span class="time">
+           05:02 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435983#post435983" name="post435983">
+          #4
+         </a>
+         <a id="postcount435983" name="4">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo_noavatar">
+        <div class="contact">
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+            <strong>
+             Steeeeve
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Registered User
+          </span>
+          <div class="imlinks">
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           Mar 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           11,644
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_435983">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Matthew S
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435978#post435978" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Thanks
+               <br/>
+               <br/>
+               I understand Libertarianism but I don't think Freedom understands the repercussions of a truly libertarian society.
+              </div>
+             </div>
+            </div>
+           </div>
+           nor does he understand what a libertarian society is.  Libertarian is not anarchy just like Democrat is not communism.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              How I would love to see his face when the fireman putting out his house that is on fire pulls out a credit card machine or does a credit check before they put out the fire.
+             </div>
+            </div>
+           </div>
+           More to the point, the fireman actually benefits the neighbors as well.  If the neighbor on either side has the "fireman service" than they want that fire out before it ruins their own house and land...not to mention the property value of having a pile of rubble next to you.  Not all services are like this but police, fire, etc are all not best handled by the private sector because they provide a collective benefit...always.
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="postfoot">
+       <div class="textcontrols floatcontainer">
+        <span class="postcontrols">
+         <img alt="" id="progress_435983" src="images/misc/progress.gif" style="display:none"/>
+         <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=435983" id="qrwq_435983" rel="nofollow" title="Reply With Quote">
+          <img alt="Reply With Quote" id="quoteimg_435983" src="clear.gif"/>
+          Reply With Quote
+         </a>
+        </span>
+        <span class="postlinking">
+        </span>
+       </div>
+      </div>
+      <hr/>
+     </li>
+     <li class="postbit postbitim postcontainer old" id="post_435995">
+      <div class="postdetails_noavatar">
+       <div class="posthead">
+        <span class="postdate old">
+         <span class="date">
+          07-31-2011,
+          <span class="time">
+           09:10 PM
+          </span>
+         </span>
+        </span>
+        <span class="nodecontrols">
+         <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435995#post435995" name="post435995">
+          #5
+         </a>
+         <a id="postcount435995" name="5">
+         </a>
+        </span>
+       </div>
+       <div class="userinfo">
+        <div class="contact">
+         <a class="postuseravatarlink" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+          <img alt="Matthew S's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2833&amp;dateline=1135858579"/>
+         </a>
+         <div class="username_container">
+          <div class="popupmenu memberaction">
+           <a class="username offline popupctrl" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+            <strong>
+             Matthew S
+            </strong>
+           </a>
+           <ul class="popupbody popuphover memberaction_body">
+            <li class="left">
+             <a class="siteicon_profile" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+              View Profile
+             </a>
+            </li>
+            <li class="right">
+             <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2833&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+              View Forum Posts
+             </a>
+            </li>
+           </ul>
+          </div>
+          <img alt="Matthew S is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+          <span class="usertitle">
+           Gay Crusader
+          </span>
+          <div class="imlinks">
+           <a href="javascript://" onclick="imwindow('yahoo', '2833', 400, 200); return false;">
+            <img alt="Send a message via Yahoo to Matthew S" src="images/misc/im_yahoo.gif"/>
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="userinfo_extra">
+         <dl class="userstats">
+          <dt>
+           Join Date
+          </dt>
+          <dd>
+           May 2005
+          </dd>
+          <dt>
+           Posts
+          </dt>
+          <dd>
+           6,060
+          </dd>
+         </dl>
+        </div>
+       </div>
+      </div>
+      <div class="postbody">
+       <div class="postrow">
+        <div class="content">
+         <div id="post_message_435995">
+          <blockquote class="postcontent restore">
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Steeeeve
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               Now, what I can't explain is:
+               <br/>
+               1) why Freedom thinks taxation is immoral
+               <br/>
+               2) why government couldn't just bundle all the services together and charge (thus having the same system we have now)
+               <br/>
+               3) How, if everyone were charged the same price, the country would even remotely survive.
+               <br/>
+               <br/>
+               Good luck on this one.
+              </div>
+             </div>
+            </div>
+           </div>
+           He keeps posting this link as if this is all we need to understand his view. He still hasn't fully explained this view.
+           <br/>
+           <br/>
+           <div class="bbcode_container">
+            <div class="bbcode_quote">
+             <div class="quote_container">
+              <div class="bbcode_quote_container">
+              </div>
+              <div class="bbcode_postedby">
+               <img alt="Quote" src="images/misc/quote_icon.png"/>
+               Originally Posted by
+               <strong>
+                Freedom
+               </strong>
+               <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=407234#post407234" rel="nofollow">
+                <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+               </a>
+              </div>
+              <div class="message">
+               <b>
+                <font size="5">
+                 I take the affirmative.
+                </font>
+               </b>
+               <br/>
+               -------------------------------------------
+               <br/>
+               Normally I think one would argue purely about the resolution, but in this case it is intertwined with many other subjects and to avoid creating multiple threads I am going to try to tie them together with this resolution by stating it's premises and the conclusions I draw from it.
+               <br/>
+               <br/>
+               <font size="4">
+                I. Premises and Conclusions
+               </font>
+               <br/>
+               I take this resolution to require the following premises:
+               <br/>
+               <ol class="decimal">
+                <li style="">
+                 <font size="4">
+                  I
+                 </font>
+                 <font size="3">
+                  deal means a standard of perfection or excellence, or what is
+                  <u>
+                   most
+                   <b>
+                    good
+                   </b>
+                  </u>
+                  .
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  G
+                 </font>
+                 <font size="3">
+                  ood and Evil exist and are given definition by a person’s standard of value.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  nyone who has values has two things, a axiomatic value (a value that is based on no other values) and personal judgment.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  nyone who has personal judgment on what is good or not and what is true or not implies that it is
+                  <b>
+                   good
+                  </b>
+                  and proper for him to make decisions and choose values. The only way for this person to remain logically consistent is to cede that it is good and proper for others to make decisions and choose values.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  nyone who seeks to remove choice and judgments from another has only one route to take: force. Therefore the only objectively bad or improper in human interaction is this precise situation: One human uses force to take away the personal judgment of another, to take away their power to choose what they value and what they will do.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  M
+                 </font>
+                 <font size="3">
+                  an has natural rights proceeding from his nature (see above) that can be stated most abstractly as a right to liberty from unwanted interaction/interference by others.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  I
+                 </font>
+                 <font size="3">
+                  n the social sphere that which is
+                  <b>
+                   good
+                  </b>
+                  (moral) can be objectively defined by the rights of each individual, that the integration of this concept from the individual to the collective can produce a universal concept of morality consistent with historical observations and general emotional reactions.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  nyone who takes the standard of good to be human life and all that entails have no logical alternative but to conclude that the best society is the one that comes closest to the ideal; which is the violation of no rights; which is to say every human social interaction is voluntary.
+                 </font>
+                </li>
+               </ol>
+               <br/>
+               <br/>
+               I take this resolution to have these further conclusions:
+               <br/>
+               <br/>
+               <ol class="decimal">
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  volitional society holds the threat of force against only those who have already accepted it (those who used force first, and violated someone’s rights).
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  volitional society holds that nothing can substitute for a person's consent, and that a person's consent is the only key to their life and product.
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  T
+                 </font>
+                 <font size="3">
+                  herefore the ideal society has no legal forceful removal of wealth, forceful relocation, forceful anything applying to an innocent person (those who
+                  <b>
+                   have not
+                  </b>
+                  used force first, and have not violated anyone's rights.)
+                 </font>
+                 <br/>
+                 <br/>
+                </li>
+                <li style="">
+                 <font size="4">
+                  A
+                 </font>
+                 <font size="3">
+                  volitional society does not have taxes (wealth removed on the authority of the collective not consent)
+                 </font>
+                </li>
+               </ol>
+              </div>
+             </div>
+            </div>
+           </div>
+           <ol class="decimal">
+            <li style="">
+             I consent to pay those taxes of my own volition.
+             <br/>
+             <br/>
+             <br/>
+             <div class="bbcode_container">
+              <div class="bbcode_quote">
+               <div class="quote_container">
+                <div class="bbcode_quote_container">
+                </div>
+                <div class="bbcode_postedby">
+                 <img alt="Quote" src="images/misc/quote_icon.png"/>
+                 Originally Posted by
+                 <strong>
+                  Freedom
+                 </strong>
+                 <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=407234#post407234" rel="nofollow">
+                  <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+                 </a>
+                </div>
+                <div class="message">
+                </div>
+               </div>
+              </div>
+             </div>
+            </li>
+            <li style="">
+             <font size="4">
+              A
+             </font>
+             <font size="3">
+              volitional society does not have laws that do not relate to universal morality (such laws must be based of premises that are incompatible with the ones that formed a volitional society).
+             </font>
+            </li>
+           </ol>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      I hope you can sleep after stepping over the dead children who have died homeless and hungey.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Freedom
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=407234#post407234" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+         </div>
+        </div>
+       </div>
+      </div>
+     </li>
+     <li style="">
+      <font size="4">
+       S
+      </font>
+      <font size="3">
+       ince a volitional society is one in which no interaction is non-consensual the only moral economic activity is trade and charity, therefore a volitional society has no public entity with any rights save the impossible occasion of complete consensus.
+      </font>
+     </li>
+    </ol>
+   </div>
+  </div>
+ </body>
+</html>
+I consent to pay taxes so that old people will not have to die in the streets.
+<br/>
+see Mark 12:31
+<br/>
+<div class="bbcode_container">
+ <div class="bbcode_quote">
+  <div class="quote_container">
+   <div class="bbcode_quote_container">
+   </div>
+   <div class="bbcode_postedby">
+    <img alt="Quote" src="images/misc/quote_icon.png"/>
+    Originally Posted by
+    <strong>
+     Freedom
+    </strong>
+    <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=407234#post407234" rel="nofollow">
+     <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+    </a>
+   </div>
+   <div class="message">
+   </div>
+  </div>
+ </div>
+</div>
+<li style="">
+ <font size="4">
+  S
+ </font>
+ <font size="3">
+  ince there is no public entity all entities with wealth are private and therefore a volitional society is a
+  <b>
+   capitalist
+  </b>
+  society.
+ </font>
+</li>
+I consent to pay taxes to the fire department and the police department.
+<br/>
+<div class="bbcode_container">
+ <div class="bbcode_quote">
+  <div class="quote_container">
+   <div class="bbcode_quote_container">
+   </div>
+   <div class="bbcode_postedby">
+    <img alt="Quote" src="images/misc/quote_icon.png"/>
+    Originally Posted by
+    <strong>
+     Freedom
+    </strong>
+    <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=407234#post407234" rel="nofollow">
+     <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+    </a>
+   </div>
+   <div class="message">
+    [
+    <br/>
+    #Note: The term public/private is used in the sense of the original ownership. Clearly someone can make something public by stating it is so. Meaning that the only truly public property is always a gift save for the impossibility of complete consensus.
+    <br/>
+    <br/>
+    <b>
+     To those who take the negative, please choose one of the following options:
+    </b>
+    <br/>
+    <br/>
+    <ol class="decimal">
+     <li style="">
+      Those premises are insufficient to conclude the resolution. (invalid)
+     </li>
+     <li style="">
+      Those conclusions do not follow from the resolution. (invalid)
+     </li>
+     <li style="">
+      One (or more) of those premises are wrong -&gt; so the resolution and/or the conclusions are wrong. (unsound)
+     </li>
+    </ol>
+   </div>
+  </div>
+ </div>
+</div>
+Hence to me taxes are moral and further and I pay them of my own volition.
+<br/>
+See Mark 12:31
+<blockquote class="signature restore">
+ <div class="signaturecontainer">
+  -----------------------------------------------------------------------------
+  <br/>
+  <br/>
+  Every time one of the Republican presidential candidates speak all I hear is the sound of the marching boots of the Brown shirts.
+  <br/>
+  <br/>
+  "Saying I can't get married because it violates your religion is like me saying you can't eat donuts because it violates my diet!" -------anonymous
+ </div>
+</blockquote>
+<div class="postfoot">
+ <div class="textcontrols floatcontainer">
+  <span class="postcontrols">
+   <img alt="" id="progress_435995" src="images/misc/progress.gif" style="display:none"/>
+   <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=435995" id="qrwq_435995" rel="nofollow" title="Reply With Quote">
+    <img alt="Reply With Quote" id="quoteimg_435995" src="clear.gif"/>
+    Reply With Quote
+   </a>
+  </span>
+  <span class="postlinking">
+  </span>
+ </div>
+</div>
+<hr/>
+<li class="postbit postbitim postcontainer old" id="post_436051">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-01-2011,
+     <span class="time">
+      06:27 PM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436051#post436051" name="post436051">
+     #6
+    </a>
+    <a id="postcount436051" name="6">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Steeeeve is offline">
+       <strong>
+        Steeeeve
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=2555&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2555&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Steeeeve is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Mar 2005
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      11,644
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436051">
+     <blockquote class="postcontent restore">
+      I assume Freedom is an atheist as his premise can be summed up in that he believes morality is set by him for him and therefore no one can take that away.  In other words, he is never wrong morally.
+      <br/>
+      <br/>
+      Good luck getting that one to work.
+     </blockquote>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436051" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436051" id="qrwq_436051" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436051" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436074">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-02-2011,
+     <span class="time">
+      04:00 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436074#post436074" name="post436074">
+     #7
+    </a>
+    <a id="postcount436074" name="7">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Freedom is offline">
+       <strong>
+        Freedom
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=16261&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Freedom is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Feb 2010
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      4,414
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436074">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435965#post435965" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Freedom refuses to answer how our system would work without taxation, so if any one else would like to take a stab at it please enlighten me.
+         </div>
+        </div>
+       </div>
+      </div>
+      I have answered this question many times, since it is a simple answer I will give it again.
+      <br/>
+      <br/>
+      Governments require money, it does not matter where that money comes from as long as it's reliable.
+      <br/>
+      <br/>
+      Theft is not the only reliable source of income, therefore there is no reason theft should be necessary to fund something.
+      <br/>
+      <br/>
+      The system would work by protecting the rights of citizens and enacting social actions of citizens with money from citizens that citizens agreed to pay because they want to enact social actions and they want their rights to be secure.
+      <br/>
+      <br/>
+      This answer which is so glaringly obvious that I cannot understand how one could fail to see it before one asked has been asked dozens of times, more than that the answer which has been given dozens of times has been ignored.
+      <br/>
+      <br/>
+      This is not the pattern of an honest questioner pointing out an overlooked flaw in a plan. It is the pattern of a brainwashed acolyte who in stunned disbelief pushes the answer out of their minds because they don't want to believe it can be answered.
+      <br/>
+      <br/>
+      For twenty centuries
+      <i>
+       humans
+      </i>
+      cut out the hearts of a human beings so that the gods would allow their civilization to live. In all that time, no one asked "Is it necessary to spill blood for the sun to rise?" and got any answer but "Of course". They in their their time may have encountered another who claimed the sun would rise regardless of the sacrifices. They might ask "how can the sun rise without sacrifices?"
+      <br/>
+      <br/>
+      The question here isn't "How would it work without taxes", it's "Why does it need taxes to work?"
+      <br/>
+      <br/>
+      History is there to learn from, not to copy.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Steeeeve
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Freedom feels that taxation is immoral basically equating it to taking money without permission.
+         </div>
+        </div>
+       </div>
+      </div>
+      The equation is only in doubt by madmen. The issue is that some believe that a ruling group of humans (be it majority, nobility, clergy, committees, or warlords) don't need the permission of other humans to take their money.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Steeeeve
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          His thoughts are that we should just have the government be a Walmart where you pick and choose what services you want and pay for it and thus no taxation.
+         </div>
+        </div>
+       </div>
+      </div>
+      Walmart wouldn't work if it could only offer all of it's products in a bundle, that doesn't give it the right to force people to buy that bundle.
+      <br/>
+      <br/>
+      The way people choose to pay for things has nothing to do with 'thus no taxation'.
+      <br/>
+      <br/>
+      It is 'taxation is immoral, thus no taxation'.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Steeeeve
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          1) why Freedom thinks taxation is immoral
+         </div>
+        </div>
+       </div>
+      </div>
+      You haven't put much effort into that reading the answers to that question have you?
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Steeeeve
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          2) why government couldn't just bundle all the services together and charge (thus having the same system we have now)
+         </div>
+        </div>
+       </div>
+      </div>
+      No one would support it, it's illogical; people don't want to pay for things they don't agree with.... not when there is no sane reason why everything should be bundled.
+      <br/>
+      <br/>
+      If you started with a bundle, people would consistently vote it lower so that they could spend more on the things they wanted to, ending up where we should start.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Steeeeve
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435977#post435977" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          3) How, if everyone were charged the same price, the country would even remotely survive.
+         </div>
+        </div>
+       </div>
+      </div>
+      You mean nobody could survive a fair tax, that is true; but it is the result of a faulty system that money was made available that never should have been.
+      <br/>
+      <br/>
+      How much of government spending is really police, fire dept, infrastructure, and military?
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435995#post435995" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          He keeps posting this link as if this is all we need to understand his view.
+         </div>
+        </div>
+       </div>
+      </div>
+      I kept posting that link because it is the response to anyone claiming anything that is parsed by my brain into 'where is your support'. Xcalibers repetitive accusations of imaginary day dream personal opinion is thus parsed.
+      <br/>
+      <br/>
+      But please, make every effort to understand my view.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435995#post435995" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          He still hasn't fully explained this view.
+         </div>
+        </div>
+       </div>
+      </div>
+      You may ask any questions you wish.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435995#post435995" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          I consent to pay those taxes of my own volition.
+          <br/>
+          <br/>
+          I consent to pay taxes to the fire department and the police department.
+          <br/>
+          <br/>
+          Hence to me taxes are moral and further and I pay them of my own volition.
+         </div>
+        </div>
+       </div>
+      </div>
+      If they are taxes your consent doesn't matter.
+      <br/>
+      <br/>
+      If your consent is required (it is morally) than it is not a tax, but in fact a moral transfer of wealth.... but only for you because you are the only one who consented.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435995#post435995" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          I hope you can sleep after stepping over the dead children who have died homeless and hungey.
+         </div>
+        </div>
+       </div>
+      </div>
+      I hope you don't think this rhetoric is an argument. It in fact resembles a smear campaign more closely than a genuine insinuation which is itself a far cry from any kind of rational response.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Steeeeve
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436051#post436051" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          I assume Freedom is an atheist as his premise can be summed up in that he believes morality is set by him for him and therefore no one can take that away.  In other words, he is never wrong morally.
+          <br/>
+          <br/>
+          Good luck getting that one to work.
+         </div>
+        </div>
+       </div>
+      </div>
+      Lol, that's a definition of atheist I haven't heard before.
+      <br/>
+      <br/>
+      So an atheist can never be wrong because he sets his own morality, are we contrasting this with a theist who can be wrong.... provided that god comes down and contradicts him
+      <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+      <br/>
+      <br/>
+      Anyway I have already said many times and in the thread referenced that I reject the authority premise in ethics.
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     Morals are a religious Myth.. - Xcaliber
+     <br/>
+     How is Evil Immoral? - Xcaliber
+     <br/>
+     I am right until you prove otherwise - Xcaliber
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436074" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436074" id="qrwq_436074" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436074" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436077">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-02-2011,
+     <span class="time">
+      06:38 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436077#post436077" name="post436077">
+     #8
+    </a>
+    <a id="postcount436077" name="8">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo">
+   <div class="contact">
+    <a class="postuseravatarlink" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+     <img alt="Matthew S's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=2833&amp;dateline=1135858579"/>
+    </a>
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Matthew S is offline">
+       <strong>
+        Matthew S
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=2833&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=2833&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Matthew S is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Gay Crusader
+     </span>
+     <div class="imlinks">
+      <a href="javascript://" onclick="imwindow('yahoo', '2833', 400, 200); return false;">
+       <img alt="Send a message via Yahoo to Matthew S" src="images/misc/im_yahoo.gif"/>
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      May 2005
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      6,060
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436077">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Freedom
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436074#post436074" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          I have answered this question many times, since it is a simple answer I will give it again.
+          <br/>
+          <br/>
+          Governments require money, it does not matter where that money comes from as long as it's reliable.
+          <br/>
+          <br/>
+          Theft is not the only reliable source of income, therefore there is no reason theft should be necessary to fund something.
+          <br/>
+          <br/>
+          The system would work by protecting the rights of citizens and enacting social actions of citizens with money from citizens that citizens agreed to pay because they want to enact social actions and they want their rights to be secure.
+          <br/>
+          <br/>
+          This answer which is so glaringly obvious that I cannot understand how one could fail to see it before one asked has been asked dozens of times, more than that the answer which has been given dozens of times has been ignored.
+          <br/>
+          <br/>
+          This is not the pattern of an honest questioner pointing out an overlooked flaw in a plan. It is the pattern of a brainwashed acolyte who in stunned disbelief pushes the answer out of their minds because they don't want to believe it can be answered.
+          <br/>
+          <br/>
+          For twenty centuries
+          <i>
+           humans
+          </i>
+          cut out the hearts of a human beings so that the gods would allow their civilization to live. In all that time, no one asked "Is it necessary to spill blood for the sun to rise?" and got any answer but "Of course". They in their their time may have encountered another who claimed the sun would rise regardless of the sacrifices. They might ask "how can the sun rise without sacrifices?"
+          <br/>
+          <br/>
+          The question here isn't "How would it work without taxes", it's "Why does it need taxes to work?"
+          <br/>
+          <br/>
+          History is there to learn from, not to copy.
+          <br/>
+          <br/>
+          <br/>
+          The equation is only in doubt by madmen. The issue is that some believe that a ruling group of humans (be it majority, nobility, clergy, committees, or warlords) don't need the permission of other humans to take their money.
+          <br/>
+          <br/>
+          <br/>
+          Walmart wouldn't work if it could only offer all of it's products in a bundle, that doesn't give it the right to force people to buy that bundle.
+          <br/>
+          <br/>
+          The way people choose to pay for things has nothing to do with 'thus no taxation'.
+          <br/>
+          <br/>
+          It is 'taxation is immoral, thus no taxation'.
+          <br/>
+          <br/>
+          <br/>
+          You haven't put much effort into that reading the answers to that question have you?
+          <br/>
+          <br/>
+          <br/>
+          No one would support it, it's illogical; people don't want to pay for things they don't agree with.... not when there is no sane reason why everything should be bundled.
+          <br/>
+          <br/>
+          If you started with a bundle, people would consistently vote it lower so that they could spend more on the things they wanted to, ending up where we should start.
+          <br/>
+          <br/>
+          <br/>
+          You mean nobody could survive a fair tax, that is true; but it is the result of a faulty system that money was made available that never should have been.
+          <br/>
+          <br/>
+          How much of government spending is really police, fire dept, infrastructure, and military?
+          <br/>
+          <br/>
+          <br/>
+          I kept posting that link because it is the response to anyone claiming anything that is parsed by my brain into 'where is your support'. Xcalibers repetitive accusations of imaginary day dream personal opinion is thus parsed.
+          <br/>
+          <br/>
+          But please, make every effort to understand my view.
+          <br/>
+          <br/>
+          <br/>
+          You may ask any questions you wish.
+          <br/>
+          <br/>
+          <br/>
+          If they are taxes your consent doesn't matter.
+          <br/>
+          <br/>
+          If your consent is required (it is morally) than it is not a tax, but in fact a moral transfer of wealth.... but only for you because you are the only one who consented.
+          <br/>
+          <br/>
+          <br/>
+          I hope you don't think this rhetoric is an argument. It in fact resembles a smear campaign more closely than a genuine insinuation which is itself a far cry from any kind of rational response.
+          <br/>
+          <br/>
+          <br/>
+          Lol, that's a definition of atheist I haven't heard before.
+          <br/>
+          <br/>
+          So an atheist can never be wrong because he sets his own morality, are we contrasting this with a theist who can be wrong.... provided that god comes down and contradicts him
+          <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+          <br/>
+          <br/>
+          Anyway I have already said many times and in the thread referenced that I reject the authority premise in ethics.
+         </div>
+        </div>
+       </div>
+      </div>
+      Your system and answer to funding government requires, altruism and sacrifice both of which you hold in the highest contempt, remember?
+      <br/>
+      <br/>
+      Would you like to explain where these magically other sources for funding the government are?
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     -----------------------------------------------------------------------------
+     <br/>
+     <br/>
+     Every time one of the Republican presidential candidates speak all I hear is the sound of the marching boots of the Brown shirts.
+     <br/>
+     <br/>
+     "Saying I can't get married because it violates your religion is like me saying you can't eat donuts because it violates my diet!" -------anonymous
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436077" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436077" id="qrwq_436077" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436077" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436082">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-02-2011,
+     <span class="time">
+      09:15 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436082#post436082" name="post436082">
+     #9
+    </a>
+    <a id="postcount436082" name="9">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Freedom is offline">
+       <strong>
+        Freedom
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=16261&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Freedom is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Feb 2010
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      4,414
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436082">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436077#post436077" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Your system and answer to funding government requires, altruism and sacrifice both of which you hold in the highest contempt, remember?
+         </div>
+        </div>
+       </div>
+      </div>
+      Why?
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Matthew S
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436077#post436077" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Would you like to explain where these magically other sources for funding the government are?
+         </div>
+        </div>
+       </div>
+      </div>
+      It's as if you couldn't even read the first section.
+      <br/>
+      <br/>
+      <b>
+       <i>
+        You
+       </i>
+       explain to me why taxation is neccesary.
+      </b>
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     Morals are a religious Myth.. - Xcaliber
+     <br/>
+     How is Evil Immoral? - Xcaliber
+     <br/>
+     I am right until you prove otherwise - Xcaliber
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436082" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436082" id="qrwq_436082" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436082" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436085">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-02-2011,
+     <span class="time">
+      10:22 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436085#post436085" name="post436085">
+     #10
+    </a>
+    <a id="postcount436085" name="10">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=15229&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Accipiter is offline">
+       <strong>
+        Accipiter
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=15229&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=15229&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Accipiter is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      May 2009
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      3,665
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436085">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Freedom
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436074#post436074" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          This is not the pattern of an honest questioner pointing out an overlooked flaw in a plan. It is the pattern of a brainwashed acolyte who in stunned disbelief pushes the answer out of their minds because they don't want to believe it can be answered.
+         </div>
+        </div>
+       </div>
+      </div>
+      Do you know who fits this description better than anyone else here? YOU DO.
+      <br/>
+      <br/>
+      What you are proposing is like an apartment building whose policy is the rent is what ever the renters  think they should pay, how long do you think that would last?
+     </blockquote>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436085" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436085" id="qrwq_436085" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436085" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436090">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-02-2011,
+     <span class="time">
+      04:39 PM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436090#post436090" name="post436090">
+     #11
+    </a>
+    <a id="postcount436090" name="11">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Freedom is offline">
+       <strong>
+        Freedom
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=16261&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Freedom is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Feb 2010
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      4,414
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436090">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Accipiter
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436085#post436085" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Do you know who fits this description better than anyone else here? YOU DO.
+         </div>
+        </div>
+       </div>
+      </div>
+      No I did not know that.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Accipiter
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436085#post436085" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          What you are proposing is like an apartment building whose policy is the rent is what ever the renters  think they should pay, how long do you think that would last?
+         </div>
+        </div>
+       </div>
+      </div>
+      What I am proposing is exactly like an apartment building, What you are proposing is a landlord who forces you to live in their building and pay whatever price they demand even though there is a whole city of housing out there. The landlord does more though, it charges more for your apartment for no other reason than you have more to take.
+      <br/>
+      <br/>
+      It is the right of each person to decide if he wants to live in and pay for an apartment building.
+      <br/>
+      <br/>
+      Under that premise it is simply a matter of practical reality that until people all agree on not only what needs to be paid but how much; there is no sense in bundling, there isn't even any then it just wouldn't hurt.
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     Morals are a religious Myth.. - Xcaliber
+     <br/>
+     How is Evil Immoral? - Xcaliber
+     <br/>
+     I am right until you prove otherwise - Xcaliber
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436090" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436090" id="qrwq_436090" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436090" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436422">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-07-2011,
+     <span class="time">
+      06:30 PM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" name="post436422">
+     #12
+    </a>
+    <a id="postcount436422" name="12">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=3943&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="pappillion001 is offline">
+       <strong>
+        pappillion001
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=3943&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=3943&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="pappillion001 is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      May 2006
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      2,342
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436422">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Freedom
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436090#post436090" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          No I did not know that.
+          <br/>
+          <br/>
+          <br/>
+          What I am proposing is exactly like an apartment building, What you are proposing is a landlord who forces you to live in their building and pay whatever price they demand even though there is a whole city of housing out there. The landlord does more though, it charges more for your apartment for no other reason than you have more to take.
+          <br/>
+          <br/>
+          It is the right of each person to decide if he wants to live in and pay for an apartment building.
+          <br/>
+          <br/>
+          Under that premise it is simply a matter of practical reality that until people all agree on not only what needs to be paid but how much; there is no sense in bundling, there isn't even any then it just wouldn't hurt.
+         </div>
+        </div>
+       </div>
+      </div>
+      Using your apartment analogy and some of your other posts, we can agree that you accept that society in order to run efficiently would need a government of some sort or people elected to maintain and oversee services and projects voted and agreed to by the people. Lets call those people Mayors, Representative, Governors, Council Members and Supervisors similar to what currently exists now.
+      <br/>
+      <br/>
+      I assume these people will have a certain degree of latitude to perform their duties and address issues as they arise without having to go to the people every time something happens. I also assume that they will have people to assist them as some of these projects can be large and take a very long time to complete again similar to what currently exists.
+      <br/>
+      <br/>
+      So far the two have more in common than they do different, but lets look at the money. Where it comes from on the one hand is from everybody regardless of whether they use all of the things that it is used to build or maintain. This is due to the belief that the cost will be less and the benefits will be greater and makes for a more streamlined process. The alternative is only things that people want at the time are implemented and only by those who want them. That will make everything more expensive and take longer to implement. It is unclear how the use will be restricted to those who paid or how people who move into an area or move out of an area will be effected. Does their interest become something that can be willed or sold? Can someone buy interest others own (if they do) and thereby earn a profit of that interest?
+      <br/>
+      <br/>
+      Will the costs to market a proposed project, including answering questions and drumming up support, setting up a way to vote, counting and certifying the vote etc included in the cost? What if it doesn't pass do donors lose that money?
+      <br/>
+      <br/>
+      Back to the apartments. We have argued this before but I am still of the opinion that your acceptance of citizenship is by choice and with that comes certain obligations. One of which is taxes. You are free to go to any other country who will accept you just as you can go to any apartment within a city. The landlord or government says this is what I charge and these are the rules take it or leave it.
+      <br/>
+      <br/>
+      Your problem is not with taxes since you acknowledge the population does have to pay for these things it uses. Your problem is that someone somewhere is telling you what you will pay for and how much you are going to pay for it. In other words you probably have a problem with authority in almost any form. A volitional society is not going to make that go away. There will still need to be people in charge and they are still going to make stupid choices that negatively impact a large number of people.
+      <br/>
+      <br/>
+      The solution is to make government more accountable and for people to participate in their government like it was important. That includes being aware of what their Representative are doing and how it will effect them. The government we have works great on paper and if we can make it closer to that model in real life things would be much more to everybody's liking.
+     </blockquote>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436422" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436422" id="qrwq_436422" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436422" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436444">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-08-2011,
+     <span class="time">
+      12:12 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436444#post436444" name="post436444">
+     #13
+    </a>
+    <a id="postcount436444" name="13">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo">
+   <div class="contact">
+    <a class="postuseravatarlink" href="member.php?u=17044&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Xcaliber is offline">
+     <img alt="Xcaliber's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=17044&amp;dateline=1293575877"/>
+    </a>
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=17044&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Xcaliber is offline">
+       <strong>
+        Xcaliber
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=17044&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=17044&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Xcaliber is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Godless Heathen
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Aug 2010
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      3,021
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436444">
+     <blockquote class="postcontent restore">
+      In order for Utopian Paradise to work every single human within that society would have to be cut from the same "moral" cloth, so to speak. Everyone would have to agree with the ridiculous claim that taxes are Immoral. Everyone would have to agree to Pay something or risk being left out of this society. Taxes are a necessary part of existing within a society which is overseen by an elected governing body.
+      <br/>
+      <br/>
+      Taxes are not Immoral...
+      <br/>
+      <br/>
+      Utopian Paradise is not Possible in reality..
+      <br/>
+      <br/>
+      Case closed.
+      <img alt="" border="0" class="inlineimg" src="images/smilies/xhoho.gif" title="xhoho"/>
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     "You're too stupid to be saved." -- EasyRider.
+     <br/>
+     <br/>
+     <br/>
+     "Is God willing to prevent evil, but not able? Then he is not omnipotent.
+     <br/>
+     Is he able, but not willing? Then he is malevolent.
+     <br/>
+     Is he both able and willing? Then whence cometh evil?
+     <br/>
+     Is he neither able nor willing? Then why call him God?"
+     <br/>
+     Epicurus
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436444" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436444" id="qrwq_436444" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436444" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436453">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-08-2011,
+     <span class="time">
+      04:38 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436453#post436453" name="post436453">
+     #14
+    </a>
+    <a id="postcount436453" name="14">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo_noavatar">
+   <div class="contact">
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Freedom is offline">
+       <strong>
+        Freedom
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=16261&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=16261&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Freedom is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Registered User
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Feb 2010
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      4,414
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436453">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Using your apartment analogy and some of your other posts, we can agree that you accept that society in order to run efficiently would need a government of some sort or people elected to maintain and oversee services and projects voted and agreed to by the people. Lets call those people Mayors, Representative, Governors, Council Members and Supervisors similar to what currently exists now.
+         </div>
+        </div>
+       </div>
+      </div>
+      I described by implication (partially explicit) what I think an efficient yet moral government would look like in
+      <a href="http://www.4forums.com/political/gay-rights-debates/15496-california-governor-signs-bill-requiring-schools-teach-gay-history-11.html#post435800" target="_blank">
+       here
+      </a>
+      . I refer to the branch of government which implements government action bills the executive branch. They are a group of elected officials with no power to initiate programs or actions, or to fund them; but with the responsibility of carrying them out. This completely isolates them from the kind of corruption that is possible now, although nothing will solve fraudulent behavior entirely the need for the much lauded check and balance is non-existent here.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          I assume these people will have a certain degree of latitude to perform their duties and address issues as they arise without having to go to the people every time something happens.
+         </div>
+        </div>
+       </div>
+      </div>
+      Any latitude they have will be in the context of the authority granted them by the charter of specific bills. Further as a template the executive branch should be establishing organizations and assuring that they accomplish their mandates, which is not the same as running them by far. i.e. a government action bill (public vote and funding) can establish the EPA, give any degree of latitude to some internal EPA hierarchy or give the executive branch wide power over it (the former is more proper to the system) in either case the authority could not exceed the scope of the bills authority. Any government action is primarily limited by it's funding, issues about regulation and such would be a matter of rights and thus should be addressed as laws not government actions.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          I also assume that they will have people to assist them as some of these projects can be large and take a very long time to complete again similar to what currently exists.
+         </div>
+        </div>
+       </div>
+      </div>
+      They are the 'assistants' (of the people), and I remind readers that by the people I do not mean a platitude but an efficient computerized public voting system.
+      <br/>
+      <br/>
+      The internal flow of the executive branch should be fluid for the most part. i.e. positions should be created as needed as an internal matter, but yes there will be a difference between elected leaders of the executive branch and the non-elected employees of the executive branch. Namely the buck stops at the former.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          So far the two have more in common than they do different, but lets look at the money. Where it comes from on the one hand is from everybody regardless of whether they use all of the things that it is used to build or maintain. This is due to
+          <b>
+           the belief that the cost will be less and the benefits will be greater
+          </b>
+          and makes for a more streamlined process.
+         </div>
+        </div>
+       </div>
+      </div>
+      I assume this option refers to our current predicament. If the bolded belief is truly there then there is no need to maintain by military force such a circumstance, and it will stabilize to such a state even with the freedom to do otherwise.
+      <br/>
+      <br/>
+      My comment on the actual difference in efficiency is that there is none, I don't believe the source of the funds has anything to do with how efficiently they are used. I think if Microsoft paid for the LA police department it would work just as well with those funds as if they were paid with tax money.
+      <br/>
+      <br/>
+      My comment on the 'streamline-ness' of the process is that while book keeping would be a more serious practical issue in times before this, with modern relational databases that is a mute point. Further that even if the technology didn't exist the scale and accuracy of non-computerized record keeping is sufficient, consider the complexity and magnitude of the IRS; a seemingly endless tax code which thousands of agents ponder the whole year around and try to enforce on 300,000,000 people. If this can be done, recording who has promised to pay what can be done, perhaps easier.
+      <br/>
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          The alternative is only things that people want at the time are implemented and only by those who want them.
+         </div>
+        </div>
+       </div>
+      </div>
+      I would like to point out that the former is a supposed premise of any democracy, and that anyone who would contrast that with the current system is only pointing out how the current system fails to be democratic.
+      <br/>
+      <br/>
+      The latter is novel, and the crucial element in making a system moral.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          That will make everything more expensive and take longer to implement.
+         </div>
+        </div>
+       </div>
+      </div>
+      Why? Sure if people are fickle it could lead to the failure of a project, but that is why a project should
+      <i>
+       project
+      </i>
+      it's costs and secure them before starting.
+      <br/>
+      <br/>
+      A contractor is not going to build slower because everyone paying for the work did so volitionally, if anything since such a system would necessarily raise awareness of government activities people will be much more keen on the progress of specific actions, and thus oversight will be greater.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          It is unclear how the use will be restricted to those who paid or how people who move into an area or move out of an area will be effected.
+         </div>
+        </div>
+       </div>
+      </div>
+      Whether or not the actions benefits are public will depend (again) on the bill that establishes it. What it is not possible or reasonable to restrict should not be, but what is should be.
+      <br/>
+      <br/>
+      A road can be tolled, but a police department cannot only protect 85% of the population, a criminal is a danger to all and by protecting one man they protect all.
+      <br/>
+      <br/>
+      If a person leaves an area for another they lose the investment they made to that place and gain from the work that others in their new home have already done. This is the way of free movement and hardly particular to a volitional society.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Does their interest become something that can be willed or sold? Can someone buy interest others own (if they do) and thereby earn a profit of that interest?
+         </div>
+        </div>
+       </div>
+      </div>
+      Could you clarify, what do you mean interest?
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Will the costs to market a proposed project, including answering questions and drumming up support, setting up a way to vote, counting and certifying the vote etc included in the cost?
+         </div>
+        </div>
+       </div>
+      </div>
+      One at a time:
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          market a proposed project
+         </div>
+        </div>
+       </div>
+      </div>
+      The computer system will have a UI to find and propose bills. I can't tell you who will propose most bills, but I can tell you anyone who has paid for the system has a right to. I predict that among the passed bills the majority will originate from organizations designed to keep up with whats needed. i.e. the EPA proposes a bill to clean an oil spill, or a transportation administration proposes a new highway. Users of the system will no doubt be able to subscribe to certain proposition fronts much like in this very website one can subscribe to a thread, they could be alerted when that organization wants their funding on a bill or they could even have the system automatically accept such requests within a range. Thus if the system is engineered correctly marketing won't be 'necessary' to get something done.
+      <br/>
+      <br/>
+      For an individual his only chance of getting real support is word of mouth and in the system searchers finding the idea excellent. The system could easily provide a website front which mirrors the data in the system and thus make all proposals available to online search engines, and makes them linkable.
+      <br/>
+      <br/>
+      All that said, if someone or something (a company not a slimy monster
+      <img alt="" border="0" class="inlineimg" src="images/smilies/tongue.gif" title="Stick Out Tongue"/>
+      ) wants to propose a bill and wants to advertise for it because it's important to them they would of course have every right to do that.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          including answering questions and drumming up support
+         </div>
+        </div>
+       </div>
+      </div>
+      The answering of questions and indeed the very quality of the proposal will be as varied as those who can propose them (extremely). If john doe in suburbia proposes a bill, he is unlikely to be able to answer twenty thousand questions; the food and drug administration would be able to.
+      <br/>
+      <br/>
+      As an idea gains momentum in the system and in society it could be expanded and modified; certainly with expert advice and projections being added. Again this barrier is only one of proper UI to make a popular variation of the bill known.
+      <br/>
+      <br/>
+      I do believe the system would benefit greatly from registering the expertise of users, with verification of credentials the system could collect and display demographics on expert opinions on a bill as opposed to just blind public support.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          setting up a way to vote, counting and certifying the vote etc
+         </div>
+        </div>
+       </div>
+      </div>
+      The way to vote (at least in my ideal volitional society) is as mentioned a computer system which does not need any extra attention to handle the voting for a bill or counting and verifying the vote. The only way to cheat the system would be to provide false biometrics and passwords. Since the system includes the ability to commit funds it would need to be as secure at least as other funding methods such as credit cards.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          included in the cost?
+         </div>
+        </div>
+       </div>
+      </div>
+      What a bill pays for is specified by the bill, it could explicitly note that it is paying for marketing and answering questions or it could just say the funds are being used by such and such organization to accomplish such and such goal, the only legally binding part would be the such and such goal.
+      <br/>
+      <br/>
+      Analysis by experts would be a necessity for most every bill, that would have to be paid for before the bill passes by an auxiliary 'research into bill X' bill, or a general organization with subscribed payments in the executive branch could be responsible for researching bills that gain a certain level of support, although this opens the door to corruption if you are too loose about what should deserve attention and what shouldn't.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          What if it doesn't pass do donors lose that money?
+         </div>
+        </div>
+       </div>
+      </div>
+      Donors lose what money has been spent by equal shares per dollar (I can't see how it should be otherwise). Money that has not been spent is returned (or never collected).
+      <br/>
+      <br/>
+      When someone pledges support to a bill their money is not taken until the bill passes, but they do have a legal obligation to pay what they pledged. Much like a credit card payment does not actually remove the money when you use it, but simply checks to see if the payment could be made.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Back to the apartments. We have argued this before but I am still of the opinion that your acceptance of citizenship is by choice and with that comes certain obligations. One of which is taxes. You are free to go to any other country who will accept you just as you can go to any apartment within a city. The landlord or government says this is what I charge and these are the rules take it or leave it.
+         </div>
+        </div>
+       </div>
+      </div>
+      I remember the old argument, and forgive me but I will just repeat myself. The premise that living in a place is a choice between submission to the powers that be there and leaving is based on an unjustified and outdated feudal concept of sovereignty.
+      <br/>
+      <br/>
+      A nation is not like an apartment because a government does not own the nation, it may have built and maintained the society but it is it's own responsibility to keep those benefits away from 'outsiders'. If you want to continue the residence analogy it is like a landlord building a giant tent over a square kilometer, even while admitting that the houses under that tent do not belong to him. While simultaneously claiming that the houses being protected are not his property he begins to charge rent. Surely no one can deny that the tent prevents water damage and so benefits the houses below, but the residents below have every right to challenge the bill they are being sent because they never agreed to it.
+      <br/>
+      <br/>
+      When you try to get a room in an apartment building you sign your agreement to pay rent and follow the apartment rules, since the apartment was built by the apartment owner he has the right to keep you out until he promises to let you stay (the contract). Similarly a society, through it's government has the right to keep you from using it's constructs, or going on it's property; but it does not have the right to force you to leave anywhere it claims to protect nor does it have the right to force you not to interact with those who live around you.
+      <br/>
+      <br/>
+      I have said before and I stand by the statement that land is not property like a building or car can be property. It is not a human product but a human claim. A claim whose nature is easily seen by the absurdity of claiming other planets and stars. Or how France, England, and Spain claimed vast tracks of land which they had never explored and proceeded in some cases to sell that which they had never seen.
+      <br/>
+      <br/>
+      For example, to me, it is not the field that gives the farmer rights over it; but the crops on the field; the product of his effort.
+      <br/>
+      <br/>
+      One of the functions of government should be to establish a reasonable system of claims, but on a valid premise such as the one above.
+      <br/>
+      <br/>
+      I will use another imaginary scenario, we see in the US that some people think the idea of states under one federal government is a good idea because if one state 'goes bad' people will just move to a better state. Thus they imply that the states are competing for citizens, and that this will keep them good. To some extent this is true, but the unit of a state is arbitrary and as a moral standard unacceptable (it cannot be true that what is moral in this area is immoral in another). The truth is that this supposed mobility between states is just an excuse, if you live in California, and California begins to screw your life up and violate your rights; it is not all 'OK' because you can move to another state. They did not have a right to do what they did.
+      <br/>
+      <br/>
+      Let us imagine one state, a united earth. Suppose you didn't want to pay for some of the things that the rest of earth did. Suppose that for whatever reason the majority of earth's people think that everyone should pay 50% of their property and income every year for three hundred years until a thirty mile pyramid dedicated to all the major religions is completed at the fork of the Tigris and Euphrates.
+      <br/>
+      <br/>
+      Is citizen ship (which is essentially being a human without space travel) a choice now? Is it true that these pyramid building majority members own the earth itself to declare who may live on it and who may not?
+      <br/>
+      <br/>
+      I say no, it is not. It is a planet which they nor their ancestors nor anyone but the living embodiment of gravity has the right to claim as property.
+      <br/>
+      <br/>
+      Let's take one step down, there are two states on earth. You happened to be born in pyramid building land, is it true that they have a right to your income and property until you pack up for the other place?
+      <br/>
+      <br/>
+      Can you not see how arbitrary and weak this excuse is?
+      <br/>
+      <br/>
+      This claim of all land is without any basis but 'might makes right'. How would you respond if I said "I claim this planet as my country, anyone who does not want to live by my rules get out"? You would of course reject the notion, but what reason would you give? I would answer (to myself) "It is not us that need give the reason, by what right do you claim it?".
+      <br/>
+      <br/>
+      So that is what I want to ask you, by what right does your hypothetical closed society claim a vast track of the earth's surface? (I say hypothetical because we must never forget that these issues have never been put to a public vote, instead people have always been asked to vote for a representative to an existing system).
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Your problem is not with taxes since you acknowledge the population does have to pay for these things it uses.
+         </div>
+        </div>
+       </div>
+      </div>
+      Yes my problem is with taxes, because a tax is not merely a populations attempt to pay for something. It is the removal by force (if necessary) of wealth irregardless of consent.
+      <br/>
+      <br/>
+      To morality all the rest of that about society, the greater good, populations, government; it's all just blurry and irrelavant. To morality the 'irregardless of consent' damns it as evil.
+      <br/>
+      <br/>
+      Thus to me, my problem has never been and will never be paying for a government or a society; just theft.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Your problem is that someone somewhere is telling you what you will pay for and how much you are going to pay for it.
+         </div>
+        </div>
+       </div>
+      </div>
+      Your problem with a mugger is that someone somewhere is using your money to pay for what they want.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          In other words you probably have a problem with authority in almost any form.
+         </div>
+        </div>
+       </div>
+      </div>
+      You're right I do. A person is an authority over themselves and their product, everything else is the utilization of nature or a privilege granted of the volition of others.
+      <br/>
+      <br/>
+      I do not believe in a being higher than the human mind and the human mind is a property of the individual.
+      <br/>
+      <br/>
+      Thus all that can be in honesty called authority is and only can be the extension of individual human minds. The authority of a government is merely the sum of the authorities of the citizens, and no citizen has a right to violate the rights of others. Therefore the government has no right to violate the rights of others. A sum of zeros is zero.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          A volitional society is not going to make that go away.
+         </div>
+        </div>
+       </div>
+      </div>
+      You're most correct; it's because of what I believe now that I know a volitional society is the only moral one, it's existence will hardly reverse my beliefs then.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          There will still need to be people in charge and they are still going to make stupid choices that negatively impact a large number of people.
+         </div>
+        </div>
+       </div>
+      </div>
+      Of course, but a mistake; or even outright stupidity is not a moral problem. Theft is.
+      <br/>
+      <br/>
+      If you are robbed, the problem is not that the robber bought drugs instead of decent clothes so he could get a job. It's that you were robbed.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          The solution is to make government more accountable and for people to participate in their government like it was important.
+         </div>
+        </div>
+       </div>
+      </div>
+      The solution to the problem of no one feeling responsible for what a society is doing. Not a solution to the problem of a society violating the rights of human beings.
+      <br/>
+      <br/>
+      I have talked about a 'good' solution to the former above, the people system. It often my fear that by intermingling the solutions to these two separate problems in my responses, that I somehow link the problems, even imply they are one.
+      <br/>
+      <br/>
+      That is why I have tried desperately to argue about ethics, philosophy, and rights separately, without polluting that reasoning with my thoughts on good government. So that people could see that it is greater and fully independent of our possible solutions.
+      <br/>
+      <br/>
+      As a final analogy it is like saying that the law of gravitation exists independent of our ability to utilize it in rocket travel. If we cannot utilize it (form a moral society) then we fail, it does not disappear.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          That includes being aware of what their Representative are doing and how it will effect them.
+         </div>
+        </div>
+       </div>
+      </div>
+      What better way to do that then representing yourself?
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           pappillion001
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436422#post436422" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          The government we have works great on paper and if we can make it closer to that model in real life things would be much more to everybody's liking.
+         </div>
+        </div>
+       </div>
+      </div>
+      There we must disagree again. I think the U.S. government has worked as well as it could given it's constraints and founding documents. Indeed compared to other nations it has proven itself strong, but that does not mean it cannot be improved upon, or even like the parliament of great britain and the magna carta provide a starting point for a new vision of government.
+      <br/>
+      <br/>
+      While it is possible that it could be modified to create a volitional society, it shall never have been designed from the start with that in mind. Don't get me wrong, this does not mean we can't have a peaceful transition between government types as their are provisions for changing the constitution.
+      <br/>
+      <br/>
+      I am just saying that by the time that it is a government dedicated to moral integrity and not just neutral to the same most would agree that it has basicaly been 'rewritten'.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Xcaliber
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436444#post436444" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          In order for Utopian Paradise to work every single human within that society would have to be cut from the same "moral" cloth, so to speak. Everyone would have to agree with the ridiculous claim that taxes are Immoral.
+         </div>
+        </div>
+       </div>
+      </div>
+      Perhaps in order for utopian paradise to exist, but not for a volitonal society.
+      <br/>
+      <br/>
+      In our society not everyone agrees that it is wrong to murder, steal, rape, and defraud others. That does not mean the society accepts these beleifs as valid. These people are called criminals. In a volitional society some may believe they have the right to steal for a greater good (tax), but if they ever acted on their beliefs they would be criminals.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Xcaliber
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436444#post436444" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Everyone would have to agree to Pay something or risk being left out of this society.
+         </div>
+        </div>
+       </div>
+      </div>
+      You may have the caveman insticnt to throw anyone who doesn't help you pay for everything you want to pay for out of your society; I do not.
+      <br/>
+      <br/>
+      I do not have a right to force someone out of society, nor do I have the inclination just because they value different things than me.
+      <br/>
+      <br/>
+      Everyone would not have to pay for everything, that is the fallacy which you to date have not established yet continue to rely on. Only enough people to pay for something need to pay for it for it to operate. You yourself have mentioned the fact that in the U.S.A many people do not pay taxes. If this is true (it is) then by your own admission everyone does not have to pay for societies laws or actions for them to 'work', voluntarily or otherwise.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Xcaliber
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436444#post436444" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Taxes are a necessary part of existing within a society which is overseen by an elected governing body.
+         </div>
+        </div>
+       </div>
+      </div>
+      Prove it.
+      <br/>
+      <br/>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Xcaliber
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436444#post436444" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Taxes are not Immoral...
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Freedom
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=435866#post435866" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Taxation is immoral,
+          <a href="http://www.4forums.com/political/formal-open-debate/14447-society-based-volition-ideal-one.html" target="_blank">
+           this
+          </a>
+          is why.
+          <br/>
+          <br/>
+          If you do not wish to argue,
+          <b>
+           don't respond
+          </b>
+          . Response will be taken as a wish to engage in debate.
+         </div>
+        </div>
+       </div>
+      </div>
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     Morals are a religious Myth.. - Xcaliber
+     <br/>
+     How is Evil Immoral? - Xcaliber
+     <br/>
+     I am right until you prove otherwise - Xcaliber
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436453" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436453" id="qrwq_436453" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436453" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<li class="postbit postbitim postcontainer old" id="post_436462">
+ <div class="postdetails_noavatar">
+  <div class="posthead">
+   <span class="postdate old">
+    <span class="date">
+     08-08-2011,
+     <span class="time">
+      07:39 AM
+     </span>
+    </span>
+   </span>
+   <span class="nodecontrols">
+    <a class="postcounter" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436462#post436462" name="post436462">
+     #15
+    </a>
+    <a id="postcount436462" name="15">
+    </a>
+   </span>
+  </div>
+  <div class="userinfo">
+   <div class="contact">
+    <a class="postuseravatarlink" href="member.php?u=17044&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Xcaliber is offline">
+     <img alt="Xcaliber's Avatar" src="image.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;u=17044&amp;dateline=1293575877"/>
+    </a>
+    <div class="username_container">
+     <div class="popupmenu memberaction">
+      <a class="username offline popupctrl" href="member.php?u=17044&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Xcaliber is offline">
+       <strong>
+        Xcaliber
+       </strong>
+      </a>
+      <ul class="popupbody popuphover memberaction_body">
+       <li class="left">
+        <a class="siteicon_profile" href="member.php?u=17044&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+         View Profile
+        </a>
+       </li>
+       <li class="right">
+        <a class="siteicon_forum" href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=finduser&amp;userid=17044&amp;contenttype=vBForum_Post&amp;showposts=1" rel="nofollow">
+         View Forum Posts
+        </a>
+       </li>
+      </ul>
+     </div>
+     <img alt="Xcaliber is offline" border="0" class="inlineimg onlinestatus" src="images/statusicon/user-offline.png"/>
+     <span class="usertitle">
+      Godless Heathen
+     </span>
+     <div class="imlinks">
+     </div>
+    </div>
+   </div>
+   <div class="userinfo_extra">
+    <dl class="userstats">
+     <dt>
+      Join Date
+     </dt>
+     <dd>
+      Aug 2010
+     </dd>
+     <dt>
+      Posts
+     </dt>
+     <dd>
+      3,021
+     </dd>
+    </dl>
+   </div>
+  </div>
+ </div>
+ <div class="postbody">
+  <div class="postrow">
+   <div class="content">
+    <div id="post_message_436462">
+     <blockquote class="postcontent restore">
+      <div class="bbcode_container">
+       <div class="bbcode_quote">
+        <div class="quote_container">
+         <div class="bbcode_quote_container">
+         </div>
+         <div class="bbcode_postedby">
+          <img alt="Quote" src="images/misc/quote_icon.png"/>
+          Originally Posted by
+          <strong>
+           Freedom
+          </strong>
+          <a href="showthread.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;p=436453#post436453" rel="nofollow">
+           <img alt="View Post" class="inlineimg" src="images/buttons/viewpost-right.png"/>
+          </a>
+         </div>
+         <div class="message">
+          Prove it.
+         </div>
+        </div>
+       </div>
+      </div>
+      roflmao...
+      <br/>
+      <br/>
+      Considering the current state of affairs in the U.S. and other economies around the world I'm afraid it's being proven right before your eyes, you just fail to see it through the cloud of delusion you are in.
+     </blockquote>
+    </div>
+   </div>
+   <blockquote class="signature restore">
+    <div class="signaturecontainer">
+     "You're too stupid to be saved." -- EasyRider.
+     <br/>
+     <br/>
+     <br/>
+     "Is God willing to prevent evil, but not able? Then he is not omnipotent.
+     <br/>
+     Is he able, but not willing? Then he is malevolent.
+     <br/>
+     Is he both able and willing? Then whence cometh evil?
+     <br/>
+     Is he neither able nor willing? Then why call him God?"
+     <br/>
+     Epicurus
+    </div>
+   </blockquote>
+  </div>
+ </div>
+ <div class="postfoot">
+  <div class="textcontrols floatcontainer">
+   <span class="postcontrols">
+    <img alt="" id="progress_436462" src="images/misc/progress.gif" style="display:none"/>
+    <a class="newreply" href="newreply.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=newreply&amp;p=436462" id="qrwq_436462" rel="nofollow" title="Reply With Quote">
+     <img alt="Reply With Quote" id="quoteimg_436462" src="clear.gif"/>
+     Reply With Quote
+    </a>
+   </span>
+   <span class="postlinking">
+   </span>
+  </div>
+ </div>
+ <hr/>
+</li>
+<div class="separator">
+</div>
+<div class="postlistfoot">
+</div>
+<div class="noinlinemod below_postlist" id="below_postlist">
+ <div class="pagination_bottom" id="pagination_bottom">
+  <form action="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" class="pagination popupmenu nohovermenu" method="get">
+   <input name="t" type="hidden" value="15541"/>
+   <input name="s" type="hidden" value="4b1cbcd9456fd8062f54adeb722c2736"/>
+   <span>
+    <a class="popupctrl" href="javascript://">
+     Page 1 of 2
+    </a>
+   </span>
+   <span class="selected">
+    <a href="javascript://" title="Results 1 to 15 of 22">
+     1
+    </a>
+   </span>
+   <span>
+    <a href="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Show results 16 to 22 of 22">
+     2
+    </a>
+   </span>
+   <span class="prev_next">
+    <a href="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" rel="next" title="Next Page - Results 16 to 22 of 22">
+     <img alt="Next" src="images/pagination/next-right.png"/>
+    </a>
+   </span>
+   <span class="first_last">
+    <a href="showthread.php?t=15541&amp;page=2&amp;s=4b1cbcd9456fd8062f54adeb722c2736" title="Last Page - Results 16 to 22 of 22">
+     Last
+     <img alt="Last" src="images/pagination/last-right.png"/>
+    </a>
+   </span>
+   <ul class="popupbody popuphover">
+    <li class="formsubmit jumptopage">
+     <label>
+      Jump to page:
+      <input name="page" size="4" type="text"/>
+     </label>
+     <input class="button" type="submit" value="Go"/>
+    </li>
+   </ul>
+  </form>
+  <div class="clear">
+  </div>
+  <div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+   <span class="shade">
+    Quick Navigation
+   </span>
+   <a class="popupctrl" href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+    <span class="ctrlcontainer">
+     Government Debates
+    </span>
+   </a>
+   <a class="textcontrol" href="showthread.php?t=15541#top" onclick="document.location.hash='top';return false;">
+    Top
+   </a>
+   <ul class="navpopupbody popupbody popuphover">
+    <li class="optionlabel">
+     Site Areas
+    </li>
+    <li>
+     <a href="usercp.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+      Settings
+     </a>
+    </li>
+    <li>
+     <a href="private.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+      Private Messages
+     </a>
+    </li>
+    <li>
+     <a href="subscription.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+      Subscriptions
+     </a>
+    </li>
+    <li>
+     <a href="online.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+      Who's Online
+     </a>
+    </li>
+    <li>
+     <a href="search.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+      Search Forums
+     </a>
+    </li>
+    <li>
+     <a href="forum.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+      Forums Home
+     </a>
+    </li>
+    <li class="optionlabel">
+     Forums
+    </li>
+    <li>
+     <a href="forumdisplay.php?f=3&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+      Getting Started
+     </a>
+     <ol class="d1">
+      <li>
+       <a href="forumdisplay.php?f=33&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Introductions
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=10&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Open Forum
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=36&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Polls Forum
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=9&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Suggestions
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=61&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Book Suggestions
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=62&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Web Site Suggestions
+         </a>
+        </li>
+       </ol>
+      </li>
+     </ol>
+    </li>
+    <li>
+     <a href="forumdisplay.php?f=79&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+      Latest News
+     </a>
+     <ol class="d1">
+      <li>
+       <a href="forumdisplay.php?f=37&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Latest Political News
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=80&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Lasting News Stories
+       </a>
+      </li>
+     </ol>
+    </li>
+    <li>
+     <a href="forumdisplay.php?f=6&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+      Topics
+     </a>
+     <ol class="d1">
+      <li>
+       <a href="forumdisplay.php?f=8&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Abortion Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=77&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Challengers Corner
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=18&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Civil Rights Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=11&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Creation(Intelligent Design) vs Evolution
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=12&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Crime Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=13&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Current Events Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=54&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Economics Debates
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=56&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Economic Advice
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=57&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Policy Ideas
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=30&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Social Security Debates
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=55&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Stock Market
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=31&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Tax Debates
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=15&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Education Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=75&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Elections Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=16&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Entertainment Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=17&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Environmental Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=50&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        European politics/Economics
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=51&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          EU
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=52&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Foreign affairs
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=19&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Fun Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=20&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Gay Rights Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=21&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        General
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=63&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Cooking
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=64&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Gardening
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=65&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Home Projects
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=41&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Parenting
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=66&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Tips for Life and Fun
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=22&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Government Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=23&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Gun Control Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=24&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Health Debates
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=40&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Mental Health
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=25&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        History Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=76&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Liars Corner
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=26&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Peace in the Middle East
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=34&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Philosophy Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=27&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Politics Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=28&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Religion Debates
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=38&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Biblical Contradictions
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=39&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Bible Doctrine
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=29&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Science and Math Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=32&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Society Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=59&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Sports Debates
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=46&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Technology
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=47&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Cameras
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=48&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Camcorders
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=42&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Cars and Trucks
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=43&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Cell phones
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=44&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Computers
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=68&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Game Machines
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=45&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Music players
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=49&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Televisions
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=69&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Works in Progress
+       </a>
+       <ol class="d2">
+        <li>
+         <a href="forumdisplay.php?f=71&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Art
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=72&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          High Tech Art
+         </a>
+        </li>
+        <li>
+         <a href="forumdisplay.php?f=70&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+          Writings
+         </a>
+        </li>
+       </ol>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=53&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Worldviews
+       </a>
+      </li>
+     </ol>
+    </li>
+    <li>
+     <a href="forumdisplay.php?f=60&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+      Formal Debates
+     </a>
+     <ol class="d1">
+      <li>
+       <a href="forumdisplay.php?f=35&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Debating Techniques and Styles
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=58&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Debate Challenges
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=14&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Debate Tournaments
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=67&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Ringside
+       </a>
+      </li>
+      <li>
+       <a href="forumdisplay.php?f=73&amp;s=4b1cbcd9456fd8062f54adeb722c2736">
+        Formal Open Debate
+       </a>
+      </li>
+     </ol>
+    </li>
+   </ul>
+  </div>
+  <div class="clear">
+  </div>
+ </div>
+</div>
+<!-- next / previous links -->
+<div class="navlinks">
+ <strong>
+  «
+ </strong>
+ <a href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextoldest" rel="nofollow">
+  Previous Thread
+ </a>
+ |
+ <a href="showthread.php?t=15541&amp;s=4b1cbcd9456fd8062f54adeb722c2736&amp;goto=nextnewest" rel="nofollow">
+  Next Thread
+ </a>
+ <strong>
+  »
+ </strong>
+</div>
+<!-- / next / previous links -->
+<div class="thread_info block" id="thread_info">
+ <div class="options_block_container">
+  <div class="options_block">
+   <h4 class="collapse blockhead options_correct">
+    <a class="collapse" href="showthread.php?t=15541#top" id="collapse_posting_rules">
+     <img alt="" src="images/buttons/collapse_40b.png"/>
+    </a>
+    Posting Permissions
+   </h4>
+   <div class="thread_info_block blockbody formcontrols floatcontainer options_correct" id="posting_rules">
+    <div class="info_subblock" id="forumrules">
+     <ul class="youcandoblock">
+      <li>
+       You
+       <strong>
+        may not
+       </strong>
+       post new threads
+      </li>
+      <li>
+       You
+       <strong>
+        may not
+       </strong>
+       post replies
+      </li>
+      <li>
+       You
+       <strong>
+        may not
+       </strong>
+       post attachments
+      </li>
+      <li>
+       You
+       <strong>
+        may not
+       </strong>
+       edit your posts
+      </li>
+      <li>
+      </li>
+     </ul>
+     <div class="bbcodeblock">
+      <ul>
+       <li>
+        <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode" target="_blank">
+         BB code
+        </a>
+        is
+        <strong>
+         On
+        </strong>
+       </li>
+       <li>
+        <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showsmilies" target="_blank">
+         Smilies
+        </a>
+        are
+        <strong>
+         On
+        </strong>
+       </li>
+       <li>
+        <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#imgcode" target="_blank">
+         [IMG]
+        </a>
+        code is
+        <strong>
+         Off
+        </strong>
+       </li>
+       <li>
+        <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=bbcode#videocode" target="_blank">
+         [VIDEO]
+        </a>
+        code is
+        <strong>
+         Off
+        </strong>
+       </li>
+       <li>
+        HTML code is
+        <strong>
+         Off
+        </strong>
+       </li>
+      </ul>
+     </div>
+     <p class="rules_link">
+      <a href="misc.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;do=showrules" target="_blank">
+       Forum Rules
+      </a>
+     </p>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+<div style="clear: left">
+ <div class="google_adsense_footer" style="width:728px; margin:0 auto; padding-top:1em">
+  <script type="text/javascript">
+   <!--
+google_ad_client = "ca-pub-3657173451154115";
+google_ad_host = "ca-host-pub-2606800903002383";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel = "";
+google_color_border = "";
+google_color_bg = "";
+google_color_link = "";
+google_color_text = "";
+google_color_url = "";
+google_ui_features = "rc:6";
+//-->
+  </script>
+  <script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+  </script>
+ </div>
+</div>
+<div class="floatcontainer footer" id="footer">
+ <form action="forum.php" class="footer_select" id="footer_select" method="get">
+  <select name="styleid" onchange="switch_id(this, 'style')">
+   <optgroup label="Quick Style Chooser">
+    <option class="hidden">
+    </option>
+   </optgroup>
+   <optgroup label=" Standard Styles">
+    <option class="" selected="selected" value="33">
+     -- vB4 Default Style
+    </option>
+   </optgroup>
+   <optgroup label=" Mobile Styles">
+    <option class="" value="34">
+     -- Default Mobile Style
+    </option>
+   </optgroup>
+  </select>
+ </form>
+ <ul class="footer_links" id="footer_links">
+  <li>
+   <a accesskey="9" href="mailto:support@4forums.com" rel="nofollow">
+    Contact Us
+   </a>
+  </li>
+  <li>
+   <a href="http://www.4forums.com/political/index.php">
+    www.4forums.com
+   </a>
+  </li>
+  <li>
+   <a href="archive/index.php?s=4b1cbcd9456fd8062f54adeb722c2736">
+    Archive
+   </a>
+  </li>
+  <li>
+   <a href="showthread.php?t=15541#top" onclick="document.location.hash='top'; return false;">
+    Top
+   </a>
+  </li>
+ </ul>
+ <script type="text/javascript">
+  <!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+ </script>
+</div>
+<!-- closing div for body_wrapper -->
+<div class="below_body">
+ <div class="shade footer_time" id="footer_time">
+  All times are GMT -5. The time now is
+  <span class="time">
+   12:25 PM
+  </span>
+  .
+ </div>
+ <div class="shade footer_copyright" id="footer_copyright">
+  <!-- Do not remove this copyright notice -->
+  Powered by
+  <a href="https://www.vbulletin.com" id="vbulletinlink">
+   vBulletin®
+  </a>
+  Version 4.2.2
+  <br/>
+  Copyright © 2014 vBulletin Solutions, Inc. All rights reserved.
+  <!-- Do not remove this copyright notice -->
+ </div>
+ <div class="shade footer_morecopyright" id="footer_morecopyright">
+  <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+  <img alt="" border="0" height="1" src="http://www.4forums.com/political/cron.php?s=4b1cbcd9456fd8062f54adeb722c2736&amp;rand=1393435518" width="1"/>
+  <!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+ </div>
+</div>
