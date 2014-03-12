@@ -270,9 +270,15 @@ class scrapetext:
 
 
 current_dir=os.getcwd()
-dirlist=current_dir + "\\" + "data\\"+ "Scrape_Links\\government-debates\\" 
+dirlist=current_dir + "\\" + "data\\"+ "Scrape_Links\\gay-rights-debates\\" 
 listfile=listdir(dirlist)
+countfileno=0
 for UrlFile in listfile:
+    #===========================================================================
+    # countfileno=countfileno+1
+    # if countfileno <  16:
+    #     continue
+    #===========================================================================
     lines=Fileoperation.Readtextfile(dirlist+UrlFile)  
     linefile=1     
     for line in lines:  

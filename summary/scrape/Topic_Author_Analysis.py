@@ -178,7 +178,7 @@ class Analysis:
 
 current_dir=os.getcwd()
 
-dirlist=current_dir + "\\" + "data\\"+ "Scrape_Links\\government-debates\\" 
+dirlist=current_dir + "\\" + "data\\"+ "Scrape_Links\\gay-rights-debates\\" 
 listfile=listdir(dirlist)
 writelist=list()
 writelistalldetails=list()

@@ -21,6 +21,7 @@ def write_csv(outputcsv, rowdicts, fieldnames):
             csv_writer = csv.DictWriter(outputfile, fieldnames, restval, extrasaction, dialect, quoting=csv.QUOTE_NONNUMERIC)
             csv_writer.writeheader()
             csv_writer.writerows(rowdicts) 
+            outputfile.close()
         except csv.Error :
                 print "csverror"
                 sys.exit(1)   
@@ -48,12 +49,14 @@ def combine(directory,topic,subtopic,no_offiles):
             print "error in combining files" 
             print inst  
             sys.exit(1)
-def writetextPairs(input_file,topic,subtopic):
+def writetextPairs(input_file,topic,subtopic,topiclist,Feature_vec):
     try:
         Textlist=list()
         Textlist.append("\n"+topic+"\n")
         Textlist.append(subtopic+"\n")
         rowlist = csv_wrapper.read_csv(input_file)
+        dialogcount=1
+        
         first=True
         row_by_id = defaultdict(list)
         for row_id in rowlist:
@@ -67,8 +70,10 @@ def writetextPairs(input_file,topic,subtopic):
             for row in rowlist:
             
                 if first:
+                    
                     count=1
                     sturn=1
+                    Textlistcsv=""
                     previousTurn=row["Dialog_Turn"]
                     S1Text=row["Quote_Text"]
                     S1Name=row["Quote_Author"]
@@ -80,11 +85,15 @@ def writetextPairs(input_file,topic,subtopic):
                     Textlist.append("\n______________________________________________________________________________________________________________________________________________________________________________\n")
                     Textlist.append("\n_____________________________________________________________________________________________________________________________________________________________________________\n")
                     Textlist.append(details)
-                    S=  "\nTurn No: "+ str(sturn)  +":  " +  "S1" + ": \n"+ S1Text +"\n"+ "Turn No: "+ str(sturn)  +":  "+ "S2" +":\n" + S2Text
+                    S=  " \\nTurn No: "+ str(sturn)  +":  " +  "S1" + ": \\n"+ S1Text +"\\n              "+ "      Turn No: "+ str(sturn)  +":  "+ "S2" +":\\n" + S2Text
+                    Scsv=  "TURN  NO: "+ str(sturn)  +":" +  "S1" + ": "+ S1Text +"              "+ "TURN NO: "+ str(sturn)  +":  "+ "S2" +":" + S2Text
                     Textlist.append(S)
+                    Textlistcsv=Textlistcsv + Scsv
                     first=False
                     count=count+2
                     sturn=sturn+1
+                    
+                   
                 
                 else:
                     NextTurn=row["Dialog_Turn"]
@@ -93,13 +102,16 @@ def writetextPairs(input_file,topic,subtopic):
                         S2Name=row["Response_Author"]
                         if count%2==0:
                             speaker="S2"
-                            S= "\nTurn No:  "+ str(sturn)  + ":  " + speaker +":\n" + S2Text
+                            S= "\\nTurn No:  "+ str(sturn)  + ":  " + speaker +":\\n" + S2Text
+                            Scsv= "TURN NO:  "+ str(sturn)  + ":  " + speaker +":" + S2Text
                             sturn=sturn+1
                         else:
                             speaker="S1"
                             S= "\nTurn No:  "+ str(sturn)  + ":  " + speaker +":\n" + S2Text
+                            Scsv= "TURN NO:  "+ str(sturn)  + ":  " + speaker +":" + S2Text
                         
                         Textlist.append(S)
+                        Textlistcsv =Textlistcsv + Scsv
                         count=count+1
                     else:
                         count=1
@@ -110,13 +122,20 @@ def writetextPairs(input_file,topic,subtopic):
                         S2Text=row["Response_Text"]
                         S2Name=row["Response_Author"]
                         sub_topic=row["Subtopic"]
+                        Feature_vec["dialog"+str(dialogcount)]=Textlistcsv
+                        dialogcount=dialogcount+1
                         details="\n"+S1Name+"  "+S2Name+ "  "+ sub_topic
-                      
-                        S= "\nTurn No: "+ str(sturn)  +":  " +"S1"+": \n"+S1Text +"\n"+ "Turn No:  "+ str(sturn) +": "+"S2" +":\n" + S2Text
+                        
+                        S= " \nTurn No: "+ str(sturn)  +":  " +"S1"+": \n"+S1Text +"\n"+ "Turn No:  "+ str(sturn) +": "+"S2" +":\n" + S2Text
+                        Scsv= "TURN NO: "+ str(sturn)  +":  " +"S1"+":"+S1Text +"   "+ "TURN NO:"+ str(sturn) +": "+"S2" +": " + S2Text
                         Textlist.append("\n________________________________________________________________________________________________________________________________________________________________________\n")
                         Textlist.append("\n____________________________________________________________________________________________________________________________________________________________________________\n")
                         Textlist.append(details)
                         Textlist.append(S)
+                        
+                        #Textlist=list()
+                        Textlistcsv=""
+                        Textlistcsv =Textlistcsv + Scsv
                         count=count+2   
                         sturn=sturn+1
                     
@@ -172,7 +191,7 @@ def Findstringsbetween2delimiter():
                 if start:
                     output.append(line.rstrip("\n"))
        
-        outputfile=current_dir + "\\" + "data\\"+ topic+"\\" + topic+"manualdialog.txt"
+        outputfile=current_dir + "\\" + "data_old\\"+ topic+"\\" + topic+"manualdialog.txt"
         WriteTextFile(outputfile,output)
     except Exception as inst: 
         print inst    
@@ -181,12 +200,22 @@ def Findstringsbetween2delimiter():
   
 def pair():
     try:
-        topic ="government-debates"
+        topic ="gay-rights-debates"
         subtopic="all"
         current_dir=os.getcwd()
-        infile=current_dir+"\\data\\"+ topic+"\\"+ topic + "allrows.csv"
-        textlist=writetextPairs(infile,topic, subtopic)
-        outpath=current_dir+"\\data\\"+ topic+ "\\"+topic+subtopic + "dialog.txt"
+        infile=current_dir+"\\data_old\\"+ topic+"\\"+ topic + "allrows.csv"
+        topiccsv=list()
+        Feature_vec=dict()
+        textlist=writetextPairs(infile,topic, subtopic,topiccsv,Feature_vec)
+        Mturklist=[]
+        Mturklist.append(Feature_vec)
+        keys=Feature_vec.keys()
+        fieldnames=keys
+        outpath=current_dir+"\\data_old\\"+ topic+ "\\"+topic+subtopic + "dialog.txt"
+        outpathMturk=current_dir+"\\data_old\\"+ topic+ "\\"+topic+subtopic + "Mturk"
+        write_csv(outpathMturk,Mturklist,fieldnames)
+        
+        
         WriteTextFile(outpath,textlist) 
     except Exception as inst:
         print inst
